@@ -30,17 +30,6 @@ def rfc2822_date(dt):
     return formatdate(dt.timestamp(), usegmt=True)
 
 
-def get_checkout_time(episodes_dir):
-    """Estimate git checkout time as the most common mtime among existing files."""
-    mtimes = []
-    for f in Path(episodes_dir).glob('s*e*.mp3'):
-        mtimes.append(int(os.path.getmtime(f)))
-    if not mtimes:
-        return 0
-    from collections import Counter
-    counter = Counter(mtimes)
-    return counter.most_common(1)[0][0]
-
 
 def load_manifest(episodes_dir):
     """Load episode metadata from episodes.yaml manifest."""
@@ -147,8 +136,6 @@ def build_feed(episodes_dir, config):
     manifest_path = os.path.join(episodes_dir, 'episodes.yaml')
     manifest = load_manifest(episodes_dir)
     existing_pubdates = load_existing_pubdates(xml_path)
-    checkout_time = get_checkout_time(episodes_dir)
-
     cdata_cache = {}
     for guid in existing_pubdates:
         cdata = extract_cdata_content(xml_path, guid)
@@ -184,17 +171,12 @@ def build_feed(episodes_dir, config):
 
         guid = ep_meta.get('guid', basename)
 
-        if mp3_path.exists():
-            mp3_mtime = int(os.path.getmtime(mp3_path))
-            if abs(mp3_mtime - checkout_time) < 2:
-                pub_date_str = existing_pubdates.get(guid,
-                    rfc2822_date(datetime.fromtimestamp(mp3_mtime, tz=timezone.utc)))
-            else:
-                pub_date_str = rfc2822_date(datetime.fromtimestamp(mp3_mtime, tz=timezone.utc))
+        if ep_meta.get('date'):
+            pub_date_str = rfc2822_date(datetime.fromisoformat(str(ep_meta['date'])).replace(tzinfo=timezone.utc))
         elif guid in existing_pubdates:
             pub_date_str = existing_pubdates[guid]
-        elif ep_meta.get('date'):
-            pub_date_str = rfc2822_date(datetime.fromisoformat(str(ep_meta['date'])).replace(tzinfo=timezone.utc))
+        elif mp3_path.exists():
+            pub_date_str = rfc2822_date(datetime.fromtimestamp(os.path.getmtime(mp3_path), tz=timezone.utc))
         else:
             pub_date_str = rfc2822_date(datetime.now(tz=timezone.utc))
 

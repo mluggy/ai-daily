@@ -15,7 +15,6 @@ from generate_feed import (
     rfc2822_date,
     load_existing_pubdates,
     load_manifest,
-    get_checkout_time,
 )
 from datetime import datetime, timezone
 
@@ -128,21 +127,6 @@ class TestLoadExistingPubdates:
         result = load_existing_pubdates("/nonexistent/rss.xml")
         assert result == {}
 
-
-class TestGetCheckoutTime:
-    def test_no_mp3_files(self):
-        with tempfile.TemporaryDirectory() as tmpdir:
-            assert get_checkout_time(tmpdir) == 0
-
-    def test_with_mp3_files(self):
-        with tempfile.TemporaryDirectory() as tmpdir:
-            # Create dummy mp3 files
-            for name in ["s1e1.mp3", "s1e2.mp3"]:
-                path = os.path.join(tmpdir, name)
-                with open(path, "w") as f:
-                    f.write("dummy")
-            result = get_checkout_time(tmpdir)
-            assert result > 0
 
 
 class TestFeedGeneration:
