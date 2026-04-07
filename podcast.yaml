@@ -44,6 +44,10 @@ country: US
 # Shown in the site footer and RSS <copyright> tag.
 copyright: CC BY 4.0
 
+# Content license for the podcast (e.g. "CC-BY-4.0", "All rights reserved").
+# Appears in the RSS <podcast:license> tag. Leave empty to omit.
+license: ""
+
 # Apple Podcasts advisory - true marks the entire show as explicit.
 explicit: false
 
@@ -51,6 +55,14 @@ explicit: false
 # "episodic" (standalone episodes, newest first) or
 # "serial" (sequential, oldest first).
 itunes_type: episodic
+
+# Publisher name for the RSS <podcast:publisher> tag.
+# If empty, falls back to the author name above.
+publisher: ""
+
+# How often the feed is updated (e.g. "weekly", "daily", "biweekly").
+# Appears in the RSS <podcast:updateFrequency> tag. Leave empty to omit.
+update_frequency: ""
 
 # Permanent GUID for the podcast (Podcast Index / podcast:guid tag).
 # ⚠️  IMPORTANT - SET THIS BEFORE YOU PUBLISH. Leaving it empty omits the

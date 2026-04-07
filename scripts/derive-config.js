@@ -8,8 +8,12 @@ export function deriveConfig(raw) {
   const country = raw.country || "US";
   const langBase = lang.split("-")[0];
 
+  const coverPath = raw.cover || "/cover.png";
+  const cover_ext = /\.jpe?g$/i.test(coverPath) ? "jpg" : "png";
+
   return {
     ...raw,
+    cover_ext,
     share: raw.share || ["twitter", "linkedin", "copy"],
     default_speed: raw.default_speed ?? 1.2,
     default_cc: raw.default_cc ?? true,

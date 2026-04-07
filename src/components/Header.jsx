@@ -139,7 +139,7 @@ export default function Header({
           }}
         >
           <img
-            src="/icon-192.png"
+            src={`/icon-192.${config.cover_ext || "png"}`}
             alt={config.title}
             width={44}
             height={44}

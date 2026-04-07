@@ -97,18 +97,18 @@ export default function CookieConsent({ playing }) {
               fontSize: 14,
               fontFamily: "inherit",
               fontWeight: 500,
-              background: "var(--accent)",
+              background: "var(--accent-button)",
               color: "#fff",
-              border: "1px solid var(--accent)",
+              border: "1px solid var(--accent-button)",
               borderRadius: 6,
               cursor: "pointer",
               transition: "background 0.15s",
             }}
             onMouseEnter={(e) => {
-              e.currentTarget.style.background = "var(--accent-hover)";
+              e.currentTarget.style.background = "var(--accent)";
             }}
             onMouseLeave={(e) => {
-              e.currentTarget.style.background = "var(--accent)";
+              e.currentTarget.style.background = "var(--accent-button)";
             }}
           >
             {config.labels.cookie_accept || "Accept"}

@@ -132,6 +132,8 @@ def build_feed(episodes_dir, config):
     # Absolute URLs in the feed are filled in by the middleware at serve time
     # so the same artifact works on any hostname (production, preview, dev).
     site_url = '{{SITE_URL}}'
+    cover_path = config.get('cover', '/cover.png')
+    cover_ext = 'jpg' if cover_path.lower().endswith(('.jpg', '.jpeg')) else 'png'
     xml_path = os.path.join(episodes_dir, 'rss.xml')
     manifest_path = os.path.join(episodes_dir, 'episodes.yaml')
     manifest = load_manifest(episodes_dir)
@@ -206,7 +208,7 @@ def build_feed(episodes_dir, config):
             'link': f"{site_url}/{episode_num}",
             'enclosure_url': f"{site_url}/{basename}.mp3",
             'transcript_url': f"{site_url}/{basename}.srt",
-            'image_url': f"{site_url}/{basename}.png",
+            'image_url': f"{site_url}/{basename}.{cover_ext}",
             'cdata_content': cdata_cache.get(guid, ''),
             'has_srt': has_srt,
             'apple_id': ep_meta.get('apple_id'),
@@ -276,7 +278,7 @@ def write_feed(episodes_dir, episodes, last_build, config):
     lines.append(f'    <copyright>{escape_xml(config.get("copyright", author))}</copyright>')
     lines.append(f'    <language>{language}</language>')
     lines.append(f'    <itunes:author>{escape_xml(author)}</itunes:author>')
-    lines.append(f'    <itunes:summary>{escape_xml(description)}</itunes:summary>')
+    lines.append(f'    <itunes:summary>{escape_xml(title)}</itunes:summary>')
     lines.append(f'    <itunes:type>{itunes_type}</itunes:type>')
     lines.append('    <itunes:owner>')
     lines.append(f'      <itunes:name>{escape_xml(author)}</itunes:name>')
@@ -285,14 +287,18 @@ def write_feed(episodes_dir, episodes, last_build, config):
     lines.append(f'    <itunes:explicit>{"true" if explicit_default else "false"}</itunes:explicit>')
 
     for cat in config.get('itunes_categories', []):
-        if isinstance(cat, str):
-            lines.append(f'    <itunes:category text="{escape_xml(cat)}" />')
-        elif isinstance(cat, dict):
-            # { "Category": "Subcategory" } format
+        if isinstance(cat, dict):
             parent, sub = next(iter(cat.items()))
+        elif isinstance(cat, str) and ': ' in cat:
+            parent, sub = cat.split(': ', 1)
+        else:
+            parent, sub = (cat if isinstance(cat, str) else str(cat)), None
+        if sub:
             lines.append(f'    <itunes:category text="{escape_xml(parent)}">')
             lines.append(f'      <itunes:category text="{escape_xml(sub)}" />')
             lines.append('    </itunes:category>')
+        else:
+            lines.append(f'    <itunes:category text="{escape_xml(parent)}" />')
 
     lines.append(f'    <itunes:image href="{cover_url}" />')
     if podcast_guid:
@@ -305,6 +311,18 @@ def write_feed(episodes_dir, episodes, last_build, config):
     funding_text = config.get('labels', {}).get('funding', '')
     if funding_url:
         lines.append(f'    <podcast:funding url="{escape_xml(funding_url)}">{escape_xml(funding_text)}</podcast:funding>')
+
+    publisher = config.get('publisher', '') or author
+    if publisher:
+        lines.append(f'    <podcast:publisher>{escape_xml(publisher)}</podcast:publisher>')
+
+    update_frequency = config.get('update_frequency', '')
+    if update_frequency:
+        lines.append(f'    <podcast:updateFrequency>{escape_xml(update_frequency)}</podcast:updateFrequency>')
+
+    podcast_license = config.get('license', '')
+    if podcast_license:
+        lines.append(f'    <podcast:license>{escape_xml(podcast_license)}</podcast:license>')
 
     x_username = config.get('x_username', '')
     if x_username and author:
@@ -327,6 +345,8 @@ def write_feed(episodes_dir, episodes, last_build, config):
         lines.append(f'      <itunes:season>{ep["season"]}</itunes:season>')
         lines.append(f'      <itunes:episode>{ep["episode_num"]}</itunes:episode>')
         lines.append('      <itunes:episodeType>full</itunes:episodeType>')
+        if author:
+            lines.append(f'      <dc:creator>{escape_xml(author)}</dc:creator>')
         if ep['has_srt']:
             lines.append(f'      <podcast:transcript url="{ep["transcript_url"]}" type="application/x-subrip" rel="captions" language="{language}" />')
         if ep['cdata_content']:

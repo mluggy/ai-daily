@@ -4,7 +4,7 @@ import config from "./_config.js";
 
 const BOTS = /googlebot|google-inspectiontool|bingbot|yandex|baiduspider|twitterbot|facebookexternalhit|linkedinbot|slackbot-linkexpanding|discordbot|whatsapp|telegrambot|applebot|pinterestbot|semrushbot|ahrefsbot|mj12bot|dotbot|petalbot|bytespider|gptbot|chatgpt-user|oai-searchbot|anthropic-ai|claudebot|ccbot/i;
 
-const MEDIA_PATTERN = /\.(mp3|srt|png)$/i;
+const MEDIA_PATTERN = /\.(mp3|srt|png|jpg)$/i;
 
 const CONTENT_TYPES = {
   mp3: "audio/mpeg",
@@ -147,7 +147,7 @@ function buildJsonLd(episode, baseUrl) {
       "@type": "MediaObject",
       contentUrl: `${baseUrl}/${episode.audioFile}`,
     },
-    image: `${baseUrl}/s${episode.season}e${episode.id}.png`,
+    image: `${baseUrl}/s${episode.season}e${episode.id}.${config.cover_ext || "png"}`,
     sameAs: [
       episode.spotifyUrl || null,
       episode.appleUrl || null,
@@ -298,7 +298,7 @@ function renderPage(episode, request) {
     episode?.desc || config.description
   );
   const ogImage = episode
-    ? `${baseUrl}/s${episode.season}e${episode.id}.png`
+    ? `${baseUrl}/s${episode.season}e${episode.id}.${config.cover_ext || "png"}`
     : `${baseUrl}${config.cover}`;
   // Escape </ sequences to prevent </script> breakout in JSON-LD
   const jsonLd = JSON.stringify(buildJsonLd(episode, baseUrl)).replace(/</g, "\\u003c");

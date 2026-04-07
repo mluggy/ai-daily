@@ -212,9 +212,9 @@ function EpisodeRow({ ep, i, playing, isPlaying, onPlay, onSelect, newestEpisode
                   <span
                     style={{
                       fontSize: 10,
-                      fontWeight: 600,
+                      fontWeight: 700,
                       color: "#fff",
-                      background: "var(--green)",
+                      background: "var(--green-badge)",
                       padding: "1px 7px",
                       borderRadius: 6,
                       marginInlineStart: 6,

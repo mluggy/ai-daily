@@ -12,6 +12,8 @@
   --accent-bg: rgba(255, 77, 0, 0.08);
   --accent-bg2: rgba(255, 77, 0, 0.15);
   --green: #22c55e;
+  --green-badge: #15803d;
+  --accent-button: #cc3d00;
   --font-body: 'Noto Sans', sans-serif;
 }
 
@@ -40,6 +42,8 @@ html {
   --accent-bg: rgba(224, 68, 0, 0.06);
   --accent-bg2: rgba(224, 68, 0, 0.12);
   --green: #16a34a;
+  --green-badge: #15803d;
+  --accent-button: #b93800;
 }
 
 body {

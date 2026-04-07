@@ -37,6 +37,7 @@ function buildHeadTags(config) {
     `<meta name="theme-color" content="${themeColor}">`,
     `<link rel="canonical" href="{{SITE_URL}}/">`,
     `<link rel="manifest" href="/manifest.json">`,
+    `<link rel="preload" href="/episodes.json" as="fetch" crossorigin>`,
     `<link rel="apple-touch-icon" href="/apple-touch-icon.png">`,
     `<meta name="mobile-web-app-capable" content="yes">`,
     `<style nonce="{{CSP_NONCE}}">:root{--bg:${config.bg_dark||"#0a0a0b"}}[data-theme="light"]{--bg:${config.bg_light||"#fafaf9"}}body{background:var(--bg)}</style>`,
@@ -46,7 +47,7 @@ function buildHeadTags(config) {
     (() => {
       const fontBody = (config.font || "Noto Sans").replace(/ /g, "+");
       const fontUrl = `https://fonts.googleapis.com/css2?family=${fontBody}:wght@300;400;500;600;700&display=swap`;
-      return `<link rel="preload" as="style" href="${fontUrl}"><link rel="stylesheet" href="${fontUrl}" media="print" onload="this.media='all'">`;
+      return `<link rel="preload" as="style" href="${fontUrl}"><link rel="stylesheet" href="${fontUrl}" media="print" id="gfonts"><script nonce="{{CSP_NONCE}}">document.getElementById('gfonts').onload=function(){this.media='all'}</script>`;
     })(),
     `<meta property="og:title" content="${esc(config.title)}">`,
     `<meta property="og:description" content="${esc(config.description)}">`,
@@ -201,15 +202,15 @@ export default defineConfig({
               return;
             }
           }
-          // Episode media (sXeY.{mp3|srt|txt|png}) comes from episodes/.
+          // Episode media (sXeY.{mp3|srt|txt|png|jpg}) comes from episodes/.
           // Match only that pattern so unrelated static files fall through
           // to the public/ dir.
-          const isEpisodeMedia = req.url && /^\/s\d+e\d+\.(mp3|srt|txt|png)(\?|$)/.test(req.url);
+          const isEpisodeMedia = req.url && /^\/s\d+e\d+\.(mp3|srt|txt|png|jpg)(\?|$)/.test(req.url);
           if (isEpisodeMedia) {
             const filePath = path.resolve("episodes", decodeURIComponent(req.url.split("?")[0].slice(1)));
             if (fs.existsSync(filePath)) {
               const ext = path.extname(filePath);
-              const mimeMap = { ".mp3": "audio/mpeg", ".srt": "text/plain; charset=utf-8", ".txt": "text/plain; charset=utf-8", ".xml": "application/xml; charset=utf-8", ".png": "image/png" };
+              const mimeMap = { ".mp3": "audio/mpeg", ".srt": "text/plain; charset=utf-8", ".txt": "text/plain; charset=utf-8", ".xml": "application/xml; charset=utf-8", ".png": "image/png", ".jpg": "image/jpeg" };
               const mime = mimeMap[ext] || "application/octet-stream";
               const stat = fs.statSync(filePath);
               res.setHeader("Content-Type", mime);

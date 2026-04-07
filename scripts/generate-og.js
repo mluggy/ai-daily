@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "fs";
 import satori from "satori";
 import { Resvg } from "@resvg/resvg-js";
+import sharp from "sharp";
 import opentype from "opentype.js";
 import config from "./load-config.js";
 
@@ -258,79 +259,68 @@ async function renderPng(markup, width, height) {
 
 async function main() {
   // Per-episode OG images → episodes/sXeY.png (skip if already present)
+  const ext = config.cover_ext || "png";
   for (const ep of episodes) {
-    const filename = `s${ep.season}e${ep.id}.png`;
+    const filename = `s${ep.season}e${ep.id}.${ext}`;
     const outPath = `episodes/${filename}`;
     if (existsSync(outPath)) {
       console.log(`Skipped ${outPath} (exists)`);
       continue;
     }
     const png = await renderPng(buildMarkup(ep.title));
-    writeFileSync(outPath, png);
+    if (ext === "jpg") {
+      writeFileSync(outPath, await sharp(png).jpeg({ quality: 85 }).toBuffer());
+    } else {
+      writeFileSync(outPath, png);
+    }
     console.log(`Generated ${outPath}`);
   }
 
   // Homepage OG uses config.cover directly — no separate file needed
 
-  // Icons — generated from config.cover, only if missing on disk so user
-  // overrides are preserved. innerRatio controls the safe-zone: "maskable"
-  // variants keep the cover inside 60% of the canvas so Android's adaptive
-  // mask can crop freely; normal icons use 85%.
-  const iconMarkup = (size, innerRatio = 0.85) => ({
-    type: "div",
-    props: {
-      style: {
-        display: "flex",
-        width: "100%",
-        height: "100%",
-        alignItems: "center",
-        justifyContent: "center",
-        backgroundColor: config.bg_dark || "#0a0a0b",
-      },
-      children: [
-        {
-          type: "img",
-          props: {
-            src: coverDataUrl,
-            width: Math.round(size * innerRatio),
-            height: Math.round(size * innerRatio),
-            style: innerRatio >= 0.8
-              ? { borderRadius: `${Math.round(size * 0.15)}px` }
-              : {},
-          },
-        },
-      ],
-    },
-  });
+  // Icons — rendered directly via SVG <image> (bypasses Satori for sharper
+  // downsampling). innerRatio controls the safe-zone: "maskable" variants
+  // keep the cover inside 60% of the canvas so Android's adaptive mask can
+  // crop freely; normal icons use 85%.
+  function renderIcon(size, innerRatio = 0.85) {
+    const inner = Math.round(size * innerRatio);
+    const offset = Math.round((size - inner) / 2);
+    const radius = innerRatio >= 0.8 ? Math.round(size * 0.15) : 0;
+    const bg = config.bg_dark || "#0a0a0b";
+    const clip = radius
+      ? `<defs><clipPath id="r"><rect x="${offset}" y="${offset}" width="${inner}" height="${inner}" rx="${radius}"/></clipPath></defs>`
+      : "";
+    const clipAttr = radius ? ' clip-path="url(#r)"' : "";
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${size}" height="${size}">${clip}<rect width="${size}" height="${size}" fill="${bg}"/><image href="${coverDataUrl}" x="${offset}" y="${offset}" width="${inner}" height="${inner}" preserveAspectRatio="xMidYMid slice"${clipAttr}/></svg>`;
+    const resvg = new Resvg(svg, { fitTo: { mode: "width", value: size } });
+    return resvg.render().asPng();
+  }
 
-  // Icon set actually referenced by index.html + manifest.json.
-  // favicon.ico holds the 16/32/48 multi-res browser-tab icons, so separate
-  // PNG variants at those sizes are redundant.
   const icons = [
-    // Apple — iOS home screen (referenced via <link rel="apple-touch-icon">)
     { name: "public/apple-touch-icon.png", size: 180 },
-    // PWA / Android (referenced via manifest.json)
-    { name: "public/icon-192.png", size: 192 },
-    { name: "public/icon-512.png", size: 512 },
-    // Maskable adaptive Android icons (logo inside 60% safe zone)
-    { name: "public/icon-maskable-192.png", size: 192, innerRatio: 0.6 },
-    { name: "public/icon-maskable-512.png", size: 512, innerRatio: 0.6 },
+    { name: `public/icon-192.${ext}`, size: 192 },
+    { name: `public/icon-512.${ext}`, size: 512 },
+    { name: `public/icon-maskable-192.${ext}`, size: 192, innerRatio: 0.6 },
+    { name: `public/icon-maskable-512.${ext}`, size: 512, innerRatio: 0.6 },
   ];
   for (const { name, size, innerRatio } of icons) {
     if (existsSync(name)) {
       console.log(`Skipped ${name} (exists)`);
       continue;
     }
-    const png = await renderPng(iconMarkup(size, innerRatio), size, size);
-    writeFileSync(name, png);
+    const raw = renderIcon(size, innerRatio);
+    if (ext === "jpg" && !name.endsWith(".png")) {
+      writeFileSync(name, await sharp(raw).jpeg({ quality: 85 }).toBuffer());
+    } else {
+      writeFileSync(name, raw);
+    }
     console.log(`Generated ${name}`);
   }
 
   // favicon.ico — multi-resolution (16, 32, 48) PNG-embedded ICO
   if (!existsSync("public/favicon.ico")) {
     const sizes = [16, 32, 48];
-    const pngs = [];
-    for (const s of sizes) pngs.push(await renderPng(iconMarkup(s), s, s));
+    const pngs = sizes.map((s) => renderIcon(s));
     const header = Buffer.alloc(6);
     header.writeUInt16LE(0, 0);       // reserved
     header.writeUInt16LE(1, 2);       // type: icon
@@ -375,10 +365,10 @@ async function main() {
       dir: config.direction,
       lang: config.language,
       icons: [
-        { src: "/icon-192.png", sizes: "192x192", type: "image/png", purpose: "any" },
-        { src: "/icon-512.png", sizes: "512x512", type: "image/png", purpose: "any" },
-        { src: "/icon-maskable-192.png", sizes: "192x192", type: "image/png", purpose: "maskable" },
-        { src: "/icon-maskable-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
+        { src: `/icon-192.${ext}`, sizes: "192x192", type: `image/${ext === "jpg" ? "jpeg" : "png"}`, purpose: "any" },
+        { src: `/icon-512.${ext}`, sizes: "512x512", type: `image/${ext === "jpg" ? "jpeg" : "png"}`, purpose: "any" },
+        { src: `/icon-maskable-192.${ext}`, sizes: "192x192", type: `image/${ext === "jpg" ? "jpeg" : "png"}`, purpose: "maskable" },
+        { src: `/icon-maskable-512.${ext}`, sizes: "512x512", type: `image/${ext === "jpg" ? "jpeg" : "png"}`, purpose: "maskable" },
       ],
     }, null, 2) + "\n"
   );
