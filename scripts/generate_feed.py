@@ -276,7 +276,7 @@ def write_feed(episodes_dir, episodes, last_build, config):
     lines.append(f'    <copyright>{escape_xml(config.get("copyright", author))}</copyright>')
     lines.append(f'    <language>{language}</language>')
     lines.append(f'    <itunes:author>{escape_xml(author)}</itunes:author>')
-    lines.append(f'    <itunes:summary>{escape_xml(title)}</itunes:summary>')
+    lines.append(f'    <itunes:summary>{escape_xml(description)}</itunes:summary>')
     lines.append(f'    <itunes:type>{itunes_type}</itunes:type>')
     lines.append('    <itunes:owner>')
     lines.append(f'      <itunes:name>{escape_xml(author)}</itunes:name>')
