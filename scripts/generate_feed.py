@@ -274,7 +274,7 @@ def write_feed(episodes_dir, episodes, last_build, config):
     lines.append('    <generator>coil — https://github.com/mluggy/coil</generator>')
     lines.append(f'    <lastBuildDate>{last_build}</lastBuildDate>')
     lines.append(f'    <atom:link href="{site_url}/rss.xml" rel="self" type="application/rss+xml" />')
-    lines.append(f'    <author>{escape_xml(author)}</author>')
+    lines.append(f'    <managingEditor>{escape_xml(author)}</managingEditor>')
     lines.append(f'    <copyright>{escape_xml(config.get("copyright", author))}</copyright>')
     lines.append(f'    <language>{language}</language>')
     lines.append(f'    <itunes:author>{escape_xml(author)}</itunes:author>')
@@ -284,7 +284,7 @@ def write_feed(episodes_dir, episodes, last_build, config):
     lines.append(f'      <itunes:name>{escape_xml(author)}</itunes:name>')
     lines.append(f'      <itunes:email>{escape_xml(owner_email)}</itunes:email>')
     lines.append('    </itunes:owner>')
-    lines.append(f'    <itunes:explicit>{"true" if explicit_default else "false"}</itunes:explicit>')
+    lines.append(f'    <itunes:explicit>{"yes" if explicit_default else "no"}</itunes:explicit>')
 
     for cat in config.get('itunes_categories', []):
         if isinstance(cat, dict):
@@ -338,7 +338,7 @@ def write_feed(episodes_dir, episodes, last_build, config):
         lines.append(f'      <pubDate>{ep["pub_date"]}</pubDate>')
         lines.append(f'      <enclosure url="{ep["enclosure_url"]}" length="{ep["size_bytes"]}" type="audio/mpeg" />')
         lines.append(f'      <itunes:summary>{escape_xml(ep["description"])}</itunes:summary>')
-        explicit_str = 'true' if ep.get('explicit') else 'false'
+        explicit_str = 'yes' if ep.get('explicit') else 'no'
         lines.append(f'      <itunes:explicit>{explicit_str}</itunes:explicit>')
         lines.append(f'      <itunes:duration>{ep["duration_str"]}</itunes:duration>')
         lines.append(f'      <itunes:image href="{ep["image_url"]}" />')
