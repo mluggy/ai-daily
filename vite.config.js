@@ -169,7 +169,7 @@ export default defineConfig({
             const escaped = css.fileName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
             src = src.replace(
               new RegExp(`<link[^>]+href="/[^"]*${escaped}"[^>]*>`),
-              `<style>${css.source}</style>`,
+              `<style nonce="{{CSP_NONCE}}">${css.source}</style>`,
             );
             delete bundle[css.fileName];
           }
