@@ -154,11 +154,9 @@ function wrapTextToWidth(text, fontSize, maxWidth) {
   return DIR === "rtl" ? lines.map(reverseRtlKeepNumbers) : lines;
 }
 
-// Binary-search the largest font size such that after word-wrapping the title
-// fits inside width × height. Each candidate is validated against the real
-// per-glyph advances from the loaded TTF, so it is font-accurate.
-function autoFitText(text, width, height) {
-  const MIN = 16, MAX = 240;
+// Find the largest uniform font size whose word-wrap fits width × height.
+function uniformFitSize(text, width, height) {
+  const MIN = 16, MAX = Math.round(height * 0.8);
   let lo = MIN, hi = MAX, best = MIN, bestLines = [text];
   const fits = (size) => {
     const lines = wrapTextToWidth(text, size, width);
@@ -173,6 +171,30 @@ function autoFitText(text, width, height) {
     else { hi = mid - 1; }
   }
   return { fontSize: best, lines: bestLines };
+}
+
+// Poster-style layout: each line gets its own font size to fill the width,
+// then all sizes scale down proportionally if total height overflows.
+function posterFitText(text, width, height) {
+  // Use uniform fit to determine the best line breaks
+  const { lines } = uniformFitSize(text, width, height);
+  // For each line, find the font size that fills the width
+  const perLine = lines.map((line) => {
+    let lo = 16, hi = Math.round(height), best = 16;
+    while (lo <= hi) {
+      const mid = Math.floor((lo + hi) / 2);
+      if (measureText(line, mid) <= width) { best = mid; lo = mid + 1; }
+      else { hi = mid - 1; }
+    }
+    return { text: line, fontSize: best };
+  });
+  // Check if total height fits; if not, scale all sizes down proportionally
+  const totalH = perLine.reduce((s, l) => s + l.fontSize * LINE_HEIGHT, 0);
+  if (totalH > height) {
+    const scale = height / totalH;
+    for (const l of perLine) l.fontSize = Math.floor(l.fontSize * scale);
+  }
+  return perLine;
 }
 
 function buildMarkup(title) {
@@ -194,10 +216,16 @@ function buildMarkup(title) {
     },
   ];
 
-  // Episode title overlay
+  // Episode title overlay — each line sized independently (poster style)
   if (title) {
-    const { fontSize, lines } = autoFitText(title, TEXT_WIDTH, TEXT_HEIGHT);
-    const displayTitle = lines.join("\n");
+    const fitted = posterFitText(title, TEXT_WIDTH, TEXT_HEIGHT);
+    const lineChildren = fitted.map((l) => ({
+      type: "div",
+      props: {
+        style: { fontSize: l.fontSize, lineHeight: LINE_HEIGHT },
+        children: l.text,
+      },
+    }));
     children.push({
       type: "div",
       props: {
@@ -213,13 +241,10 @@ function buildMarkup(title) {
           justifyContent: ALIGN_MAP[TEXT_VALIGN] || "center",
           textAlign: resolvedAlign,
           color: TEXT_COLOR,
-          fontSize,
-          lineHeight: LINE_HEIGHT,
-          whiteSpace: "pre-wrap",
           direction: DIR,
           textShadow: "0 2px 12px rgba(0,0,0,0.8)",
         },
-        children: displayTitle,
+        children: lineChildren,
       },
     });
   }
