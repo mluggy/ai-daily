@@ -153,15 +153,17 @@ export default defineConfig({
       },
     },
     {
-      name: "inline-css",
+      name: "inline-css-and-preload-entry",
       apply(_config, { command }) { return command === "build"; },
       enforce: "post",
       generateBundle(_, bundle) {
         const cssAssets = [];
         const htmlFiles = [];
+        let entryJs = null;
         for (const [fileName, chunk] of Object.entries(bundle)) {
           if (fileName.endsWith(".css")) cssAssets.push({ fileName, source: chunk.source });
           if (fileName.endsWith(".html")) htmlFiles.push(chunk);
+          if (chunk.type === "chunk" && chunk.isEntry) entryJs = fileName;
         }
         for (const html of htmlFiles) {
           let src = html.source;
@@ -172,6 +174,11 @@ export default defineConfig({
               `<style nonce="{{CSP_NONCE}}">${css.source}</style>`,
             );
             delete bundle[css.fileName];
+          }
+          // Inject modulepreload for the entry JS so the browser fetches it
+          // immediately via the preload scanner, breaking the critical chain.
+          if (entryJs) {
+            src = src.replace("</head>", `  <link rel="modulepreload" href="/${entryJs}">\n  </head>`);
           }
           html.source = src;
         }
