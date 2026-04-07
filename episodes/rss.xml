@@ -10,13 +10,13 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 11:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 11:56:37 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <author>Your Name</author>
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
     <itunes:author>Your Name</itunes:author>
-    <itunes:summary>A podcast about interesting things</itunes:summary>
+    <itunes:summary>Your Podcast</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Your Name</itunes:name>
@@ -28,6 +28,7 @@
     <podcast:locked owner="you@example.com">yes</podcast:locked>
     <podcast:medium>podcast</podcast:medium>
     <podcast:funding url="https://github.com/sponsors/mluggy">Support this podcast</podcast:funding>
+    <podcast:publisher>Your Name</podcast:publisher>
     <item>
       <title>Episode 1: Welcome to coil</title>
       <description>This is a demo episode shipped with coil to show how things work. Replace it with your own content — drop a WAV file and push!</description>
@@ -42,6 +43,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Your Name</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s1e1.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
