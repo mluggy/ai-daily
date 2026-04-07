@@ -3,6 +3,7 @@ name: Coil Pipeline
 on:
   push:
     branches: ['*']
+  workflow_dispatch:
 
 permissions:
   contents: write
