@@ -4,22 +4,60 @@
 # Each key is the episode number (used as the episode ID and URL slug).
 # Required fields: season, title.
 # Optional: description, date, duration, size, guid, spotify_id, apple_id,
-#           youtube_id, amazon_id.
+#           youtube_id, amazon_id, cost.
 #
-# guid: Custom RSS GUID for this episode. If omitted, auto-generated as
-#   {podcast_guid first 8 chars}-s{season}e{episode}. Set this when migrating
-#   from another platform to preserve existing subscriber state.
-# date, duration, and size are auto-filled by the pipeline (from WAV
-#   conversion or from the MP3 itself). size is the MP3 byte length, used
-#   for the RSS <enclosure length> attribute.
-# Platform IDs enable deep-linking to the episode on each platform.
+# date, duration, and size are auto-filled by coil's pipeline.
+# cost (USD) is filled by daily_digest.py: Pass1 + Pass2 + TTS per episode.
 
 episodes:
   1:
-    duration: "00:20"
-    size: 363976
-    season: 1
-    title: Welcome to coil
-    description: >-
-      This is a demo episode shipped with coil to show how things work.
-      Replace it with your own content — drop a WAV file and push!
+    season: 2026
+    title: 'OpenAI Ads, Apple Choices, Meta Agents: May AI'
+    description: This episode examines OpenAI's self-serve ChatGPT advertising 
+      platform targeting billions in revenue, Apple's Extensions allowing 
+      third-party AI model selection in iOS 27, and Meta's agentic assistant 
+      with Instagram shopping integration, alongside Anthropic's Wall Street 
+      deployment venture and SpaceX compute deal plus stablecoin agent payments.
+    cost: 1.5652
+  2:
+    season: 2026
+    title: Pentagon AI Deals, Agent Hijacks & GPT Surprises
+    description: This episode covers the Pentagon's classified AI agreements 
+      with Nvidia, Microsoft and AWS; Google's warnings on hidden web commands 
+      hijacking AI agents; Meta's humanoid robotics acquisition; Oxford research
+      on overly friendly AI errors; and OpenAI's GPT-5.4 surpassing humans in 
+      autonomous tasks, plus related lawsuit updates.
+    cost: 1.7576
+  3:
+    season: 2026
+    title: US AI Tests, Agent Payments & Wall Street Agents
+    description: This episode covers US pre-release AI model testing agreements,
+      Anthropic's financial agents launch, and AWS-enabled autonomous agent 
+      payments, plus new models and funding rounds.
+    cost: 1.1766
+  4:
+    season: 2026
+    title: Anthropic $200B Deal, AI Layoffs & UAE Agentic Push
+    description: This episode covers Anthropic's record $200 billion Google 
+      Cloud commitment that briefly overtook Nvidia in market value, Coinbase 
+      and PayPal's AI-driven layoffs of thousands, and the UAE's plan to 
+      automate half its government with agentic AI, alongside Chinese model 
+      advances and new agent tools.
+    cost: 1.3848
+  5:
+    season: 2026
+    title: AI Funding Surge, Chatbot Lawsuit & Agent Tools
+    description: Covers Sierra's $950M raise for enterprise AI customer agents, 
+      Pennsylvania's lawsuit against Character.AI for doctor impersonation, 
+      PayPal's $1.5B AI-driven restructuring, plus advances in video generation,
+      agent governance and coding pricing.
+    cost: 1.7851
+  6:
+    season: 2026
+    title: EU Dilutes AI Rules, Agent Launches & Revenue Hits
+    description: This episode covers the EU's agreement to dilute and delay AI 
+      Act rules, OpenAI's Trusted Contact rollout and Voice API launch, Google's
+      testing of the Remy agent, Meta's agentic assistant development, Coder's 
+      enterprise agent launch, ElevenLabs reaching $500M ARR, SAP's $1.18B AI 
+      lab plans, and OpenAI-Oracle supercluster deal.
+    cost: 1.1846
