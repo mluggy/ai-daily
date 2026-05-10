@@ -103,7 +103,7 @@ itunes_categories:
 # Spotify show ID - the last part of your Spotify show URL:
 # open.spotify.com/show/{THIS_ID}. Used to construct the show URL and
 # header icon link automatically.
-spotify_id: ""
+spotify_id: "08mdK9g0Ug8zfrXCXG8iUX"
 
 # Numeric Apple Podcasts ID - used to construct the show URL and
 # per-episode deep links automatically. Find it in your Apple Podcasts
@@ -190,7 +190,7 @@ gemini_model: gemini-pro-latest
 # -- Analytics --
 # Google Analytics 4 measurement ID (e.g. G-A1B2C3D4E5).
 # Leave empty to disable.
-ga_measurement_id: ""
+ga_measurement_id: "G-4BX7GPVFHB"
 
 # Facebook/Meta Pixel ID (e.g. 582193047164938).
 # Leave empty to disable.

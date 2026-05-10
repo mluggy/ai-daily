@@ -10,7 +10,7 @@ episodes:
       plus stablecoin agent payments.
     cost: 1.5652
     duration: 06:18
-    date: '2026-05-09'
+    date: '2026-05-04'
   2:
     size: 9378747
     season: 2026
@@ -22,7 +22,7 @@ episodes:
       related lawsuit updates.
     cost: 1.7576
     duration: 06:30
-    date: '2026-05-09'
+    date: '2026-05-05'
   3:
     size: 9248840
     season: 2026
@@ -32,7 +32,7 @@ episodes:
       models and funding rounds.
     cost: 1.1766
     duration: 06:24
-    date: '2026-05-09'
+    date: '2026-05-06'
   4:
     size: 9283984
     season: 2026
@@ -43,7 +43,7 @@ episodes:
       with agentic AI, alongside Chinese model advances and new agent tools.
     cost: 1.3848
     duration: 06:26
-    date: '2026-05-09'
+    date: '2026-05-07'
   5:
     size: 10750605
     season: 2026
@@ -54,7 +54,7 @@ episodes:
       pricing.
     cost: 1.7851
     duration: 07:27
-    date: '2026-05-09'
+    date: '2026-05-08'
   6:
     size: 11053719
     season: 2026
@@ -66,4 +66,4 @@ episodes:
       OpenAI-Oracle supercluster deal.
     cost: 1.1846
     duration: 07:40
-    date: '2026-05-09'
+    date: '2026-05-11'
