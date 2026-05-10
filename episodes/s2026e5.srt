@@ -1,0 +1,499 @@
+1
+00:00:04,670 --> 00:00:09,569
+Sierra secures $950 million for AI customer agents.
+
+2
+00:00:09,989 --> 00:00:11,859
+The data moat is what matters here,
+
+3
+00:00:12,119 --> 00:00:13,829
+not the headline valuation.
+
+4
+00:00:14,109 --> 00:00:18,209
+Every customer interaction Sierra logs trains models that get better at
+
+5
+00:00:18,209 --> 00:00:21,360
+enterprise-specific workflows faster than any general
+
+6
+00:00:21,360 --> 00:00:22,969
+purpose rival can catch up.
+
+7
+00:00:23,510 --> 00:00:27,370
+Salesforce now has to decide whether to build equivalent agents internally
+
+8
+00:00:27,510 --> 00:00:29,899
+or risk losing mid-market customers who want the
+
+9
+00:00:29,899 --> 00:00:33,310
+accuracy edge without switching their entire CRM stack.
+
+10
+00:00:33,840 --> 00:00:36,840
+Expect the first defections in renewal cycles that begin
+
+11
+00:00:36,840 --> 00:00:40,400
+12 months from now as accuracy gaps become obvious.
+
+12
+00:00:41,810 --> 00:00:45,490
+Pennsylvania sues Character.AI over fake doctor.
+
+13
+00:00:45,970 --> 00:00:49,369
+States are drawing lines around professional impersonation faster
+
+14
+00:00:49,369 --> 00:00:51,830
+than the companies can patch their safety layers.
+
+15
+00:00:52,330 --> 00:00:56,229
+Character.AI's case shows how a single hallucinated credential
+
+16
+00:00:56,439 --> 00:00:59,369
+can trigger enforcement that hits every chatbot claiming.
+
+17
+00:00:59,494 --> 00:01:00,514
+Domain expertise.
+
+18
+00:01:01,174 --> 00:01:05,285
+Expect other platforms to add mandatory verification checks for medical,
+
+19
+00:01:05,495 --> 00:01:05,894
+legal,
+
+20
+00:01:05,974 --> 00:01:08,805
+or financial roles within the next two quarters
+
+21
+00:01:08,925 --> 00:01:11,004
+or absorb rising legal costs.
+
+22
+00:01:11,415 --> 00:01:14,294
+The bigger shift is users starting to demand proof
+
+23
+00:01:14,294 --> 00:01:17,175
+before trusting any AI advice on personal health.
+
+24
+00:01:18,430 --> 00:01:22,830
+PayPal launches AI turnaround for $1.5 billion dollar savings.
+
+25
+00:01:23,190 --> 00:01:26,919
+The $1.5 billion dollar target hides how many customer edge
+
+26
+00:01:26,919 --> 00:01:30,860
+cases the new automation layer will mishandle before it stabilizes.
+
+27
+00:01:31,349 --> 00:01:33,910
+PayPal's restructuring will push support teams to
+
+28
+00:01:33,910 --> 00:01:36,110
+focus only on high value disputes,
+
+29
+00:01:36,269 --> 00:01:37,790
+while AI takes the volume.
+
+30
+00:01:38,290 --> 00:01:40,699
+That shift forces competitors like Stripe
+
+31
+00:01:40,839 --> 00:01:45,160
+to match the cost structure quickly or lose pricing power on merchant fees.
+
+32
+00:01:45,529 --> 00:01:47,870
+Watch retention numbers in 18 months.
+
+33
+00:01:48,169 --> 00:01:51,150
+They will reveal whether the savings came from efficiency
+
+34
+00:01:51,269 --> 00:01:52,930
+or just deferred complaints.
+
+35
+00:01:54,559 --> 00:01:57,500
+GitHub co-pilot adopts per token pricing.
+
+36
+00:01:57,879 --> 00:02:00,690
+Heavy users who leave co-pilot running in the background
+
+37
+00:02:00,839 --> 00:02:02,839
+will face bills that scale directly with
+
+38
+00:02:02,839 --> 00:02:05,319
+how many suggestions they accept or reject.
+
+39
+00:02:05,730 --> 00:02:09,250
+The move to credits measured by tokens rewards teams that write
+
+40
+00:02:09,250 --> 00:02:13,910
+tight prompts and punishes exploratory coding styles common in startups.
+
+41
+00:02:14,250 --> 00:02:17,610
+Expect smaller competitors like Cursor to keep subscription
+
+42
+00:02:17,610 --> 00:02:21,830
+models longer to capture developers fleeing unpredictable costs.
+
+43
+00:02:22,250 --> 00:02:25,369
+The June 2026 date gives enterprises time to
+
+44
+00:02:25,369 --> 00:02:28,589
+benchmark actual token burn before committing budgets.
+
+45
+00:02:29,179 --> 00:02:32,619
+Google Vo 3 video AI adds native audio.
+
+46
+00:02:32,979 --> 00:02:36,960
+Dialogue generation now happens inside the same pass as the visuals,
+
+47
+00:02:37,179 --> 00:02:40,460
+eliminating the separate sync step most studios bill for.
+
+48
+00:02:40,970 --> 00:02:44,410
+This forces Runway to either integrate comparable audio or
+
+49
+00:02:44,410 --> 00:02:47,830
+watch its mid-market customers defect for complete reels.
+
+50
+00:02:48,250 --> 00:02:52,610
+The advanced controls tie frame tweaks directly to audio STEM exports,
+
+51
+00:02:52,779 --> 00:02:57,669
+locking production teams into higher cloud spend once they move beyond test clips.
+
+52
+00:02:58,050 --> 00:03:02,130
+Agencies handling social campaigns will standardize workflows around it
+
+53
+00:03:02,130 --> 00:03:05,050
+inside two quarters to stay competitive on turnaround.
+
+54
+00:03:07,029 --> 00:03:10,630
+Microsoft open sources AI agent security toolkit.
+
+55
+00:03:10,910 --> 00:03:13,509
+Security teams at smaller agent shops now get
+
+56
+00:03:13,509 --> 00:03:16,190
+a baseline they can run without new licenses,
+
+57
+00:03:16,429 --> 00:03:20,990
+yet every alert still funnels usage telemetry back into Microsoft's models.
+
+58
+00:03:21,380 --> 00:03:23,589
+This undercuts startups selling standalone
+
+59
+00:03:23,589 --> 00:03:26,389
+agent firewalls because enterprises default
+
+60
+00:03:26,389 --> 00:03:30,100
+to the free toolkit tied to their M365 contracts.
+
+61
+00:03:30,539 --> 00:03:33,089
+CrowdStrike will pivot its agent security line
+
+62
+00:03:33,089 --> 00:03:36,070
+toward compliance dashboards instead of raw detection.
+
+63
+00:03:36,470 --> 00:03:39,339
+Since the OWASP coverage is now table stakes,
+
+64
+00:03:39,669 --> 00:03:44,149
+the real lock-in sits in how the runtime logs shape future model updates.
+
+65
+00:03:46,350 --> 00:03:50,210
+SpaceX secures $60 billion option on Cursor AI.
+
+66
+00:03:50,630 --> 00:03:52,940
+SpaceX gains the right to acquire without
+
+67
+00:03:52,940 --> 00:03:55,460
+tipping its hand on internal tooling plans,
+
+68
+00:03:55,750 --> 00:03:59,690
+which means Cursor's team can keep selling to the rest of the market for now.
+
+69
+00:04:00,070 --> 00:04:03,899
+The move preempts any deeper ties with Microsoft or OpenAI
+
+70
+00:04:04,070 --> 00:04:06,229
+that might have come with the canceled round.
+
+71
+00:04:06,550 --> 00:04:09,369
+GitHub must either cut enterprise rates sharply
+
+72
+00:04:09,509 --> 00:04:12,809
+or watch aerospace suppliers standardize on Cursor instead.
+
+73
+00:04:13,520 --> 00:04:15,820
+Suppliers will face pressure to adopt the same
+
+74
+00:04:15,820 --> 00:04:19,339
+editor to maintain compatibility on shared code bases.
+
+75
+00:04:20,040 --> 00:04:23,040
+Sierra Lovelace emerges with AI context engine.
+
+76
+00:04:23,390 --> 00:04:25,920
+Analysts at boutique firms can suddenly take on
+
+77
+00:04:25,920 --> 00:04:28,869
+cases that used to require dedicated data teams,
+
+78
+00:04:29,079 --> 00:04:32,859
+shifting headcount budgets from support staff to domain experts.
+
+79
+00:04:33,160 --> 00:04:35,619
+This pressures larger platforms like Harvey
+
+80
+00:04:35,720 --> 00:04:39,880
+to match the context steps or lose RFPs in the compliance vertical.
+
+81
+00:04:40,329 --> 00:04:44,369
+The 1000 times figure only holds under specific query loads,
+
+82
+00:04:44,570 --> 00:04:47,619
+yet the first pilots will still reset expectations on
+
+83
+00:04:47,619 --> 00:04:50,950
+what counts as acceptable response time for mission work.
+
+84
+00:04:51,600 --> 00:04:54,450
+Planview launches agent Resource Management.
+
+85
+00:04:54,809 --> 00:04:59,570
+Treating agents as interchangeable resources with humans forces finance teams to
+
+86
+00:04:59,570 --> 00:05:02,869
+track token spend the same way they track salaries today.
+
+87
+00:05:03,369 --> 00:05:07,220
+Procurement cycles that once focused on headcount approvals now
+
+88
+00:05:07,220 --> 00:05:11,040
+require inference budget forecasts baked into every project charter.
+
+89
+00:05:11,459 --> 00:05:13,579
+This gives Planview an early wedge in
+
+90
+00:05:13,579 --> 00:05:16,519
+enterprises already piloting agents at scale.
+
+91
+00:05:16,820 --> 00:05:18,160
+Within 18 months,
+
+92
+00:05:18,579 --> 00:05:21,260
+expect legacy tools like Jira to bolt on
+
+93
+00:05:21,260 --> 00:05:24,679
+similar dashboards or watch their mid-market renewals slip.
+
+94
+00:05:26,179 --> 00:05:30,600
+Deep Infra raises $107 million backed by Nvidia.
+
+95
+00:05:30,899 --> 00:05:33,130
+Nvidia's lead here isn't the dollars.
+
+96
+00:05:33,420 --> 00:05:35,730
+It locks Deep Infra's inference logs into
+
+97
+00:05:35,730 --> 00:05:39,679
+Nvidia's optimization pipeline for upcoming architecture tweaks.
+
+98
+00:05:39,980 --> 00:05:42,600
+Other platforms now confront a hard fork.
+
+99
+00:05:43,000 --> 00:05:44,720
+Invest in competing silicon
+
+100
+00:05:44,899 --> 00:05:48,809
+or accept that their latency numbers will lag on enterprise benchmarks.
+
+101
+00:05:49,220 --> 00:05:51,859
+Open source hosts feel the squeeze first as
+
+102
+00:05:51,859 --> 00:05:55,070
+developer workflows migrate toward the lowest cost performer.
+
+103
+00:05:55,559 --> 00:06:00,619
+Expect Deep Infra to drop per token rates enough to force repricing across the board
+
+104
+00:06:01,000 --> 00:06:02,679
+inside the next two quarters.
+
+105
+00:06:04,459 --> 00:06:08,170
+Nvidia CEO claims AI creates massive jobs.
+
+106
+00:06:08,559 --> 00:06:11,679
+Huang's timing here matters more than the headline numbers.
+
+107
+00:06:11,980 --> 00:06:14,540
+By framing AI as a net job creator,
+
+108
+00:06:14,739 --> 00:06:17,329
+he gives enterprises cover to accelerate agent
+
+109
+00:06:17,329 --> 00:06:20,739
+deployments without triggering internal pushback from HR.
+
+110
+00:06:21,309 --> 00:06:24,179
+The 2nd order effect surfaces in 12 months,
+
+111
+00:06:24,359 --> 00:06:27,359
+when reskilling budgets get reallocated from broad
+
+112
+00:06:27,359 --> 00:06:29,910
+programs to narrow agent supervision tracks.
+
+113
+00:06:30,279 --> 00:06:32,839
+Traditional staffing firms lose their wedge if they
+
+114
+00:06:32,839 --> 00:06:36,510
+can't certify workers on those specific oversight workflows.
+
+115
+00:06:36,920 --> 00:06:40,540
+Community colleges see their AI training grants shrink accordingly.
+
+116
+00:06:42,220 --> 00:06:46,119
+Subquadratic debuts 50 million context AI model.
+
+117
+00:06:46,339 --> 00:06:50,730
+A 50 million token window flips the economics of retrieval entirely.
+
+118
+00:06:51,049 --> 00:06:55,880
+Fewer hops mean lower cumulative error rates across multi-step agent tasks
+
+119
+00:06:56,059 --> 00:06:58,880
+that previously demanded constant reindexing.
+
+120
+00:06:59,179 --> 00:07:02,679
+Existing RAG tooling built around chunking strategies
+
+121
+00:07:02,899 --> 00:07:06,940
+now faces obsolescence unless it adapts to in context everything.
+
+122
+00:07:07,410 --> 00:07:09,049
+Watch the procurement shift.
+
+123
+00:07:09,290 --> 00:07:13,609
+Enterprises will cancel vector database renewals once they test full document
+
+124
+00:07:13,609 --> 00:07:17,989
+agents that retain coherence over entire code bases or legal archives.
+
+125
+00:07:18,410 --> 00:07:22,769
+That migration starts hitting ARR projections by Q2 next year.

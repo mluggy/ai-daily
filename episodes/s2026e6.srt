@@ -1,0 +1,507 @@
+1
+00:00:04,320 --> 00:00:07,599
+OpenAI rolls out trusted contact and chat GPT.
+
+2
+00:00:08,069 --> 00:00:12,819
+Every intervention by a trusted contact feeds OpenAI a contextual refusal label
+
+3
+00:00:13,000 --> 00:00:15,539
+that aborators cannot synthesize at scale.
+
+4
+00:00:15,760 --> 00:00:18,879
+The feature turns oversight into preference data collection
+
+5
+00:00:19,079 --> 00:00:22,309
+that competitors gather only through expensive contractors.
+
+6
+00:00:22,760 --> 00:00:25,860
+Those signals compound across millions of family accounts
+
+7
+00:00:25,989 --> 00:00:28,360
+and sharpen the model's ability to separate real
+
+8
+00:00:28,360 --> 00:00:31,799
+distress from hypothetical queries without over refusing.
+
+9
+00:00:32,200 --> 00:00:33,139
+Within 12 months,
+
+10
+00:00:33,560 --> 00:00:36,459
+this pressures Anthropic to launch an equivalent feature
+
+11
+00:00:36,569 --> 00:00:39,560
+or accept slower iteration on consumer workloads.
+
+12
+00:00:41,099 --> 00:00:43,889
+EU agrees to dilute and delay AI rules.
+
+13
+00:00:44,259 --> 00:00:47,259
+Countries just kicked enforcement to late 2027.
+
+14
+00:00:47,529 --> 00:00:50,220
+Yet the real outcome is that European startups must
+
+15
+00:00:50,220 --> 00:00:54,209
+now fine-tune American models rather than train sovereign ones.
+
+16
+00:00:54,540 --> 00:00:56,810
+The extension gives Washington Labs time to
+
+17
+00:00:56,810 --> 00:01:00,090
+lock enterprise workflows behind their APIs first.
+
+18
+00:01:00,540 --> 00:01:02,900
+Compliance costs for high risk systems will
+
+19
+00:01:02,900 --> 00:01:05,260
+hit after market share is already decided.
+
+20
+00:01:05,790 --> 00:01:09,650
+This forces local players to embed US APIs deeply into their
+
+21
+00:01:09,650 --> 00:01:14,050
+stacks or risk being outrun on capability before rules even apply.
+
+22
+00:01:15,000 --> 00:01:17,800
+Google tests REMI autonomous agent in Gemini.
+
+23
+00:01:18,199 --> 00:01:20,839
+REMI learns preferences by observing actual app
+
+24
+00:01:20,839 --> 00:01:24,019
+interactions instead of waiting for explicit instructions.
+
+25
+00:01:24,360 --> 00:01:27,400
+That observation data builds a behavior graph no
+
+26
+00:01:27,400 --> 00:01:29,379
+prompt engineer can match after the fact.
+
+27
+00:01:29,959 --> 00:01:33,519
+Once it starts handling cross-app tasks like Bookings or scheduling,
+
+28
+00:01:33,849 --> 00:01:37,949
+Google captures every API call that third party services expose.
+
+29
+00:01:38,330 --> 00:01:41,370
+This forces OpenAI and Anthropic to either replicate
+
+30
+00:01:41,370 --> 00:01:44,910
+the same multi-app orchestration layer inside their agents,
+
+31
+00:01:45,089 --> 00:01:49,750
+or watch daily active workflows migrate to Gemini by early 2026.
+
+32
+00:01:51,110 --> 00:01:54,129
+Meta develops advanced genic AI Assistant.
+
+33
+00:01:54,349 --> 00:01:57,029
+The shopping features inside Instagram turn every
+
+34
+00:01:57,029 --> 00:01:59,970
+agent conversation into a direct checkout path
+
+35
+00:02:00,110 --> 00:02:03,089
+that bypasses traditional web funnels entirely.
+
+36
+00:02:03,430 --> 00:02:06,910
+Muse Spark reuses existing recommendation weights to drive
+
+37
+00:02:06,910 --> 00:02:09,970
+those autonomous decisions without fresh training runs,
+
+38
+00:02:10,229 --> 00:02:11,889
+keeping compute costs low.
+
+39
+00:02:12,110 --> 00:02:15,460
+Expect this to accelerate Meta's ad attribution advantage
+
+40
+00:02:15,460 --> 00:02:17,990
+as agent actions become the new click stream.
+
+41
+00:02:18,500 --> 00:02:22,000
+This pushes Shopify to either integrate Meta's agent stack
+
+42
+00:02:22,179 --> 00:02:24,660
+or watch its merchant tools lose relevance for
+
+43
+00:02:24,660 --> 00:02:26,699
+younger buyers who never leave the app.
+
+44
+00:02:28,429 --> 00:02:31,660
+Coder launches self-hosted model agnostic agents.
+
+45
+00:02:32,070 --> 00:02:35,710
+Teams can now route developer tasks across any model while
+
+46
+00:02:35,710 --> 00:02:38,910
+keeping every line of code inside their own VPCs.
+
+47
+00:02:39,270 --> 00:02:42,100
+The beta ships with orchestration that swaps providers
+
+48
+00:02:42,100 --> 00:02:44,410
+on the fly based on task type,
+
+49
+00:02:44,550 --> 00:02:47,779
+and keeps latency under 2 seconds on local clusters.
+
+50
+00:02:48,190 --> 00:02:51,309
+Mid-market software groups testing this setup report cutting
+
+51
+00:02:51,309 --> 00:02:54,839
+inference spend by 33% without sacrificing accuracy.
+
+52
+00:02:55,360 --> 00:02:59,199
+GitHub must expose similar self-hosted routing in co-pilot
+
+53
+00:02:59,320 --> 00:03:02,559
+or lose enterprise deals to data residency demands.
+
+54
+00:03:04,860 --> 00:03:08,850
+11 labs hits $500 million ARR milestone.
+
+55
+00:03:09,240 --> 00:03:13,729
+Voice models just became the highest margin product line in generative AI.
+
+56
+00:03:14,070 --> 00:03:17,429
+The milestone reveals that synthetic speech now handles more
+
+57
+00:03:17,429 --> 00:03:20,300
+than half of all new customer service deployments.
+
+58
+00:03:20,710 --> 00:03:23,009
+Latency improvements in the latest release
+
+59
+00:03:23,190 --> 00:03:26,190
+make real-time conversation viable for the first time.
+
+60
+00:03:26,690 --> 00:03:30,300
+Existing audio platforms must either embed similar generation
+
+61
+00:03:30,889 --> 00:03:33,559
+or watch their per minute margins get undercut by
+
+62
+00:03:33,559 --> 00:03:36,919
+50% as clients demand natural voices at scale.
+
+63
+00:03:37,289 --> 00:03:40,690
+Procurement teams are already rewriting RFPs around voice
+
+64
+00:03:40,690 --> 00:03:42,889
+quality scores instead of price per minute.
+
+65
+00:03:45,149 --> 00:03:48,100
+OpenAI launches voice API for developers.
+
+66
+00:03:48,509 --> 00:03:51,270
+Real-time voice just became another API call,
+
+67
+00:03:51,509 --> 00:03:54,309
+yet the per minute pricing still assumes text-level
+
+68
+00:03:54,309 --> 00:03:57,449
+inference costs that won't hold one usage scales.
+
+69
+00:03:57,750 --> 00:04:02,610
+Early testers report subsecond latency even on complex multi-turn dialogues.
+
+70
+00:04:02,869 --> 00:04:05,520
+The real Constraint surfaces when these calls run
+
+71
+00:04:05,520 --> 00:04:09,500
+inside existing enterprise SLAs that penalize any jitter.
+
+72
+00:04:09,759 --> 00:04:12,000
+Expect rate card revisions by summer.
+
+73
+00:04:12,399 --> 00:04:16,980
+DeepGram and Assembly AI must either match the latency at comparable rates
+
+74
+00:04:17,000 --> 00:04:21,380
+or accept they lose the developer mindshare they built on audio-only pipelines.
+
+75
+00:04:21,880 --> 00:04:26,079
+SAP acquires prior labs for 1.18B AI lab.
+
+76
+00:04:26,519 --> 00:04:29,100
+Frontier Model Development just moved inside
+
+77
+00:04:29,100 --> 00:04:31,769
+the largest ERP vendor's budget cycle.
+
+78
+00:04:32,040 --> 00:04:36,190
+The lab will prioritize fine-tuning on supply chain and finance workflows,
+
+79
+00:04:36,440 --> 00:04:39,450
+where proprietary data already lives in their systems.
+
+80
+00:04:39,720 --> 00:04:42,940
+Integration timelines point to general availability inside.
+
+81
+00:04:43,075 --> 00:04:45,255
+S4 HANA by late next year.
+
+82
+00:04:45,595 --> 00:04:49,195
+Competitors like Salesforce now face bundled AI that ships with
+
+83
+00:04:49,195 --> 00:04:52,174
+the core license at no extra per user cost.
+
+84
+00:04:52,545 --> 00:04:56,614
+This forces Salesforce to either slash Einstein fees or accelerate
+
+85
+00:04:56,614 --> 00:04:59,575
+its own model partnerships before the next fiscal year.
+
+86
+00:05:00,890 --> 00:05:05,190
+OpenAI and Oracle signed $100 billion supercluster deal.
+
+87
+00:05:05,489 --> 00:05:08,970
+Oracle just secured routing control over OpenAI's largest
+
+88
+00:05:08,970 --> 00:05:11,359
+inference pool for the next 18 months.
+
+89
+00:05:11,730 --> 00:05:13,529
+Training jobs stay on Microsoft,
+
+90
+00:05:13,730 --> 00:05:16,029
+but inference traffic splits permanently.
+
+91
+00:05:16,410 --> 00:05:20,049
+That creates a direct margin squeeze on Azure's AI services
+
+92
+00:05:20,369 --> 00:05:23,950
+because it can no longer bundle every token through its own fabric.
+
+93
+00:05:24,209 --> 00:05:27,410
+The first sign appears in enterprise renewal negotiations,
+
+94
+00:05:27,609 --> 00:05:31,429
+where customers start demanding multi-cloud credits to avoid lock-in.
+
+95
+00:05:31,730 --> 00:05:35,170
+Nvidia watches closely since Oracle's cluster design
+
+96
+00:05:35,170 --> 00:05:38,109
+favors AMD accelerators in the initial phase.
+
+97
+00:05:39,089 --> 00:05:42,380
+DeepMind scales alpha evolve for protein folding.
+
+98
+00:05:42,940 --> 00:05:46,220
+Alpha evolve's quantum integration cuts stimulation times
+
+99
+00:05:46,220 --> 00:05:49,420
+for molecular interactions from weeks to hours.
+
+100
+00:05:49,869 --> 00:05:53,720
+Drug developers gain the ability to test variant stability in-house
+
+101
+00:05:53,940 --> 00:05:56,600
+rather than waiting on external supercomputers.
+
+102
+00:05:56,899 --> 00:06:02,359
+That compresses early discovery from 18 months to under 9 for many protein targets.
+
+103
+00:06:02,630 --> 00:06:08,000
+Alumina now has to embed comparable folding APIs into its sequencing platforms
+
+104
+00:06:08,179 --> 00:06:12,420
+or risk losing workflow lock-in as labs migrate analysis upstream.
+
+105
+00:06:12,890 --> 00:06:15,609
+Smaller biotechs without quantum access fall
+
+106
+00:06:15,609 --> 00:06:17,950
+further behind on competitive timelines.
+
+107
+00:06:18,940 --> 00:06:22,190
+Apple R&D spending tops 10% of revenue.
+
+108
+00:06:22,510 --> 00:06:26,769
+Services revenue growth must accelerate to offset the new R&D load,
+
+109
+00:06:26,910 --> 00:06:29,750
+or hardware margins erode within two cycles.
+
+110
+00:06:30,119 --> 00:06:33,910
+On-device models push more processing into custom silicon,
+
+111
+00:06:34,140 --> 00:06:37,790
+which raises component costs faster than average selling prices.
+
+112
+00:06:37,904 --> 00:06:40,255
+can climb across every iPhone tier.
+
+113
+00:06:40,625 --> 00:06:43,065
+TSMC faces allocation pressure
+
+114
+00:06:43,304 --> 00:06:46,165
+because Apple will claim additional leading edge wafers
+
+115
+00:06:46,165 --> 00:06:49,125
+to meet iPhone AI volume targets next year.
+
+116
+00:06:49,505 --> 00:06:52,424
+Q Qualcomm sees an opening to pitch hybrid cloud on
+
+117
+00:06:52,424 --> 00:06:56,825
+device solutions to Android OEMs during the resulting capacity crunch.
+
+118
+00:06:58,019 --> 00:07:01,489
+AMD integrates AI into space computing systems.
+
+119
+00:07:01,779 --> 00:07:05,769
+Radiation hardened AI accelerators change satellite economics
+
+120
+00:07:05,769 --> 00:07:08,500
+once models run inference without ground links.
+
+121
+00:07:08,859 --> 00:07:13,119
+Real-time object detection on orbit slashes required downlink bandwidth
+
+122
+00:07:13,260 --> 00:07:16,320
+by up to 80% for Earth observation missions.
+
+123
+00:07:16,704 --> 00:07:20,445
+SpaceX must now accelerate its own onboard inference hardware
+
+124
+00:07:20,584 --> 00:07:24,404
+or accept higher latency on Starlink enabled defense contracts.
+
+125
+00:07:24,665 --> 00:07:26,804
+Nvidia faces a forced choice between
+
+126
+00:07:26,804 --> 00:07:30,065
+licensing its architecture into RAD-hard processes
+
+127
+00:07:30,265 --> 00:07:35,285
+or ceding the entire segment to AMD and its aerospace partners within 2 years.

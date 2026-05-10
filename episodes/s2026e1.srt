@@ -1,0 +1,443 @@
+1
+00:00:04,559 --> 00:00:07,699
+OpenAI launches self-serve chat GPT ads platform.
+
+2
+00:00:08,109 --> 00:00:12,060
+Every chat GPT thread now runs a background auction on the full context.
+
+3
+00:00:12,319 --> 00:00:14,960
+Enterprise buyers who once treated the model as a secure
+
+4
+00:00:14,960 --> 00:00:18,299
+workspace face new leakage risks from ad data flows.
+
+5
+00:00:18,600 --> 00:00:21,940
+Anthropic has to either strip similar monetization from cloud
+
+6
+00:00:22,090 --> 00:00:25,750
+or watch its enterprise win rate drop as privacy reviews lengthen.
+
+7
+00:00:26,200 --> 00:00:28,639
+Mid-market teams will demand contract clauses that
+
+8
+00:00:28,639 --> 00:00:30,600
+isolate prompts from any ad engine.
+
+9
+00:00:32,209 --> 00:00:36,619
+Anthropic form's $1.5 billion Wall Street AI deployment venture.
+
+10
+00:00:36,880 --> 00:00:40,250
+Portfolio companies backed by Blackstone and Goldman now receive
+
+11
+00:00:40,250 --> 00:00:43,080
+embedded cloud engineers funded through the new vehicle.
+
+12
+00:00:43,490 --> 00:00:47,709
+This shifts the sales cycle from pilot budgets to multi-year deployment mandates
+
+13
+00:00:47,889 --> 00:00:49,490
+that favor the largest models.
+
+14
+00:00:49,849 --> 00:00:53,990
+Smaller AI startups lose their window to prove value inside those firms.
+
+15
+00:00:54,330 --> 00:00:57,189
+OpenAI has to build matching industry teams fast
+
+16
+00:00:57,330 --> 00:01:00,569
+or see its private equity footprint shrink by the end of next year.
+
+17
+00:01:01,770 --> 00:01:04,830
+Anthropic secures SpaceX Colossus compute deal.
+
+18
+00:01:05,290 --> 00:01:08,730
+300 megawatts of dedicated capacity moves Anthropic's
+
+19
+00:01:08,730 --> 00:01:10,889
+largest training jobs off shared grids.
+
+20
+00:01:11,290 --> 00:01:14,199
+The equivalent of 220,000 GPUs
+
+21
+00:01:14,330 --> 00:01:18,269
+lets them run parallel experiments that smaller labs cannot afford to schedule.
+
+22
+00:01:18,709 --> 00:01:22,389
+OpenAI and Google both face pressure to sign similar exclusive
+
+23
+00:01:22,389 --> 00:01:25,709
+power deals before their own roadmaps slip another 6 months.
+
+24
+00:01:26,110 --> 00:01:28,470
+This also raises the bar for any new entrant
+
+25
+00:01:28,470 --> 00:01:31,809
+trying to reach frontier scale without utility level connections.
+
+26
+00:01:33,650 --> 00:01:37,440
+Apple plans third-party AI model choice in iOS 27.
+
+27
+00:01:37,849 --> 00:01:42,290
+Default model selection passes to App Store apps in the next major OS releases.
+
+28
+00:01:42,690 --> 00:01:45,809
+Apple keeps the interface while ceding inference quality decisions
+
+29
+00:01:45,809 --> 00:01:48,489
+to third parties that already run their own clouds.
+
+30
+00:01:48,889 --> 00:01:53,470
+Google gains an on-ramp to iOS users that bypasses Safari entirely.
+
+31
+00:01:53,889 --> 00:01:57,750
+OpenAI must ship a lightweight on-device variant within 18 months
+
+32
+00:01:57,889 --> 00:01:59,610
+or watch its mobile share erode.
+
+33
+00:02:00,239 --> 00:02:03,199
+Developers gain new hooks to route specific tasks
+
+34
+00:02:03,199 --> 00:02:06,160
+to specialized models without building custom integrations.
+
+35
+00:02:07,620 --> 00:02:11,160
+Meta builds agentic AI assistant with Instagram shopping.
+
+36
+00:02:11,509 --> 00:02:13,759
+Once Hatch learns your taste from past scrolls,
+
+37
+00:02:13,940 --> 00:02:17,320
+it can reorder items and complete buys without leaving the app.
+
+38
+00:02:17,740 --> 00:02:19,979
+That timeline to late 2026
+
+39
+00:02:20,139 --> 00:02:24,000
+gives merchants a narrow window to tag inventory for agent consumption.
+
+40
+00:02:24,500 --> 00:02:27,139
+Brands relying on impulse visual feeds face
+
+41
+00:02:27,139 --> 00:02:30,000
+lower visibility as structured data wins priority.
+
+42
+00:02:30,380 --> 00:02:32,580
+Shopify integrations will need to match or
+
+43
+00:02:32,580 --> 00:02:35,240
+risk losing the social checkout slice entirely.
+
+44
+00:02:36,619 --> 00:02:37,240
+Amazon,
+
+45
+00:02:37,580 --> 00:02:38,179
+Coinbase,
+
+46
+00:02:38,380 --> 00:02:41,160
+Stripe enable AI agent stablecoin payments.
+
+47
+00:02:41,460 --> 00:02:46,020
+Agents can settle for API access and data feeds without waiting on billing cycles.
+
+48
+00:02:46,419 --> 00:02:49,199
+This setup pressures providers to publish dynamic pricing
+
+49
+00:02:49,199 --> 00:02:51,300
+that agents can evaluate on the fly,
+
+50
+00:02:51,500 --> 00:02:54,250
+which squeezes Fixed rate margins across the board.
+
+51
+00:02:54,630 --> 00:02:56,529
+Coinbase handles the stable coin side,
+
+52
+00:02:56,940 --> 00:02:59,389
+so any latency in on-ramps will determine which
+
+53
+00:02:59,389 --> 00:03:02,940
+agent platforms gain an edge in transaction-heavy workflows.
+
+54
+00:03:03,309 --> 00:03:05,990
+Stripe's participation signals broader acceptance
+
+55
+00:03:05,990 --> 00:03:07,729
+for agent-driven commerce loops.
+
+56
+00:03:09,339 --> 00:03:12,369
+White House considers pre-release AI model vetting.
+
+57
+00:03:12,770 --> 00:03:16,259
+Any model crossing internal capability thresholds would undergo
+
+58
+00:03:16,259 --> 00:03:19,130
+federal review for misuse vectors before launch.
+
+59
+00:03:19,539 --> 00:03:22,100
+Labs lose the element of surprise on release timing,
+
+60
+00:03:22,259 --> 00:03:25,729
+which hands established players extra runway to lock in customers.
+
+61
+00:03:26,139 --> 00:03:28,580
+Open source efforts face the heaviest burden since
+
+62
+00:03:28,580 --> 00:03:31,139
+they cannot easily restrict access post vetting.
+
+63
+00:03:31,500 --> 00:03:35,339
+Smaller teams might delay public checkpoints altogether to avoid the queue,
+
+64
+00:03:35,580 --> 00:03:38,059
+widening the gap with well-resourced competitors.
+
+65
+00:03:40,029 --> 00:03:43,029
+Google tests Rey autonomous AI agent for Gemini.
+
+66
+00:03:43,429 --> 00:03:45,470
+Users grant broad access once,
+
+67
+00:03:45,630 --> 00:03:48,669
+and the agent immediately starts booking meetings or filtering
+
+68
+00:03:48,669 --> 00:03:51,660
+mail based on observed patterns without further instruction.
+
+69
+00:03:51,990 --> 00:03:54,589
+That raises immediate questions around data leakage
+
+70
+00:03:54,589 --> 00:03:56,509
+when third party apps join the loop.
+
+71
+00:03:56,830 --> 00:03:59,419
+Calendar providers must update consent flows to
+
+72
+00:03:59,419 --> 00:04:01,850
+separate agent actions from user commands.
+
+73
+00:04:02,190 --> 00:04:04,429
+Enterprise teams will demand full audit logs
+
+74
+00:04:04,429 --> 00:04:06,970
+for every automated change before signing off.
+
+75
+00:04:07,960 --> 00:04:12,750
+OpenAI rolls out GPT 5.5 instant as chat GPT default.
+
+76
+00:04:13,160 --> 00:04:17,700
+Granular memory toggles now let users scrub individual facts mid-conversation.
+
+77
+00:04:18,079 --> 00:04:20,559
+The real edge emerges later when the model starts
+
+78
+00:04:20,559 --> 00:04:23,459
+weighting which corrections it retains and which it discards.
+
+79
+00:04:23,790 --> 00:04:26,519
+This turns every session into silent fine tuning.
+
+80
+00:04:26,980 --> 00:04:30,899
+The hallucination drop accelerates adoption in professional workflows
+
+81
+00:04:30,899 --> 00:04:33,130
+where one bad recall used to break trust.
+
+82
+00:04:33,540 --> 00:04:37,260
+Rivals have roughly 6 months to ship comparable persistence or
+
+83
+00:04:37,260 --> 00:04:39,899
+watch their active users drift toward the new default.
+
+84
+00:04:42,769 --> 00:04:45,670
+AI-driven layoffs accelerate across the tech sector.
+
+85
+00:04:45,970 --> 00:04:48,299
+Automation claims mask the real target,
+
+86
+00:04:48,619 --> 00:04:53,320
+coordination work that once required 2 or 3 full-time translators between teams.
+
+87
+00:04:53,700 --> 00:04:57,200
+Agents now log decisions and flag blockers in the same workflow.
+
+88
+00:04:57,459 --> 00:04:59,760
+The result is fewer mid-level salaries,
+
+89
+00:04:59,899 --> 00:05:02,489
+but also less redundancy when outages occur.
+
+90
+00:05:02,859 --> 00:05:07,079
+Cloudflare and Upwork both pointed to agentic tools in their restructuring notes.
+
+91
+00:05:07,329 --> 00:05:10,390
+Expect smaller companies to struggle filling those gaps with
+
+92
+00:05:10,390 --> 00:05:12,459
+experienced hires through the end of next year.
+
+93
+00:05:14,470 --> 00:05:17,730
+Big tech agrees to US government AI security testing.
+
+94
+00:05:17,950 --> 00:05:20,829
+Access to pre-release weights lets officials map misuse
+
+95
+00:05:20,829 --> 00:05:23,140
+vectors while the models are still malleable.
+
+96
+00:05:23,510 --> 00:05:25,839
+The commitment covers cyber risks and military
+
+97
+00:05:25,839 --> 00:05:28,700
+misuse scenarios that public benchmarks still ignore.
+
+98
+00:05:29,070 --> 00:05:31,489
+Labs gain a fast track for certain clearances,
+
+99
+00:05:31,630 --> 00:05:34,420
+but lose the element of surprise on capability jumps.
+
+100
+00:05:34,829 --> 00:05:38,040
+Smaller players without direct channels to the same reviewers now
+
+101
+00:05:38,040 --> 00:05:41,429
+carry extra proof burden when pitching to risk averse customers.
+
+102
+00:05:41,829 --> 00:05:44,190
+That gap widens through the next funding cycle.
+
+103
+00:05:45,309 --> 00:05:48,970
+Anthropic unveils dreaming for self-improving AI agents.
+
+104
+00:05:49,309 --> 00:05:53,269
+Agents replay overnight traces to surface patterns in their own errors.
+
+105
+00:05:53,630 --> 00:05:57,769
+The technique works best in narrow domains like code review and trade execution,
+
+106
+00:05:57,989 --> 00:05:59,779
+where success leaves clear logs.
+
+107
+00:06:00,109 --> 00:06:02,089
+Once those loops run continuously,
+
+108
+00:06:02,260 --> 00:06:04,630
+off the shelf models lose ground because every
+
+109
+00:06:04,630 --> 00:06:07,649
+deployment now ships with yesterday's fixes baked in.
+
+110
+00:06:08,029 --> 00:06:10,829
+Expect dedicated agent platforms to pull ahead on
+
+111
+00:06:10,829 --> 00:06:13,470
+task-specific benchmarks before the end of the year.

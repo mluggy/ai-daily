@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Sun, 10 May 2026 08:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 09:39:59 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -46,6 +46,7 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e1.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
     <item>
       <title>Episode 2: Pentagon AI Deals, Agent Hijacks &amp; GPT Surprises</title>
@@ -62,6 +63,7 @@
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e2.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
     <item>
       <title>Episode 3: US AI Tests, Agent Payments &amp; Wall Street Agents</title>
@@ -78,6 +80,7 @@
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e3.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
     <item>
       <title>Episode 4: Anthropic $200B Deal, AI Layoffs &amp; UAE Agentic Push</title>
@@ -94,6 +97,7 @@
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e4.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
     <item>
       <title>Episode 5: AI Funding Surge, Chatbot Lawsuit &amp; Agent Tools</title>
@@ -110,6 +114,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e5.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
     <item>
       <title>Episode 6: EU Dilutes AI Rules, Agent Launches &amp; Revenue Hits</title>
@@ -126,6 +131,7 @@
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e6.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

@@ -1,0 +1,431 @@
+1
+00:00:04,500 --> 00:00:07,570
+Anthropic commits $200 billion to Google Cloud.
+
+2
+00:00:07,940 --> 00:00:11,420
+Google's TPU supply just received a multi-year lock that leaves
+
+3
+00:00:11,420 --> 00:00:15,199
+Nvidia's enterprise sales team without their strongest reference customer.
+
+4
+00:00:15,619 --> 00:00:17,819
+The agreement includes data handling terms that
+
+5
+00:00:17,819 --> 00:00:20,809
+will block Anthropic from certain European contracts.
+
+6
+00:00:21,260 --> 00:00:25,760
+Microsoft will respond by offering Azure credits tied to open AI usage,
+
+7
+00:00:26,049 --> 00:00:29,889
+widening the gap for any startup not already inside that ecosystem.
+
+8
+00:00:30,329 --> 00:00:33,720
+Smaller model developers face higher spot prices as a result.
+
+9
+00:00:34,330 --> 00:00:37,549
+Coinbase and PayPal slash thousands of jobs for AI.
+
+10
+00:00:37,930 --> 00:00:42,090
+The cuts remove the last human review layer on fraud and compliance cues.
+
+11
+00:00:42,490 --> 00:00:45,669
+Coinbase agents now freeze accounts without prior sign-off,
+
+12
+00:00:45,889 --> 00:00:48,669
+and PayPal resolves disputes at machine speed.
+
+13
+00:00:49,090 --> 00:00:53,349
+Regulators will demand new audit formats that current agents cannot generate.
+
+14
+00:00:53,810 --> 00:00:56,450
+Banks advertising retained staff for reviews are
+
+15
+00:00:56,450 --> 00:00:59,209
+seeing faster onboarding among enterprise clients.
+
+16
+00:00:59,650 --> 00:01:03,470
+Tooling providers face sudden demand for compliance export features.
+
+17
+00:01:05,589 --> 00:01:09,690
+OpenAI closes record $122 billion funding round.
+
+18
+00:01:10,339 --> 00:01:13,629
+Amazon and Nvidia wrote data use terms into the round that
+
+19
+00:01:13,629 --> 00:01:16,690
+let them fine tune on outputs from the latest models.
+
+20
+00:01:17,069 --> 00:01:20,309
+Those clauses limit how aggressively OpenAI can price
+
+21
+00:01:20,309 --> 00:01:23,800
+future enterprise deals without undercutting its own investors.
+
+22
+00:01:24,309 --> 00:01:27,150
+SoftBank's checkpoints Japanese government workloads
+
+23
+00:01:27,150 --> 00:01:28,589
+toward this single platform.
+
+24
+00:01:29,050 --> 00:01:32,470
+Microsoft now has to decide whether to increase its own stake
+
+25
+00:01:32,610 --> 00:01:35,790
+or accept a diluted position inside the same cap table.
+
+26
+00:01:37,720 --> 00:01:41,459
+UAE to run 50% of government on agentic AI.
+
+27
+00:01:41,839 --> 00:01:46,339
+Dubai procurement now requires agentic handling for high volume workflows
+
+28
+00:01:46,519 --> 00:01:49,080
+and insists on human readable decision logs.
+
+29
+00:01:49,400 --> 00:01:53,790
+The gap in Arabic safety benchmarks leaves most global labs unqualified.
+
+30
+00:01:54,199 --> 00:01:58,160
+Saudi Arabia and Qatar will issue matching rules within 18 months.
+
+31
+00:01:58,559 --> 00:02:02,059
+GDPR authorities are already testing whether agent outputs
+
+32
+00:02:02,059 --> 00:02:04,480
+about EU citizens can exit the country.
+
+33
+00:02:04,900 --> 00:02:08,758
+Local system integrators hold the certification edge for the coming cycle.
+
+34
+00:02:10,710 --> 00:02:13,460
+Chinese openweight models reach coding parity.
+
+35
+00:02:13,910 --> 00:02:15,729
+Training efficiency draws the attention,
+
+36
+00:02:16,149 --> 00:02:18,449
+yet the closed data moat matters more.
+
+37
+00:02:18,910 --> 00:02:21,389
+Chinese labs fine tune on millions of internal
+
+38
+00:02:21,389 --> 00:02:23,850
+enterprise repos that never leave the country.
+
+39
+00:02:24,309 --> 00:02:27,789
+This creates coding agents tuned for local supply chain systems
+
+40
+00:02:27,789 --> 00:02:31,610
+that US models cannot replicate without equivalent data access.
+
+41
+00:02:31,949 --> 00:02:34,949
+Expect domestic Chinese firms to standardize on these
+
+42
+00:02:34,949 --> 00:02:37,509
+weights for internal tooling within 18 months,
+
+43
+00:02:37,869 --> 00:02:40,070
+sidelining imports from Western labs.
+
+44
+00:02:41,369 --> 00:02:44,240
+OpenAI explores spinning out robotics unit.
+
+45
+00:02:44,419 --> 00:02:47,059
+Spinning out hardware now looks like the only way to
+
+46
+00:02:47,059 --> 00:02:49,820
+keep the core evaluation clean ahead of an IPO.
+
+47
+00:02:50,309 --> 00:02:52,789
+The robotics division carries heavy CapE that
+
+48
+00:02:52,789 --> 00:02:55,979
+dilutes the software margins investors prize most.
+
+49
+00:02:56,470 --> 00:02:58,750
+Teams there will need to court separate investors
+
+50
+00:02:58,750 --> 00:03:01,889
+or fold into existing players like Boston Dynamics.
+
+51
+00:03:02,270 --> 00:03:05,589
+Either path slows OpenAI's ability to integrate physical
+
+52
+00:03:05,589 --> 00:03:08,350
+world feedback loops back into its frontier models
+
+53
+00:03:08,509 --> 00:03:11,589
+and delays embodied AI progress by at least a year.
+
+54
+00:03:12,710 --> 00:03:16,389
+XAI ships Grok 4.3 with voice cloning.
+
+55
+00:03:16,860 --> 00:03:21,470
+Voice cloning at lower inference cost flips the economics for real-time agents.
+
+56
+00:03:21,869 --> 00:03:26,179
+Developers can now embed personalized voices into customer service bots
+
+57
+00:03:26,190 --> 00:03:29,779
+without paying premium permanent fees that competitors still charge.
+
+58
+00:03:30,149 --> 00:03:32,789
+This directly undercuts specialized providers who
+
+59
+00:03:32,789 --> 00:03:34,529
+built their margins on cloning alone.
+
+60
+00:03:35,169 --> 00:03:39,339
+Watch adoption curves in podcasts and gaming tooling accelerate sharply
+
+61
+00:03:39,559 --> 00:03:43,699
+as the feature ships inside the default Grok API at no extra cost.
+
+62
+00:03:45,039 --> 00:03:47,960
+Anthropic secures SpaceX data center deal.
+
+63
+00:03:48,279 --> 00:03:51,630
+The SpaceX capacity gives anthropic power redundancy that
+
+64
+00:03:51,630 --> 00:03:55,429
+terrestrial clouds cannot guarantee during peak demand spikes.
+
+65
+00:03:55,880 --> 00:03:57,960
+CHIP deals with Google and Broadcom,
+
+66
+00:03:58,119 --> 00:03:59,639
+lock and supply at scale,
+
+67
+00:03:59,960 --> 00:04:02,360
+forcing competitors to renegotiate their own
+
+68
+00:04:02,360 --> 00:04:05,119
+foundry allocations or accept longer queues.
+
+69
+00:04:05,559 --> 00:04:07,339
+OpenAI in particular must
+
+70
+00:04:07,339 --> 00:04:10,539
+accelerate its Microsoft-backed infrastructure roadmap
+
+71
+00:04:10,800 --> 00:04:14,229
+or risk agent latency gaps in always on deployments.
+
+72
+00:04:14,710 --> 00:04:17,380
+This setup creates an edge no amount of additional
+
+73
+00:04:17,380 --> 00:04:19,738
+GPUs can fully offset in the near term.
+
+74
+00:04:21,010 --> 00:04:24,269
+Microsoft OpenAI deal turns non-exclusive.
+
+75
+00:04:24,609 --> 00:04:27,149
+The real shift isn't the multi-cloud clause.
+
+76
+00:04:27,410 --> 00:04:29,850
+It's that OpenAI can now route workloads to
+
+77
+00:04:29,850 --> 00:04:32,869
+the lowest cost provider without Microsoft approval.
+
+78
+00:04:33,329 --> 00:04:36,329
+Azure's inference margins will compress once Google and
+
+79
+00:04:36,329 --> 00:04:39,790
+AWS start bidding directly on OpenAI traffic.
+
+80
+00:04:40,109 --> 00:04:42,970
+Expect Microsoft to counter by locking in enterprise
+
+81
+00:04:42,970 --> 00:04:46,269
+customers through deeper co-pilot bundling within the next year
+
+82
+00:04:46,489 --> 00:04:49,209
+or watch its cloud growth slow by double digits.
+
+83
+00:04:50,609 --> 00:04:53,970
+Adobe launches PDF Productivity AI agent.
+
+84
+00:04:54,489 --> 00:04:58,369
+Conversational editing sounds convenient until every PDF edit
+
+85
+00:04:58,369 --> 00:05:02,070
+trains Adobe's next model on proprietary document structures.
+
+86
+00:05:02,640 --> 00:05:05,450
+This forces rivals such as Microsoft and smaller
+
+87
+00:05:05,450 --> 00:05:08,570
+PDF vendors to accelerate their own agent features
+
+88
+00:05:08,690 --> 00:05:10,790
+or risk losing workflow lock-in.
+
+89
+00:05:11,089 --> 00:05:15,869
+Expect Adobe to see a measurable uptick in premium subscriptions within 12 months
+
+90
+00:05:16,049 --> 00:05:19,410
+as users treat the agent as essential rather than optional.
+
+91
+00:05:21,709 --> 00:05:24,149
+Corgi launches AI failure insurance.
+
+92
+00:05:24,390 --> 00:05:29,000
+Insuring against AI mistakes turns every deployment into an actuarial table.
+
+93
+00:05:29,350 --> 00:05:31,750
+The launch signals that AI errors have become
+
+94
+00:05:31,750 --> 00:05:34,540
+frequent and costly enough for dedicated policies.
+
+95
+00:05:34,929 --> 00:05:39,500
+Providers will now face customer demands for SLAs that match the coverage terms,
+
+96
+00:05:39,790 --> 00:05:43,220
+pushing model accuracy requirements higher across the board.
+
+97
+00:05:43,589 --> 00:05:44,660
+Within 18 months,
+
+98
+00:05:44,989 --> 00:05:47,670
+expect startups without robust testing to pay premium
+
+99
+00:05:47,670 --> 00:05:50,529
+rates or lose deals to more reliable vendors.
+
+100
+00:05:51,350 --> 00:05:55,250
+Suno AI music platform eyes $5 billion valuation.
+
+101
+00:05:55,630 --> 00:05:59,690
+A $5 billion valuation for Suno rests less on user growth
+
+102
+00:05:59,869 --> 00:06:04,290
+and more on whether record labels sign licensing deals before lawsuits pile up.
+
+103
+00:06:04,709 --> 00:06:07,910
+This forces Universal and Sony to accelerate their own
+
+104
+00:06:07,910 --> 00:06:11,089
+AI music tools or negotiate revenue shares quickly.
+
+105
+00:06:11,540 --> 00:06:12,079
+Otherwise,
+
+106
+00:06:12,540 --> 00:06:15,720
+independent artists will migrate to platforms with clearer rights.
+
+107
+00:06:16,000 --> 00:06:19,119
+Expect Suno to either secure those deals in the next year
+
+108
+00:06:19,299 --> 00:06:21,839
+or see growth stall as legal risks mount.
