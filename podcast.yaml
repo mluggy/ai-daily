@@ -119,7 +119,7 @@ youtube_id: "PLiIMhiebmscqW0bfznK81g8n3KtMUJlxL"
 # Amazon Music podcast ID - the last part of your Amazon URL:
 # music.amazon.com/podcasts/{THIS_ID}. Used to construct the show URL
 # and header icon link automatically.
-amazon_music_id: ""
+amazon_music_id: "2104706a-434d-4c08-b219-94ecfe818705"
 
 # -- Social links --
 # Shown as icons in the site footer and included in JSON-LD sameAs.
