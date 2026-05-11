@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 11 May 2026 12:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 12:40:52 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -138,6 +138,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e6.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Agent Payments, iOS AI Picks &amp; DeepSeek Billions</title>
+      <description>OpenAI rolls out ChatGPT self-serve ads, Amazon enables AI agent stablecoin payments with Coinbase and Stripe, Apple introduces third-party model choice on iOS 27, Anthropic lands SpaceX compute and Wall Street deployment deals, Microsoft Agent 365 reaches general availability, and DeepSeek targets $50 billion valuation.</description>
+      <link>{{SITE_URL}}/7</link>
+      <guid isPermaLink="false">s2026e7</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e7.mp3" length="10867333" type="audio/mpeg" />
+      <itunes:summary>OpenAI rolls out ChatGPT self-serve ads, Amazon enables AI agent stablecoin payments with Coinbase and Stripe, Apple introduces third-party model choice on iOS 27, Anthropic lands SpaceX compute and Wall Street deployment deals, Microsoft Agent 365 reaches general availability, and DeepSeek targets $50 billion valuation.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:32</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e7.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e7.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
