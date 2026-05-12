@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 11 May 2026 17:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:19:57 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -155,6 +155,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e7.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Cerebras $4.8B IPO, Anthropic Boom &amp; AI Zero-Day</title>
+      <description>Covers Cerebras upsizing its IPO to $4.8 billion, Anthropic revealing 80x Q1 revenue growth with $44 billion ARR, OpenAI launching a $4 billion-backed deployment company, Pentagon signing AI deals excluding Anthropic, and Google detecting the first AI-developed zero-day exploit.</description>
+      <link>{{SITE_URL}}/8</link>
+      <guid isPermaLink="false">s2026e8</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e8.mp3" length="10417367" type="audio/mpeg" />
+      <itunes:summary>Covers Cerebras upsizing its IPO to $4.8 billion, Anthropic revealing 80x Q1 revenue growth with $44 billion ARR, OpenAI launching a $4 billion-backed deployment company, Pentagon signing AI deals excluding Anthropic, and Google detecting the first AI-developed zero-day exploit.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:13</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e8.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e8.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

@@ -1,0 +1,511 @@
+1
+00:00:05,070 --> 00:00:08,630
+Cerebres upsizes IPO to $4.8 billion.
+
+2
+00:00:08,880 --> 00:00:12,039
+$4.8 billion now earmarked for wafer pre-purchases
+
+3
+00:00:12,039 --> 00:00:13,939
+before the first lockup even starts.
+
+4
+00:00:14,319 --> 00:00:19,700
+That volume forces TSMC to reallocate capacity away from smaller AI chip designers
+
+5
+00:00:19,879 --> 00:00:21,360
+who cannot match the commitment.
+
+6
+00:00:21,760 --> 00:00:25,239
+Nvidia will have to decide whether to defend margins or flood the market
+
+7
+00:00:25,239 --> 00:00:29,399
+with discounted Blackwell units just to keep key accounts from switching over.
+
+8
+00:00:29,760 --> 00:00:32,959
+Smaller players face a choice between expensive spot buys or
+
+9
+00:00:32,959 --> 00:00:37,099
+delayed tapeouts that push their product launches well into 2027.
+
+10
+00:00:38,790 --> 00:00:42,049
+OpenAI launches $4 billion dollars deployment company.
+
+11
+00:00:42,349 --> 00:00:46,270
+Embedding full-time AI engineers inside client environments changes the
+
+12
+00:00:46,270 --> 00:00:50,409
+revenue mix from pure API calls to recurring services fees
+
+13
+00:00:50,509 --> 00:00:52,409
+that carry lower gross margins.
+
+14
+00:00:52,750 --> 00:00:56,930
+That shift immediately pressures Anthropic to stand up its own deployment team
+
+15
+00:00:57,049 --> 00:01:00,069
+or watch mid-market accounts migrate to the new offering.
+
+16
+00:01:00,409 --> 00:01:03,029
+The acquisition of Tomorrow accelerates the timeline,
+
+17
+00:01:03,369 --> 00:01:06,169
+but it also exposes OpenAI to fixed labor
+
+18
+00:01:06,169 --> 00:01:09,750
+costs that pure token-based margins never carried before.
+
+19
+00:01:10,050 --> 00:01:12,529
+Expect enterprise contracts to include headcount
+
+20
+00:01:12,529 --> 00:01:14,849
+minimums within the next two quarters.
+
+21
+00:01:16,860 --> 00:01:21,440
+Anthropic ARR hits $44 billion after 80 times growth
+
+22
+00:01:21,620 --> 00:01:22,519
+in a single year,
+
+23
+00:01:22,540 --> 00:01:25,000
+usually signals either a massive new market
+
+24
+00:01:25,150 --> 00:01:28,610
+or unsustainable discounting just to land the biggest logos.
+
+25
+00:01:29,010 --> 00:01:30,889
+Dario's number points to the latter.
+
+26
+00:01:31,180 --> 00:01:36,080
+OpenAI now faces pressure to launch its own deployment services at similar scale
+
+27
+00:01:36,260 --> 00:01:39,860
+or lose the same enterprise pipeline that Anthropic just captured.
+
+28
+00:01:40,300 --> 00:01:43,279
+The real test arrives when those contracts hit renewal
+
+29
+00:01:43,430 --> 00:01:47,620
+and the burn rate for Frontier model training collides with services overhead
+
+30
+00:01:47,860 --> 00:01:49,779
+that investors have not modeled yet.
+
+31
+00:01:51,379 --> 00:01:54,489
+Pentagon signs AI deals excluding Anthropic.
+
+32
+00:01:54,860 --> 00:01:57,010
+The supply chain explanation masks a
+
+33
+00:01:57,010 --> 00:02:00,120
+deeper mismatch between Anthropic's public safety charter
+
+34
+00:02:00,300 --> 00:02:03,620
+and Pentagon requirements for direct weapons system integration.
+
+35
+00:02:04,110 --> 00:02:08,389
+OpenAI and Google now gain exclusive access to classified data streams
+
+36
+00:02:08,580 --> 00:02:12,160
+that will shape their next model fine tunes ahead of everyone else.
+
+37
+00:02:12,500 --> 00:02:16,559
+Anthropic must either carve out a defense subsidiary with separate governance
+
+38
+00:02:16,779 --> 00:02:21,039
+or accept permanent exclusion from the largest single AI buyer in the world.
+
+39
+00:02:21,380 --> 00:02:23,929
+Either path changes their roadmap and valuation
+
+40
+00:02:23,929 --> 00:02:26,279
+trajectory within the next 18 months.
+
+41
+00:02:27,720 --> 00:02:30,710
+Google finds first AI built zero day exploit.
+
+42
+00:02:31,039 --> 00:02:34,320
+Security teams now face exploits that AI wrote from scratch,
+
+43
+00:02:34,440 --> 00:02:35,619
+not just polished.
+
+44
+00:02:35,839 --> 00:02:39,940
+The real shift hits when every mid-tier group starts generating these at scale.
+
+45
+00:02:40,160 --> 00:02:43,419
+Expect zero day volume to double inside 12 months.
+
+46
+00:02:43,660 --> 00:02:46,300
+That compresses the patch window from weeks to days
+
+47
+00:02:46,440 --> 00:02:51,320
+and forces SOC tools to add real-time model scanning or lose their edge entirely.
+
+48
+00:02:51,740 --> 00:02:54,360
+One admin tool breach already shows the pattern,
+
+49
+00:02:54,589 --> 00:02:58,639
+and the next wave will target multi-factor flows across the board without warning.
+
+50
+00:02:59,630 --> 00:03:02,100
+Claude code adds agent view dashboard.
+
+51
+00:03:02,419 --> 00:03:05,880
+Parallel agent sessions just became manageable from one screen,
+
+52
+00:03:06,100 --> 00:03:10,380
+but the real test comes when those agents edit overlapping files at the same time.
+
+53
+00:03:10,740 --> 00:03:12,690
+Merge conflict rates will spike unless
+
+54
+00:03:12,690 --> 00:03:15,330
+the dashboard adds automatic coordination hooks.
+
+55
+00:03:15,660 --> 00:03:16,369
+Without that,
+
+56
+00:03:16,660 --> 00:03:19,449
+parallel work turns into coordination debt fast.
+
+57
+00:03:19,779 --> 00:03:23,770
+Rivals shipping single agent tools now have 6 months to match the orchestration
+
+58
+00:03:23,770 --> 00:03:26,779
+layer before .NET teams standardize on Claude's
+
+59
+00:03:26,779 --> 00:03:29,259
+view and stop switching contexts altogether.
+
+60
+00:03:30,110 --> 00:03:31,389
+Workday CEO
+
+61
+00:03:31,630 --> 00:03:32,880
+AI replaces labor,
+
+62
+00:03:32,990 --> 00:03:34,029
+not software.
+
+63
+00:03:34,270 --> 00:03:37,490
+Enterprise software budgets rarely shrink when AI arrives,
+
+64
+00:03:37,669 --> 00:03:39,610
+yet this stance keeps the core platform
+
+65
+00:03:39,610 --> 00:03:42,169
+untouched while trimming the people layer instead.
+
+66
+00:03:42,589 --> 00:03:44,330
+Large workday customers therefore
+
+67
+00:03:44,330 --> 00:03:47,070
+redirect transformation dollars toward internal
+
+68
+00:03:47,070 --> 00:03:49,990
+process bots rather than rip and replace projects.
+
+69
+00:03:50,380 --> 00:03:54,070
+That squeezes the services arms at Salesforce and Oracle first,
+
+70
+00:03:54,309 --> 00:03:56,830
+pushing them to cut implementation headcount before
+
+71
+00:03:56,830 --> 00:03:58,889
+their license streams feel any pressure.
+
+72
+00:03:59,369 --> 00:04:03,089
+The pattern repeats across HCM suites as buyers realize
+
+73
+00:04:03,089 --> 00:04:05,929
+the existing stack already contains the hooks they need.
+
+74
+00:04:07,899 --> 00:04:10,779
+Re-sharper adds AI agents to Visual Studio.
+
+75
+00:04:11,020 --> 00:04:13,660
+.net developers gain agents that refactor
+
+76
+00:04:13,660 --> 00:04:16,320
+across solutions without leaving Visual Studio.
+
+77
+00:04:16,540 --> 00:04:18,980
+Yet the second order effect appears in how quickly
+
+78
+00:04:18,980 --> 00:04:21,420
+jet brains can lock in that workflow data.
+
+79
+00:04:21,898 --> 00:04:25,178
+Microsoft now has until the full 2026.2
+
+80
+00:04:25,178 --> 00:04:28,039
+release to match agent depth inside co-pilot
+
+81
+00:04:28,158 --> 00:04:32,209
+or risk losing daily driver status among enterprise.net shops.
+
+82
+00:04:32,658 --> 00:04:36,158
+Teams testing the early access already report fewer handoffs,
+
+83
+00:04:36,299 --> 00:04:39,329
+accelerating the shift away from piecemeal extensions.
+
+84
+00:04:39,658 --> 00:04:41,699
+The lock-in potential grows each time an
+
+85
+00:04:41,699 --> 00:04:44,079
+agent learns the team's specific patterns.
+
+86
+00:04:45,799 --> 00:04:48,480
+AI product searches surge across ages.
+
+87
+00:04:48,839 --> 00:04:53,100
+Which age group actually converts fastest once AI surfaces the links?
+
+88
+00:04:53,440 --> 00:04:55,459
+Younger users click through immediately,
+
+89
+00:04:55,600 --> 00:04:58,119
+while older demographics still pause to verify
+
+90
+00:04:58,119 --> 00:05:00,440
+seller ratings and read reviews manually,
+
+91
+00:05:00,760 --> 00:05:03,040
+creating a measurable lag that retailers must now.
+
+92
+00:05:03,160 --> 00:05:05,750
+Engineer around with separate trust signals.
+
+93
+00:05:06,160 --> 00:05:08,519
+This split will push mid-market platforms to
+
+94
+00:05:08,519 --> 00:05:12,859
+deploy age-specific agent interfaces by early 2026
+
+95
+00:05:13,000 --> 00:05:15,739
+or lose share to Amazon's unified experience.
+
+96
+00:05:16,079 --> 00:05:20,440
+Older users will demand those extra steps or abandon the flow entirely.
+
+97
+00:05:21,089 --> 00:05:23,760
+OpenAI shares cyber model with EU.
+
+98
+00:05:24,049 --> 00:05:26,089
+Brussels now holds leverage that no other
+
+99
+00:05:26,089 --> 00:05:28,869
+jurisdiction has secured from a frontier lab.
+
+100
+00:05:29,130 --> 00:05:33,570
+OpenAI's move gives regulators direct testing rights on live cyber tools,
+
+101
+00:05:33,850 --> 00:05:37,709
+something competitors have avoided by staying silent on regional access.
+
+102
+00:05:38,005 --> 00:05:41,744
+This forces Anthropic to either open mythos under similar terms
+
+103
+00:05:41,924 --> 00:05:44,144
+or accept a shrinking European footprint
+
+104
+00:05:44,285 --> 00:05:47,005
+as enterprise customers migrate toward compliant
+
+105
+00:05:47,005 --> 00:05:48,704
+options within the next 12 months.
+
+106
+00:05:49,165 --> 00:05:50,704
+Labs that delay compliance
+
+107
+00:05:50,845 --> 00:05:54,825
+will hand OpenAI an uncontested lead in regulated sectors.
+
+108
+00:05:56,559 --> 00:05:59,579
+AWS Bedrock Agent Corp previews payments.
+
+109
+00:05:59,920 --> 00:06:02,600
+Agents handling payments will process their first million
+
+110
+00:06:02,600 --> 00:06:06,470
+transactions before most enterprises finish their security reviews.
+
+111
+00:06:06,880 --> 00:06:10,940
+Bedrock's preview lets agents bypass human approval loops entirely
+
+112
+00:06:11,079 --> 00:06:13,790
+when calling paid APIs through Stripe and Coinbase.
+
+113
+00:06:14,369 --> 00:06:16,459
+Watch what happens to the API margin
+
+114
+00:06:16,570 --> 00:06:19,570
+when this hits enterprise SLAs and forces
+
+115
+00:06:19,570 --> 00:06:22,399
+providers to pre-authorize autonomous spend limits,
+
+116
+00:06:22,410 --> 00:06:25,470
+or lose agent traffic to cheaper open endpoints.
+
+117
+00:06:25,730 --> 00:06:28,309
+The providers that set clean spend limits first
+
+118
+00:06:28,420 --> 00:06:31,209
+will capture the initial wave of agent-driven traffic.
+
+119
+00:06:32,720 --> 00:06:35,239
+AI pushes data centers to Europe's edge.
+
+120
+00:06:35,609 --> 00:06:36,769
+Power availability,
+
+121
+00:06:36,970 --> 00:06:38,160
+not land or fiber,
+
+122
+00:06:38,410 --> 00:06:42,769
+now dictates where the next wave of AI data centers can actually open in Europe.
+
+123
+00:06:43,059 --> 00:06:47,260
+The projected $7 trillion in spend will concentrate first around
+
+124
+00:06:47,260 --> 00:06:51,519
+existing hydro and nuclear sites rather than new greenfield builds.
+
+125
+00:06:51,850 --> 00:06:56,320
+That concentration accelerates renewable interconnection cues in Scandinavia,
+
+126
+00:06:56,500 --> 00:06:58,600
+while leaving Southern Europe grids strained
+
+127
+00:06:58,739 --> 00:07:04,160
+and pushing some inference workloads back to centralized US regions by late 2026.
+
+128
+00:07:04,459 --> 00:07:08,899
+Operators ignoring power constraints will hit permitting walls by 2027.
