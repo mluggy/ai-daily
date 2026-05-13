@@ -1,0 +1,491 @@
+1
+00:00:04,679 --> 00:00:08,010
+Korea proposes AI citizen dividend from profits.
+
+2
+00:00:08,319 --> 00:00:12,069
+Taxing the windfall sounds straightforward until you trace the supply chain.
+
+3
+00:00:12,520 --> 00:00:15,640
+Samsung's foundry margins could drop 3 points by next
+
+4
+00:00:15,640 --> 00:00:19,309
+summer if the levye hits 15% on overseas revenue.
+
+5
+00:00:19,709 --> 00:00:21,760
+That forces every Korean chip maker to
+
+6
+00:00:21,760 --> 00:00:24,649
+accelerate joint ventures in Vietnam and Texas
+
+7
+00:00:24,840 --> 00:00:27,030
+to book profits under different flags.
+
+8
+00:00:27,360 --> 00:00:30,200
+Smaller AI startups will incorporate in Singapore
+
+9
+00:00:30,200 --> 00:00:31,659
+before the bill reaches the floor.
+
+10
+00:00:32,080 --> 00:00:35,119
+The dividend checks citizens receive in 2027
+
+11
+00:00:35,279 --> 00:00:37,580
+will shrink once those structures are in place.
+
+12
+00:00:38,540 --> 00:00:41,330
+CME to launch first AI compute futures.
+
+13
+00:00:41,770 --> 00:00:46,290
+Volatility in GPU hours now exceeds anything seen in energy markets.
+
+14
+00:00:46,619 --> 00:00:50,330
+The new contracts let model trainers lock in rates six quarters out,
+
+15
+00:00:50,619 --> 00:00:53,700
+which immediately pressures every cloud operator to publish
+
+16
+00:00:53,700 --> 00:00:56,970
+public rate cards instead of negotiated backroom deals.
+
+17
+00:00:57,340 --> 00:01:00,360
+Microsoft and Google will have to match the future's benchmark
+
+18
+00:01:00,500 --> 00:01:03,060
+or watch smaller labs route workloads elsewhere.
+
+19
+00:01:03,619 --> 00:01:06,860
+This forces Amazon to either list its own futures or
+
+20
+00:01:06,860 --> 00:01:09,819
+absorb the basis risk on every large training run.
+
+21
+00:01:10,989 --> 00:01:14,760
+SAP rolls out autonomous enterprise AI agents.
+
+22
+00:01:15,040 --> 00:01:18,279
+Enterprise consultants have billed by the hour for decades
+
+23
+00:01:18,290 --> 00:01:21,180
+on exactly the workflows these agents now claim.
+
+24
+00:01:21,519 --> 00:01:23,550
+Once the hub connects to live ledgers,
+
+25
+00:01:23,879 --> 00:01:28,000
+finance teams will cancel recurring optimization projects mid-contract.
+
+26
+00:01:28,500 --> 00:01:31,099
+That leaves Accenture and Deloitte with one option,
+
+27
+00:01:31,339 --> 00:01:33,599
+pivot to custom agent orchestration
+
+28
+00:01:33,779 --> 00:01:36,569
+or lose the recurring revenue line entirely.
+
+29
+00:01:36,900 --> 00:01:39,629
+Clients testing the platform report closing month-end
+
+30
+00:01:39,629 --> 00:01:41,680
+books without a single support ticket,
+
+31
+00:01:41,940 --> 00:01:44,129
+which sets a dangerous precedent for every
+
+32
+00:01:44,129 --> 00:01:47,599
+systems integrator still quoting six-month implementations.
+
+33
+00:01:48,819 --> 00:01:52,650
+OpenAI launches Daybreak for AI cybersecurity.
+
+34
+00:01:53,019 --> 00:01:57,970
+Most vulnerability tools still separate static analysis from live monitoring.
+
+35
+00:01:58,339 --> 00:02:00,919
+Daybreak collapses both into a single loop
+
+36
+00:02:01,059 --> 00:02:04,120
+that ships patches directly into production pipelines.
+
+37
+00:02:04,500 --> 00:02:06,839
+That compresses the window between discovery
+
+38
+00:02:06,940 --> 00:02:09,399
+and remediation from days to minutes.
+
+39
+00:02:09,740 --> 00:02:12,880
+This forces CrowdStrike to match the remediation speed
+
+40
+00:02:13,020 --> 00:02:16,139
+or lose its mid-market wedge by Q3 next year.
+
+41
+00:02:16,740 --> 00:02:20,460
+Banks and hospitals under strict SLAs will test it first,
+
+42
+00:02:20,820 --> 00:02:25,039
+because the cost of one missed zero day now exceeds the platform fee.
+
+43
+00:02:26,580 --> 00:02:29,429
+Google disrupts criminal AI hacking operation.
+
+44
+00:02:29,809 --> 00:02:34,119
+Security vendors now race against their own customers to close the offensive gap.
+
+45
+00:02:34,529 --> 00:02:38,570
+Google's operation showed a single AI model chaining zero days across
+
+46
+00:02:38,570 --> 00:02:42,610
+unrelated code bases faster than any legacy scanner could flag them.
+
+47
+00:02:43,190 --> 00:02:45,190
+This forces CrowdStrike to integrate
+
+48
+00:02:45,190 --> 00:02:48,210
+generative exploit simulation within 18 months
+
+49
+00:02:48,350 --> 00:02:51,539
+or lose the mid-market wedge to open source alternatives.
+
+50
+00:02:52,029 --> 00:02:56,309
+CISOs will start requiring offensive AI clauses in every SLA,
+
+51
+00:02:56,669 --> 00:02:59,690
+flipping evaluations from defense coverage metrics
+
+52
+00:02:59,690 --> 00:03:01,669
+to attack surface parity tests.
+
+53
+00:03:02,529 --> 00:03:05,869
+Zuckerberg announces Meta Conn 2026 event.
+
+54
+00:03:06,360 --> 00:03:09,720
+The 2026 timing quietly concedes spatial compute
+
+55
+00:03:09,720 --> 00:03:11,990
+leadership to Apple for another cycle.
+
+56
+00:03:12,440 --> 00:03:15,559
+Developers will prioritize Vision Pro tooling until Meta
+
+57
+00:03:15,559 --> 00:03:18,580
+ships lighter hardware with comparable field of view.
+
+58
+00:03:19,000 --> 00:03:22,940
+This forces Apple to either cut Vision Pro pricing ahead of the event
+
+59
+00:03:23,169 --> 00:03:25,880
+or watch its app ecosystem advantage erode
+
+60
+00:03:25,880 --> 00:03:28,559
+once Meta's lower cost headset reaches stores.
+
+61
+00:03:29,179 --> 00:03:34,089
+Watch the 2025 developer survey numbers for early signs of platform fatigue.
+
+62
+00:03:34,479 --> 00:03:36,809
+Enterprise pilots already show preference for
+
+63
+00:03:36,809 --> 00:03:39,330
+lighter form factors over raw resolution.
+
+64
+00:03:41,070 --> 00:03:41,720
+Gallup,
+
+65
+00:03:41,990 --> 00:03:44,820
+Young Americans pessimistic on AI jobs.
+
+66
+00:03:45,149 --> 00:03:48,830
+That 57% figure understates how quickly trade programs
+
+67
+00:03:48,830 --> 00:03:51,690
+will siphon talent from computer science departments.
+
+68
+00:03:52,029 --> 00:03:55,309
+AI automation fears are accelerating enrollment shifts
+
+69
+00:03:55,309 --> 00:03:57,330
+already visible in community college data.
+
+70
+00:03:58,089 --> 00:04:01,050
+This leaves OpenAI and its peers competing for a
+
+71
+00:04:01,050 --> 00:04:04,669
+shrinking pool of graduates who still choose software roles.
+
+72
+00:04:04,970 --> 00:04:08,330
+Expect starting salaries in non-AI engineering tracks to
+
+73
+00:04:08,330 --> 00:04:12,029
+rise faster than model training budgets through 2026.
+
+74
+00:04:12,369 --> 00:04:15,149
+The first firms to partner with vocational platforms
+
+75
+00:04:15,289 --> 00:04:18,649
+will secure the only reliable source of prompt adjacent talent.
+
+76
+00:04:20,019 --> 00:04:21,040
+Goldman Sachs,
+
+77
+00:04:21,250 --> 00:04:23,619
+AI to reshape workforce processes.
+
+78
+00:04:23,910 --> 00:04:27,989
+Process automation at Goldman will compress advisory fees
+
+79
+00:04:27,989 --> 00:04:30,570
+before it trims any managing director roster.
+
+80
+00:04:30,869 --> 00:04:33,609
+Clients running identical workflow models in-house
+
+81
+00:04:33,750 --> 00:04:37,829
+will demand lower retainers once their own outputs match the bank's decks.
+
+82
+00:04:38,190 --> 00:04:40,489
+This forces every bulge bracket firm
+
+83
+00:04:40,630 --> 00:04:44,130
+to either bundle proprietary data access with the AI tooling
+
+84
+00:04:44,269 --> 00:04:47,890
+or watch project-based revenue migrate to consulting boutiques.
+
+85
+00:04:48,230 --> 00:04:51,709
+Expect their data advantage priced at zero within 2 years.
+
+86
+00:04:53,089 --> 00:04:55,649
+Trump Xi summit to tackle AI safety.
+
+87
+00:04:56,089 --> 00:04:59,089
+Beijing talks center less on shared safety standards
+
+88
+00:04:59,250 --> 00:05:03,329
+and more on locking current chip export rules into a multi-year framework.
+
+89
+00:05:03,730 --> 00:05:06,130
+That timeline pushes Chinese model builders
+
+90
+00:05:06,130 --> 00:05:08,529
+to commit billions to domestic silicon
+
+91
+00:05:08,769 --> 00:05:10,850
+they know will trail by at least 18 months.
+
+92
+00:05:11,885 --> 00:05:14,065
+US cloud providers now have until late
+
+93
+00:05:14,065 --> 00:05:18,334
+2026 to secure alternative capacity in allied nations
+
+94
+00:05:18,515 --> 00:05:20,515
+or watch inference workloads migrate to
+
+95
+00:05:20,515 --> 00:05:22,984
+whatever hardware China can produce locally,
+
+96
+00:05:23,244 --> 00:05:26,035
+raising costs for global enterprise deployments.
+
+97
+00:05:27,839 --> 00:05:31,619
+SoftBank Ey's 100 billion France AI data center.
+
+98
+00:05:32,040 --> 00:05:35,160
+French nuclear capacity suddenly looks undersized once
+
+99
+00:05:35,160 --> 00:05:37,339
+training runs at this scale come online.
+
+100
+00:05:37,799 --> 00:05:41,459
+Masayoshi Son's project locks up long-term power contracts
+
+101
+00:05:41,600 --> 00:05:44,380
+that local industry has counted on for years.
+
+102
+00:05:44,679 --> 00:05:48,709
+AI startups now compete directly with the data center for megawatts,
+
+103
+00:05:48,880 --> 00:05:51,720
+driving electricity prices higher across the grid.
+
+104
+00:05:52,220 --> 00:05:55,670
+Existing cloud operators must prepay for capacity or
+
+105
+00:05:55,670 --> 00:05:58,049
+risk getting priced out when the facility opens,
+
+106
+00:05:58,239 --> 00:06:01,649
+accelerating relocation talks to Nordic Hydro sites.
+
+107
+00:06:03,109 --> 00:06:06,570
+OpenAI adds more images to free chat GPT.
+
+108
+00:06:07,059 --> 00:06:11,769
+Free tier users gain inline web images without hitting any stated daily cap,
+
+109
+00:06:11,989 --> 00:06:16,450
+closing the feature gap that once justified the plus subscription for light users.
+
+110
+00:06:17,119 --> 00:06:22,170
+EPA AI must now accelerate enterprise-only tools such as custom GPT stores
+
+111
+00:06:22,350 --> 00:06:25,809
+and advanced connectors to protect average revenue per user.
+
+112
+00:06:26,070 --> 00:06:26,609
+Otherwise,
+
+113
+00:06:26,940 --> 00:06:28,450
+casual churn flattens,
+
+114
+00:06:28,589 --> 00:06:32,010
+while compute costs for image generation keep climbing through the summer.
+
+115
+00:06:33,100 --> 00:06:35,890
+AI trade to reward investors for years.
+
+116
+00:06:36,170 --> 00:06:38,980
+Returns stay elevated only while Nvidia controls
+
+117
+00:06:38,980 --> 00:06:41,609
+the only viable training hardware at scale.
+
+118
+00:06:42,019 --> 00:06:44,600
+Once alternative accelerators clear reliability
+
+119
+00:06:44,600 --> 00:06:46,609
+thresholds in enterprise pilots,
+
+120
+00:06:46,799 --> 00:06:49,339
+gross margins on the chip side compress,
+
+121
+00:06:49,540 --> 00:06:51,820
+even if unit volumes keep rising.
+
+122
+00:06:52,179 --> 00:06:56,160
+Application layer companies already face usage-based pricing pressure
+
+123
+00:06:56,299 --> 00:06:58,739
+that current forecasts have not yet priced in.

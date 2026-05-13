@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 12 May 2026 20:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:32:08 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -172,6 +172,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e8.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Korea AI Dividend, CME Futures &amp; SAP Agents</title>
+      <description>South Korea considers AI profit dividends for citizens, CME announces compute futures for AI hedging, SAP introduces autonomous AI agents for business operations, with OpenAI cybersecurity tools, youth job polls and more.</description>
+      <link>{{SITE_URL}}/9</link>
+      <guid isPermaLink="false">s2026e9</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e9.mp3" length="10170107" type="audio/mpeg" />
+      <itunes:summary>South Korea considers AI profit dividends for citizens, CME announces compute futures for AI hedging, SAP introduces autonomous AI agents for business operations, with OpenAI cybersecurity tools, youth job polls and more.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:03</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e9.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e9.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
