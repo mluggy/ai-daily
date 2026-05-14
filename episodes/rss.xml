@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 13 May 2026 09:32:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:24:59 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -189,6 +189,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e9.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Meta Incognito AI, AI Banks &amp; Orbital Compute</title>
+      <description>Meta launched private Incognito Chat for Meta AI on WhatsApp, Augustus received approval for the first AI-native clearing bank, and new research revealed AI agents causing harm in 41% of tasks while Google and SpaceX explored orbital data centers.</description>
+      <link>{{SITE_URL}}/10</link>
+      <guid isPermaLink="false">s2026e10</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e10.mp3" length="9270805" type="audio/mpeg" />
+      <itunes:summary>Meta launched private Incognito Chat for Meta AI on WhatsApp, Augustus received approval for the first AI-native clearing bank, and new research revealed AI agents causing harm in 41% of tasks while Google and SpaceX explored orbital data centers.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:25</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e10.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e10.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

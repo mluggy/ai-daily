@@ -3,11 +3,11 @@ episodes:
     size: 9084418
     season: 2026
     title: 'OpenAI Ads, Apple Choices, Meta Agents: May AI'
-    description: This episode examines OpenAI's self-serve ChatGPT advertising 
-      platform targeting billions in revenue, Apple's Extensions allowing 
-      third-party AI model selection in iOS 27, and Meta's agentic assistant 
-      with Instagram shopping integration, alongside Anthropic's Wall Street 
-      deployment venture and SpaceX compute deal plus stablecoin agent payments.
+    description: This episode examines OpenAI's self-serve ChatGPT advertising platform
+      targeting billions in revenue, Apple's Extensions allowing third-party AI model
+      selection in iOS 27, and Meta's agentic assistant with Instagram shopping integration,
+      alongside Anthropic's Wall Street deployment venture and SpaceX compute deal
+      plus stablecoin agent payments.
     cost: 1.5652
     duration: 06:18
     date: '2026-04-30'
@@ -15,11 +15,11 @@ episodes:
     size: 9378747
     season: 2026
     title: Pentagon AI Deals, Agent Hijacks & GPT Surprises
-    description: This episode covers the Pentagon's classified AI agreements 
-      with Nvidia, Microsoft and AWS; Google's warnings on hidden web commands 
-      hijacking AI agents; Meta's humanoid robotics acquisition; Oxford research
-      on overly friendly AI errors; and OpenAI's GPT-5.4 surpassing humans in 
-      autonomous tasks, plus related lawsuit updates.
+    description: This episode covers the Pentagon's classified AI agreements with
+      Nvidia, Microsoft and AWS; Google's warnings on hidden web commands hijacking
+      AI agents; Meta's humanoid robotics acquisition; Oxford research on overly friendly
+      AI errors; and OpenAI's GPT-5.4 surpassing humans in autonomous tasks, plus
+      related lawsuit updates.
     cost: 1.7576
     duration: 06:30
     date: '2026-05-01'
@@ -27,9 +27,9 @@ episodes:
     size: 9248840
     season: 2026
     title: US AI Tests, Agent Payments & Wall Street Agents
-    description: This episode covers US pre-release AI model testing agreements,
-      Anthropic's financial agents launch, and AWS-enabled autonomous agent 
-      payments, plus new models and funding rounds.
+    description: This episode covers US pre-release AI model testing agreements, Anthropic's
+      financial agents launch, and AWS-enabled autonomous agent payments, plus new
+      models and funding rounds.
     cost: 1.1766
     duration: 06:24
     date: '2026-05-04'
@@ -37,11 +37,10 @@ episodes:
     size: 9283984
     season: 2026
     title: Anthropic $200B Deal, AI Layoffs & UAE Agentic Push
-    description: This episode covers Anthropic's record $200 billion Google 
-      Cloud commitment that briefly overtook Nvidia in market value, Coinbase 
-      and PayPal's AI-driven layoffs of thousands, and the UAE's plan to 
-      automate half its government with agentic AI, alongside Chinese model 
-      advances and new agent tools.
+    description: This episode covers Anthropic's record $200 billion Google Cloud
+      commitment that briefly overtook Nvidia in market value, Coinbase and PayPal's
+      AI-driven layoffs of thousands, and the UAE's plan to automate half its government
+      with agentic AI, alongside Chinese model advances and new agent tools.
     cost: 1.3848
     duration: 06:26
     date: '2026-05-05'
@@ -49,10 +48,10 @@ episodes:
     size: 10750605
     season: 2026
     title: AI Funding Surge, Chatbot Lawsuit & Agent Tools
-    description: Covers Sierra's $950M raise for enterprise AI customer agents, 
-      Pennsylvania's lawsuit against Character.AI for doctor impersonation, 
-      PayPal's $1.5B AI-driven restructuring, plus advances in video generation,
-      agent governance and coding pricing.
+    description: Covers Sierra's $950M raise for enterprise AI customer agents, Pennsylvania's
+      lawsuit against Character.AI for doctor impersonation, PayPal's $1.5B AI-driven
+      restructuring, plus advances in video generation, agent governance and coding
+      pricing.
     cost: 1.7851
     duration: 07:27
     date: '2026-05-06'
@@ -60,11 +59,11 @@ episodes:
     size: 11053719
     season: 2026
     title: EU Dilutes AI Rules, Agent Launches & Revenue Hits
-    description: This episode covers the EU's agreement to dilute and delay AI 
-      Act rules, OpenAI's Trusted Contact rollout and Voice API launch, Google's
-      testing of the Remy agent, Meta's agentic assistant development, Coder's 
-      enterprise agent launch, ElevenLabs reaching $500M ARR, SAP's $1.18B AI 
-      lab plans, and OpenAI-Oracle supercluster deal.
+    description: This episode covers the EU's agreement to dilute and delay AI Act
+      rules, OpenAI's Trusted Contact rollout and Voice API launch, Google's testing
+      of the Remy agent, Meta's agentic assistant development, Coder's enterprise
+      agent launch, ElevenLabs reaching $500M ARR, SAP's $1.18B AI lab plans, and
+      OpenAI-Oracle supercluster deal.
     cost: 1.1846
     duration: 07:40
     date: '2026-05-07'
@@ -72,11 +71,11 @@ episodes:
     size: 10867333
     season: 2026
     title: Agent Payments, iOS AI Picks & DeepSeek Billions
-    description: OpenAI rolls out ChatGPT self-serve ads, Amazon enables AI 
-      agent stablecoin payments with Coinbase and Stripe, Apple introduces 
-      third-party model choice on iOS 27, Anthropic lands SpaceX compute and 
-      Wall Street deployment deals, Microsoft Agent 365 reaches general 
-      availability, and DeepSeek targets $50 billion valuation.
+    description: OpenAI rolls out ChatGPT self-serve ads, Amazon enables AI agent
+      stablecoin payments with Coinbase and Stripe, Apple introduces third-party model
+      choice on iOS 27, Anthropic lands SpaceX compute and Wall Street deployment
+      deals, Microsoft Agent 365 reaches general availability, and DeepSeek targets
+      $50 billion valuation.
     date: '2026-05-11'
     cost: 1.4732
     duration: 07:32
@@ -84,10 +83,10 @@ episodes:
     size: 10417367
     season: 2026
     title: Cerebras $4.8B IPO, Anthropic Boom & AI Zero-Day
-    description: Covers Cerebras upsizing its IPO to $4.8 billion, Anthropic 
-      revealing 80x Q1 revenue growth with $44 billion ARR, OpenAI launching a 
-      $4 billion-backed deployment company, Pentagon signing AI deals excluding 
-      Anthropic, and Google detecting the first AI-developed zero-day exploit.
+    description: Covers Cerebras upsizing its IPO to $4.8 billion, Anthropic revealing
+      80x Q1 revenue growth with $44 billion ARR, OpenAI launching a $4 billion-backed
+      deployment company, Pentagon signing AI deals excluding Anthropic, and Google
+      detecting the first AI-developed zero-day exploit.
     date: '2026-05-12'
     cost: 1.871
     duration: 07:13
@@ -95,19 +94,20 @@ episodes:
     size: 10170107
     season: 2026
     title: Korea AI Dividend, CME Futures & SAP Agents
-    description: South Korea considers AI profit dividends for citizens, CME 
-      announces compute futures for AI hedging, SAP introduces autonomous AI 
-      agents for business operations, with OpenAI cybersecurity tools, youth job
-      polls and more.
+    description: South Korea considers AI profit dividends for citizens, CME announces
+      compute futures for AI hedging, SAP introduces autonomous AI agents for business
+      operations, with OpenAI cybersecurity tools, youth job polls and more.
     date: '2026-05-13'
     cost: 1.719
     duration: 07:03
   10:
+    size: 9270805
     season: 2026
     title: Meta Incognito AI, AI Banks & Orbital Compute
-    description: Meta launched private Incognito Chat for Meta AI on WhatsApp, 
-      Augustus received approval for the first AI-native clearing bank, and new 
-      research revealed AI agents causing harm in 41% of tasks while Google and 
-      SpaceX explored orbital data centers.
+    description: Meta launched private Incognito Chat for Meta AI on WhatsApp, Augustus
+      received approval for the first AI-native clearing bank, and new research revealed
+      AI agents causing harm in 41% of tasks while Google and SpaceX explored orbital
+      data centers.
     date: '2026-05-14'
     cost: 1.5578
+    duration: 06:25

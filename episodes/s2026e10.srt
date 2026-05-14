@@ -1,0 +1,471 @@
+1
+00:00:04,659 --> 00:00:08,159
+Meta launches private Incognito AI chats on WhatsApp.
+
+2
+00:00:08,500 --> 00:00:11,319
+Incognito chats split the data pool in two.
+
+3
+00:00:11,619 --> 00:00:14,060
+Public conversations lose their edge for training,
+
+4
+00:00:14,300 --> 00:00:16,239
+while private ones stay locked away,
+
+5
+00:00:16,379 --> 00:00:19,559
+slowing overall model progress by 6 months or more.
+
+6
+00:00:19,860 --> 00:00:23,959
+Smaller labs gain ground on specialized domains where scale once ruled.
+
+7
+00:00:24,305 --> 00:00:26,665
+Expect Anthropic to lean harder into synthetic
+
+8
+00:00:26,665 --> 00:00:28,965
+data generation as a direct response.
+
+9
+00:00:29,225 --> 00:00:32,104
+OpenAI will likely follow with its own private mode
+
+10
+00:00:32,104 --> 00:00:35,404
+to keep large customers from defecting over data concerns.
+
+11
+00:00:35,744 --> 00:00:38,805
+Augustus approved as first AI native clearing Bank.
+
+12
+00:00:39,064 --> 00:00:41,784
+Clearing stable coins with AI decisions flips
+
+13
+00:00:41,784 --> 00:00:43,924
+the risk model regulators usually demand.
+
+14
+00:00:44,319 --> 00:00:48,279
+Augustus now has to prove its models won't trigger systemic runs,
+
+15
+00:00:48,360 --> 00:00:52,680
+a bar that will likely delay full operations until early 2026.
+
+16
+00:00:52,919 --> 00:00:53,720
+In the meantime,
+
+17
+00:00:54,009 --> 00:00:56,959
+Circle and Tether face pressure to publish their own AI
+
+18
+00:00:56,959 --> 00:01:00,590
+governance frameworks or watch volume migrate to the new charter.
+
+19
+00:01:00,939 --> 00:01:03,799
+Payment networks must match that transparency bar inside
+
+20
+00:01:03,799 --> 00:01:06,599
+12 months or lose AI transaction volume.
+
+21
+00:01:07,190 --> 00:01:11,379
+Circle and Tether face pressure to publish their own AI governance frameworks.
+
+22
+00:01:11,790 --> 00:01:12,569
+New study,
+
+23
+00:01:12,790 --> 00:01:15,940
+AI agents harm tasks 41% of the time.
+
+24
+00:01:16,309 --> 00:01:20,010
+Damage rates this high kill trust faster than benchmarks improve.
+
+25
+00:01:20,190 --> 00:01:24,120
+Enterprises will keep agents in read-only mode for the next 18 months,
+
+26
+00:01:24,339 --> 00:01:24,589
+delaying.
+
+27
+00:01:24,694 --> 00:01:28,184
+The autonomous workflows vendors promised for 2025.
+
+28
+00:01:28,544 --> 00:01:31,944
+That stall hands incumbents like UI Path breathing room to bolt
+
+29
+00:01:31,944 --> 00:01:35,885
+on verification steps before open source alternatives eat their lunch.
+
+30
+00:01:36,144 --> 00:01:40,764
+Expect contract language to require full replay logs on every agent action
+
+31
+00:01:40,894 --> 00:01:42,184
+once budget's reset.
+
+32
+00:01:42,739 --> 00:01:45,889
+Google and SpaceX plan orbital AI data centers.
+
+33
+00:01:46,220 --> 00:01:49,580
+Power constraints on Earth make orbital data centers inevitable,
+
+34
+00:01:49,779 --> 00:01:53,370
+yet round trip delays will confine them to batch processing only.
+
+35
+00:01:53,660 --> 00:01:56,120
+Real-time agent responses stay planet-side,
+
+36
+00:01:56,300 --> 00:01:59,400
+which means Google gains cost advantage on training runs,
+
+37
+00:01:59,540 --> 00:02:01,569
+while inference margins stay flat.
+
+38
+00:02:01,819 --> 00:02:05,139
+AWS now has to decide between its own satellite deals
+
+39
+00:02:05,139 --> 00:02:07,699
+or watching Google pull ahead on large model economic.
+
+40
+00:02:08,145 --> 00:02:09,345
+Inside 2 years.
+
+41
+00:02:09,663 --> 00:02:14,134
+Microsoft faces the same fork if it wants to keep pace on frontier model costs.
+
+42
+00:02:14,625 --> 00:02:17,764
+China pushes humanoid robot advances in AI race.
+
+43
+00:02:17,945 --> 00:02:22,005
+Recovery from falls on uneven ground signals more than hardware tweaks.
+
+44
+00:02:22,184 --> 00:02:24,945
+The real acceleration comes from integrated perception
+
+45
+00:02:24,945 --> 00:02:27,604
+models that Chinese labs are iterating weekly.
+
+46
+00:02:27,865 --> 00:02:30,264
+Expect this to compress the timeline for commercial
+
+47
+00:02:30,264 --> 00:02:32,904
+deployments in logistics by early next year.
+
+48
+00:02:33,240 --> 00:02:37,309
+That shift pressures US integrators to either license the control software
+
+49
+00:02:37,429 --> 00:02:39,960
+or lose bids on Asian fulfillment centers.
+
+50
+00:02:40,289 --> 00:02:44,289
+Scale matters here because each successful test run feeds directly into
+
+51
+00:02:44,289 --> 00:02:48,009
+production data loops that Western teams still run in simulation.
+
+52
+00:02:49,350 --> 00:02:52,520
+Tech CEOs head to Trump G Summit on AI.
+
+53
+00:02:52,880 --> 00:02:55,470
+Supply chain talks mask the real tension over
+
+54
+00:02:55,470 --> 00:02:58,880
+export licenses that could reshape GPU flows.
+
+55
+00:02:59,110 --> 00:03:01,729
+Nvidia walks in with leverage from current demand,
+
+56
+00:03:02,070 --> 00:03:05,630
+yet any agreement risks locking in volume caps that hit its data center.
+
+57
+00:03:05,854 --> 00:03:06,925
+Margins hardest.
+
+58
+00:03:07,214 --> 00:03:11,494
+The outcome will push Apple toward custom silicon timelines it had hoped to delay.
+
+59
+00:03:11,815 --> 00:03:15,524
+Watch for follow-on moves where Tesla accelerates its dojo cluster
+
+60
+00:03:15,524 --> 00:03:18,794
+builds to reduce reliance on the same restricted pipelines.
+
+61
+00:03:19,095 --> 00:03:22,235
+Those shifts hit revenue forecasts faster than tariffs alone.
+
+62
+00:03:22,895 --> 00:03:26,375
+UCF grads boost Speaker over AI Revolution claim.
+
+63
+00:03:26,654 --> 00:03:30,095
+Rejection of the Industrial Revolution framing reveals graduates
+
+64
+00:03:30,095 --> 00:03:33,774
+tracking displacement data more closely than faculty expected.
+
+65
+00:03:34,009 --> 00:03:36,490
+The speaker's claim overlooked how AI tooling
+
+66
+00:03:36,490 --> 00:03:39,660
+compresses entry-level coding roles within 2 years.
+
+67
+00:03:39,970 --> 00:03:43,729
+That realization will force curriculum committees at similar schools to expand
+
+68
+00:03:43,729 --> 00:03:48,020
+cybersecurity and robotics maintenance tracks before the next admission cycle.
+
+69
+00:03:48,289 --> 00:03:48,809
+Otherwise,
+
+70
+00:03:48,850 --> 00:03:52,729
+enrollment in traditional computer science drops as students self-select
+
+71
+00:03:52,729 --> 00:03:55,399
+into fields less exposed to model fine tuning.
+
+72
+00:03:55,690 --> 00:03:57,809
+Retention numbers will tell the story first.
+
+73
+00:03:58,210 --> 00:04:01,360
+AI boom fuels veteran hiring for data centers.
+
+74
+00:04:01,529 --> 00:04:04,850
+Exploding power loads from training clusters create immediate
+
+75
+00:04:04,850 --> 00:04:08,000
+demand for technicians who already hold security clearances.
+
+76
+00:04:08,330 --> 00:04:10,889
+Salute's focus on veterans fills that gap without
+
+77
+00:04:10,889 --> 00:04:13,479
+the usual 18 month ramp for new hires.
+
+78
+00:04:13,759 --> 00:04:16,709
+The move will compel larger players like Digital Realty
+
+79
+00:04:16,829 --> 00:04:21,048
+to launch parallel programs or face delays on government adjacent contracts.
+
+80
+00:04:21,369 --> 00:04:23,570
+Hiring velocity becomes the bottleneck once
+
+81
+00:04:23,570 --> 00:04:26,160
+rack density exceeds current staffing models.
+
+82
+00:04:26,489 --> 00:04:27,130
+Those who copy.
+
+83
+00:04:27,225 --> 00:04:30,204
+Approach late will pay premium salaries to catch up.
+
+84
+00:04:30,554 --> 00:04:33,304
+Activists warns of AI data center backlash.
+
+85
+00:04:33,625 --> 00:04:36,654
+Local pushback is moving faster than the build out schedules.
+
+86
+00:04:36,945 --> 00:04:39,744
+Counties in Virginia and Texas now require full
+
+87
+00:04:39,744 --> 00:04:42,704
+environmental and grid studies before new substations.
+
+88
+00:04:42,975 --> 00:04:45,295
+That timeline alone adds 14 months.
+
+89
+00:04:45,575 --> 00:04:48,704
+Microsoft will have to renegotiate power purchase agreements
+
+90
+00:04:48,704 --> 00:04:50,924
+or shift capacity to Canada and Ireland.
+
+91
+00:04:51,415 --> 00:04:53,505
+Smaller labs feel the squeeze first as
+
+92
+00:04:53,505 --> 00:04:56,144
+their margins lack the buffer hyperscalers enjoy.
+
+93
+00:04:56,760 --> 00:05:00,100
+BBVA joins OpenAI deployment Company as partner.
+
+94
+00:05:00,649 --> 00:05:04,880
+BBVA's seat at the table changes the pricing dynamic for everyone else.
+
+95
+00:05:05,200 --> 00:05:08,320
+Banks now expect the same data residency guarantees and
+
+96
+00:05:08,320 --> 00:05:11,269
+audit logs that the deployment company just standardized.
+
+97
+00:05:11,549 --> 00:05:15,679
+That requirement alone will force Anthropic and Google to build equivalent
+
+98
+00:05:15,679 --> 00:05:19,029
+controls within 9 months or lose the next round of RFPs.
+
+99
+00:05:19,320 --> 00:05:21,619
+Smaller fintechs face a starker choice
+
+100
+00:05:21,760 --> 00:05:25,079
+adopt the stack or get cut out of the agent pilots entirely.
+
+101
+00:05:25,510 --> 00:05:28,910
+Agentic paradox spotlights AI autonomy risks.
+
+102
+00:05:29,230 --> 00:05:32,339
+Most coverage treats the paradox as a sci-fi footnote.
+
+103
+00:05:32,619 --> 00:05:36,670
+Enterprises running agents at scale will instead hit it through cost overruns
+
+104
+00:05:36,670 --> 00:05:38,070
+when an agent books the cheapest
+
+105
+00:05:38,070 --> 00:05:41,079
+vendor that later triggers compliance violations.
+
+106
+00:05:41,309 --> 00:05:44,250
+That pattern repeats across procurement and logistics.
+
+107
+00:05:44,429 --> 00:05:47,250
+Insurers are already drafting exclusions for autonomous
+
+108
+00:05:47,250 --> 00:05:49,619
+actions that lack human override logs.
+
+109
+00:05:49,899 --> 00:05:53,309
+Premiums will rise fastest for firms that skip those guardrails.
+
+110
+00:05:53,635 --> 00:05:56,924
+Orbital Compute eye's $1 trillion AI opportunity.
+
+111
+00:05:57,225 --> 00:06:00,614
+Power and cooling constraints on Earth just became the limiting factor,
+
+112
+00:06:00,864 --> 00:06:01,894
+not chip supply.
+
+113
+00:06:02,174 --> 00:06:06,065
+Orbital designs sidestep both by radiating heat directly into space
+
+114
+00:06:06,065 --> 00:06:09,125
+and drawing from solar arrays that never hit grid limits.
+
+115
+00:06:09,385 --> 00:06:12,174
+That advantage arrives faster than most forecasts.
+
+116
+00:06:12,505 --> 00:06:16,785
+Nvidia will need to ship radiation hardened GPUs within 3 years or cede
+
+117
+00:06:16,785 --> 00:06:18,545
+the high margin orbital segment to
+
+118
+00:06:18,545 --> 00:06:21,234
+startups already raising for dedicated foundries.
