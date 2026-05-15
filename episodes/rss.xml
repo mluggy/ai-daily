@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Thu, 14 May 2026 09:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:32:57 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -206,6 +206,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e10.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Anthropic Gates Pact, xAI Agent &amp; AI Infra Surge</title>
+      <description>Anthropic and the Gates Foundation committed $200 million to AI applications in health, education and economic mobility. xAI released Grok Build early beta coding agent. Exaforce closed $125 million Series B for AI cybersecurity while Emburse and Xactly launched new autonomous agents.</description>
+      <link>{{SITE_URL}}/11</link>
+      <guid isPermaLink="false">s2026e11</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e11.mp3" length="9255744" type="audio/mpeg" />
+      <itunes:summary>Anthropic and the Gates Foundation committed $200 million to AI applications in health, education and economic mobility. xAI released Grok Build early beta coding agent. Exaforce closed $125 million Series B for AI cybersecurity while Emburse and Xactly launched new autonomous agents.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:25</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e11.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e11.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

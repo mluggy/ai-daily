@@ -1,0 +1,451 @@
+1
+00:00:04,460 --> 00:00:05,329
+Anthropic,
+
+2
+00:00:05,380 --> 00:00:08,229
+Gates Foundation pledged $200 million for AIG.
+
+3
+00:00:08,939 --> 00:00:11,729
+The real leverage in the Gates deal sits in the data rights,
+
+4
+00:00:11,859 --> 00:00:13,270
+not the $200 million.
+
+5
+00:00:13,500 --> 00:00:17,100
+Anthropic gains early training access to health data sets that will force
+
+6
+00:00:17,100 --> 00:00:20,840
+every other lab to negotiate similar public-private terms within a year.
+
+7
+00:00:21,260 --> 00:00:24,770
+OpenAI must now decide whether to build its own foundation arm
+
+8
+00:00:24,879 --> 00:00:26,549
+or pay for derivative access.
+
+9
+00:00:26,829 --> 00:00:29,299
+This quietly pulls alignment talent into applied
+
+10
+00:00:29,299 --> 00:00:31,649
+domains faster than any benchmark release.
+
+11
+00:00:31,909 --> 00:00:35,330
+Watch compute budgets tilt toward medical fine tunes by next summer.
+
+12
+00:00:35,889 --> 00:00:40,990
+Watching Kesta Force raises $125 million Series B for AI security.
+
+13
+00:00:41,290 --> 00:00:43,650
+Xa Force's new capital targets live
+
+14
+00:00:43,650 --> 00:00:46,639
+security operations instead of post-incident forensics.
+
+15
+00:00:46,930 --> 00:00:50,319
+That focus compresses detection windows from hours to seconds,
+
+16
+00:00:50,490 --> 00:00:54,279
+which legacy platforms cannot match without rewriting their core engines.
+
+17
+00:00:54,560 --> 00:00:57,290
+CrowdStrike and Sentinel 1 now need to ship comparable
+
+18
+00:00:57,290 --> 00:01:00,810
+agent swarms or watch mid-market share erode by Q4.
+
+19
+00:01:01,099 --> 00:01:04,300
+The trajectory suggests most SOC budgets will shift from
+
+20
+00:01:04,300 --> 00:01:08,000
+licenses to outcome-based AI contracts within 18 months.
+
+21
+00:01:08,239 --> 00:01:12,010
+Expect procurement cycles to shorten once pilots prove the gains.
+
+22
+00:01:12,419 --> 00:01:15,400
+XAI launches Grok-billed coding agent beta.
+
+23
+00:01:15,669 --> 00:01:19,970
+Terminal access changes the loop from suggestion to execution in one step.
+
+24
+00:01:20,260 --> 00:01:22,699
+Developers using it will generate 3 times the
+
+25
+00:01:22,699 --> 00:01:25,760
+code volume per session compared with browser-based tools.
+
+26
+00:01:26,019 --> 00:01:27,660
+That velocity forces OpenAI.
+
+27
+00:01:27,815 --> 00:01:30,735
+And anthropic to embed similar shell agents inside
+
+28
+00:01:30,735 --> 00:01:33,434
+their IDE extensions before the beta exits.
+
+29
+00:01:33,654 --> 00:01:37,635
+Otherwise they risk losing the power users who already pay for premium tiers.
+
+30
+00:01:37,934 --> 00:01:39,934
+The early data should reveal whether raw
+
+31
+00:01:39,934 --> 00:01:43,175
+model intelligence still beats tight environment integration.
+
+32
+00:01:43,650 --> 00:01:47,430
+Blue Sky AI launches 1K AI infrastructure offering.
+
+33
+00:01:47,699 --> 00:01:51,440
+$1000 tickets let retail investors shoulder depreciation on
+
+34
+00:01:51,440 --> 00:01:54,199
+hardware that halves in value every 18 months.
+
+35
+00:01:54,510 --> 00:01:57,000
+That influx of marginal capacity will flood the
+
+36
+00:01:57,000 --> 00:01:59,080
+spot market and push enterprise buyers to.
+
+37
+00:01:59,294 --> 00:02:01,605
+Locked contracts with the big three clouds.
+
+38
+00:02:01,815 --> 00:02:05,404
+Existing neo clouds like Coreweave face sudden price competition from
+
+39
+00:02:05,404 --> 00:02:09,324
+thousands of small distributed nodes that lack enterprise SLAs.
+
+40
+00:02:09,615 --> 00:02:12,494
+Watch utilization rates on those small nodes drop once
+
+41
+00:02:12,494 --> 00:02:14,714
+the first missed deadline hits a funded project.
+
+42
+00:02:15,570 --> 00:02:19,369
+Graphon AI emerges from stealth with $8.3 million.
+
+43
+00:02:19,610 --> 00:02:22,759
+Pre-model intelligence changes the cost curve entirely.
+
+44
+00:02:23,050 --> 00:02:26,750
+The engineers behind it know exactly where the next scaling wall sits.
+
+45
+00:02:26,899 --> 00:02:29,559
+Instead of throwing more parameters at reasoning gaps,
+
+46
+00:02:29,809 --> 00:02:31,369
+teams now fix them upstream.
+
+47
+00:02:31,774 --> 00:02:36,354
+That shift means API margins will compress very fast once adoption hits.
+
+48
+00:02:36,574 --> 00:02:39,695
+OpenAI will have to either bundle similar layers or watch
+
+49
+00:02:39,695 --> 00:02:43,195
+mid-market deals migrate to lighter stacks within 12 months.
+
+50
+00:02:43,455 --> 00:02:46,535
+The seed round signals investors see the wedge before the model,
+
+51
+00:02:46,735 --> 00:02:47,615
+not inside it.
+
+52
+00:02:48,259 --> 00:02:52,529
+Isotope secures $26 million for AI data center cooling.
+
+53
+00:02:52,860 --> 00:02:58,130
+Liquid cooling just became the default path for any cluster pushing past 100k GPUs.
+
+54
+00:02:58,460 --> 00:03:02,490
+Power density numbers no longer support air at next year's node sizes.
+
+55
+00:03:02,779 --> 00:03:06,179
+That constraint will push operators into long-term supplier deals
+
+56
+00:03:06,179 --> 00:03:09,000
+with specialists like Isotope by mid next year.
+
+57
+00:03:09,259 --> 00:03:12,690
+Nvidia now has to accelerate its own liquid-ready designs
+
+58
+00:03:12,690 --> 00:03:15,380
+or watch board partners capture more of the BOM.
+
+59
+00:03:15,779 --> 00:03:19,309
+The Capitol Signals cooling is no longer an afterthought in the stack,
+
+60
+00:03:19,500 --> 00:03:22,029
+and hyper scalers know the shift is permanent.
+
+61
+00:03:22,389 --> 00:03:25,699
+Chrome Health raises $2 million for Nurse AI agent.
+
+62
+00:03:25,960 --> 00:03:28,880
+An SMS agent that books nurse shifts in under 2
+
+63
+00:03:28,880 --> 00:03:31,669
+minutes flips the staffing desk model on its head.
+
+64
+00:03:31,960 --> 00:03:35,589
+Hospitals no longer need overnight coordinators for last minute gaps.
+
+65
+00:03:35,880 --> 00:03:40,440
+That automation will cut agency fees by at least 20% inside 18 months.
+
+66
+00:03:40,669 --> 00:03:43,720
+Aya and similar platforms must now embed their own texting
+
+67
+00:03:43,720 --> 00:03:47,149
+agents or risk losing the direct hospital channel entirely.
+
+68
+00:03:47,440 --> 00:03:50,199
+The precede round proves the wedge sits in workflow,
+
+69
+00:03:50,399 --> 00:03:51,800
+not in another job board.
+
+70
+00:03:52,039 --> 00:03:53,559
+First pilots start this month.
+
+71
+00:03:54,300 --> 00:03:57,300
+Exactly unveils fleet of revenue AI agents.
+
+72
+00:03:57,429 --> 00:04:02,149
+Compensation rules that once took weeks to model now resolve in a single agent run.
+
+73
+00:04:02,580 --> 00:04:05,660
+The intelligence studio turns every historical deal into
+
+74
+00:04:05,660 --> 00:04:08,339
+live what if scenarios without extra headcount.
+
+75
+00:04:08,699 --> 00:04:12,259
+Salesforce will need to ship equivalent agents inside revenue cloud
+
+76
+00:04:12,259 --> 00:04:15,240
+or watch ops teams migrate by next fiscal year.
+
+77
+00:04:15,460 --> 00:04:20,700
+The launch at Upside 2026 shows the move from point tools to full fleet automation.
+
+78
+00:04:20,980 --> 00:04:25,589
+Expect quota negotiations to reference agent outputs as the new source of truth.
+
+79
+00:04:25,779 --> 00:04:27,600
+It changes who owns the number.
+
+80
+00:04:27,980 --> 00:04:30,980
+And Burse rolls out autonomous expense AI agent.
+
+81
+00:04:31,339 --> 00:04:33,739
+Finance teams have been burning hours on policy
+
+82
+00:04:33,739 --> 00:04:36,500
+checks that this agent now handles before submission.
+
+83
+00:04:36,769 --> 00:04:40,750
+That shifts the entire approval workflow from reactive to pre-approved.
+
+84
+00:04:41,010 --> 00:04:45,209
+Mid-market companies using legacy tools like Concur will see renewal pressure
+
+85
+00:04:45,209 --> 00:04:49,640
+by mid-2027 as their own agents lag on compliance accuracy.
+
+86
+00:04:49,890 --> 00:04:53,609
+The first teams to pilot will report 30% faster close cycles,
+
+87
+00:04:53,839 --> 00:04:56,350
+leaving slower adopters with higher audit risk.
+
+88
+00:04:57,279 --> 00:05:01,100
+Humanity AI awards 18 million plus grants for public good.
+
+89
+00:05:01,359 --> 00:05:05,100
+The grants target groups that can actually audit model behavior at scale.
+
+90
+00:05:05,279 --> 00:05:08,089
+Expect those recipients to publish the first independent
+
+91
+00:05:08,089 --> 00:05:11,049
+benchmarks on election interference tools by next summer.
+
+92
+00:05:11,390 --> 00:05:14,329
+That data will land directly in regulatory dockets,
+
+93
+00:05:14,429 --> 00:05:18,160
+pushing labs like OpenAI to either release their own eval suites
+
+94
+00:05:18,160 --> 00:05:21,500
+or watch public funding dry up for their academic partnerships.
+
+95
+00:05:21,750 --> 00:05:24,109
+The $18 million is just the seed.
+
+96
+00:05:24,420 --> 00:05:27,769
+Flick raises $6 million for AI filmmaking platform.
+
+97
+00:05:28,209 --> 00:05:32,179
+Directors gain frame by frame control without losing final cut decisions.
+
+98
+00:05:32,429 --> 00:05:34,420
+The real test arrives when production houses.
+
+99
+00:05:34,476 --> 00:05:36,355
+Integrate this into their pipelines.
+
+100
+00:05:36,626 --> 00:05:37,746
+Within 18 months,
+
+101
+00:05:37,966 --> 00:05:42,156
+major studios will require Flick to expose its editing models via API,
+
+102
+00:05:42,395 --> 00:05:44,295
+or they'll build internal clones instead.
+
+103
+00:05:44,756 --> 00:05:47,635
+That move decides whether the platform stays independent
+
+104
+00:05:47,635 --> 00:05:50,776
+or gets absorbed into existing post-production suites.
+
+105
+00:05:51,115 --> 00:05:55,385
+CHAM AI exits stealth with $8.5 million agent ops.
+
+106
+00:05:55,635 --> 00:05:57,555
+Enterprise ops teams just got an agent.
+
+107
+00:05:57,641 --> 00:06:00,872
+That can click through legacy web apps without custom scripts.
+
+108
+00:06:01,161 --> 00:06:03,441
+The margin squeeze hits when these agents start
+
+109
+00:06:03,441 --> 00:06:07,111
+handling high volume document approvals under strict SLAs.
+
+110
+00:06:07,481 --> 00:06:10,502
+UIPath and automation anywhere now face a choice
+
+111
+00:06:10,671 --> 00:06:13,361
+embed similar browser agents fast or use their
+
+112
+00:06:13,361 --> 00:06:16,111
+services attached rate on existing RPA deals.
+
+113
+00:06:16,481 --> 00:06:20,682
+Early pilots already show 25% reduction in manual handoffs.
