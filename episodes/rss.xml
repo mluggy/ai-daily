@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 18 May 2026 11:51:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:45:02 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -240,6 +240,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e12.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Musk OpenAI Loss, Vatican AI Push &amp; Agent Boom</title>
+      <description>The episode covers Elon Musk&apos;s dismissed OpenAI lawsuit, Pope Leo XIV&apos;s new AI commission, and key agentic AI developments including a major foundation expansion and a surprising security exploit.</description>
+      <link>{{SITE_URL}}/13</link>
+      <guid isPermaLink="false">s2026e13</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e13.mp3" length="10243532" type="audio/mpeg" />
+      <itunes:summary>The episode covers Elon Musk&apos;s dismissed OpenAI lawsuit, Pope Leo XIV&apos;s new AI commission, and key agentic AI developments including a major foundation expansion and a surprising security exploit.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:06</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e13.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e13.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

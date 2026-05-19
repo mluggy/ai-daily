@@ -1,0 +1,495 @@
+1
+00:00:04,619 --> 00:00:07,500
+Musk open AI lawsuit dismissed by jury.
+
+2
+00:00:07,739 --> 00:00:10,649
+The statute of limitations became the deciding factor,
+
+3
+00:00:10,899 --> 00:00:14,810
+not any judgment on OpenAI's evolution from nonprofit roots.
+
+4
+00:00:15,100 --> 00:00:17,780
+This outcome removes a major overhang just
+
+5
+00:00:17,780 --> 00:00:20,479
+as OpenAI negotiates larger government and corporate.
+
+6
+00:00:20,770 --> 00:00:21,430
+Deals.
+
+7
+00:00:21,649 --> 00:00:24,930
+Expect XAI to face stiffer competition for top
+
+8
+00:00:24,930 --> 00:00:27,430
+researchers now that Musk lacks this lever.
+
+9
+00:00:27,649 --> 00:00:31,229
+He will likely push harder on regulatory lobbying in Washington
+
+10
+00:00:31,370 --> 00:00:33,930
+to regain momentum before the end of next year or
+
+11
+00:00:33,930 --> 00:00:36,900
+risk losing ground in the race for frontier models.
+
+12
+00:00:37,409 --> 00:00:40,770
+Pope Leo the 14 approves Vatican AI commission.
+
+13
+00:00:41,049 --> 00:00:42,849
+The choice of an interdi Carial
+
+14
+00:00:42,849 --> 00:00:45,810
+structure suggests the Pope wants coordination across
+
+15
+00:00:45,810 --> 00:00:48,209
+doctrine and culture offices rather than
+
+16
+00:00:48,209 --> 00:00:50,369
+another advisory board that gathers dust.
+
+17
+00:00:50,819 --> 00:00:54,380
+That setup positions the Vatican to issue specific guidelines on
+
+18
+00:00:54,380 --> 00:00:57,319
+AI uses in education and end of life care.
+
+19
+00:00:57,700 --> 00:01:00,819
+Watch for European regulators to reference these documents
+
+20
+00:01:00,819 --> 00:01:03,250
+when drafting rules for high risk systems.
+
+21
+00:01:03,619 --> 00:01:06,580
+Catholic universities may soon require vendors to audit
+
+22
+00:01:06,580 --> 00:01:10,040
+models against dignity criteria before any procurement round.
+
+23
+00:01:10,620 --> 00:01:13,660
+Firms without dignity aligned features could lose access
+
+24
+00:01:13,660 --> 00:01:15,980
+to those institutions by late next year.
+
+25
+00:01:16,519 --> 00:01:19,260
+Eric Schmidt booed at Arizona commencement.
+
+26
+00:01:19,599 --> 00:01:23,400
+Boos during a commencement address on workforce change highlight how
+
+27
+00:01:23,400 --> 00:01:27,430
+quickly student sentiment has turned against optimistic AI narratives.
+
+28
+00:01:27,739 --> 00:01:30,629
+Schmidt's experience suggests tech executives can no
+
+29
+00:01:30,629 --> 00:01:33,440
+longer assume friendly audiences at universities.
+
+30
+00:01:33,760 --> 00:01:34,720
+Google and Microsoft.
+
+31
+00:01:35,165 --> 00:01:39,745
+will likely send younger spokespeople to future events to avoid similar pushback.
+
+32
+00:01:39,955 --> 00:01:43,885
+Expect more graduates to demand concrete retraining commitments from
+
+33
+00:01:43,885 --> 00:01:47,485
+employers rather than vague promises about new opportunities.
+
+34
+00:01:47,764 --> 00:01:50,404
+This reaction will ripple into how AI ethics
+
+35
+00:01:50,404 --> 00:01:53,224
+get taught in business schools starting this fall.
+
+36
+00:01:53,605 --> 00:01:57,035
+Agentic AI Foundation adds 43 new members.
+
+37
+00:01:57,315 --> 00:02:00,205
+The raw count of new members matters less than the
+
+38
+00:02:00,205 --> 00:02:03,885
+government agencies now shaping open agent standards at the table.
+
+39
+00:02:04,190 --> 00:02:08,309
+Their participation means procurement rules could soon favor interoperable
+
+40
+00:02:08,309 --> 00:02:11,429
+systems over proprietary ones from the biggest labs.
+
+41
+00:02:11,750 --> 00:02:14,600
+Closed vendors must now decide whether to join or
+
+42
+00:02:14,600 --> 00:02:18,919
+build parallel specifications that risk fragmentation across industries.
+
+43
+00:02:19,240 --> 00:02:23,080
+Watch enterprise deals in regulated sectors move toward foundation-backed
+
+44
+00:02:23,080 --> 00:02:26,679
+protocols within the next 12 months as standards solidify.
+
+45
+00:02:26,929 --> 00:02:29,889
+The foundation gains real leverage in standards bodies
+
+46
+00:02:29,889 --> 00:02:32,600
+that matter for defense and finance contracts.
+
+47
+00:02:32,929 --> 00:02:36,509
+Claude Mithos cracks Apple M5 Mac OS security.
+
+48
+00:02:36,729 --> 00:02:38,729
+The 5 day turnaround exposes how
+
+49
+00:02:38,729 --> 00:02:41,669
+quickly Frontier models compress exploit development.
+
+50
+00:02:41,970 --> 00:02:45,169
+Apple must now classify AI tooling as a direct threat
+
+51
+00:02:45,169 --> 00:02:49,070
+to silicon level controls rather than an external curiosity.
+
+52
+00:02:49,229 --> 00:02:53,169
+Expect stricter runtime attestation on future Mac OS updates
+
+53
+00:02:53,169 --> 00:02:56,050
+that blocks AI generated payloads at load time.
+
+54
+00:02:56,330 --> 00:02:56,729
+Red Team.
+
+55
+00:02:56,830 --> 00:03:01,259
+Shops without model access will fall behind on public disclosures within the year.
+
+56
+00:03:01,550 --> 00:03:03,990
+This also pressures Anthropic to add usage
+
+57
+00:03:03,990 --> 00:03:06,860
+guardrails that detect security sensitive prompts.
+
+58
+00:03:07,229 --> 00:03:10,690
+Teams without access will see disclosure lead times double.
+
+59
+00:03:11,080 --> 00:03:13,589
+Driverless trucks launch in West Texas.
+
+60
+00:03:13,949 --> 00:03:16,619
+Kodiak's deployment proves commercial viability
+
+61
+00:03:16,619 --> 00:03:18,850
+on closed industrial routes first.
+
+62
+00:03:19,110 --> 00:03:23,070
+Atlas now undercuts manned hauling costs enough to force other
+
+63
+00:03:23,070 --> 00:03:26,630
+energy operators into similar pilots within the Permian and beyond.
+
+64
+00:03:27,070 --> 00:03:30,669
+Traditional fleets must either retrofit sensors or exit long
+
+65
+00:03:30,669 --> 00:03:33,610
+haul contracts they currently win on labor alone.
+
+66
+00:03:34,070 --> 00:03:36,779
+State DMVs gain the precedent they need to green
+
+67
+00:03:36,779 --> 00:03:39,729
+light wider freight corridors by Q4 next year.
+
+68
+00:03:40,029 --> 00:03:42,869
+Smaller automation startups now chase the same energy
+
+69
+00:03:42,869 --> 00:03:45,589
+verticals or lose funding momentum by year end.
+
+70
+00:03:46,130 --> 00:03:49,270
+Bernstein flags chip stock for agentic AI.
+
+71
+00:03:49,610 --> 00:03:52,570
+Bernstein's note shifts attention from training clusters
+
+72
+00:03:52,570 --> 00:03:55,389
+to inference racks built for long-running agents.
+
+73
+00:03:55,610 --> 00:03:58,270
+The flagged stock gains from sustained utilization
+
+74
+00:03:58,270 --> 00:04:00,720
+rates that training alone never delivered.
+
+75
+00:04:00,990 --> 00:04:04,850
+Foundries must reallocate capacity toward high bandwidth memory production.
+
+76
+00:04:05,410 --> 00:04:09,000
+Or watch orders move to rivals with better HBM yields.
+
+77
+00:04:09,289 --> 00:04:12,970
+Smaller chip designers face steeper financing hurdles once enterprise
+
+78
+00:04:12,970 --> 00:04:15,910
+agent deployments scale in the next 18 months.
+
+79
+00:04:16,170 --> 00:04:20,630
+Interconnect suppliers now see rising margins as agent sessions lengthen.
+
+80
+00:04:20,850 --> 00:04:23,850
+Expect allocation fights at the foundry by Q3.
+
+81
+00:04:25,350 --> 00:04:28,119
+XAI adds Grok skills and Hermes's agent.
+
+82
+00:04:28,399 --> 00:04:31,239
+Persistent skills keep conversation state alive
+
+83
+00:04:31,239 --> 00:04:33,299
+across every platform Grok touches.
+
+84
+00:04:33,519 --> 00:04:37,799
+OpenAI must match the capability in chat GPT within 9 months or
+
+85
+00:04:37,799 --> 00:04:42,070
+watch power users migrate to sessions that actually remember prior tasks.
+
+86
+00:04:42,399 --> 00:04:43,269
+Hermes adds autonomy.
+
+87
+00:04:43,429 --> 00:04:47,339
+Anonymous improvement loops that expose how static most current agents remain.
+
+88
+00:04:47,839 --> 00:04:50,339
+Developer pricing will face downward pressure once
+
+89
+00:04:50,339 --> 00:04:53,100
+retention metrics become public later this year.
+
+90
+00:04:53,320 --> 00:04:57,519
+The gap appears first in multi-day research workflows that teams run daily.
+
+91
+00:04:57,839 --> 00:05:01,480
+Competitors without memory persistence lose enterprise pilots.
+
+92
+00:05:02,690 --> 00:05:05,440
+UK students fear AI job loss unrest.
+
+93
+00:05:05,679 --> 00:05:08,440
+Universities will feel the pull before governments do.
+
+94
+00:05:08,839 --> 00:05:12,600
+Departments still teaching pure theory now face enrollment drops unless
+
+95
+00:05:12,600 --> 00:05:16,220
+they embed agentic workflow training by the next intake cycle.
+
+96
+00:05:16,440 --> 00:05:20,059
+The institutions that move first keep their international cohorts.
+
+97
+00:05:20,200 --> 00:05:23,559
+Others lose the fee revenue that subsidizes research labs.
+
+98
+00:05:23,839 --> 00:05:27,769
+Watch placement offices quietly lobby for tax credits that treat AI
+
+99
+00:05:27,769 --> 00:05:31,679
+literacy as a core employability metric rather than an elective.
+
+100
+00:05:32,670 --> 00:05:36,429
+Hive announces 320 megawatt sovereign AI infra.
+
+101
+00:05:36,869 --> 00:05:39,269
+Power purchase agreements will now dictate which
+
+102
+00:05:39,269 --> 00:05:41,820
+model labs can actually train in Canada.
+
+103
+00:05:42,149 --> 00:05:47,029
+Hive's scale gives it leverage to negotiate priority access to new hydro capacity,
+
+104
+00:05:47,309 --> 00:05:51,149
+leaving smaller operators bidding against each other for residual slots.
+
+105
+00:05:51,350 --> 00:05:56,130
+Expect at least two US Frontier labs to open Toronto offices within the year
+
+106
+00:05:56,350 --> 00:05:58,809
+simply to secure reserved inference time.
+
+107
+00:05:59,019 --> 00:06:01,670
+Otherwise they face multi-month queues once the first.
+
+108
+00:06:01,924 --> 00:06:03,065
+Racks go live.
+
+109
+00:06:03,484 --> 00:06:06,105
+Spain AI startups secure record funding.
+
+110
+00:06:06,404 --> 00:06:10,464
+Term sheets now embed clauses that cover cross-border compute access
+
+111
+00:06:10,725 --> 00:06:13,635
+because Spain still lacks domestic clusters at scale.
+
+112
+00:06:13,885 --> 00:06:17,804
+The startups that lock in multi-year reservations with Nordic or French
+
+113
+00:06:17,804 --> 00:06:21,765
+providers will outpace peers who treat inference as a variable cost.
+
+114
+00:06:22,045 --> 00:06:26,605
+Expect French groups to counter by opening satellite offices in Madrid within
+
+115
+00:06:26,605 --> 00:06:30,885
+18 months to poach the newly funded teams before they commit elsewhere.
+
+116
+00:06:31,859 --> 00:06:35,130
+Agentic AI pushes chip demand off charts.
+
+117
+00:06:35,359 --> 00:06:38,380
+Every new agent deployment now pulls forward orders that
+
+118
+00:06:38,380 --> 00:06:41,279
+used to spread across 2 years of capacity planning.
+
+119
+00:06:41,540 --> 00:06:45,279
+Foundries respond by shifting lines away from automotive and mobile
+
+120
+00:06:45,459 --> 00:06:46,820
+toward high power inference.
+
+121
+00:06:46,989 --> 00:06:51,519
+The first visible result appears in 2026 phone launches
+
+122
+00:06:51,519 --> 00:06:55,510
+that reuse 2025 silicon with only firmware tweaks.
+
+123
+00:06:55,760 --> 00:06:58,880
+Q Qualcomm and MediaTech either accept lower volumes
+
+124
+00:06:58,880 --> 00:07:01,880
+or pay premiums to secure any remaining slots.
