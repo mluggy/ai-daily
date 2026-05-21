@@ -1,0 +1,515 @@
+1
+00:00:04,860 --> 00:00:10,140
+Nvidia posts record $81.6 billion revenue on AI demand.
+
+2
+00:00:10,460 --> 00:00:13,739
+The buyback and dividend together pull income investors into
+
+3
+00:00:13,739 --> 00:00:16,479
+Nvidia's register for the first time in scale.
+
+4
+00:00:16,780 --> 00:00:18,659
+Those holders hate surprises.
+
+5
+00:00:18,940 --> 00:00:21,920
+Margins will face pressure sooner than the street expects.
+
+6
+00:00:22,139 --> 00:00:25,819
+They will question every dollar of R&D once Microsoft and Google
+
+7
+00:00:25,819 --> 00:00:29,715
+prove their Internal chips match Hopper performance on real workloads.
+
+8
+00:00:29,954 --> 00:00:32,095
+AMD has roughly 12 months to make
+
+9
+00:00:32,095 --> 00:00:35,255
+Rock M reliable enough for broad enterprise adoption
+
+10
+00:00:35,395 --> 00:00:37,615
+or see its window close permanently.
+
+11
+00:00:37,875 --> 00:00:38,354
+Otherwise,
+
+12
+00:00:38,474 --> 00:00:42,014
+Nvidia simply returns more capital while competitors scramble.
+
+13
+00:00:42,799 --> 00:00:46,689
+OpenAI model disproves major discrete geometry conjecture.
+
+14
+00:00:47,090 --> 00:00:51,990
+Pure mathematicians long assumed human intuition held an edge on abstract proofs.
+
+15
+00:00:52,169 --> 00:00:54,459
+That assumption cracked the moment an open AI
+
+16
+00:00:54,459 --> 00:00:58,240
+system produced a valid counterexample without symbolic scaffolding.
+
+17
+00:00:58,529 --> 00:01:00,299
+Tenure committees will notice first.
+
+18
+00:01:00,814 --> 00:01:05,044
+Departments must now decide whether to treat these models as co-authors on papers
+
+19
+00:01:05,044 --> 00:01:09,474
+or risk losing priority on open problems to labs with bigger compute budgets.
+
+20
+00:01:09,805 --> 00:01:12,444
+Journals face the same choice within the next academic
+
+21
+00:01:12,444 --> 00:01:16,144
+year or watch submissions bypass traditional review entirely.
+
+22
+00:01:16,444 --> 00:01:18,824
+Grants follow once citation patterns shift.
+
+23
+00:01:19,419 --> 00:01:23,540
+Mehta reassigns 7000 workers to AI roles amid layoffs.
+
+24
+00:01:23,739 --> 00:01:26,059
+The reorg removes layers that previously
+
+25
+00:01:26,059 --> 00:01:28,319
+translated between research and product.
+
+26
+00:01:28,559 --> 00:01:33,129
+AI teams lose those translators exactly when model deployment cycles shorten.
+
+27
+00:01:33,379 --> 00:01:35,540
+Remaining engineers will spend more time in
+
+28
+00:01:35,540 --> 00:01:38,019
+meetings negotiating priorities instead of shipping.
+
+29
+00:01:38,620 --> 00:01:40,709
+Coordination costs rise fast.
+
+30
+00:01:41,050 --> 00:01:45,529
+Google and Microsoft watch this structure closely because any execution slip at
+
+31
+00:01:45,529 --> 00:01:49,400
+Meta gives them 6 months to lock in partner integrations first.
+
+32
+00:01:49,709 --> 00:01:51,269
+Flat orgs sound modern
+
+33
+00:01:51,529 --> 00:01:54,370
+until revenue targets depend on coordinated launches
+
+34
+00:01:54,370 --> 00:01:56,889
+across 5 divisions now running without buffers.
+
+35
+00:01:57,709 --> 00:02:00,489
+Google launches universal cart for agentic shopping.
+
+36
+00:02:00,830 --> 00:02:03,669
+Shopify merchants gain default visibility inside
+
+37
+00:02:03,669 --> 00:02:06,290
+Google agents without extra integration work.
+
+38
+00:02:06,510 --> 00:02:10,929
+That shortcut compresses the window Amazon has to build comparable agent reach.
+
+39
+00:02:11,190 --> 00:02:13,429
+Amazon must therefore publish its own cart
+
+40
+00:02:13,429 --> 00:02:15,669
+endpoints to third party agents within 9.
+
+41
+00:02:15,804 --> 00:02:19,505
+Months or watch default purchase flows route through Google instead.
+
+42
+00:02:20,005 --> 00:02:22,764
+Smaller platforms lose differentiation once the
+
+43
+00:02:22,764 --> 00:02:25,524
+universal layer handles negotiation and payment.
+
+44
+00:02:25,804 --> 00:02:27,604
+Amazon responds next quarter.
+
+45
+00:02:27,845 --> 00:02:31,125
+Margins compress when agents optimize across every connected
+
+46
+00:02:31,125 --> 00:02:33,824
+store in real time without human oversight now.
+
+47
+00:02:35,100 --> 00:02:38,679
+Google slashes AI ultraprice to $100 monthly,
+
+48
+00:02:38,899 --> 00:02:41,360
+lowering the bar changes who experiments first.
+
+49
+00:02:41,660 --> 00:02:44,119
+Mid-tier teams that skipped the old price now
+
+50
+00:02:44,119 --> 00:02:46,860
+run daily agent workflows without hitting limits.
+
+51
+00:02:47,020 --> 00:02:50,130
+The added storage accelerates this migration for teams already.
+
+52
+00:02:50,634 --> 00:02:51,475
+in logs
+
+53
+00:02:51,714 --> 00:02:56,035
+that shifts testing away from OpenAI's frontier models toward Gemini's stack.
+
+54
+00:02:56,354 --> 00:03:00,595
+Watch what happens when those teams demand higher context windows next quarter.
+
+55
+00:03:01,035 --> 00:03:03,434
+Anthropic must either cut its rates or lose
+
+56
+00:03:03,434 --> 00:03:05,914
+the volume plays that fund its research today.
+
+57
+00:03:06,410 --> 00:03:10,750
+Next Era buys Dominion in $67 billion AI power merger.
+
+58
+00:03:11,210 --> 00:03:16,380
+Power contracts signed today lock in rates that data centers will still pay in 2028.
+
+59
+00:03:16,610 --> 00:03:18,729
+That gives the combined utility an edge
+
+60
+00:03:18,729 --> 00:03:21,800
+over smaller players still negotiating spot deals.
+
+61
+00:03:22,130 --> 00:03:24,360
+The real pressure lands on hyper scalers who
+
+62
+00:03:24,360 --> 00:03:26,710
+must now choose between building their own generation
+
+63
+00:03:27,169 --> 00:03:30,009
+or signing long-term offtake from the merged giant.
+
+64
+00:03:30,410 --> 00:03:32,399
+Microsoft and Google will accelerate their
+
+65
+00:03:32,399 --> 00:03:34,979
+nuclear revival plans by early next year
+
+66
+00:03:35,119 --> 00:03:38,199
+or risk margin hits on every new cluster they spin up.
+
+67
+00:03:38,669 --> 00:03:42,240
+Cursor ships Composer 2.5 frontier coding model.
+
+68
+00:03:42,559 --> 00:03:45,320
+Teams running multi-hour coding sessions will finally
+
+69
+00:03:45,320 --> 00:03:47,419
+see costs drop below the noise floor.
+
+70
+00:03:47,639 --> 00:03:52,029
+That flips the economics for startups still renting API time from the big labs.
+
+71
+00:03:52,360 --> 00:03:54,240
+Persistent context across files.
+
+72
+00:03:54,649 --> 00:03:57,479
+how agents chain tasks without constant resets.
+
+73
+00:03:57,839 --> 00:04:00,550
+Larger sessions become practical for the first time.
+
+74
+00:04:00,729 --> 00:04:03,690
+Expect OpenAI to respond by packaging similar
+
+75
+00:04:03,690 --> 00:04:05,770
+persistent state into their own tools within
+
+76
+00:04:05,770 --> 00:04:10,029
+the next two releases or lose the developer workflow layer to Cursor's focus.
+
+77
+00:04:10,929 --> 00:04:15,389
+Google confirms Android XR smart glasses for fall 2026.
+
+78
+00:04:15,649 --> 00:04:18,678
+The two year runway gives Apple time to decide whether its
+
+79
+00:04:18,678 --> 00:04:22,750
+own glasses stay compute heavy or copy the always connected model.
+
+80
+00:04:23,130 --> 00:04:26,170
+Samsung's hardware margins will depend on how many users
+
+81
+00:04:26,170 --> 00:04:29,290
+actually keep the Gemini agent active all day long.
+
+82
+00:04:29,670 --> 00:04:32,510
+Carriers should prepare for new data plans built around
+
+83
+00:04:32,510 --> 00:04:36,250
+continuous vision uploads rather than the occasional map query.
+
+84
+00:04:36,630 --> 00:04:38,790
+Battery drain from always on agents will
+
+85
+00:04:38,790 --> 00:04:41,250
+force trade-offs in the first hardware revision
+
+86
+00:04:41,390 --> 00:04:43,309
+or higher pricing to cover the gap.
+
+87
+00:04:44,049 --> 00:04:47,850
+Amazon Alexa Plus rolls out AI generated podcasts.
+
+88
+00:04:48,100 --> 00:04:50,390
+The licensing clause is what matters here.
+
+89
+00:04:50,579 --> 00:04:53,010
+Amazon gets to train on the full transcripts,
+
+90
+00:04:53,130 --> 00:04:54,279
+not just summaries.
+
+91
+00:04:54,500 --> 00:04:56,899
+That turns every listener question into product
+
+92
+00:04:56,899 --> 00:04:59,130
+placement data for the Alexa shopping cart.
+
+93
+00:04:59,440 --> 00:05:02,899
+Spotify and Apple Podcasts will have to match the conversational
+
+94
+00:05:02,899 --> 00:05:07,230
+layer or lose the at-home audience entirely by mid 2027.
+
+95
+00:05:07,540 --> 00:05:10,420
+Most shows still treat this as optional distribution.
+
+96
+00:05:10,700 --> 00:05:11,410
+It isn't.
+
+97
+00:05:11,959 --> 00:05:15,100
+Google to power new Gemini-based Siri for Apple.
+
+98
+00:05:15,329 --> 00:05:19,079
+Apple just handed its most personal interface to a competitor's model.
+
+99
+00:05:19,279 --> 00:05:22,600
+The personalization layer will pull from Google's knowledge graph,
+
+100
+00:05:22,839 --> 00:05:24,549
+not Apple's private index.
+
+101
+00:05:24,839 --> 00:05:27,160
+That single change quietly shifts default.
+
+102
+00:05:27,269 --> 00:05:29,890
+Answers on everything from recipes to travel
+
+103
+00:05:30,109 --> 00:05:31,420
+toward Google services.
+
+104
+00:05:31,790 --> 00:05:35,660
+Siri's on device promise erodes the moment Gemini handles context.
+
+105
+00:05:35,950 --> 00:05:37,049
+Watch the App Store.
+
+106
+00:05:37,299 --> 00:05:40,029
+Developers building around the old Sirikit now
+
+107
+00:05:40,029 --> 00:05:42,609
+face a deprecation timeline they didn't expect.
+
+108
+00:05:43,480 --> 00:05:44,799
+DeepMind CEO
+
+109
+00:05:45,000 --> 00:05:46,989
+AGI just a few years away.
+
+110
+00:05:47,230 --> 00:05:48,989
+The timeline itself is theater.
+
+111
+00:05:49,200 --> 00:05:52,359
+What ships next quarter are agent frameworks that let Gemini
+
+112
+00:05:52,359 --> 00:05:55,510
+book travel and edit code without constant human loops.
+
+113
+00:05:55,799 --> 00:05:57,739
+Regulators hearing a few years
+
+114
+00:05:57,839 --> 00:06:00,079
+will treat today's tools as narrow AI,
+
+115
+00:06:00,399 --> 00:06:03,559
+delaying rules that should already cover autonomous actions.
+
+116
+00:06:03,839 --> 00:06:06,279
+OpenAI now has to decide whether to echo
+
+117
+00:06:06,279 --> 00:06:08,940
+the same horizon or claim they're already there.
+
+118
+00:06:09,200 --> 00:06:12,640
+Either path changes how enterprise contracts get written this summer.
+
+119
+00:06:13,250 --> 00:06:16,799
+Google debuts Omni unified text image video model.
+
+120
+00:06:17,049 --> 00:06:19,799
+Grounded output is the real constraint it removes.
+
+121
+00:06:20,130 --> 00:06:22,730
+Teams can now iterate a product video from a single
+
+122
+00:06:22,730 --> 00:06:26,130
+prompt and a reference image without stitching three separate models.
+
+123
+00:06:26,450 --> 00:06:27,970
+That collapses the current workflow.
+
+124
+00:06:28,209 --> 00:06:29,410
+From days to hours,
+
+125
+00:06:29,609 --> 00:06:31,820
+which means marketing budgets shift away from
+
+126
+00:06:31,820 --> 00:06:34,609
+specialized vendors faster than those vendors admit.
+
+127
+00:06:34,940 --> 00:06:37,420
+Runway and Kling must either drop prices or
+
+128
+00:06:37,420 --> 00:06:40,170
+bundle editing agents by next year's budget cycle,
+
+129
+00:06:40,420 --> 00:06:42,959
+or they lose the mid-tier brand work entirely.

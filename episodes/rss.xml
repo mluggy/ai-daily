@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 20 May 2026 18:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:44:52 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -274,6 +274,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e14.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Nvidia AI Records, Meta Shakeups &amp; Agentic Shopping Wins</title>
+      <description>This episode covers Nvidia&apos;s record Q1 earnings surge driven by AI demand, Meta&apos;s reassignment of 7,000 staff to AI roles amid layoffs, Google&apos;s Universal Cart for agentic commerce and Omni multimodal model, plus OpenAI&apos;s math breakthrough and NextEra&apos;s $67B power merger.</description>
+      <link>{{SITE_URL}}/15</link>
+      <guid isPermaLink="false">s2026e15</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e15.mp3" length="9791058" type="audio/mpeg" />
+      <itunes:summary>This episode covers Nvidia&apos;s record Q1 earnings surge driven by AI demand, Meta&apos;s reassignment of 7,000 staff to AI roles amid layoffs, Google&apos;s Universal Cart for agentic commerce and Omni multimodal model, plus OpenAI&apos;s math breakthrough and NextEra&apos;s $67B power merger.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:47</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e15.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e15.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
