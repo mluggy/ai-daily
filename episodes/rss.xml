@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Thu, 21 May 2026 09:44:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:43:38 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -291,6 +291,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e15.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>SpaceX AI IPO, Google Omni &amp; Meta AI Pivot</title>
+      <description>This episode covers SpaceX&apos;s S-1 filing with orbital AI data centers and Terafab chips, Google&apos;s Gemini Omni video model and Search agent overhaul, Meta&apos;s 8,000 layoffs plus 7,000 AI reassignments, Karpathy joining Anthropic, Trump postponing an AI executive order, and Microsoft open-sourcing agent safety tools.</description>
+      <link>{{SITE_URL}}/16</link>
+      <guid isPermaLink="false">s2026e16</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e16.mp3" length="9974934" type="audio/mpeg" />
+      <itunes:summary>This episode covers SpaceX&apos;s S-1 filing with orbital AI data centers and Terafab chips, Google&apos;s Gemini Omni video model and Search agent overhaul, Meta&apos;s 8,000 layoffs plus 7,000 AI reassignments, Karpathy joining Anthropic, Trump postponing an AI executive order, and Microsoft open-sourcing agent safety tools.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:55</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e16.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e16.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

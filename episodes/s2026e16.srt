@@ -1,0 +1,511 @@
+1
+00:00:04,590 --> 00:00:08,619
+SpaceX files S1 revealing massive AI infrabet.
+
+2
+00:00:08,869 --> 00:00:11,430
+12 billion buys orbital real estate that
+
+3
+00:00:11,430 --> 00:00:14,609
+ground-based operators cannot replicate at any scale.
+
+4
+00:00:14,869 --> 00:00:18,430
+Anthropic secures early access to those nodes and will lock in
+
+5
+00:00:18,430 --> 00:00:22,770
+latency advantages no competitor can touch without matching satellite builds.
+
+6
+00:00:23,030 --> 00:00:25,450
+Every hyperscaler now faces a choice
+
+7
+00:00:25,579 --> 00:00:29,670
+negotiate capacity on the same constellation or watch their agentic
+
+8
+00:00:29,670 --> 00:00:32,970
+product margins erode under higher power draw by next year.
+
+9
+00:00:33,240 --> 00:00:36,119
+The 2028 target date compresses timelines
+
+10
+00:00:36,119 --> 00:00:38,900
+for terrestrial expansion plans already underway.
+
+11
+00:00:39,240 --> 00:00:40,880
+Board reviews start this quarter.
+
+12
+00:00:42,509 --> 00:00:45,619
+Trump postpones AI executive order last minute.
+
+13
+00:00:45,900 --> 00:00:48,979
+Any order without explicit China export carveouts
+
+14
+00:00:48,979 --> 00:00:51,180
+stays in draft until at least September.
+
+15
+00:00:51,459 --> 00:00:54,180
+Industry groups already treat the leaked version as de
+
+16
+00:00:54,180 --> 00:00:57,610
+facto guidance and adjust their compliance roadmaps accordingly.
+
+17
+00:00:57,900 --> 00:01:00,224
+That informal adoption gives US Labs
+
+18
+00:01:00,224 --> 00:01:02,865
+breathing room on model releases while forcing
+
+19
+00:01:02,865 --> 00:01:06,065
+Chinese competitors to accelerate domestic chip programs
+
+20
+00:01:06,065 --> 00:01:08,125
+before the next restriction wave lands.
+
+21
+00:01:08,385 --> 00:01:12,135
+The delay therefore widens the capability gap rather than closing it.
+
+22
+00:01:12,385 --> 00:01:16,385
+Both sides now reset their hardware procurement calendars to that timeline.
+
+23
+00:01:17,250 --> 00:01:20,849
+Meta begins laying off 8000 amid AI restructuring.
+
+24
+00:01:21,089 --> 00:01:25,569
+Reallocating 7000 engineers to AI projects leaves legacy teams with
+
+25
+00:01:25,569 --> 00:01:28,739
+12 months to prove revenue or face deeper cuts.
+
+26
+00:01:28,970 --> 00:01:32,050
+API pricing on llama models drops further as
+
+27
+00:01:32,050 --> 00:01:35,519
+those new teams target enterprise inference workloads directly.
+
+28
+00:01:35,849 --> 00:01:38,970
+OpenAI must either match the cuts or concede share in
+
+29
+00:01:38,970 --> 00:01:42,510
+the mid-market segment where most agent deployments still run today.
+
+30
+00:01:42,940 --> 00:01:46,050
+The move also signals that non-AI research budgets
+
+31
+00:01:46,050 --> 00:01:48,360
+face zero protection in the next planning round.
+
+32
+00:01:48,860 --> 00:01:50,819
+Quarterly reviews begin next month.
+
+33
+00:01:51,720 --> 00:01:54,980
+Google launches Gemini Omni multimodal video model.
+
+34
+00:01:55,279 --> 00:01:58,239
+Consistent physics in generated video removes the last
+
+35
+00:01:58,239 --> 00:02:01,419
+reliable cue moderators use to flag synthetic content.
+
+36
+00:02:01,879 --> 00:02:04,470
+Every platform now needs provenance layers that
+
+37
+00:02:04,470 --> 00:02:06,739
+add processing steps to every upload.
+
+38
+00:02:07,080 --> 00:02:10,758
+Runway and Pika must bundle enterprise grade editing controls
+
+39
+00:02:10,758 --> 00:02:14,160
+or lose production budgets shifting to Google's integrated stack.
+
+40
+00:02:14,529 --> 00:02:17,320
+The change lands first in advertising workflows,
+
+41
+00:02:17,330 --> 00:02:20,270
+where frame by frame edits replace traditional shoots
+
+42
+00:02:20,270 --> 00:02:22,559
+within the next two cycles for major brands.
+
+43
+00:02:22,889 --> 00:02:26,440
+Procurement teams update vendor lists before Q4 reviews.
+
+44
+00:02:26,770 --> 00:02:29,779
+Google redesigns search with AI agents and new B.
+
+45
+00:02:30,210 --> 00:02:32,850
+Persistent agents that monitor topics nonstop,
+
+46
+00:02:32,929 --> 00:02:34,789
+shift how teams handle research.
+
+47
+00:02:35,050 --> 00:02:36,850
+Users delegate once and receive.
+
+48
+00:02:36,979 --> 00:02:39,580
+Continuous updates instead of refreshing queries.
+
+49
+00:02:39,860 --> 00:02:43,779
+This undercuts dedicated alert services and pushes perplexity to match
+
+50
+00:02:43,779 --> 00:02:47,610
+the always on capability or watch its enterprise adoption slow.
+
+51
+00:02:47,860 --> 00:02:48,970
+Within 18 months,
+
+52
+00:02:49,139 --> 00:02:51,820
+most compliance workflows will route through these agents,
+
+53
+00:02:51,970 --> 00:02:53,440
+trimming review cycles.
+
+54
+00:02:53,619 --> 00:02:55,960
+The redesigned box keeps the interface simple,
+
+55
+00:02:56,259 --> 00:02:59,619
+while generative results sidestep classic link navigation.
+
+56
+00:03:00,250 --> 00:03:02,830
+Carpathi joins anthropic pre-training team.
+
+57
+00:03:03,289 --> 00:03:06,009
+Carpathi's focus on pre-training at Anthropic
+
+58
+00:03:06,169 --> 00:03:09,110
+highlights where the next capability jumps will come from.
+
+59
+00:03:09,369 --> 00:03:12,690
+Most coverage fixates on fine tuning and safety layers,
+
+60
+00:03:12,889 --> 00:03:15,990
+yet raw model scale still drives the biggest leaps.
+
+61
+00:03:16,210 --> 00:03:20,929
+This hire Accelerates Claude's trajectory and forces OpenAI to reallocate
+
+62
+00:03:20,929 --> 00:03:24,990
+resources back to foundational training runs rather than product features.
+
+63
+00:03:25,210 --> 00:03:29,399
+Expect measurable gains on reasoning benchmarks within the next 12 months.
+
+64
+00:03:29,770 --> 00:03:33,910
+Teams relying on Cloud for complex agent work will see the difference first.
+
+65
+00:03:34,550 --> 00:03:38,139
+Microsoft open sources Rampart and clarity for agents.
+
+66
+00:03:38,429 --> 00:03:41,610
+Continuous adversarial testing now slots straight into
+
+67
+00:03:41,610 --> 00:03:44,139
+existing CI pipelines for agent projects.
+
+68
+00:03:44,429 --> 00:03:47,350
+Developers catch edge cases before deployment instead
+
+69
+00:03:47,350 --> 00:03:49,449
+of discovering them in production logs.
+
+70
+00:03:49,669 --> 00:03:54,190
+The move raises the bar for every closed model provider and forces OpenAI
+
+71
+00:03:54,190 --> 00:03:56,550
+to publish comparable tooling or risk
+
+72
+00:03:56,550 --> 00:03:58,669
+appearing less transparent to enterprise security.
+
+73
+00:03:58,985 --> 00:03:59,485
+Teams.
+
+74
+00:03:59,764 --> 00:04:02,705
+Early validation of design assumptions through clarity
+
+75
+00:04:02,705 --> 00:04:05,705
+will shorten iteration cycles on agent reliability.
+
+76
+00:04:06,035 --> 00:04:09,875
+Smaller teams gain access to methods once limited to large labs.
+
+77
+00:04:10,205 --> 00:04:10,684
+Pause.
+
+78
+00:04:11,005 --> 00:04:14,274
+OpenAI confirms upcoming IPO filing plans.
+
+79
+00:04:14,604 --> 00:04:17,834
+Filing preparations shift internal roadmaps toward metrics
+
+80
+00:04:17,834 --> 00:04:19,894
+investors can track quarter to quarter.
+
+81
+00:04:20,165 --> 00:04:22,964
+Capability releases will slow in favor of reliability.
+
+82
+00:04:23,459 --> 00:04:26,209
+improvements that support steady API revenue.
+
+83
+00:04:26,500 --> 00:04:28,929
+This timeline pressures Anthropic to outline its
+
+84
+00:04:28,929 --> 00:04:30,980
+own path to liquidity within the next
+
+85
+00:04:30,980 --> 00:04:35,450
+year or lose key talent to a public company with clearer equity options.
+
+86
+00:04:35,779 --> 00:04:37,579
+The real constraint emerges in how
+
+87
+00:04:37,579 --> 00:04:40,170
+safety research budgets survive earnings calls.
+
+88
+00:04:40,500 --> 00:04:44,779
+Developers should watch for any early signals on rate limits or feature gating.
+
+89
+00:04:45,100 --> 00:04:47,260
+Figma embeds AI agent directly.
+
+90
+00:04:47,355 --> 00:04:48,644
+Design workflows.
+
+91
+00:04:48,834 --> 00:04:52,994
+Teams that once exported to mid journey now iterate inside the same file.
+
+92
+00:04:53,234 --> 00:04:55,875
+That shift quietly raises the switching cost for any
+
+93
+00:04:55,875 --> 00:04:58,855
+rival that still relies on external model calls.
+
+94
+00:04:59,024 --> 00:05:03,095
+Adobe's Firefly integration suddenly looks like a disconnected afterthought.
+
+95
+00:05:03,315 --> 00:05:06,825
+Expect the agency pitch process to compress from weeks to days,
+
+96
+00:05:07,075 --> 00:05:09,464
+forcing every competing platform to ship native
+
+97
+00:05:09,464 --> 00:05:11,554
+agents before their renewal cycles hit.
+
+98
+00:05:12,079 --> 00:05:16,029
+11 labs AI restores expressive voice for ALS patient.
+
+99
+00:05:16,350 --> 00:05:19,010
+Archived voicemails just became the most valuable data
+
+100
+00:05:19,010 --> 00:05:21,679
+a family can preserve before diagnosis hits.
+
+101
+00:05:21,970 --> 00:05:26,529
+Hospitals that still route ALS patients to basic TTS devices now face
+
+102
+00:05:26,529 --> 00:05:28,690
+pressure to integrate cloning pipelines before
+
+103
+00:05:28,690 --> 00:05:30,529
+their next equipment refresh cycle.
+
+104
+00:05:30,829 --> 00:05:34,899
+The bigger shift comes when voice libraries start migrating across providers,
+
+105
+00:05:35,230 --> 00:05:38,369
+something no current medical device contract anticipates.
+
+106
+00:05:38,549 --> 00:05:41,470
+The first provider to bundle this with legacy planning will
+
+107
+00:05:41,470 --> 00:05:44,859
+lock in an entirely new revenue stream from estate attorneys.
+
+108
+00:05:45,230 --> 00:05:48,179
+Visa expands gentic commerce pilots with banks.
+
+109
+00:05:48,510 --> 00:05:50,670
+Banks still treating agent transactions as
+
+110
+00:05:50,670 --> 00:05:52,730
+edge cases will watch their interchange.
+
+111
+00:05:52,923 --> 00:05:56,773
+Avenue tilt toward whichever rails update their authorization logic first.
+
+112
+00:05:57,102 --> 00:06:00,382
+Santander's Early Set gives it a direct line into how dispute
+
+113
+00:06:00,382 --> 00:06:04,203
+resolution gets coded when an agent misreads a return policy.
+
+114
+00:06:04,403 --> 00:06:09,013
+Expect card networks to publish agent-specific SLA terms within 6 months.
+
+115
+00:06:09,282 --> 00:06:12,183
+Merchants who ignore the change will see their highest value
+
+116
+00:06:12,183 --> 00:06:14,822
+repeat orders routed through whichever agent finds the lowest.
+
+117
+00:06:15,015 --> 00:06:16,156
+Compliant price.
+
+118
+00:06:16,575 --> 00:06:20,015
+Pope Leo addresses AI impact on Europe and society.
+
+119
+00:06:20,256 --> 00:06:22,455
+When the Pope frames AI as a mediator
+
+120
+00:06:22,455 --> 00:06:25,335
+of human relationships rather than a productivity tool,
+
+121
+00:06:25,575 --> 00:06:27,996
+Brussels listens differently than Washington does.
+
+122
+00:06:28,455 --> 00:06:30,976
+Expect the next round of EU AI Act
+
+123
+00:06:30,976 --> 00:06:34,316
+guidance to borrow language around dignity and community
+
+124
+00:06:34,455 --> 00:06:36,936
+that no American lab has stress tested yet.
+
+125
+00:06:37,170 --> 00:06:40,809
+Education platforms selling into Catholic schools across the continent
+
+126
+00:06:41,010 --> 00:06:45,390
+now face an informal review layer that sits outside any formal certification.
+
+127
+00:06:45,609 --> 00:06:48,239
+Ministries drafting procurement rules will adopt that
+
+128
+00:06:48,239 --> 00:06:50,549
+vocabulary before the next budget cycle.
