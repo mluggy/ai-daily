@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Sun, 24 May 2026 21:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:47:00 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -308,6 +308,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e16.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>AI Math Breakthrough, $45B Deal &amp; Agentic Push</title>
+      <description>Covers OpenAI autonomously disproving an 80-year math conjecture, Anthropic&apos;s $45B SpaceX compute commitment, Meta&apos;s employee data training for AI before mass layoffs, Trump&apos;s scrapped AI safety order, and Google&apos;s I/O agentic advancements.</description>
+      <link>{{SITE_URL}}/17</link>
+      <guid isPermaLink="false">s2026e17</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e17.mp3" length="9783526" type="audio/mpeg" />
+      <itunes:summary>Covers OpenAI autonomously disproving an 80-year math conjecture, Anthropic&apos;s $45B SpaceX compute commitment, Meta&apos;s employee data training for AI before mass layoffs, Trump&apos;s scrapped AI safety order, and Google&apos;s I/O agentic advancements.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:47</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e17.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e17.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

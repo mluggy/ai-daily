@@ -1,0 +1,515 @@
+1
+00:00:04,409 --> 00:00:08,050
+OpenAI AI model solves 80-year math conjecture.
+
+2
+00:00:08,409 --> 00:00:12,149
+Gower's signing off on the proof changes what counts as frontier research.
+
+3
+00:00:12,409 --> 00:00:16,450
+Labs now face pressure to integrate these models into every conjecture pipeline
+
+4
+00:00:16,569 --> 00:00:18,840
+or watch their publication lead evaporate.
+
+5
+00:00:19,129 --> 00:00:20,149
+Within 18 months,
+
+6
+00:00:20,209 --> 00:00:23,149
+the first AI co-authored paper in a top math journal
+
+7
+00:00:23,290 --> 00:00:25,430
+should outside its human-only peers.
+
+8
+00:00:25,649 --> 00:00:27,479
+That shift pulls grant money away from
+
+9
+00:00:27,479 --> 00:00:30,370
+traditional theory groups toward compute budgets instead.
+
+10
+00:00:30,770 --> 00:00:33,409
+Smaller departments lose their industry edge first.
+
+11
+00:00:33,830 --> 00:00:37,599
+Anthropic commits $45 billion to SpaceX for compute.
+
+12
+00:00:37,950 --> 00:00:41,349
+Locking in that monthly outlay through 2029 leaves little room
+
+13
+00:00:41,349 --> 00:00:44,430
+for pivots if inference costs drop faster than projected.
+
+14
+00:00:44,860 --> 00:00:47,630
+The deal forces OpenAI to either match with its own
+
+15
+00:00:47,630 --> 00:00:51,540
+satellite cluster or accept higher latency on frontier runs.
+
+16
+00:00:51,830 --> 00:00:54,110
+Smaller players without such contracts face
+
+17
+00:00:54,110 --> 00:00:56,849
+immediate capacity rationing starting next quarter.
+
+18
+00:00:57,150 --> 00:01:00,310
+This arrangement signals that power availability on Earth has
+
+19
+00:01:00,310 --> 00:01:02,950
+become the binding constraint for every major lab.
+
+20
+00:01:03,229 --> 00:01:04,309
+Watch as your margins.
+
+21
+00:01:04,519 --> 00:01:06,879
+Compress one orbital capacity scales.
+
+22
+00:01:07,279 --> 00:01:10,459
+Anthropic's Jack Clark forecasts Nobel AI win.
+
+23
+00:01:10,709 --> 00:01:13,120
+Clark's timeline for recursive self-improvement
+
+24
+00:01:13,120 --> 00:01:15,680
+by late 2028 undercuts the slower
+
+25
+00:01:15,680 --> 00:01:18,980
+roadmap still published by safety teams at the same labs.
+
+26
+00:01:19,239 --> 00:01:21,839
+Expect grant reviewers to start requiring AI
+
+27
+00:01:21,839 --> 00:01:23,940
+co-authors on proposals within the year.
+
+28
+00:01:24,269 --> 00:01:27,419
+That change sidelines purely human-led labs first.
+
+29
+00:01:27,650 --> 00:01:32,000
+OpenAI safety staff must now either publish matching forecasts or
+
+30
+00:01:32,000 --> 00:01:34,660
+explain why their models will lag clawed on autonomy.
+
+31
+00:01:35,330 --> 00:01:38,209
+University departments ignoring the shift lose top graduate
+
+32
+00:01:38,209 --> 00:01:41,349
+students to compute heavy groups by fall 2026.
+
+33
+00:01:41,730 --> 00:01:44,830
+Meta trained AI on employee data before layoffs.
+
+34
+00:01:45,010 --> 00:01:47,209
+The timing with those layoffs suggests the models
+
+35
+00:01:47,209 --> 00:01:50,160
+were trained precisely to replace the tracked workflows.
+
+36
+00:01:50,489 --> 00:01:53,930
+Google employees now have fresh reason to push for explicit data
+
+37
+00:01:53,930 --> 00:01:57,449
+use audits before their own activity feeds the next Gemini iteration.
+
+38
+00:01:58,165 --> 00:01:59,375
+Without those protections,
+
+39
+00:01:59,574 --> 00:02:02,855
+top engineers start filtering their logs or leaving for smaller
+
+40
+00:02:02,855 --> 00:02:05,794
+shops that cannot yet afford the same surveillance stack.
+
+41
+00:02:06,044 --> 00:02:08,975
+Expect similar leaks from Amazon within 6 months
+
+42
+00:02:08,975 --> 00:02:11,475
+as infrastructure bills mount across the sector.
+
+43
+00:02:11,854 --> 00:02:14,395
+Trump scraps AI safety executive order.
+
+44
+00:02:14,695 --> 00:02:17,535
+Direct lobbying from the top 3 AI CEOs
+
+45
+00:02:17,535 --> 00:02:20,035
+killed the Frontier Review before ink hit paper.
+
+46
+00:02:20,330 --> 00:02:23,050
+The move speeds US model releases by months,
+
+47
+00:02:23,279 --> 00:02:27,800
+but it invites allies to impose their own pre-market rules on American exports.
+
+48
+00:02:28,130 --> 00:02:31,830
+This forces OpenAI to build an internal certification process
+
+49
+00:02:31,970 --> 00:02:35,360
+that mirrors the canceled order within 18 months or see its
+
+50
+00:02:35,360 --> 00:02:37,570
+enterprise pipeline shift toward regulated
+
+51
+00:02:37,570 --> 00:02:39,839
+domestic alternatives in key markets.
+
+52
+00:02:40,210 --> 00:02:44,550
+Google and Meta must publish voluntary audit reports ahead of any foreign mandate.
+
+53
+00:02:44,929 --> 00:02:45,289
+GitHub.
+
+54
+00:02:45,429 --> 00:02:47,929
+By poisoned VS code extension hack.
+
+55
+00:02:48,169 --> 00:02:50,830
+18 minutes was enough for the poisoned extension to
+
+56
+00:02:50,830 --> 00:02:54,139
+drain thousands of repos and targeted AI credentials.
+
+57
+00:02:54,429 --> 00:02:57,029
+Those clawed configs now let attackers test
+
+58
+00:02:57,029 --> 00:02:59,779
+prompt injections against live enterprise accounts.
+
+59
+00:03:00,070 --> 00:03:02,949
+This forces GitHub to require cryptographic signing
+
+60
+00:03:02,949 --> 00:03:05,369
+for all marketplace extensions by year end
+
+61
+00:03:05,509 --> 00:03:07,789
+or lose the trust of security conscious AI
+
+62
+00:03:07,789 --> 00:03:10,410
+labs that maintain their own internal stores instead.
+
+63
+00:03:10,889 --> 00:03:14,369
+Developers everywhere will start pinning extension versions and blocking
+
+64
+00:03:14,369 --> 00:03:17,479
+auto updates after seeing how fast the window opened.
+
+65
+00:03:17,960 --> 00:03:19,970
+Supply chain worm strikes OpenAI,
+
+66
+00:03:20,279 --> 00:03:20,679
+Mistral,
+
+67
+00:03:20,729 --> 00:03:21,389
+and more.
+
+68
+00:03:21,690 --> 00:03:26,550
+The NPM packages sat in 170 places before anyone spotted the payload.
+
+69
+00:03:26,889 --> 00:03:30,490
+OpenAI and Mistral employee machines now carry persistent
+
+70
+00:03:30,490 --> 00:03:33,169
+access that can siphon model configs over time.
+
+71
+00:03:33,509 --> 00:03:35,669
+This forces both labs to rebuild their
+
+72
+00:03:35,669 --> 00:03:38,190
+entire dependency trees from clean sources within
+
+73
+00:03:38,190 --> 00:03:43,259
+30 days or risk gradual weight exfiltration that no perimeter tool will catch.
+
+74
+00:03:43,669 --> 00:03:46,869
+Teams at the European Commission face the same rebuild cycle,
+
+75
+00:03:47,029 --> 00:03:50,550
+which will delay their AI procurement pilots by at least 1 quarter.
+
+76
+00:03:51,190 --> 00:03:54,529
+Google IO unveils broad agentic AI ecosystem.
+
+77
+00:03:54,979 --> 00:03:57,660
+The always on agents turn every workspace session
+
+78
+00:03:57,660 --> 00:04:00,250
+into a running inference job that never sleeps.
+
+79
+00:04:00,619 --> 00:04:03,580
+Salesforce loses its mid-market wedge by Q3
+
+80
+00:04:03,740 --> 00:04:05,979
+once Google agents start completing the same
+
+81
+00:04:05,979 --> 00:04:08,850
+CRM updates inside existing email threads.
+
+82
+00:04:09,100 --> 00:04:10,259
+Enterprise IT team.
+
+83
+00:04:10,464 --> 00:04:14,085
+will now demand usage-based credits instead of seat licenses,
+
+84
+00:04:14,125 --> 00:04:16,945
+squeezing margins on any standalone agent platform
+
+85
+00:04:16,945 --> 00:04:19,415
+that can't embed inside Gmail and Docs.
+
+86
+00:04:19,744 --> 00:04:22,904
+Google's move also locks in device data flows that Apple
+
+87
+00:04:22,904 --> 00:04:25,704
+cannot match without its own OS level agent layer.
+
+88
+00:04:27,070 --> 00:04:30,279
+Chat GPT gains PowerPoint generation capability.
+
+89
+00:04:30,510 --> 00:04:34,899
+Agencies lose their billable hours the moment brand voice lives inside the model.
+
+90
+00:04:35,230 --> 00:04:38,450
+Chat GPT's deck builder pulls from conversation history.
+
+91
+00:04:38,709 --> 00:04:42,829
+So one prompt now spits out a 20 slide deck with charts and speaker notes.
+
+92
+00:04:43,109 --> 00:04:46,390
+That changes the economics for anyone selling templates or training.
+
+93
+00:04:46,790 --> 00:04:50,190
+Mid-market slide software faces churn as teams test whether
+
+94
+00:04:50,190 --> 00:04:53,399
+the output meets compliance without a human review layer.
+
+95
+00:04:53,609 --> 00:04:57,950
+Expect template marketplaces to pivot toward verification services by year-end
+
+96
+00:04:58,109 --> 00:05:00,029
+or watch usage metrics flatline.
+
+97
+00:05:00,760 --> 00:05:03,739
+AI sparks surge in lawsuits and creative output.
+
+98
+00:05:04,000 --> 00:05:07,399
+The litigation spike distracts from how fast publishers are locking
+
+99
+00:05:07,399 --> 00:05:10,220
+in data licensing deals to feed the same models.
+
+100
+00:05:10,480 --> 00:05:15,239
+AI generated papers now outnumber human submissions in some preprint servers,
+
+101
+00:05:15,359 --> 00:05:18,739
+yet the lawsuits target the training sets rather than the outputs.
+
+102
+00:05:18,940 --> 00:05:19,679
+That mismatch.
+
+103
+00:05:19,829 --> 00:05:24,130
+Academic platforms will add watermarking requirements before journals catch up.
+
+104
+00:05:24,429 --> 00:05:27,390
+Smaller research tools without provenance tracking lose
+
+105
+00:05:27,390 --> 00:05:30,269
+their edge once institutions demand audit trails.
+
+106
+00:05:30,540 --> 00:05:33,230
+API margins compress once compliance checks
+
+107
+00:05:33,230 --> 00:05:35,670
+become mandatory for every generated citation.
+
+108
+00:05:36,070 --> 00:05:39,070
+AI robots outpace humans in tire changes.
+
+109
+00:05:39,359 --> 00:05:42,519
+Repair shops choose between retrofitting for robots or ceding
+
+110
+00:05:42,519 --> 00:05:45,350
+tire jobs to fleets already testing the systems.
+
+111
+00:05:45,589 --> 00:05:49,149
+Robots complete a swap in under 4 minutes with zero torque errors,
+
+112
+00:05:49,359 --> 00:05:51,459
+which undercuts the labor model at independent.
+
+113
+00:05:51,640 --> 00:05:52,410
+Garages.
+
+114
+00:05:52,630 --> 00:05:55,429
+Insurance carriers will start offering lower premiums
+
+115
+00:05:55,429 --> 00:05:58,109
+only to locations that log robotic assistance,
+
+116
+00:05:58,309 --> 00:06:00,910
+pushing adoption faster than any hardware sale.
+
+117
+00:06:01,230 --> 00:06:03,980
+Traditional toolmakers must bundle vision systems
+
+118
+00:06:04,109 --> 00:06:07,209
+or see their sockets and lifts gather dust by next summer.
+
+119
+00:06:07,829 --> 00:06:11,109
+US-China AI safety talks advance amid competition.
+
+120
+00:06:11,470 --> 00:06:15,010
+Both sides keep the compute export rules exactly where they are,
+
+121
+00:06:15,149 --> 00:06:17,709
+while the safety agenda moves forward on paper.
+
+122
+00:06:18,029 --> 00:06:22,190
+Frontier labs on each coast will still race to the next token threshold
+
+123
+00:06:22,190 --> 00:06:26,779
+because the talks focus on evaluation standards rather than shared compute caps.
+
+124
+00:06:27,109 --> 00:06:29,390
+Model developers gain another quarter before
+
+125
+00:06:29,390 --> 00:06:31,850
+any hardware restriction actually binds.
+
+126
+00:06:32,070 --> 00:06:35,269
+That leaves smaller nations outside the conversation forced
+
+127
+00:06:35,269 --> 00:06:37,269
+to pick one supply chain or the other.
+
+128
+00:06:37,549 --> 00:06:40,140
+The real constraint emerges when audit requirements
+
+129
+00:06:40,140 --> 00:06:42,630
+hit the inference providers serving both markets.
