@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 25 May 2026 09:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:44:55 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -325,6 +325,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e17.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Anthropic $900B Surge, Pope AI Encyclical &amp; IPO Race</title>
+      <description>Anthropic closes $30B round at over $900B valuation; Pope Leo XIV releases first AI encyclical Magnifica Humanitas alongside Anthropic co-founder; OpenAI prepares confidential S-1 IPO filing. Covers major funding, policy shifts, agent capabilities, talent moves, infrastructure deals, and global AI competition.</description>
+      <link>{{SITE_URL}}/18</link>
+      <guid isPermaLink="false">s2026e18</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e18.mp3" length="10194582" type="audio/mpeg" />
+      <itunes:summary>Anthropic closes $30B round at over $900B valuation; Pope Leo XIV releases first AI encyclical Magnifica Humanitas alongside Anthropic co-founder; OpenAI prepares confidential S-1 IPO filing. Covers major funding, policy shifts, agent capabilities, talent moves, infrastructure deals, and global AI competition.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:04</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e18.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e18.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

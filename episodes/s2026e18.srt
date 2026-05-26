@@ -1,0 +1,515 @@
+1
+00:00:04,630 --> 00:00:09,810
+Anthropic closes $30 billion round at $900 billion plus valuation.
+
+2
+00:00:10,189 --> 00:00:12,829
+Profitability metrics behind this round expose the
+
+3
+00:00:12,829 --> 00:00:15,210
+gap every other lab must now close.
+
+4
+00:00:15,510 --> 00:00:18,729
+OpenAI faces a direct choice on enterprise contracts.
+
+5
+00:00:18,950 --> 00:00:22,270
+Match the new margin expectations or watch procurement teams
+
+6
+00:00:22,270 --> 00:00:25,329
+shift budgets entirely to the leader showing black ink.
+
+7
+00:00:25,680 --> 00:00:29,709
+Enterprise SLAs will tighten around those margins within 6 months.
+
+8
+00:00:30,040 --> 00:00:33,040
+Smaller players lose runway fast once investors
+
+9
+00:00:33,040 --> 00:00:36,130
+recalibrate around actual earnings instead of hype.
+
+10
+00:00:36,360 --> 00:00:38,279
+The next wave of deals will reveal who
+
+11
+00:00:38,279 --> 00:00:41,069
+can sustain these valuations without burning cash.
+
+12
+00:00:41,360 --> 00:00:42,639
+Talent moves with them.
+
+13
+00:00:43,700 --> 00:00:46,900
+Pope Leo 13 releases first AI encyclical.
+
+14
+00:00:47,180 --> 00:00:49,290
+The choice of co-presenter hands one lab
+
+15
+00:00:49,290 --> 00:00:52,279
+an implicit endorsement competitors must now counter.
+
+16
+00:00:52,540 --> 00:00:56,720
+Other frontier companies face pressure to court similar institutional voices
+
+17
+00:00:56,840 --> 00:01:00,279
+or risk appearing outside the emerging consensus on oversight.
+
+18
+00:01:00,520 --> 00:01:01,180
+Expect procurement.
+
+19
+00:01:01,340 --> 00:01:04,638
+Procurement teams at regulated industries to insert encyclical
+
+20
+00:01:04,638 --> 00:01:07,300
+aligned clauses into contracts within the year.
+
+21
+00:01:07,680 --> 00:01:11,959
+Labs without parallel relationships will see slower adoption in Europe first.
+
+22
+00:01:12,199 --> 00:01:15,940
+The document sets a precedent that national rules may soon follow.
+
+23
+00:01:16,199 --> 00:01:19,059
+This raises the cost of staying silent on governance.
+
+24
+00:01:19,839 --> 00:01:23,669
+OpenAI prepares confidential S1 IPO filing.
+
+25
+00:01:24,000 --> 00:01:26,440
+Confidential filings give OpenAI room to
+
+26
+00:01:26,440 --> 00:01:29,000
+adjust numbers before public scrutiny hits.
+
+27
+00:01:29,319 --> 00:01:33,300
+This timing pressures Anthropic to accelerate its own path to liquidity
+
+28
+00:01:33,449 --> 00:01:37,300
+or lose key researchers chasing equity upside in a public company.
+
+29
+00:01:37,580 --> 00:01:40,480
+Expect the disclosed compute spend line to reset
+
+30
+00:01:40,480 --> 00:01:43,239
+investor expectations across the sector by Q4.
+
+31
+00:01:43,910 --> 00:01:46,669
+Competitors must now decide whether to file early
+
+32
+00:01:46,669 --> 00:01:49,839
+or defend private valuations against the new benchmark.
+
+33
+00:01:50,099 --> 00:01:52,870
+Employee retention becomes the immediate battleground.
+
+34
+00:01:53,110 --> 00:01:55,940
+Budgets for retention packages will spike accordingly.
+
+35
+00:01:56,349 --> 00:01:58,940
+Trump cancels AI safety executive order.
+
+36
+00:01:59,230 --> 00:02:02,389
+Direct calls from the biggest CEOs succeeded because audits
+
+37
+00:02:02,389 --> 00:02:04,940
+would have favored only those with deepest pockets.
+
+38
+00:02:05,300 --> 00:02:06,750
+Smaller developers gained breathing.
+
+39
+00:02:06,889 --> 00:02:07,379
+Room,
+
+40
+00:02:07,540 --> 00:02:09,940
+but now confronts state attorneys general who may
+
+41
+00:02:09,940 --> 00:02:12,130
+fill the federal gap with their own standards.
+
+42
+00:02:12,460 --> 00:02:15,059
+The absence of a national rule forces every lab
+
+43
+00:02:15,059 --> 00:02:18,020
+to build separate compliance teams for each jurisdiction,
+
+44
+00:02:18,380 --> 00:02:22,139
+watch hiring patterns in legal and policy roles over the next quarter.
+
+45
+00:02:22,460 --> 00:02:24,580
+Competitive dynamics shift toward those who
+
+46
+00:02:24,580 --> 00:02:27,169
+can navigate fragmented oversight cheapest.
+
+47
+00:02:27,539 --> 00:02:30,259
+NextEra buys dominion in $67 billion.
+
+48
+00:02:30,410 --> 00:02:31,770
+AI power deal.
+
+49
+00:02:32,089 --> 00:02:34,830
+Power purchase agreements for new data centers just became
+
+50
+00:02:34,830 --> 00:02:38,440
+15% more expensive overnight in the Southeast Corridor.
+
+51
+00:02:38,809 --> 00:02:41,410
+NextEra now controls the transmission routes every
+
+52
+00:02:41,410 --> 00:02:43,809
+hyperscaler needs for the next 3 years.
+
+53
+00:02:44,119 --> 00:02:47,839
+Smaller utilities lose leverage in every negotiation that follows.
+
+54
+00:02:48,169 --> 00:02:50,570
+Microsoft has already signaled it will shift two
+
+55
+00:02:50,570 --> 00:02:53,479
+upcoming Virginia campuses to behind the meter generation.
+
+56
+00:02:54,050 --> 00:02:57,350
+The first permits land before regulators finish reviewing the deal.
+
+57
+00:02:57,770 --> 00:03:00,649
+This consolidation accelerates the timeline for FERC to
+
+58
+00:03:00,649 --> 00:03:03,559
+revisit market power rules and utility mergers.
+
+59
+00:03:03,929 --> 00:03:06,929
+OpenAI Codex controls locked Mac computers.
+
+60
+00:03:07,250 --> 00:03:09,679
+Security teams now face an endpoint they cannot
+
+61
+00:03:09,679 --> 00:03:12,550
+lock down without disabling the operating system itself.
+
+62
+00:03:13,050 --> 00:03:16,130
+The codex runtime maintains full control across sleep cycles.
+
+63
+00:03:16,399 --> 00:03:17,309
+and reboots.
+
+64
+00:03:17,559 --> 00:03:21,050
+Apple must expose deeper management APIs or accept Mac
+
+65
+00:03:21,050 --> 00:03:23,789
+OS as the less secure option for classified work.
+
+66
+00:03:24,369 --> 00:03:26,990
+Most defense contractors will run the pilot anyway.
+
+67
+00:03:27,410 --> 00:03:29,649
+The first policy bans on persistent agent
+
+68
+00:03:29,649 --> 00:03:32,750
+sessions appear in federal RFPs before summer.
+
+69
+00:03:33,130 --> 00:03:38,289
+Mac OS share in new DOD contracts falls below 40% by next fiscal year.
+
+70
+00:03:39,009 --> 00:03:41,820
+Andre Carpathhi joins anthropic pre-training.
+
+71
+00:03:42,149 --> 00:03:46,589
+Carpathi's move reveals OpenAI's pre-training advantage has shrunk enough that
+
+72
+00:03:46,589 --> 00:03:49,889
+top talent sees external options as equal or better.
+
+73
+00:03:50,149 --> 00:03:54,809
+Anthropic gains a direct line to the scaling laws that defined GPT 4.
+
+74
+00:03:55,110 --> 00:03:57,350
+OpenAI must now accelerate its internal
+
+75
+00:03:57,350 --> 00:03:59,869
+shift toward post-training and agent layers.
+
+76
+00:04:00,190 --> 00:04:04,070
+Their next release will emphasize tool use over raw parameter count.
+
+77
+00:04:04,350 --> 00:04:07,860
+Recruiting calls from both labs intensify through the end of the year.
+
+78
+00:04:08,190 --> 00:04:13,149
+Compensation packages for pre-training staff rise another 25% this cycle.
+
+79
+00:04:13,710 --> 00:04:17,608
+Pentagon tests OpenAI and Google as clawed alternatives.
+
+80
+00:04:17,869 --> 00:04:21,410
+Defense procurement officers just removed the single vendor assumption
+
+81
+00:04:21,410 --> 00:04:24,570
+that shaped the last 18 months of classified pilots.
+
+82
+00:04:24,829 --> 00:04:29,089
+Anthropic loses its default position on every new workflow evaluation.
+
+83
+00:04:29,470 --> 00:04:31,390
+Google gains immediate access to the
+
+84
+00:04:31,390 --> 00:04:33,989
+data environments that previously stayed closed.
+
+85
+00:04:34,309 --> 00:04:38,329
+The first competitive bake-offs appear in active solicitations by spring.
+
+86
+00:04:38,670 --> 00:04:42,470
+Watch Anthropic's classified ARR stall unless it secures
+
+87
+00:04:42,470 --> 00:04:44,989
+sole source renewal before next budget cycle.
+
+88
+00:04:45,269 --> 00:04:48,329
+OpenAI's enterprise team now treats the defense vertical
+
+89
+00:04:48,329 --> 00:04:50,549
+as a primary target for the first time.
+
+90
+00:04:51,540 --> 00:04:55,160
+Google Search gets biggest AI overhaul in 25 years.
+
+91
+00:04:55,380 --> 00:04:58,100
+The shift moves discovery inside a single pane.
+
+92
+00:04:58,339 --> 00:05:02,040
+Publishers lose the click that used to justify their content investment.
+
+93
+00:05:02,250 --> 00:05:07,480
+Expect organic referral volume from search to fall another 12% within 18 months,
+
+94
+00:05:07,579 --> 00:05:11,089
+as agents complete research loops without ever leaving the results.
+
+95
+00:05:11,380 --> 00:05:13,260
+That revenue hole forces newsrooms.
+
+96
+00:05:13,329 --> 00:05:15,989
+To either cut headcount again or strike direct
+
+97
+00:05:15,989 --> 00:05:19,000
+licensing deals with Google before their competitors do.
+
+98
+00:05:19,329 --> 00:05:23,200
+Smaller outlets without those deals simply disappear from the index.
+
+99
+00:05:23,529 --> 00:05:26,760
+Chinese models hit 60% usage on open router.
+
+100
+00:05:27,089 --> 00:05:31,119
+Cost asymmetry explains the traffic share better than any benchmark table.
+
+101
+00:05:31,489 --> 00:05:35,149
+Teams running repeated inference tests now default to the lowest bidder.
+
+102
+00:05:35,470 --> 00:05:38,149
+That pattern will push OpenAI and Anthropic
+
+103
+00:05:38,149 --> 00:05:39,989
+to release cheaper open weights of their
+
+104
+00:05:39,989 --> 00:05:42,429
+own within 9 months or watch usage
+
+105
+00:05:42,429 --> 00:05:45,649
+share collapse outside regulated industries entirely.
+
+106
+00:05:45,989 --> 00:05:49,220
+Enterprise buyers will follow on production workloads next year,
+
+107
+00:05:49,510 --> 00:05:53,019
+forcing US labs into a price war they have avoided so far.
+
+108
+00:05:53,309 --> 00:05:55,750
+Smaller teams have already made the switch permanent.
+
+109
+00:05:56,059 --> 00:05:56,660
+Adobe,
+
+110
+00:05:56,820 --> 00:05:57,220
+Canva,
+
+111
+00:05:57,420 --> 00:05:59,410
+Cap Cut integrate Gemini tools.
+
+112
+00:05:59,640 --> 00:06:02,489
+Integration inside existing creative tools changes
+
+113
+00:06:02,489 --> 00:06:04,690
+the distribution game for model providers.
+
+114
+00:06:04,970 --> 00:06:08,799
+Gemini now rides along in workflows that already have paid users.
+
+115
+00:06:09,059 --> 00:06:13,040
+That forces competing labs to either cut similar deals with the same suites
+
+116
+00:06:13,149 --> 00:06:16,890
+or lose the professional segment to Google within the next product cycle.
+
+117
+00:06:17,179 --> 00:06:19,579
+The margin pressure lands hardest on pure play
+
+118
+00:06:19,579 --> 00:06:22,269
+startups without an editing suite to embed inside.
+
+119
+00:06:22,510 --> 00:06:24,779
+Adobe can raise its own prices once the
+
+120
+00:06:24,779 --> 00:06:27,829
+AI layer becomes table stakes for every subscription.
+
+121
+00:06:28,230 --> 00:06:30,910
+Wall Street embraces AI agents for finance.
+
+122
+00:06:31,149 --> 00:06:34,070
+Autonomous agents in trade execution remove the human
+
+123
+00:06:34,070 --> 00:06:37,369
+approval step that compliance teams still assume exists.
+
+124
+00:06:37,630 --> 00:06:39,950
+Banks adopting the tools must rewrite their
+
+125
+00:06:39,950 --> 00:06:43,269
+oversight protocols before auditors arrive next quarter.
+
+126
+00:06:43,785 --> 00:06:47,285
+Bloomberg faces the direct threat of losing its terminal lock-in as
+
+127
+00:06:47,285 --> 00:06:51,165
+agents query data and place orders without the legacy interface.
+
+128
+00:06:51,424 --> 00:06:55,714
+That opens a narrow window for smaller fintechs to insert their own risk layers.
+
+129
+00:06:55,945 --> 00:06:59,565
+The first bank to certify an agent stack gains execution speed.
