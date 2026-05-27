@@ -1,0 +1,447 @@
+1
+00:00:04,889 --> 00:00:07,800
+China curbs overseas travel for AI talent.
+
+2
+00:00:08,050 --> 00:00:10,430
+Researchers at leading Chinese labs now need
+
+3
+00:00:10,430 --> 00:00:12,770
+government approval for any overseas travel,
+
+4
+00:00:12,920 --> 00:00:16,719
+closing the informal channels that once let ideas cross borders quickly.
+
+5
+00:00:17,010 --> 00:00:21,250
+Domestic labs will accelerate fully sovereign training runs to make up the gap.
+
+6
+00:00:21,649 --> 00:00:24,649
+US Frontier Labs respond by screening candidates more
+
+7
+00:00:24,649 --> 00:00:27,520
+aggressively for recent ties to those same firms.
+
+8
+00:00:27,809 --> 00:00:32,709
+Two parallel talent pools stop sharing benchmarks or techniques inside 18 months.
+
+9
+00:00:33,389 --> 00:00:36,450
+Mastercard details trusted Agentic commerce vision.
+
+10
+00:00:36,860 --> 00:00:40,299
+Every agent-driven purchase now requires an auditable chain
+
+11
+00:00:40,299 --> 00:00:42,889
+back to user intent before the payment clears.
+
+12
+00:00:43,220 --> 00:00:45,819
+Banks must rewrite fraud detection around machine
+
+13
+00:00:45,819 --> 00:00:48,729
+generated sequences instead of individual clicks.
+
+14
+00:00:49,020 --> 00:00:53,049
+Smaller FinTech players face a choice to adopt the new trust specs or
+
+15
+00:00:53,049 --> 00:00:55,580
+watch merchants route volume elsewhere once
+
+16
+00:00:55,580 --> 00:00:58,209
+large retailers standardize on the requirements.
+
+17
+00:00:58,540 --> 00:01:01,900
+Early tests will expose whether the added security checks introduce
+
+18
+00:01:01,900 --> 00:01:05,440
+latency that undercuts the speed agents promise at checkout.
+
+19
+00:01:05,980 --> 00:01:09,370
+When Deep Seek makes V4 Pro price cut permanent,
+
+20
+00:01:09,739 --> 00:01:14,360
+Deepeek's permanent reduction locks output tokens at 87 cents per million
+
+21
+00:01:14,500 --> 00:01:16,860
+and ends the era of temporary discounts.
+
+22
+00:01:17,059 --> 00:01:20,739
+Anthropic must now either match the rate across its public endpoints
+
+23
+00:01:20,739 --> 00:01:24,730
+or shift entirely to enterprise deals that bundle compliance extras.
+
+24
+00:01:25,050 --> 00:01:27,900
+Startups relying on cheap inference migrate first.
+
+25
+00:01:28,220 --> 00:01:31,339
+Higher priced providers are left competing on safety features
+
+26
+00:01:31,339 --> 00:01:34,440
+that few buyers prioritize when budgets tighten next year.
+
+27
+00:01:35,419 --> 00:01:38,940
+Wait till US Census reports rising business AI adoption.
+
+28
+00:01:39,260 --> 00:01:44,319
+Numbers stuck between 17 and 20% over six months show the low hanging fruit is gone.
+
+29
+00:01:44,739 --> 00:01:49,120
+Growth now concentrates in firms large enough to absorb custom integration work.
+
+30
+00:01:49,339 --> 00:01:52,339
+Vertical software vendors will have to cut per user AI
+
+31
+00:01:52,339 --> 00:01:56,169
+fees sharply or watch smaller businesses stall out entirely.
+
+32
+00:01:56,419 --> 00:01:57,260
+Without those cuts,
+
+33
+00:01:57,379 --> 00:02:00,580
+the headline adoption rate stays flat through the end of next year.
+
+34
+00:02:01,370 --> 00:02:04,050
+States enact new AI healthcare regulations.
+
+35
+00:02:04,330 --> 00:02:07,010
+Hospitals now face a choice between slowing their AI
+
+36
+00:02:07,010 --> 00:02:10,210
+pilots or building entire oversight teams from scratch.
+
+37
+00:02:10,529 --> 00:02:13,100
+The new rules require every automated denial to
+
+38
+00:02:13,100 --> 00:02:15,529
+carry a human sign off within 48 hours.
+
+39
+00:02:15,860 --> 00:02:18,460
+That timeline alone will push smaller insurers toward
+
+40
+00:02:18,460 --> 00:02:21,039
+legacy systems they abandoned two years ago.
+
+41
+00:02:21,259 --> 00:02:24,300
+Expect prior authorization vendors to embed real-time
+
+42
+00:02:24,300 --> 00:02:27,250
+logging that state auditors can query directly.
+
+43
+00:02:27,619 --> 00:02:30,059
+Mid-sized plans in California and New York
+
+44
+00:02:30,059 --> 00:02:33,839
+will likely freeze new deployments until Q4 2026
+
+45
+00:02:34,020 --> 00:02:36,229
+while they retrofit compliance layers.
+
+46
+00:02:36,460 --> 00:02:38,779
+Agentic AI breaks traditional security.
+
+47
+00:02:38,895 --> 00:02:39,544
+Assumptions.
+
+48
+00:02:39,884 --> 00:02:43,134
+Security teams will soon discover that their endpoint agents no
+
+49
+00:02:43,134 --> 00:02:46,634
+longer see the real actor once autonomous workflows take over.
+
+50
+00:02:46,895 --> 00:02:50,164
+Existing controls assume a human clicks through approvals,
+
+51
+00:02:50,214 --> 00:02:52,895
+yet agents chain API calls across Slack,
+
+52
+00:02:53,095 --> 00:02:53,645
+Salesforce,
+
+53
+00:02:53,735 --> 00:02:55,604
+and finance systems in seconds.
+
+54
+00:02:56,014 --> 00:02:58,975
+CIOs must rewrite data access policies around
+
+55
+00:02:58,975 --> 00:03:01,445
+agent identities rather than user roles.
+
+56
+00:03:01,735 --> 00:03:03,975
+The first firms to lose control will be those
+
+57
+00:03:03,975 --> 00:03:07,214
+still relying on MFA prompts that agents can simulate.
+
+58
+00:03:07,610 --> 00:03:12,110
+This forces CrowdStrike to ship agent-specific baselines by early next year.
+
+59
+00:03:12,410 --> 00:03:15,240
+Clawed memory syncs across AI platforms.
+
+60
+00:03:15,410 --> 00:03:19,169
+The move quietly hands anthropic control over continuity data
+
+61
+00:03:19,169 --> 00:03:21,729
+that every competing agent will now need to match.
+
+62
+00:03:22,089 --> 00:03:26,229
+Users can keep one persistent memory across chat GPT and Gemini
+
+63
+00:03:26,449 --> 00:03:28,449
+without rebuilding context each time.
+
+64
+00:03:28,809 --> 00:03:31,339
+That convenience raises the switching cost for
+
+65
+00:03:31,339 --> 00:03:33,660
+anyone already invested in Claude's profile.
+
+66
+00:03:33,919 --> 00:03:39,199
+OpenAI therefore faces pressure to expose equivalent memory APIs within 6 months
+
+67
+00:03:39,380 --> 00:03:43,770
+or see enterprise teams standardize on anthropic for multi-model workflows.
+
+68
+00:03:44,100 --> 00:03:46,580
+Smaller startups lose ground fastest without the
+
+69
+00:03:46,580 --> 00:03:48,979
+scale to negotiate similar sync deals.
+
+70
+00:03:49,330 --> 00:03:51,839
+AI voice cloning scams hit families.
+
+71
+00:03:52,210 --> 00:03:54,490
+Families hit hardest will be those who still trust
+
+72
+00:03:54,490 --> 00:03:56,869
+a familiar voice over a simple callback number.
+
+73
+00:03:57,479 --> 00:04:02,070
+Scammers already route calls through VOIP services that strip carrier metadata,
+
+74
+00:04:02,289 --> 00:04:04,369
+making trace back nearly impossible.
+
+75
+00:04:04,589 --> 00:04:06,460
+Expect banks to mandate video verification.
+
+76
+00:04:07,100 --> 00:04:10,610
+for transfers above $500 within the next two quarters.
+
+77
+00:04:10,940 --> 00:04:14,690
+That change alone will add friction to legitimate family support payments.
+
+78
+00:04:15,059 --> 00:04:19,858
+Telecom providers must deploy voice watermarking on their networks by mid-2026
+
+79
+00:04:19,858 --> 00:04:23,739
+or absorb rising fraud losses passed through from insurers and banks.
+
+80
+00:04:24,670 --> 00:04:27,739
+Nursing education adopts AI and VR training.
+
+81
+00:04:28,109 --> 00:04:30,690
+State licensing boards now face the real test.
+
+82
+00:04:30,869 --> 00:04:34,670
+Will they accept VR procedure logs as equivalent to bedside hours?
+
+83
+00:04:34,910 --> 00:04:35,670
+If they do,
+
+84
+00:04:35,869 --> 00:04:40,420
+the schools still using mannequins will see enrollment drop by 50% within 2 years.
+
+85
+00:04:40,709 --> 00:04:43,470
+Hospitals are already signaling preference for graduates
+
+86
+00:04:43,470 --> 00:04:46,500
+who logged 200+ simulated critical events.
+
+87
+00:04:46,829 --> 00:04:49,149
+That preference turns the adoption question into
+
+88
+00:04:49,149 --> 00:04:51,570
+a survival issue for smaller programs.
+
+89
+00:04:52,160 --> 00:04:55,279
+Baidu pushes Chinese AI independence with Ernie.
+
+90
+00:04:55,519 --> 00:04:57,799
+The bigger move sits in the chip supply chain,
+
+91
+00:04:57,959 --> 00:04:59,309
+not the model releases.
+
+92
+00:04:59,600 --> 00:05:03,160
+Baidu's domestic silicon push means foreign GPU vendors
+
+93
+00:05:03,160 --> 00:05:06,160
+lose their easiest path into Chinese training clusters.
+
+94
+00:05:06,399 --> 00:05:09,959
+Expect Microsoft and Nvidia to accelerate joint ventures with
+
+95
+00:05:09,959 --> 00:05:13,100
+local foundries before the next round of restrictions lands.
+
+96
+00:05:13,320 --> 00:05:13,880
+Otherwise,
+
+97
+00:05:13,959 --> 00:05:16,279
+their inference margins in the region collapse.
+
+98
+00:05:17,239 --> 00:05:20,059
+Agenic AI threat modeling gains urgency.
+
+99
+00:05:20,320 --> 00:05:24,119
+Enterprise security teams are already rewriting playbooks around agents
+
+100
+00:05:24,119 --> 00:05:27,309
+that can execute multi-step actions without human review.
+
+101
+00:05:27,600 --> 00:05:30,880
+The first companies to ship dedicated agent threat models will
+
+102
+00:05:30,880 --> 00:05:33,500
+set the procurement checklist for the rest of the sector.
+
+103
+00:05:33,760 --> 00:05:36,119
+Everyone else ends up retrofitting after the
+
+104
+00:05:36,119 --> 00:05:38,880
+first autonomous incident hits a production SLA.
+
+105
+00:05:39,760 --> 00:05:42,709
+Banks shift to AI specialists from traditional roles.
+
+106
+00:05:42,959 --> 00:05:44,980
+The quiet constraint is data access,
+
+107
+00:05:45,239 --> 00:05:46,109
+not headcount.
+
+108
+00:05:46,440 --> 00:05:49,660
+Banks cutting relationship manager roles still need clean
+
+109
+00:05:49,660 --> 00:05:52,790
+labeled transaction histories to train the new models.
+
+110
+00:05:53,070 --> 00:05:56,000
+That requirement hands disproportionate power to the handful
+
+111
+00:05:56,000 --> 00:05:59,070
+of FinTechs already sitting on consented data sets.
+
+112
+00:05:59,440 --> 00:06:03,640
+Larger institutions will have to buy or partner rather than build from scratch.

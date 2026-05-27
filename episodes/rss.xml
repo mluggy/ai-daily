@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 26 May 2026 09:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:44:40 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -342,6 +342,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e18.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>China AI Talent Curbs, Agentic Commerce &amp; Price Wars</title>
+      <description>China restricts overseas travel for top AI talent at Alibaba and DeepSeek. Mastercard details its vision for trusted agentic commerce with scaled payments and security. DeepSeek makes V4 Pro price cuts permanent amid escalating AI wars, alongside US business AI adoption growth and new healthcare regulations.</description>
+      <link>{{SITE_URL}}/19</link>
+      <guid isPermaLink="false">s2026e19</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e19.mp3" length="8845944" type="audio/mpeg" />
+      <itunes:summary>China restricts overseas travel for top AI talent at Alibaba and DeepSeek. Mastercard details its vision for trusted agentic commerce with scaled payments and security. DeepSeek makes V4 Pro price cuts permanent amid escalating AI wars, alongside US business AI adoption growth and new healthcare regulations.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:08</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e19.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e19.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
