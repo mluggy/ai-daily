@@ -1,0 +1,443 @@
+1
+00:00:04,550 --> 00:00:05,599
+SK Heinix,
+
+2
+00:00:05,789 --> 00:00:08,939
+Micron hit $1 trillion on AI chip boom.
+
+3
+00:00:09,229 --> 00:00:14,699
+Those market caps rest on HBM yields that still hover near 40% for the latest stacks.
+
+4
+00:00:15,069 --> 00:00:18,190
+Samsung now has to accelerate its own TSV process
+
+5
+00:00:18,190 --> 00:00:21,129
+or lose another round of Nvidia allocations next year.
+
+6
+00:00:21,389 --> 00:00:23,790
+The real pressure lands on enterprise GPU
+
+7
+00:00:23,790 --> 00:00:27,329
+buyers who face allocation queues stretching into 2026
+
+8
+00:00:27,469 --> 00:00:30,690
+if either SK Heinix or Micron slips on its roadmap.
+
+9
+00:00:31,069 --> 00:00:33,470
+Cloud providers are already signing multi-year
+
+10
+00:00:33,470 --> 00:00:35,810
+taker pay agreements to secure priority.
+
+11
+00:00:36,229 --> 00:00:39,189
+Microsoft rolls out computer-using agents to GA.
+
+12
+00:00:39,560 --> 00:00:41,790
+IT departments now face a new audit
+
+13
+00:00:41,790 --> 00:00:44,229
+requirement for every automated desktop action.
+
+14
+00:00:44,610 --> 00:00:49,009
+UI path and automation anywhere must either embed equivalent UI agents inside
+
+15
+00:00:49,009 --> 00:00:53,470
+their platforms or watch maintenance revenue migrate to co-pilot studio seats.
+
+16
+00:00:53,689 --> 00:00:56,009
+Early pilots already show prompt injection
+
+17
+00:00:56,009 --> 00:00:58,549
+risks that scripted RPA never triggered.
+
+18
+00:00:58,810 --> 00:01:01,049
+Mid-market firms will test these agents on internal.
+
+19
+00:01:01,360 --> 00:01:03,819
+Tools first before any external rollout.
+
+20
+00:01:04,199 --> 00:01:07,430
+AI outperforms average humans on creativity tests.
+
+21
+00:01:07,750 --> 00:01:10,699
+Standardized tests capture one slice of creative work.
+
+22
+00:01:10,910 --> 00:01:14,919
+Agencies still won't hand over final campaigns because consistency
+
+23
+00:01:14,919 --> 00:01:17,760
+across touch points matters more than raw idea volume.
+
+24
+00:01:18,120 --> 00:01:21,730
+Expect them to reduce junior creative roles while adding prompt
+
+25
+00:01:21,730 --> 00:01:25,669
+engineering specialists who translate client constraints into model inputs.
+
+26
+00:01:25,889 --> 00:01:30,809
+The gap between lab scores and retained projects will show up in Q3 pitch outcomes.
+
+27
+00:01:31,169 --> 00:01:34,489
+Gemini API enforces new breaking schema change.
+
+28
+00:01:34,849 --> 00:01:39,610
+Teams maintaining production Gemini calls must budget 2 weeks of engineering time
+
+29
+00:01:39,610 --> 00:01:43,290
+before the June deadline or risk silent failures on output parsing.
+
+30
+00:01:43,690 --> 00:01:46,459
+That timeline favors OpenAI and Anthropic,
+
+31
+00:01:46,690 --> 00:01:50,199
+both of which have held their response schema steady for longer stretches.
+
+32
+00:01:50,529 --> 00:01:52,610
+Developers running multi-model routers will
+
+33
+00:01:52,610 --> 00:01:54,830
+shift default traffic away from Gemini
+
+34
+00:01:55,089 --> 00:01:58,589
+until Google publishes a deprecation calendar with 90 day notice.
+
+35
+00:01:58,970 --> 00:02:02,400
+AI generated prose lawsuits surge in US courts.
+
+36
+00:02:02,650 --> 00:02:05,050
+Rejection rates on technicalities have doubled for
+
+37
+00:02:05,050 --> 00:02:08,190
+these AI-assisted filings compared with handwritten ones.
+
+38
+00:02:08,410 --> 00:02:11,649
+That pattern hands an unexpected advantage to defendants with deeper
+
+39
+00:02:11,649 --> 00:02:15,440
+pockets who can now outlast the filer through extended discovery.
+
+40
+00:02:15,770 --> 00:02:18,490
+Legal tech vendors are racing to sell docket monitoring
+
+41
+00:02:18,490 --> 00:02:21,690
+dashboards that flag AI patterns before judges see them.
+
+42
+00:02:22,009 --> 00:02:23,410
+By mid 2025,
+
+43
+00:02:23,690 --> 00:02:27,970
+courts in three states will likely mandate disclosure checkboxes on every filing,
+
+44
+00:02:28,250 --> 00:02:30,449
+turning each complaint into billable data for
+
+45
+00:02:30,449 --> 00:02:33,240
+compliance platforms that charge per case reviewed.
+
+46
+00:02:33,729 --> 00:02:36,910
+Samsung Union sues over AI chip pay disparity.
+
+47
+00:02:37,139 --> 00:02:39,820
+The compensation gap has already triggered quiet
+
+48
+00:02:39,820 --> 00:02:41,559
+transfers out of the consumer division.
+
+49
+00:02:42,009 --> 00:02:43,130
+If the union wins,
+
+50
+00:02:43,300 --> 00:02:47,320
+the company must either extend the AI bonus structure to every product line
+
+51
+00:02:47,460 --> 00:02:51,759
+or watch its most experienced hardware talent migrate to pure play chip firms.
+
+52
+00:02:52,059 --> 00:02:54,960
+Memory suppliers are preparing contract clauses that let them
+
+53
+00:02:54,960 --> 00:02:58,759
+renegotiate prices if production costs rise from any settlement.
+
+54
+00:02:59,009 --> 00:03:03,179
+That shift would ripple into smartphone margins faster than most analysts track.
+
+55
+00:03:03,750 --> 00:03:06,729
+Tribeca Premiere's fully AI generated feature film.
+
+56
+00:03:07,220 --> 00:03:10,820
+Voice actors who once earned residuals on every rerun now
+
+57
+00:03:10,820 --> 00:03:14,029
+face a single buyout offer for unlimited AI clones.
+
+58
+00:03:14,389 --> 00:03:17,740
+Studios that skipped the premiere are quietly licensing the underlying
+
+59
+00:03:17,740 --> 00:03:20,449
+model weights to avoid building their own from scratch.
+
+60
+00:03:20,649 --> 00:03:23,470
+Expect the next round of streaming deals to include explicit
+
+61
+00:03:23,470 --> 00:03:27,429
+clauses that cap synthetic performer usage at 30% of runtime.
+
+62
+00:03:27,750 --> 00:03:31,360
+That ceiling will determine which production companies survive the next contract
+
+63
+00:03:31,360 --> 00:03:35,339
+cycle and which get acquired by larger platforms holding the models.
+
+64
+00:03:35,800 --> 00:03:39,350
+AI accelerates antibiotic discovery versus superbugs.
+
+65
+00:03:39,679 --> 00:03:43,119
+Pharma pipelines that once advanced one candidate per quarter
+
+66
+00:03:43,119 --> 00:03:45,860
+now process dozens through the same compute budget.
+
+67
+00:03:46,160 --> 00:03:48,600
+Smaller biotechs holding the training data sets
+
+68
+00:03:48,600 --> 00:03:50,800
+are suddenly in talks with regulators about.
+
+69
+00:03:50,914 --> 00:03:54,225
+Fast track approvals that bypass traditional animal trials.
+
+70
+00:03:54,554 --> 00:03:57,044
+This timeline compression means hospitals will face
+
+71
+00:03:57,044 --> 00:04:00,865
+formulary decisions on multiple new antibiotics simultaneously,
+
+72
+00:04:01,074 --> 00:04:03,554
+shifting bargaining power toward payers who can demand
+
+73
+00:04:03,554 --> 00:04:06,054
+volume discounts earlier in the patent window.
+
+74
+00:04:06,399 --> 00:04:09,080
+Generic manufacturers are already modeling the price
+
+75
+00:04:09,080 --> 00:04:11,660
+erosion that follows 2 years after launch.
+
+76
+00:04:12,000 --> 00:04:15,380
+OpenAI launches daybreak AI cybersecurity platform.
+
+77
+00:04:15,839 --> 00:04:19,178
+Patches now ship before most teams even log the CVE.
+
+78
+00:04:19,480 --> 00:04:22,500
+That compresses the window traditional scanners use to monetize.
+
+79
+00:04:22,989 --> 00:04:24,359
+CrowdStrike must either embed.
+
+80
+00:04:24,480 --> 00:04:26,260
+Similar agents inside Falcon
+
+81
+00:04:26,410 --> 00:04:28,359
+or watch mid-market deals migrate to
+
+82
+00:04:28,359 --> 00:04:30,970
+whoever offers autonomous remediation first.
+
+83
+00:04:31,200 --> 00:04:34,119
+Expect their next earnings to show R&D spend jumping
+
+84
+00:04:34,119 --> 00:04:36,859
+another 15 points just to stay in the conversation.
+
+85
+00:04:37,279 --> 00:04:39,500
+False positive claims on live systems
+
+86
+00:04:39,640 --> 00:04:42,480
+will force the first SLA revisions by Q4.
+
+87
+00:04:42,989 --> 00:04:47,070
+Bing X lists pre-IPO futures for OpenAI Anthropic.
+
+88
+00:04:47,380 --> 00:04:51,309
+Valuations now fluctuate on crypto leverage rather than funding rounds.
+
+89
+00:04:51,510 --> 00:04:55,209
+OpenAI has to either file for IPO within 18 months
+
+90
+00:04:55,350 --> 00:04:59,429
+or see key talent cash out through derivatives that ignore any lockup.
+
+91
+00:04:59,670 --> 00:05:01,690
+Anthropic faces the same pressure.
+
+92
+00:05:01,910 --> 00:05:05,790
+Expect both to tighten secondary share rules before the next board meeting.
+
+93
+00:05:06,029 --> 00:05:08,149
+The first sign will be restricted transfer
+
+94
+00:05:08,149 --> 00:05:10,899
+windows announced quietly in employee portals.
+
+95
+00:05:11,320 --> 00:05:16,950
+Pony AI raises 2026 robotaxi fleet target to 3500.
+
+96
+00:05:17,109 --> 00:05:20,220
+Chinese city permits now hinge on fleet size commitments.
+
+97
+00:05:20,549 --> 00:05:23,829
+Waymo must either match the 3500 unit run rate.
+
+98
+00:05:23,934 --> 00:05:25,274
+Inside 18 months
+
+99
+00:05:25,415 --> 00:05:28,375
+or lose its first mover edge in the only regulatory
+
+100
+00:05:28,375 --> 00:05:31,744
+environment that has approved paid robotaxi rides at scale.
+
+101
+00:05:32,095 --> 00:05:36,234
+Baidu will respond by accelerating its own orders from domestic suppliers
+
+102
+00:05:36,505 --> 00:05:38,285
+before Pony locks in the contracts.
+
+103
+00:05:38,535 --> 00:05:40,334
+Watch the supplier negotiations.
+
+104
+00:05:40,535 --> 00:05:41,674
+They close by year end.
+
+105
+00:05:42,209 --> 00:05:45,410
+AI memory frenzy drives Asian chip stock rally.
+
+106
+00:05:45,730 --> 00:05:48,750
+SK Heinix crossed $1 trillion on forward orders alone.
+
+107
+00:05:49,170 --> 00:05:52,329
+Cloud providers now face allocation fights that push memory
+
+108
+00:05:52,329 --> 00:05:55,579
+costs up 25% before the next refresh cycle.
+
+109
+00:05:55,880 --> 00:06:00,269
+Microsoft and Google must either sign longer term HBM deals at premium
+
+110
+00:06:00,410 --> 00:06:04,399
+or throttle context window expansions they promised enterprise customers.
+
+111
+00:06:04,690 --> 00:06:09,489
+The margin squeeze shows up first in Azure's AI services line by Q3 next year.
