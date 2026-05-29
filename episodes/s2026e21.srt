@@ -1,0 +1,483 @@
+1
+00:00:04,550 --> 00:00:07,349
+Robinhood lets AI agents trade stocks and spend.
+
+2
+00:00:07,670 --> 00:00:10,779
+Third party agents now hold the keys to retail order flow,
+
+3
+00:00:10,939 --> 00:00:12,229
+and the first ones to clear will
+
+4
+00:00:12,229 --> 00:00:14,770
+route everything through the lowest latency broker.
+
+5
+00:00:14,989 --> 00:00:17,989
+The MCP integration turns every spending limit into
+
+6
+00:00:17,989 --> 00:00:19,979
+a live parameter an agent can optimize.
+
+7
+00:00:20,069 --> 00:00:21,430
+Against market data.
+
+8
+00:00:21,780 --> 00:00:25,530
+Banks without equivalent hooks lose the next layer of automated volume.
+
+9
+00:00:25,760 --> 00:00:29,840
+Expect the first wave of agent-driven credit lines to surface within 9 months,
+
+10
+00:00:30,120 --> 00:00:32,799
+forcing legacy platforms to either expose their own
+
+11
+00:00:32,799 --> 00:00:35,580
+protocols or seed the entire mid-tier book.
+
+12
+00:00:36,200 --> 00:00:38,889
+Snowflake signed $6 billion AWS deal.
+
+13
+00:00:39,169 --> 00:00:40,470
+Shares surged sharply.
+
+14
+00:00:40,729 --> 00:00:43,849
+Choosing Graviton over standard instances cuts Snowflake's
+
+15
+00:00:43,849 --> 00:00:45,909
+own compute spend by roughly a third
+
+16
+00:00:46,029 --> 00:00:47,349
+once the migration finishes.
+
+17
+00:00:47,849 --> 00:00:50,799
+That margin lift is already baked into the raised outlook.
+
+18
+00:00:51,115 --> 00:00:53,814
+It also locks the company deeper into AWS
+
+19
+00:00:53,814 --> 00:00:56,465
+tooling that smaller rivals cannot match at scale.
+
+20
+00:00:56,755 --> 00:00:59,115
+Watch the next three enterprise RFPs.
+
+21
+00:00:59,275 --> 00:01:03,354
+Any vendor still quoting X86 pricing will either discount aggressively
+
+22
+00:01:03,354 --> 00:01:06,095
+or lose the deal to the new Graviton-backed rates.
+
+23
+00:01:06,860 --> 00:01:11,559
+Cognition raises over $1 billion at $26 billion valuation for Devin.
+
+24
+00:01:11,900 --> 00:01:15,099
+Every Series C at this multiple now sets the benchmark for
+
+25
+00:01:15,099 --> 00:01:18,620
+what an autonomous coding team must deliver inside 12 months.
+
+26
+00:01:18,900 --> 00:01:21,339
+Devin's backers are pricing and replacement of
+
+27
+00:01:21,339 --> 00:01:23,680
+entire junior engineering benches at scale.
+
+28
+00:01:23,970 --> 00:01:26,470
+The pressure hits GitHub and JetBrains first,
+
+29
+00:01:26,620 --> 00:01:29,019
+since their plug-in ecosystems become the obvious
+
+30
+00:01:29,019 --> 00:01:31,059
+integration layer for any new agent.
+
+31
+00:01:31,400 --> 00:01:34,300
+That leaves every incumbent tool vendor with one choice,
+
+32
+00:01:34,480 --> 00:01:37,300
+embed similar agent loops before their renewal cycle
+
+33
+00:01:37,580 --> 00:01:40,889
+or watch ARR migrate to the new default environment.
+
+34
+00:01:41,349 --> 00:01:45,419
+Base 10I's $1 billion raise at $11 billion valuation.
+
+35
+00:01:45,819 --> 00:01:48,949
+Enterprise models serving margins compress the moment inference
+
+36
+00:01:48,949 --> 00:01:51,779
+moves behind an SLA with uptime guarantees.
+
+37
+00:01:52,110 --> 00:01:54,709
+Base 10's Ra assumes it can capture that layer
+
+38
+00:01:54,709 --> 00:01:57,629
+before the largest customers finish their own hardware builds.
+
+39
+00:01:57,910 --> 00:02:01,029
+The first sign will be when two large fintechs announce internal
+
+40
+00:02:01,029 --> 00:02:04,610
+clusters that match Base 10's claimed latency at half the cost.
+
+41
+00:02:04,940 --> 00:02:08,720
+Any delay lets the next batch of on-prem optimizations land first,
+
+42
+00:02:08,869 --> 00:02:13,350
+and the valuation math flips from growth to replacement cost inside 18 months.
+
+43
+00:02:13,919 --> 00:02:16,470
+Mistral launches Vibe remote coding agents.
+
+44
+00:02:16,720 --> 00:02:20,139
+Long running sessions change the economics of remote dev work.
+
+45
+00:02:20,320 --> 00:02:22,479
+A single agent can iterate through an entire
+
+46
+00:02:22,479 --> 00:02:25,750
+feature branch overnight without burning local GPU cycles.
+
+47
+00:02:26,080 --> 00:02:28,720
+The work mode toggle keeps context across days,
+
+48
+00:02:28,880 --> 00:02:29,740
+not hours.
+
+49
+00:02:29,960 --> 00:02:33,649
+Expect GitHub to cut co-pilot prices within 6 months or lose
+
+50
+00:02:33,649 --> 00:02:36,860
+the async segment to teams that value handoff over chat.
+
+51
+00:02:37,100 --> 00:02:39,899
+Smaller consultancies gain an edge because they no longer
+
+52
+00:02:39,899 --> 00:02:42,360
+need round the clock staff on every project.
+
+53
+00:02:42,699 --> 00:02:45,809
+Margin pressure on local tools appears in renewal rates.
+
+54
+00:02:46,179 --> 00:02:50,130
+Anthropic releases clawed Opus 4.8 with agentic tools.
+
+55
+00:02:50,460 --> 00:02:53,860
+Sub-agent swarms are reliable enough now for production workflows
+
+56
+00:02:53,860 --> 00:02:56,880
+that run without constant human oversight on every step.
+
+57
+00:02:57,100 --> 00:03:00,259
+Improved honesty at the same price point shifts the cost of air.
+
+58
+00:03:00,440 --> 00:03:03,479
+Correction away from customers and onto the model provider.
+
+59
+00:03:03,880 --> 00:03:07,679
+OpenAI must now ship comparable swarm tooling by year end
+
+60
+00:03:07,679 --> 00:03:11,190
+or watch its coding benchmarks lose relevance in large deployments.
+
+61
+00:03:11,479 --> 00:03:13,679
+The margin pressure on API calls hits
+
+62
+00:03:13,679 --> 00:03:16,820
+when swarm volume scales under Enterprise SLAs.
+
+63
+00:03:17,240 --> 00:03:21,699
+KPMG deploys Cloud to 276,000 employees globally.
+
+64
+00:03:22,039 --> 00:03:23,600
+Junior consultants now handle task.
+
+65
+00:03:23,750 --> 00:03:27,369
+Tasks that used to require manager review within the first week of onboarding.
+
+66
+00:03:27,699 --> 00:03:30,699
+Tax and private equity workflows see the fastest lift
+
+67
+00:03:30,699 --> 00:03:33,850
+because those practices already run on templated data flows.
+
+68
+00:03:34,139 --> 00:03:37,419
+Deloitte has to match the deployment scale inside 18 months or
+
+69
+00:03:37,419 --> 00:03:41,009
+risk losing bids where clients demand AI native delivery teams.
+
+70
+00:03:41,380 --> 00:03:43,899
+Rate cards for entry level work will face compression
+
+71
+00:03:43,899 --> 00:03:46,899
+once the managed agents prove stable in client audits.
+
+72
+00:03:47,550 --> 00:03:51,979
+OpenAI Deploy Co $4 billion consulting subsidiary advances.
+
+73
+00:03:52,309 --> 00:03:54,789
+Forward deployed engineers changed the sales cycle
+
+74
+00:03:54,789 --> 00:03:57,509
+from model access to full outcome guarantees.
+
+75
+00:03:57,669 --> 00:04:02,210
+Accenture must either acquire comparable AI deployment talent inside 12 months
+
+76
+00:04:02,389 --> 00:04:06,750
+or accept lower margins on projects that now require model fine tuning on site.
+
+77
+00:04:06,990 --> 00:04:09,830
+The trajectory favors labs that control both the model
+
+78
+00:04:09,830 --> 00:04:12,740
+and the integration layer over pure strategy firms.
+
+79
+00:04:13,070 --> 00:04:16,589
+Mid-tier integrators without any lab backing will see their pipeline
+
+80
+00:04:16,589 --> 00:04:19,709
+stall within the next two quarters as clients shift spend.
+
+81
+00:04:20,218 --> 00:04:22,759
+Meta rolls out paid chatbot subscriptions.
+
+82
+00:04:22,979 --> 00:04:25,098
+Every new paid user still adds to the
+
+83
+00:04:25,098 --> 00:04:27,889
+same compute bill that free accounts already strain.
+
+84
+00:04:28,178 --> 00:04:30,968
+Meta's move locks higher usage behind paywalls,
+
+85
+00:04:30,979 --> 00:04:32,838
+while free tiers degrade in speed.
+
+86
+00:04:33,088 --> 00:04:35,859
+This forces OpenAI to either match the price point
+
+87
+00:04:35,859 --> 00:04:39,739
+or pivot to enterprise-only contracts before mid-market customers defect.
+
+88
+00:04:40,089 --> 00:04:44,070
+The buried data licensing clauses will decide whether smaller agents can train
+
+89
+00:04:44,070 --> 00:04:47,720
+on paid conversations or get locked out by Q3 next year,
+
+90
+00:04:47,970 --> 00:04:50,790
+cutting off access to conversation data entirely.
+
+91
+00:04:51,130 --> 00:04:55,089
+Snowflake Cortex adds Gemini 3.5 flash multimodal.
+
+92
+00:04:55,369 --> 00:04:57,799
+Latency improvements matter less than who absorbs
+
+93
+00:04:57,799 --> 00:05:00,359
+the variable cost when query volume spikes.
+
+94
+00:05:00,609 --> 00:05:01,850
+Agent-driven video queries.
+
+95
+00:05:02,119 --> 00:05:06,549
+Inside existing dashboards now hit production SLAs without custom pipelines.
+
+96
+00:05:06,869 --> 00:05:10,279
+The real pressure lands on Snowflake's compute margins once Gemini's
+
+97
+00:05:10,279 --> 00:05:13,160
+token pricing layers on top of every warehouse query.
+
+98
+00:05:13,470 --> 00:05:16,790
+This forces data bricks to bundle their own multimodal models at a
+
+99
+00:05:16,790 --> 00:05:21,100
+flat rate or watch customers migrate entire workflows by early next year
+
+100
+00:05:21,320 --> 00:05:23,500
+without losing margin share on the base platform.
+
+101
+00:05:24,100 --> 00:05:28,299
+Cerebras eyed as top 2026 AI chip IPO candidate.
+
+102
+00:05:28,579 --> 00:05:32,100
+Performance claims on wafer scale chips still hinge on sustained
+
+103
+00:05:32,100 --> 00:05:35,260
+yields that few foundries have proven at commercial volumes.
+
+104
+00:05:35,500 --> 00:05:38,880
+An IPO next year would value cerebras against that risk,
+
+105
+00:05:39,100 --> 00:05:40,540
+not just benchmark numbers.
+
+106
+00:05:40,820 --> 00:05:44,299
+Investors will price in the OpenAI partnership only after the
+
+107
+00:05:44,299 --> 00:05:47,779
+1st 10,000 wafer run clears defect rates below 2%.
+
+108
+00:05:48,130 --> 00:05:51,950
+This forces Nvidia to accelerate its own custom silicon roadmap
+
+109
+00:05:52,130 --> 00:05:55,290
+or lose the account entirely once inference clusters scale
+
+110
+00:05:55,290 --> 00:05:57,679
+beyond current supply by the end of next year.
+
+111
+00:05:58,089 --> 00:06:01,570
+Canada issues privacy ruling on chat GPT training data.
+
+112
+00:06:01,890 --> 00:06:04,730
+Deletion orders on scraped data sets create a precedent
+
+113
+00:06:04,730 --> 00:06:07,829
+that hits every frontier lab using public web crawls,
+
+114
+00:06:08,209 --> 00:06:09,829
+including those still in stealth.
+
+115
+00:06:10,010 --> 00:06:14,890
+OpenAI must now either license equivalent data at much higher cost or restrict.
+
+116
+00:06:15,394 --> 00:06:17,445
+updates for Canadian users entirely.
+
+117
+00:06:17,744 --> 00:06:20,945
+Expect the same regulators to demand audit logs on every
+
+118
+00:06:20,945 --> 00:06:24,154
+training token within 18 months or face daily fines,
+
+119
+00:06:24,225 --> 00:06:27,144
+raising compliance overhead across the industry as smaller
+
+120
+00:06:27,144 --> 00:06:30,045
+labs without dedicated legal teams exit first,
+
+121
+00:06:30,184 --> 00:06:32,084
+when enforcement begins next quarter.

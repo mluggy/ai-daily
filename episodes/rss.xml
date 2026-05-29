@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Thu, 28 May 2026 09:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:44:54 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -376,6 +376,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e20.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Agentic Trading Debuts, Claude Big Four Wave &amp; Valuation Surges</title>
+      <description>Robinhood enables AI agents for stock trades and purchases, KPMG deploys Claude across 276,000 staff in global alliance, and Cognition raises over $1B at $26B valuation alongside new models, inference funding talks, and infrastructure deals.</description>
+      <link>{{SITE_URL}}/21</link>
+      <guid isPermaLink="false">s2026e21</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e21.mp3" length="9534383" type="audio/mpeg" />
+      <itunes:summary>Robinhood enables AI agents for stock trades and purchases, KPMG deploys Claude across 276,000 staff in global alliance, and Cognition raises over $1B at $26B valuation alongside new models, inference funding talks, and infrastructure deals.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:36</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e21.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e21.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
