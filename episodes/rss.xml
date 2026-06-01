@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Fri, 29 May 2026 09:44:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:15:44 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -393,6 +393,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e21.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Opus 4.8, Groq Pivot &amp; ByteDance $70B Bet</title>
+      <description>Covers Anthropic&apos;s Claude Opus 4.8 upgrade featuring dynamic workflows, Groq&apos;s $650M funding for inference shift, ByteDance&apos;s planned $70B AI capex, xAI Grok Build beta, Figure AI robotics milestone, Sam Altman jobs reversal, AI film at Tribeca, Microsoft-Mistral agent tools, Celonis enterprise context launch, Samsung AI bonuses dispute, and South Korea senior robot companions.</description>
+      <link>{{SITE_URL}}/22</link>
+      <guid isPermaLink="false">s2026e22</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e22.mp3" length="9346741" type="audio/mpeg" />
+      <itunes:summary>Covers Anthropic&apos;s Claude Opus 4.8 upgrade featuring dynamic workflows, Groq&apos;s $650M funding for inference shift, ByteDance&apos;s planned $70B AI capex, xAI Grok Build beta, Figure AI robotics milestone, Sam Altman jobs reversal, AI film at Tribeca, Microsoft-Mistral agent tools, Celonis enterprise context launch, Samsung AI bonuses dispute, and South Korea senior robot companions.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:28</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e22.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e22.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
