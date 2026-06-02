@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 10:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:56:37 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -410,6 +410,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e22.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>SoftBank&apos;s €75B France Bet &amp; NVIDIA Desktop AI</title>
+      <description>Covers SoftBank&apos;s record French AI data center investment, NVIDIA&apos;s Windows-based trillion-parameter systems and RTX Spark, Sysdig&apos;s first autonomous LLM agent cyberattack, Canada&apos;s leaked national AI strategy, Mistral Vibe agent launch, Verizon&apos;s scaled agentic fleet system, humanoid robots in Ukraine, GitHub Copilot billing shift, and AI deepfake enforcement challenges.</description>
+      <link>{{SITE_URL}}/23</link>
+      <guid isPermaLink="false">s2026e23</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e23.mp3" length="10537233" type="audio/mpeg" />
+      <itunes:summary>Covers SoftBank&apos;s record French AI data center investment, NVIDIA&apos;s Windows-based trillion-parameter systems and RTX Spark, Sysdig&apos;s first autonomous LLM agent cyberattack, Canada&apos;s leaked national AI strategy, Mistral Vibe agent launch, Verizon&apos;s scaled agentic fleet system, humanoid robots in Ukraine, GitHub Copilot billing shift, and AI deepfake enforcement challenges.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:18</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e23.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e23.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

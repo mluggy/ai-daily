@@ -1,0 +1,519 @@
+1
+00:00:04,619 --> 00:00:08,930
+SoftBank pledges €75 billion for French AI data centers.
+
+2
+00:00:09,260 --> 00:00:12,819
+France's nuclear surplus just became the hottest real estate in AI.
+
+3
+00:00:13,180 --> 00:00:16,209
+SoftBank's buildout will consume most of it by 2030,
+
+4
+00:00:16,459 --> 00:00:18,920
+leaving hyperscalers scrambling for the scraps.
+
+5
+00:00:19,120 --> 00:00:21,979
+Expect Microsoft and Google to accelerate German and
+
+6
+00:00:21,979 --> 00:00:25,200
+Nordic site acquisitions within the next 18 months,
+
+7
+00:00:25,340 --> 00:00:28,100
+or watch their European enterprise wins erode
+
+8
+00:00:28,100 --> 00:00:30,659
+as latency and sovereignty requirements tighten.
+
+9
+00:00:30,920 --> 00:00:35,069
+The grid operators' next capacity auction will tell you who blinked first.
+
+10
+00:00:35,319 --> 00:00:40,150
+Smaller players without direct power deals will face 30% higher inference costs.
+
+11
+00:00:40,520 --> 00:00:43,430
+Nvidia unveils DGX station for Windows.
+
+12
+00:00:43,630 --> 00:00:47,790
+1 trillion parameter models now run on the same desk that used to host Excel.
+
+13
+00:00:48,040 --> 00:00:50,279
+That shift collapses the latency advantage
+
+14
+00:00:50,279 --> 00:00:52,279
+cloud providers sold to regulated industries.
+
+15
+00:00:53,020 --> 00:00:55,430
+Watch enterprise procurement teams renegotiate
+
+16
+00:00:55,430 --> 00:00:57,990
+their Azure AI commitments downward once
+
+17
+00:00:57,990 --> 00:01:01,599
+finance sees the Capex line item versus per token burn.
+
+18
+00:01:01,790 --> 00:01:03,750
+The first deployments will appear in banks
+
+19
+00:01:03,750 --> 00:01:06,059
+and defense contractors within 6 months,
+
+20
+00:01:06,349 --> 00:01:10,470
+forcing AWS to introduce matching on-prem licensing or lose the
+
+21
+00:01:10,470 --> 00:01:13,750
+regulated verticals that still drive most of their AI revenue.
+
+22
+00:01:14,279 --> 00:01:17,559
+Sysdig documents first LLM agent cyberattack.
+
+23
+00:01:17,970 --> 00:01:21,080
+Zero human involvement means the attack surface just moved from
+
+24
+00:01:21,080 --> 00:01:24,080
+phishing emails to prompt injection in the agent loop.
+
+25
+00:01:24,319 --> 00:01:27,620
+Every enterprise that deployed an autonomous agent last quarter
+
+26
+00:01:27,800 --> 00:01:30,620
+now needs a hard kill switch and daily spend audit,
+
+27
+00:01:30,760 --> 00:01:31,279
+or the next.
+
+28
+00:01:31,360 --> 00:01:33,790
+Exfiltration will empty both the database and
+
+29
+00:01:33,790 --> 00:01:36,040
+the cloud wallet before anyone notices.
+
+30
+00:01:36,279 --> 00:01:41,000
+This forces SOC teams to instrument every agent runtime with spend caps inside
+
+31
+00:01:41,000 --> 00:01:45,180
+12 months or watch rogue loops drain cloud budgets in a single cycle.
+
+32
+00:01:45,849 --> 00:01:48,639
+Canada leaks draft national AI strategy.
+
+33
+00:01:48,889 --> 00:01:53,080
+The equity fund changes the cap table before most founders even incorporate.
+
+34
+00:01:53,489 --> 00:01:57,319
+Canadian labs will now weigh government money against Silicon Valley terms,
+
+35
+00:01:57,519 --> 00:02:01,089
+and the ones that take it will carry board observers who answer to Ottawa.
+
+36
+00:02:01,650 --> 00:02:03,750
+US investors face a new variable.
+
+37
+00:02:03,900 --> 00:02:06,129
+Any deal that leaves too much upside north
+
+38
+00:02:06,129 --> 00:02:08,720
+of the border risks competing against subsidized.
+
+39
+00:02:08,860 --> 00:02:11,889
+Domestic alternatives in their own portfolio reviews.
+
+40
+00:02:12,179 --> 00:02:14,419
+Watch Series A term sheets shift within
+
+41
+00:02:14,419 --> 00:02:17,380
+12 months as funds insert Canadian carve-outs.
+
+42
+00:02:17,699 --> 00:02:20,720
+Mistral AI launches Vibe Unified Agent platform.
+
+43
+00:02:21,179 --> 00:02:25,139
+The industrial focus for aerospace and auto customers splits Vibe into
+
+44
+00:02:25,139 --> 00:02:28,619
+modes that most productivity agents still treat as one workload.
+
+45
+00:02:28,919 --> 00:02:31,509
+This forces Anthropic to either match the industrial
+
+46
+00:02:31,509 --> 00:02:35,240
+certifications or seed the manufacturing vertical entirely.
+
+47
+00:02:35,479 --> 00:02:38,679
+Inference capacity at the new data center targets European data
+
+48
+00:02:38,679 --> 00:02:42,660
+residency rules that US providers continue to navigate slowly.
+
+49
+00:02:42,960 --> 00:02:46,470
+Productivity teams gain code mode for direct repo edits,
+
+50
+00:02:46,479 --> 00:02:48,919
+while work mode logs every compliance step,
+
+51
+00:02:49,080 --> 00:02:51,360
+a distinction that reveals how current agents
+
+52
+00:02:51,360 --> 00:02:54,000
+lose enterprise deals on audit trails alone.
+
+53
+00:02:54,699 --> 00:02:57,490
+GitHub co-pilot shifts to token-based billing.
+
+54
+00:02:57,800 --> 00:02:59,940
+Token consumption now varies sharply
+
+55
+00:02:59,940 --> 00:03:02,679
+between auto-complete and multi-file refactors,
+
+56
+00:03:02,820 --> 00:03:06,380
+turning fixed subscriptions into unpredictable monthly line items
+
+57
+00:03:06,380 --> 00:03:08,960
+for any team exceeding average prompt length.
+
+58
+00:03:09,259 --> 00:03:13,690
+Mid-size teams already report 2X cost swings on heavy debugging weeks.
+
+59
+00:03:13,979 --> 00:03:17,240
+This forces Cursor to either subsidize its own usage tiers.
+
+60
+00:03:17,550 --> 00:03:22,130
+Or risk losing developers who treat co-pilot as the default IDE layer.
+
+61
+00:03:22,419 --> 00:03:25,479
+Smaller open source maintainers face the sharpest choice
+
+62
+00:03:25,619 --> 00:03:28,020
+throttle their workflows or migrate to fully
+
+63
+00:03:28,020 --> 00:03:30,839
+local models before June billing cycles close.
+
+64
+00:03:31,220 --> 00:03:35,130
+Verizon Connect scales agentic AI to 1000 users.
+
+65
+00:03:35,419 --> 00:03:40,080
+Daily insights delivered to 100K fleet managers create a closed loop where
+
+66
+00:03:40,179 --> 00:03:42,889
+Verizon's agents improve on proprietary telematic
+
+67
+00:03:42,889 --> 00:03:45,759
+schemas that third parties cannot replicate.
+
+68
+00:03:46,009 --> 00:03:49,300
+AWS margins on those inference calls tighten once
+
+69
+00:03:49,300 --> 00:03:53,259
+SLAs demand subsecond responses across mixed vehicle types.
+
+70
+00:03:53,559 --> 00:03:56,529
+Fleet operators without equivalent agent coverage will
+
+71
+00:03:56,529 --> 00:03:59,479
+see insurance premiums diverge within 18 months
+
+72
+00:03:59,610 --> 00:04:02,979
+as carriers favor instrumented data over manual reporting.
+
+73
+00:04:03,229 --> 00:04:06,229
+The scale also locks in AWS as the default
+
+74
+00:04:06,229 --> 00:04:10,229
+for regulated telematics workloads that competitors must now match.
+
+75
+00:04:10,589 --> 00:04:13,460
+Humanoid robots deployed to Ukraine front lines.
+
+76
+00:04:13,750 --> 00:04:17,750
+Combat zone trials generate navigation and manipulation data that
+
+77
+00:04:17,750 --> 00:04:20,540
+no lab environment can safely produce at scale.
+
+78
+00:04:20,829 --> 00:04:24,350
+This forces Figu and Boston Dynamics to either harden their platform.
+
+79
+00:04:24,584 --> 00:04:28,815
+For contested environments or accept narrower commercial-only roadmaps,
+
+80
+00:04:29,024 --> 00:04:31,625
+reconnaissance missions expose power and sensor
+
+81
+00:04:31,625 --> 00:04:34,184
+trade-offs that warehouse deployments never surface,
+
+82
+00:04:34,385 --> 00:04:38,184
+shifting defense procurement timelines forward by at least 12 months.
+
+83
+00:04:38,424 --> 00:04:41,945
+Early results will determine whether humanoid form factors justify
+
+84
+00:04:41,945 --> 00:04:45,505
+the complexity over proven drone alternatives already in theater.
+
+85
+00:04:46,000 --> 00:04:48,869
+Authorities struggle against AI deep fake nudes.
+
+86
+00:04:49,200 --> 00:04:52,829
+Prosecutors chase generations that outrun any single subpoena.
+
+87
+00:04:53,200 --> 00:04:56,309
+State watermark mandates arrive within 12 months or open
+
+88
+00:04:56,309 --> 00:04:59,470
+models get blocked from app stores in multiple jurisdictions.
+
+89
+00:04:59,760 --> 00:05:03,320
+One leaked weights file resets the entire enforcement effort overnight.
+
+90
+00:05:04,015 --> 00:05:08,535
+Victims watch new variants appear on fresh checkpoints before any ruling sticks.
+
+91
+00:05:08,654 --> 00:05:12,355
+Smaller labs shift to enterprise-only licensing to dodge liability
+
+92
+00:05:12,614 --> 00:05:14,575
+that hits consumer downloads first.
+
+93
+00:05:14,815 --> 00:05:17,255
+Larger providers absorb the compliance burden,
+
+94
+00:05:17,385 --> 00:05:20,734
+but lose the hobbyist developer base that drove earlier adoption.
+
+95
+00:05:21,640 --> 00:05:25,149
+Apple readies Gemini powered Siri at WWDC.
+
+96
+00:05:25,450 --> 00:05:29,329
+WWDC 2026 will test whether Gemini can sustain
+
+97
+00:05:29,329 --> 00:05:32,760
+multi-turn agent loops without dropping context across apps.
+
+98
+00:05:33,089 --> 00:05:36,179
+Samsung accelerates its own model partnerships because Apple
+
+99
+00:05:36,179 --> 00:05:39,049
+just proved the hybrid approach reaches consumers first.
+
+100
+00:05:39,545 --> 00:05:42,114
+Latency complaints will surface first in calendar and
+
+101
+00:05:42,114 --> 00:05:45,225
+email workflows where users expect zero handoffs.
+
+102
+00:05:45,494 --> 00:05:48,674
+This leaves Microsoft pushing harder on Windows copilot
+
+103
+00:05:48,674 --> 00:05:51,825
+to retain productivity defaults on non-Apple devices.
+
+104
+00:05:52,114 --> 00:05:54,635
+Smaller voice vendors lose the mid-tier OEM
+
+105
+00:05:54,635 --> 00:05:57,334
+pipeline once iOS sets the new baseline.
+
+106
+00:05:57,829 --> 00:06:01,260
+Nvidia RTX Spark enables local world models.
+
+107
+00:06:01,350 --> 00:06:03,540
+Windows laptops now host world models
+
+108
+00:06:03,540 --> 00:06:05,940
+that maintain spatial memory across reboots.
+
+109
+00:06:06,260 --> 00:06:09,309
+Cloud agent vendors lose their latency advantage once
+
+110
+00:06:09,309 --> 00:06:12,250
+these chips ship in volume by mid-2026.
+
+111
+00:06:12,470 --> 00:06:14,269
+Enterprise IT teams meet data
+
+112
+00:06:14,269 --> 00:06:16,869
+residency rules without sacrificing responsibility.
+
+113
+00:06:17,154 --> 00:06:18,744
+Ofness on internal workflows.
+
+114
+00:06:19,005 --> 00:06:21,984
+AMD must match the integration roadmap or lose
+
+115
+00:06:21,984 --> 00:06:24,964
+the creator segment where simulation tasks dominate.
+
+116
+00:06:25,204 --> 00:06:28,084
+Inference services face margin erosion as high
+
+117
+00:06:28,084 --> 00:06:30,424
+frequency local queries stop phoning home.
+
+118
+00:06:30,885 --> 00:06:33,795
+Consumer adoption follows once battery impact stays
+
+119
+00:06:33,795 --> 00:06:36,045
+under 10% during always on mapping.
+
+120
+00:06:36,540 --> 00:06:39,959
+Gemini Omni showcases high fidelity agent demos.
+
+121
+00:06:40,140 --> 00:06:44,299
+High value marketplaces must now demand device attestation for any
+
+122
+00:06:44,299 --> 00:06:48,140
+uploaded imagery or risk fraud claims that current filters miss.
+
+123
+00:06:48,380 --> 00:06:52,420
+The spatial navigation demo reveals how agents will soon simulate
+
+124
+00:06:52,420 --> 00:06:55,140
+entire store layouts before a single pixel renders on.
+
+125
+00:06:55,250 --> 00:06:55,730
+Screen.
+
+126
+00:06:56,049 --> 00:06:59,149
+Competitors like OpenAI need matching fidelity,
+
+127
+00:06:59,209 --> 00:07:03,410
+or they forfeit the simulation use cases that justify premium tiers.
+
+128
+00:07:03,730 --> 00:07:06,730
+Watch the API economic shift once enterprises
+
+129
+00:07:06,730 --> 00:07:09,269
+require these proofs baked into every response.
+
+130
+00:07:09,570 --> 00:07:14,049
+Smaller creators lose iteration speed once platforms enforce these checks.
