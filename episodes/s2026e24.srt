@@ -1,0 +1,483 @@
+1
+00:00:04,590 --> 00:00:07,829
+Trump signs 30 day voluntary AI model review EO.
+
+2
+00:00:08,229 --> 00:00:10,399
+Labs now face a quiet choice on timing.
+
+3
+00:00:10,600 --> 00:00:14,649
+OpenAI can absorb the delay because its release calendar already has slack.
+
+4
+00:00:14,949 --> 00:00:17,670
+Anthropic runs tighter cycles and will likely need to
+
+5
+00:00:17,670 --> 00:00:20,739
+duplicate its safety team just for the government channel.
+
+6
+00:00:21,030 --> 00:00:24,770
+The real pressure lands on smaller frontier players who lack the headcount.
+
+7
+00:00:25,000 --> 00:00:28,409
+Expect at least one to ship without review inside 9 months,
+
+8
+00:00:28,629 --> 00:00:32,490
+testing whether voluntary turns into a hard gate for federal cloud access.
+
+9
+00:00:33,139 --> 00:00:36,450
+Microsoft launches always on Scout autopilot agent.
+
+10
+00:00:36,740 --> 00:00:39,279
+Background agents change the cost equation fast.
+
+11
+00:00:39,779 --> 00:00:42,049
+Scout keeps a session alive across teams,
+
+12
+00:00:42,220 --> 00:00:43,459
+Outlook and SharePoint,
+
+13
+00:00:43,659 --> 00:00:47,360
+which means every user now burns GPU minutes even when idle.
+
+14
+00:00:47,580 --> 00:00:48,220
+Most CIOs.
+
+15
+00:00:48,419 --> 00:00:51,200
+will notice the new line item on their next Azure bill.
+
+16
+00:00:51,479 --> 00:00:54,720
+OpenAI will have to decide whether to ship its own always on
+
+17
+00:00:54,720 --> 00:00:58,290
+runtime or lose the seat to whatever ships default in Windows.
+
+18
+00:00:58,580 --> 00:01:00,860
+The margin hit lands first on third party
+
+19
+00:01:00,860 --> 00:01:03,500
+co-pilots that still wait for an explicit trigger.
+
+20
+00:01:04,349 --> 00:01:07,800
+Microsoft unveils 7 new in-house MAI models.
+
+21
+00:01:07,959 --> 00:01:10,300
+7 models at once signals the end of
+
+22
+00:01:10,300 --> 00:01:13,690
+Microsoft treating OpenAI as its sole frontier supplier.
+
+23
+00:01:13,940 --> 00:01:17,239
+The specialized ones in transcription and voice will move first
+
+24
+00:01:17,440 --> 00:01:19,540
+because they slot directly into existing office.
+
+25
+00:01:19,764 --> 00:01:20,514
+Pipelines.
+
+26
+00:01:20,754 --> 00:01:23,735
+OpenAI loses the default path on those workloads.
+
+27
+00:01:23,934 --> 00:01:27,694
+Expect the next contract renewal to carry lower volume commitments as a result.
+
+28
+00:01:28,175 --> 00:01:31,385
+Smaller rivals building vertical agents now have a second cloud
+
+29
+00:01:31,385 --> 00:01:34,995
+native option that ships with enterprise compliance already attached.
+
+30
+00:01:35,440 --> 00:01:39,160
+Nvidia debuts RTX Spark ARM AI PC chips.
+
+31
+00:01:39,480 --> 00:01:42,239
+One petaflop in a laptop flips the assumption that
+
+32
+00:01:42,239 --> 00:01:44,919
+personal agents need any cloud round trip at all.
+
+33
+00:01:45,160 --> 00:01:47,400
+Enterprise security teams will push for local
+
+34
+00:01:47,400 --> 00:01:50,180
+execution on anything involving internal data.
+
+35
+00:01:50,470 --> 00:01:54,599
+That shift cuts directly into open AI and anthropic inference revenue.
+
+36
+00:01:54,959 --> 00:01:58,889
+Nvidia gains the default silicon for every Windows agent deployment.
+
+37
+00:01:59,129 --> 00:02:02,769
+AMD and Intel now have 6 quarters to ship competitive arm
+
+38
+00:02:02,769 --> 00:02:07,169
+parts or accept a permanent backseat in the AIPC refresh cycle.
+
+39
+00:02:07,610 --> 00:02:12,789
+Anthropic files confidential IPO at $965 billion valuation.
+
+40
+00:02:13,169 --> 00:02:16,910
+Anthropic's move puts every remaining private AI lab on the clock.
+
+41
+00:02:17,369 --> 00:02:20,809
+OpenAI now has to decide whether to file within 90 days
+
+42
+00:02:20,809 --> 00:02:24,009
+or watch its best people chase the new public stock options.
+
+43
+00:02:24,360 --> 00:02:27,110
+The second order effect hits inference costs.
+
+44
+00:02:27,360 --> 00:02:30,440
+Public markets will demand margin expansion that only comes
+
+45
+00:02:30,440 --> 00:02:33,270
+from hiking API rates six months after the bell.
+
+46
+00:02:33,600 --> 00:02:35,720
+Smaller labs lose the ability to compete
+
+47
+00:02:35,720 --> 00:02:38,100
+on price without similar liquidity events.
+
+48
+00:02:38,309 --> 00:02:41,710
+Expect rate card changes right after earnings season begins.
+
+49
+00:02:42,039 --> 00:02:45,399
+Nvidia introduces Vera CPU for agentic compute.
+
+50
+00:02:45,639 --> 00:02:49,479
+X86 vendors just lost their default slot in the agent rack.
+
+51
+00:02:49,839 --> 00:02:51,479
+Vera's memory bandwidth advantage.
+
+52
+00:02:51,604 --> 00:02:55,755
+Compounds when agents run continuous loops instead of one-off inferences.
+
+53
+00:02:56,044 --> 00:02:59,164
+The performance delta shows up fastest in multi-turn agent
+
+54
+00:02:59,164 --> 00:03:03,184
+sessions that X86 memory subsystems were never sized for.
+
+55
+00:03:03,445 --> 00:03:07,085
+Intel and AMD must now either license similar high bandwidth
+
+56
+00:03:07,085 --> 00:03:10,714
+tech or accept shrinking design wins in the inference tier.
+
+57
+00:03:11,005 --> 00:03:15,785
+Cloud providers who bet on X86 cycles now face mismatched roadmaps.
+
+58
+00:03:15,914 --> 00:03:18,684
+Expect design wins to flip within two quarters.
+
+59
+00:03:19,149 --> 00:03:23,820
+Nvidia advances physical AI with Cosmos 3 and GR 00T.
+
+60
+00:03:24,270 --> 00:03:27,710
+Simulation fidelity now determines who ships robots first.
+
+61
+00:03:28,029 --> 00:03:30,830
+Cosmos 3 cuts the synthetic data gap enough that
+
+62
+00:03:30,830 --> 00:03:34,110
+humanoid startups can skip two full hardware iterations.
+
+63
+00:03:34,429 --> 00:03:39,750
+Figure and Boston Dynamics must either integrate the GR 00T reference stack or
+
+64
+00:03:39,750 --> 00:03:43,770
+explain to backers why their custom controllers still justify the extra years.
+
+65
+00:03:44,070 --> 00:03:46,979
+The second order squeeze lands on sensor makers whose inner
+
+66
+00:03:47,110 --> 00:03:49,809
+Faces get standardized inside the Nvidia platform.
+
+67
+00:03:50,309 --> 00:03:54,070
+Watch contract negotiations with LiDAR suppliers tighten once
+
+68
+00:03:54,070 --> 00:03:56,779
+reference designs lock in camera first stacks.
+
+69
+00:03:57,169 --> 00:04:00,369
+Microsoft reveals Majorana 2 quantum processor.
+
+70
+00:04:00,550 --> 00:04:02,910
+Error rates drop enough that hybrid quantum
+
+71
+00:04:02,910 --> 00:04:05,830
+classical workflows finally clear the prototype stage.
+
+72
+00:04:06,149 --> 00:04:07,949
+Google and IBM must now defend
+
+73
+00:04:07,949 --> 00:04:11,130
+their superconducting bets against a topological alternative
+
+74
+00:04:11,470 --> 00:04:14,869
+that Microsoft claims avoids the dilution problem entirely.
+
+75
+00:04:15,100 --> 00:04:19,500
+The 2nd order impact hits cloud HPC teams whose Q priorities
+
+76
+00:04:19,500 --> 00:04:23,899
+get reordered once quantum nodes move from experimental to reserved capacity.
+
+77
+00:04:24,260 --> 00:04:26,660
+Chemical simulation workloads migrate first.
+
+78
+00:04:26,989 --> 00:04:29,380
+Pharma partners running molecular modeling get the
+
+79
+00:04:29,380 --> 00:04:31,920
+first Azure quantum credits next fiscal year.
+
+80
+00:04:32,339 --> 00:04:34,970
+Nvidia launches secure agent workspaces.
+
+81
+00:04:35,260 --> 00:04:38,100
+Secure isolation layers on AI factories raise the
+
+82
+00:04:38,100 --> 00:04:40,649
+bar for anyone handling regulated data flows.
+
+83
+00:04:40,940 --> 00:04:43,519
+The move locks hardware choices for the next cycle
+
+84
+00:04:43,670 --> 00:04:47,839
+because only Nvidia's stack ships the certified confidential compute path today.
+
+85
+00:04:48,309 --> 00:04:48,779
+Except.
+
+86
+00:04:49,045 --> 00:04:50,885
+Market vendors to lose deals once
+
+87
+00:04:50,885 --> 00:04:53,524
+compliance teams start requiring these workspaces.
+
+88
+00:04:53,964 --> 00:04:56,725
+Salesforce integration teams will feel the pinch first when
+
+89
+00:04:56,725 --> 00:05:00,144
+agent workflows hit financial services by Q2 next year.
+
+90
+00:05:00,445 --> 00:05:02,445
+Smaller players without access to the same
+
+91
+00:05:02,445 --> 00:05:05,484
+silicon will watch their enterprise pipeline shrink.
+
+92
+00:05:06,579 --> 00:05:09,820
+Taiwan president pledges AI resources at CompuTex.
+
+93
+00:05:10,059 --> 00:05:12,660
+Energy allocations announced today will decide which
+
+94
+00:05:12,660 --> 00:05:15,769
+AI clusters actually come online in 2027.
+
+95
+00:05:16,019 --> 00:05:19,500
+The government support masks a tighter constraint on grid capacity
+
+96
+00:05:19,500 --> 00:05:23,049
+that foreign chip makers must now negotiate directly with Thaipower.
+
+97
+00:05:23,299 --> 00:05:25,850
+Watch how this plays out for TSMC's capacity
+
+98
+00:05:25,850 --> 00:05:28,820
+commitments once power purchase agreements get signed.
+
+99
+00:05:29,089 --> 00:05:32,054
+Intel's foundry push in the region faces an Unexpected
+
+100
+00:05:32,054 --> 00:05:35,515
+delay risk if local priorities shift toward domestic models.
+
+101
+00:05:35,744 --> 00:05:39,734
+AMD must accelerate alternative sites or accept slower ramps.
+
+102
+00:05:40,054 --> 00:05:43,204
+Microsoft pushes Project Solara agent-first vision.
+
+103
+00:05:43,494 --> 00:05:47,174
+Agent-first computing flips the resource model so that background tasks
+
+104
+00:05:47,174 --> 00:05:50,244
+now consume the majority of cycles on any given device.
+
+105
+00:05:50,575 --> 00:05:53,654
+Microsoft is betting Enterprise SLAs will absorb the
+
+106
+00:05:53,654 --> 00:05:56,505
+added latency costs without pushing back on pricing.
+
+107
+00:05:56,760 --> 00:05:59,440
+The 2nd order effect hits 3rd party app stores
+
+108
+00:05:59,440 --> 00:06:03,720
+hardest when autonomous agents bypass traditional install flows entirely.
+
+109
+00:06:04,000 --> 00:06:07,000
+OpenAI faces pressure to embed similar controls in
+
+110
+00:06:07,000 --> 00:06:10,070
+their desktop clients before Windows defaults take hold.
+
+111
+00:06:10,390 --> 00:06:13,910
+This forces a choice on pricing models within the next release cycle.
+
+112
+00:06:14,200 --> 00:06:17,429
+Microsoft debuts RTX Spark Dev Box hardware.
+
+113
+00:06:17,709 --> 00:06:20,600
+Developers get early access to agent testing hardware
+
+114
+00:06:20,600 --> 00:06:24,040
+that already includes the isolation primitives Nvidia announced.
+
+115
+00:06:24,290 --> 00:06:27,170
+The real constraint shifts to software frameworks that must
+
+116
+00:06:27,170 --> 00:06:30,640
+now target this specific platform to hit performance targets.
+
+117
+00:06:31,000 --> 00:06:33,510
+Apple loses ground in the AI dev community
+
+118
+00:06:33,640 --> 00:06:37,910
+if these boxes become the default for agent iteration inside Windows shops.
+
+119
+00:06:38,130 --> 00:06:40,809
+Expect training data pipelines to standardize around
+
+120
+00:06:40,809 --> 00:06:43,119
+the Spark stack faster than anticipated.
+
+121
+00:06:43,440 --> 00:06:47,589
+Competitors will see their developer ecosystems erode within 12 months.

@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 21:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:08:10 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -427,6 +427,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e23.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Trump AI Order, Microsoft Scout &amp; Nvidia RTX Spark</title>
+      <description>Covers Trump&apos;s voluntary 30-day frontier AI model review executive order, Microsoft&apos;s Scout always-on agent and seven new MAI models at Build 2026, Nvidia&apos;s RTX Spark AI PC chips and physical AI advances at Computex.</description>
+      <link>{{SITE_URL}}/24</link>
+      <guid isPermaLink="false">s2026e24</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e24.mp3" length="9902137" type="audio/mpeg" />
+      <itunes:summary>Covers Trump&apos;s voluntary 30-day frontier AI model review executive order, Microsoft&apos;s Scout always-on agent and seven new MAI models at Build 2026, Nvidia&apos;s RTX Spark AI PC chips and physical AI advances at Computex.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:52</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e24.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e24.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
