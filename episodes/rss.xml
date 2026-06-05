@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 10:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:46:02 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -444,6 +444,40 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e24.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>MAI Models, Stargate Build &amp; Agent Pricing Push</title>
+      <description>Microsoft&apos;s MAI-Thinking-1 in-house reasoning model and Build announcements; OpenAI&apos;s Stargate Michigan data center groundbreaking; GitHub Copilot billing upheaval; Anthropic&apos;s IPO filing, Mythos expansions and Glasswing growth; Meta&apos;s planned high-priced Hatch agent; ChatGPT user milestone; Google Gemini Spark rollout; and major AI infrastructure funding.</description>
+      <link>{{SITE_URL}}/25</link>
+      <guid isPermaLink="false">s2026e25</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e25.mp3" length="9598394" type="audio/mpeg" />
+      <itunes:summary>Microsoft&apos;s MAI-Thinking-1 in-house reasoning model and Build announcements; OpenAI&apos;s Stargate Michigan data center groundbreaking; GitHub Copilot billing upheaval; Anthropic&apos;s IPO filing, Mythos expansions and Glasswing growth; Meta&apos;s planned high-priced Hatch agent; ChatGPT user milestone; Google Gemini Spark rollout; and major AI infrastructure funding.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:39</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e25.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e25.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Canada AI Strategy, SpaceX xAI IPO &amp; Meta Agents</title>
+      <description>Canada unveils &apos;AI for All&apos; national plan with 250k jobs and student agents; SpaceX opens $1.75T IPO roadshow including xAI; Meta launches global Business Agent for enterprises alongside IBM-Google Cloud AI partnership and Norton Family Assistant debut.</description>
+      <link>{{SITE_URL}}/26</link>
+      <guid isPermaLink="false">s2026e26</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e26.mp3" length="8655791" type="audio/mpeg" />
+      <itunes:summary>Canada unveils &apos;AI for All&apos; national plan with 250k jobs and student agents; SpaceX opens $1.75T IPO roadshow including xAI; Meta launches global Business Agent for enterprises alongside IBM-Google Cloud AI partnership and Norton Family Assistant debut.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:00</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e26.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e26.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

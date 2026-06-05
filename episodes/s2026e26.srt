@@ -1,0 +1,419 @@
+1
+00:00:04,579 --> 00:00:07,610
+Canada launches AI for all national strategy.
+
+2
+00:00:07,900 --> 00:00:10,500
+Provincial access to training clusters will determine if
+
+3
+00:00:10,500 --> 00:00:13,239
+the job creation numbers survive outside Quebec.
+
+4
+00:00:13,529 --> 00:00:17,520
+Ontario school pilots hand local vendors consent compliant student data
+
+5
+00:00:17,819 --> 00:00:21,250
+that external teams cannot acquire without triggering the new rules.
+
+6
+00:00:21,579 --> 00:00:23,819
+Smaller AI labs therefore face a direct
+
+7
+00:00:23,819 --> 00:00:26,979
+choice between relocating North American workloads to Canadian
+
+8
+00:00:26,979 --> 00:00:30,059
+servers or dealing with mandatory audit blocks that
+
+9
+00:00:30,059 --> 00:00:33,159
+the privacy provisions enforce within 18 months.
+
+10
+00:00:33,779 --> 00:00:38,290
+SpaceX opens record $1.75 trillion IPO roadshow.
+
+11
+00:00:38,619 --> 00:00:42,970
+Early shareholders gain an indirect claim on XAI through the roadshow terms.
+
+12
+00:00:43,349 --> 00:00:46,389
+OpenAI must now decide whether to speed up its listing
+
+13
+00:00:46,389 --> 00:00:50,619
+or watch engineers factor launch capacity into total compensation packages.
+
+14
+00:00:50,900 --> 00:00:52,520
+Pricing set for mid-June
+
+15
+00:00:52,669 --> 00:00:55,590
+gives almost no buffer once detailed satellite revenue
+
+16
+00:00:55,590 --> 00:00:58,909
+projections reach investors and alter the valuation baseline.
+
+17
+00:00:59,720 --> 00:01:02,909
+Meta rolls out business agent globally for enterprises.
+
+18
+00:01:03,240 --> 00:01:06,400
+Customer service threads inside WhatsApp now convert directly
+
+19
+00:01:06,400 --> 00:01:09,550
+into automated bookings without separate platform logins.
+
+20
+00:01:09,879 --> 00:01:13,739
+Mid-size retailers gain agents that replace multiple CRM seats,
+
+21
+00:01:13,879 --> 00:01:17,760
+undercutting the per user pricing Salesforce relies on for that segment.
+
+22
+00:01:18,000 --> 00:01:21,360
+Enterprise rollout next requires formal uptime guarantees,
+
+23
+00:01:21,599 --> 00:01:23,879
+which will compress Meta's API margins that
+
+24
+00:01:23,879 --> 00:01:26,800
+were originally sized for advertising traffic rather.
+
+25
+00:01:26,879 --> 00:01:28,629
+And mission critical workflows.
+
+26
+00:01:29,040 --> 00:01:32,160
+Norton debuts family assistant secure AI agent.
+
+27
+00:01:32,559 --> 00:01:35,559
+School communications and family schedules now route through one
+
+28
+00:01:35,559 --> 00:01:39,050
+agent that keeps every record inside Norton's security perimeter.
+
+29
+00:01:39,279 --> 00:01:42,400
+Apple and Google need matching controls in their family plans,
+
+30
+00:01:42,519 --> 00:01:46,330
+or they lose default preference among Android households testing the beta.
+
+31
+00:01:46,599 --> 00:01:50,120
+Early runs already show the agent blocking deep fake video calls
+
+32
+00:01:50,120 --> 00:01:54,080
+from unrecognized numbers before any meeting request reaches the parent.
+
+33
+00:01:54,680 --> 00:01:56,779
+Broadcom AI Outlook disappoints,
+
+34
+00:01:56,870 --> 00:01:57,870
+sparks sell-off.
+
+35
+00:01:58,190 --> 00:02:01,949
+The shortfall points less to cooling demand and more to Broadcom struggling to
+
+36
+00:02:01,949 --> 00:02:06,099
+ramp its latest Switch silicon fast enough for the largest cloud operators.
+
+37
+00:02:06,419 --> 00:02:09,050
+Hyperscalers had bet heavily on a single roadmap.
+
+38
+00:02:09,350 --> 00:02:10,860
+That bet now unravels.
+
+39
+00:02:11,119 --> 00:02:13,660
+Procurement teams are already modeling dual sourcing
+
+40
+00:02:13,660 --> 00:02:15,869
+scenarios that pull volume away from broad.
+
+41
+00:02:16,509 --> 00:02:18,500
+starting in the second half of next year.
+
+42
+00:02:18,830 --> 00:02:21,589
+Smaller networking players gain leverage they haven't held
+
+43
+00:02:21,589 --> 00:02:23,979
+since the first wave of AI cluster builds.
+
+44
+00:02:24,380 --> 00:02:27,970
+IBM and Google Cloud partner on enterprise AI agents.
+
+45
+00:02:28,179 --> 00:02:31,380
+Enterprise buyers gain a ready path to production agents
+
+46
+00:02:31,380 --> 00:02:33,929
+without building their own orchestration layer from scratch.
+
+47
+00:02:34,149 --> 00:02:36,550
+The real test arrives when those agents hit live
+
+48
+00:02:36,550 --> 00:02:40,460
+SLAs that Demand subsecond latency across hybrid environments.
+
+49
+00:02:40,830 --> 00:02:45,169
+Google now carries the integration burden while IBM owns the process redesign.
+
+50
+00:02:45,470 --> 00:02:49,009
+That split compresses the window for independent agent startups to land
+
+51
+00:02:49,009 --> 00:02:52,660
+similar deals before the big consultancies standardize on this stack.
+
+52
+00:02:52,979 --> 00:02:56,070
+Smaller vendors face a choice between partnering or watching
+
+53
+00:02:56,070 --> 00:02:58,949
+their enterprise pipeline dry up by early next year.
+
+54
+00:02:59,410 --> 00:03:03,029
+Anthropic co-founder advocates AI development pause.
+
+55
+00:03:03,250 --> 00:03:05,570
+The timing suggests internal recognition
+
+56
+00:03:05,729 --> 00:03:08,369
+that autonomous improvement loops are arriving faster
+
+57
+00:03:08,369 --> 00:03:10,440
+than safety evaluations can keep up.
+
+58
+00:03:10,809 --> 00:03:13,270
+Regulators now hold a credible inside voice
+
+59
+00:03:13,270 --> 00:03:15,559
+to demand licensing requirements ahead of the.
+
+60
+00:03:15,615 --> 00:03:17,054
+Next model release cycle.
+
+61
+00:03:17,335 --> 00:03:21,654
+That stance raises the cost of capital across every lab chasing raw scale.
+
+62
+00:03:22,014 --> 00:03:24,735
+Boards at Frontier Players will demand clearer risk
+
+63
+00:03:24,735 --> 00:03:27,205
+signoffs before approving each new training run.
+
+64
+00:03:27,524 --> 00:03:31,735
+Smaller labs lose ground fastest because they lack the same regulatory buffer.
+
+65
+00:03:32,279 --> 00:03:35,240
+Deep Seek prepares to join AI funding frenzy.
+
+66
+00:03:35,500 --> 00:03:39,570
+Export rules now shape every term sheet more than the valuation itself.
+
+67
+00:03:39,940 --> 00:03:43,820
+DeepSeek's investors must structure around hardware access limits that
+
+68
+00:03:43,820 --> 00:03:46,960
+force reliance on domestic chips with lower training efficiency.
+
+69
+00:03:47,419 --> 00:03:50,789
+That Constraint changes the model roadmap within 18 months as
+
+70
+00:03:50,789 --> 00:03:54,190
+they optimize for what the available silicon can actually deliver.
+
+71
+00:03:54,559 --> 00:03:58,320
+Western competitors gain breathing room they did not expect this year.
+
+72
+00:03:58,600 --> 00:04:01,229
+The real constraint surfaces in inference costs
+
+73
+00:04:01,229 --> 00:04:03,240
+once those models reach production scale.
+
+74
+00:04:03,529 --> 00:04:06,610
+Azoa unveils 5 C's for agentic commerce.
+
+75
+00:04:06,929 --> 00:04:10,470
+Retail platforms now face a compliance deadline they didn't choose.
+
+76
+00:04:10,690 --> 00:04:14,050
+Azoa's 5 gates require real-time SQU signaling
+
+77
+00:04:14,050 --> 00:04:16,390
+before any agent can complete a transaction.
+
+78
+00:04:16,730 --> 00:04:19,048
+Mid-market vendors without those pipes will see
+
+79
+00:04:19,048 --> 00:04:21,519
+their order share migrate within 2 quarters.
+
+80
+00:04:21,809 --> 00:04:24,589
+The vendors that integrate early gain a pricing wedge.
+
+81
+00:04:24,769 --> 00:04:29,049
+This squeezes personalization partners into margin compression or forces them to
+
+82
+00:04:29,049 --> 00:04:32,489
+bundle the schema at no extra cost by next fiscal year.
+
+83
+00:04:32,970 --> 00:04:36,630
+OpenAI models reach general availability on AWS.
+
+84
+00:04:36,970 --> 00:04:39,470
+Enterprise security teams gain the bigger lever here.
+
+85
+00:04:39,890 --> 00:04:44,609
+Bedrock's existing governance now wraps GPT 5.5 and the coding agent,
+
+86
+00:04:44,769 --> 00:04:48,209
+which means procurement can bypass new vendor reviews entirely.
+
+87
+00:04:48,450 --> 00:04:52,730
+Azure must accelerate equivalent controls on its OpenAI endpoints or
+
+88
+00:04:52,730 --> 00:04:55,989
+lose the financial services slice by Q3 next year.
+
+89
+00:04:56,209 --> 00:04:59,910
+The model choice itself stays secondary to who owns the audit logs.
+
+90
+00:05:00,630 --> 00:05:03,690
+Goldman Sachs CEO assesses AI banking impact.
+
+91
+00:05:04,230 --> 00:05:08,179
+David Solomon's timeline underplays the internal metrics already shifting.
+
+92
+00:05:08,470 --> 00:05:11,179
+Bulge bracket banks have started throttling new analyst
+
+93
+00:05:11,179 --> 00:05:14,489
+requisitions even while repeating the no displacement line.
+
+94
+00:05:14,750 --> 00:05:18,190
+The real displacement shows up in summer associate cohorts first,
+
+95
+00:05:18,390 --> 00:05:22,750
+with Goldman Peers targeting 20% smaller classes by next recruiting cycle.
+
+96
+00:05:22,989 --> 00:05:26,910
+MBA pipelines feel it before the broader white collar narrative catches up.
+
+97
+00:05:27,549 --> 00:05:30,910
+AI transforms entry-level job market for grads.
+
+98
+00:05:31,070 --> 00:05:34,950
+Career services teams are already rewriting their target employer lists.
+
+99
+00:05:35,230 --> 00:05:37,829
+The new premium sits on graduates who can supervise
+
+100
+00:05:37,829 --> 00:05:40,880
+agents rather than run the first pass analysis themselves.
+
+101
+00:05:41,549 --> 00:05:44,350
+Finance and consulting placements will tilt to schools
+
+102
+00:05:44,350 --> 00:05:47,059
+that added agent orchestration modules this year,
+
+103
+00:05:47,309 --> 00:05:50,899
+leaving others with placement drops starting in the 2026 cycle.
+
+104
+00:05:51,230 --> 00:05:53,670
+Traditional modeling coursework loses its signaling
+
+105
+00:05:53,670 --> 00:05:55,549
+value faster than departments admit.
