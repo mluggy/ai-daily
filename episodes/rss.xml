@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 09:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:04:03 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -478,6 +478,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e26.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>AI Agents Surge, DeepSeek $7.4B Round &amp; Trump Profit Talks</title>
+      <description>Covers Trump&apos;s planned White House meetings on government AI profit shares, Anthropic&apos;s call for frontier AI development pauses over self-improvement risks, DeepSeek nearing its first $7.4B external round at up to $59B valuation, Generalist AI&apos;s $400M physical AGI funding, OpenAI&apos;s Opal investment, and AI agents driving transformation and spending.</description>
+      <link>{{SITE_URL}}/27</link>
+      <guid isPermaLink="false">s2026e27</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e27.mp3" length="9477274" type="audio/mpeg" />
+      <itunes:summary>Covers Trump&apos;s planned White House meetings on government AI profit shares, Anthropic&apos;s call for frontier AI development pauses over self-improvement risks, DeepSeek nearing its first $7.4B external round at up to $59B valuation, Generalist AI&apos;s $400M physical AGI funding, OpenAI&apos;s Opal investment, and AI agents driving transformation and spending.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:34</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e27.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e27.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

@@ -1,0 +1,479 @@
+1
+00:00:04,599 --> 00:00:07,449
+Trump plans AI profit share White House meeting.
+
+2
+00:00:07,670 --> 00:00:09,960
+The meeting quietly ties any public payout
+
+3
+00:00:09,960 --> 00:00:12,310
+to federal oversight of compute clusters.
+
+4
+00:00:12,479 --> 00:00:14,680
+That clause alone could hand regulators kill
+
+5
+00:00:14,680 --> 00:00:17,389
+switches on training runs exceeding certain thresholds.
+
+6
+00:00:17,680 --> 00:00:20,360
+Smaller labs without lobbying arms will scramble to
+
+7
+00:00:20,360 --> 00:00:23,120
+structure offshore entities before the terms solidify.
+
+8
+00:00:23,450 --> 00:00:24,170
+Larger players.
+
+9
+00:00:24,229 --> 00:00:26,209
+Like OpenAI now face a choice.
+
+10
+00:00:26,540 --> 00:00:30,430
+Accept diluted margins on government adjacent contracts or accelerate their own
+
+11
+00:00:30,430 --> 00:00:34,259
+lobbying for carve-outs that keep critical IP outside the agreement.
+
+12
+00:00:34,549 --> 00:00:37,229
+Watch for the first such filing within 6 months.
+
+13
+00:00:37,590 --> 00:00:40,790
+Anthropic urges coordinated pause option for AI.
+
+14
+00:00:41,060 --> 00:00:44,259
+The call for a pause button sounds cooperative until you notice
+
+15
+00:00:44,259 --> 00:00:48,580
+the verification mechanism requires shared inspection of every frontier run.
+
+16
+00:00:48,819 --> 00:00:53,259
+That detail hands the first movers a veto over anyone else's scaling plans.
+
+17
+00:00:53,419 --> 00:00:57,180
+Expect Google and OpenAI to counter with their own bilateral safety
+
+18
+00:00:57,180 --> 00:01:01,009
+pacts that sidestep the global layer entirely within the next quarter.
+
+19
+00:01:01,340 --> 00:01:03,189
+Labs skipping the pact could lock in a
+
+20
+00:01:03,189 --> 00:01:05,879
+decisive lead before any enforcement catches up.
+
+21
+00:01:06,379 --> 00:01:10,139
+Deep Seek nears $7.4 billion first external funding.
+
+22
+00:01:10,449 --> 00:01:15,110
+The round size masks how much of the cap table now sits with state-linked suppliers
+
+23
+00:01:15,250 --> 00:01:17,209
+who can guarantee silicon access.
+
+24
+00:01:17,569 --> 00:01:22,110
+That structure gives Deep Seek a path around export rules that Pure Play Labs lack.
+
+25
+00:01:22,440 --> 00:01:26,339
+Nvidia will have to decide whether to lobby harder for license exceptions or
+
+26
+00:01:26,339 --> 00:01:29,790
+write off the entire China training market by the end of next year.
+
+27
+00:01:30,040 --> 00:01:33,120
+Any delay hands the next cycle to local alternatives.
+
+28
+00:01:33,489 --> 00:01:37,690
+Generalist AI raises $400 million at $2 billion valuation.
+
+29
+00:01:37,949 --> 00:01:40,510
+Embodied models still need 10 times more
+
+30
+00:01:40,510 --> 00:01:42,949
+real-world data than the pitch deck admits.
+
+31
+00:01:43,110 --> 00:01:46,150
+The new capital buys fleets of robots that can collect it,
+
+32
+00:01:46,309 --> 00:01:48,589
+but only if the hardware partners stay patient
+
+33
+00:01:48,589 --> 00:01:50,739
+through the 1st 3 generations of failures.
+
+34
+00:01:51,069 --> 00:01:53,989
+Watch whether Boston Dynamics or Figure now accelerate.
+
+35
+00:01:54,154 --> 00:01:57,485
+Own raises to avoid being priced out of the same talent pool.
+
+36
+00:01:57,714 --> 00:01:58,154
+Otherwise,
+
+37
+00:01:58,275 --> 00:02:02,074
+the gap in training coverage becomes permanent by mid 2026.
+
+38
+00:02:02,514 --> 00:02:05,415
+Time spotlights AI agents as next inflection.
+
+39
+00:02:05,705 --> 00:02:10,115
+This forces Anthropic to either subsidize agent tiers or watch volume migrate.
+
+40
+00:02:10,350 --> 00:02:12,929
+The shift lands hardest on inference budgets.
+
+41
+00:02:13,149 --> 00:02:16,089
+Enterprises running 10,000 agents daily will burn
+
+42
+00:02:16,089 --> 00:02:18,339
+through tokens at 10 times current rates,
+
+43
+00:02:18,630 --> 00:02:22,669
+forcing procurement teams to renegotiate rate cards by Q4 next year.
+
+44
+00:02:23,029 --> 00:02:26,699
+Smaller labs without their own silicon see margins collapse first.
+
+45
+00:02:27,000 --> 00:02:31,710
+Coordination layers multiply API calls even when the final answer stays simple.
+
+46
+00:02:31,940 --> 00:02:33,750
+That math turns today's usage forecast.
+
+47
+00:02:34,126 --> 00:02:35,917
+Obsolete inside 18 months.
+
+48
+00:02:36,337 --> 00:02:39,936
+WSJ assesses realistic AI timeline to potential.
+
+49
+00:02:40,216 --> 00:02:41,397
+Corporate spend rises,
+
+50
+00:02:41,486 --> 00:02:45,197
+but procurement frameworks stretch every deployment to 24 months minimum.
+
+51
+00:02:45,617 --> 00:02:48,136
+That lag turns the realistic timeline into a
+
+52
+00:02:48,136 --> 00:02:51,406
+story about contract structures rather than model intelligence.
+
+53
+00:02:51,697 --> 00:02:53,337
+Pilots deliver quick wins,
+
+54
+00:02:53,647 --> 00:02:57,257
+yet enterprise SLAs force vendors to guarantee outcomes across.
+
+55
+00:02:57,363 --> 00:02:58,483
+Multi-year cycles.
+
+56
+00:02:58,764 --> 00:03:01,703
+Watch the consulting arms that sell integration services.
+
+57
+00:03:01,843 --> 00:03:06,063
+Their margins expand precisely because the transformation refuses to hurry.
+
+58
+00:03:06,324 --> 00:03:10,244
+Incumbents with entrenched procurement relationships gain at least 2 extra
+
+59
+00:03:10,244 --> 00:03:13,623
+years to adapt their stacks before displacement pressure builds.
+
+60
+00:03:13,923 --> 00:03:16,673
+AI investments drive inflation spillovers.
+
+61
+00:03:16,923 --> 00:03:20,464
+Power contracts bid up electricity prices for every data center.
+
+62
+00:03:20,604 --> 00:03:20,804
+AI.
+
+63
+00:03:21,031 --> 00:03:22,171
+Related or otherwise,
+
+64
+00:03:22,710 --> 00:03:25,570
+non-AI workloads absorb the same grid premium,
+
+65
+00:03:25,740 --> 00:03:28,460
+lifting cloud instance costs across providers.
+
+66
+00:03:28,751 --> 00:03:31,591
+Startups outside foundation model races see their monthly
+
+67
+00:03:31,591 --> 00:03:34,981
+burn rates climb sharply despite completely flat usage.
+
+68
+00:03:35,270 --> 00:03:37,020
+Service margins compress first,
+
+69
+00:03:37,231 --> 00:03:39,330
+then hardware refresh budgets shrink.
+
+70
+00:03:39,511 --> 00:03:41,710
+Expect 3-year cloud agreements to carry
+
+71
+00:03:41,710 --> 00:03:44,311
+explicit inflation escalators by next quarter.
+
+72
+00:03:44,679 --> 00:03:47,589
+OpenAI leads funding in Opel Electronics.
+
+73
+00:03:47,800 --> 00:03:51,740
+Creator hardware margins just became a proxy battle for model distribution.
+
+74
+00:03:52,080 --> 00:03:56,080
+Logitech now faces a direct choice between embedding rival agents or ceding
+
+75
+00:03:56,080 --> 00:04:00,699
+the high volume webcam segment to devices preloaded with OpenAI integrations.
+
+76
+00:04:00,919 --> 00:04:05,779
+The pivot also locks early access to fine tuning data from actual usage sessions.
+
+77
+00:04:06,000 --> 00:04:09,600
+Early pilots already show 20% higher engagement when the camera
+
+78
+00:04:09,600 --> 00:04:12,399
+ships with the model attached from the first unboxing.
+
+79
+00:04:12,820 --> 00:04:16,890
+That data advantage compounds faster than any hardware spec improvement.
+
+80
+00:04:17,298 --> 00:04:20,940
+Forbes releases 2026 AI50 company list.
+
+81
+00:04:21,178 --> 00:04:23,619
+Rankings by headline funding obscure how data
+
+82
+00:04:23,619 --> 00:04:26,600
+licensing terms now decide competitive survival.
+
+83
+00:04:26,829 --> 00:04:29,970
+The two leaders each exceed 25 billion in run rate,
+
+84
+00:04:30,190 --> 00:04:32,790
+yet the list reveals a dozen firms whose models
+
+85
+00:04:32,790 --> 00:04:35,540
+depend on those same giants for training data access.
+
+86
+00:04:35,820 --> 00:04:38,470
+This forces every mid-tier entrant to either sell
+
+87
+00:04:38,470 --> 00:04:41,140
+or sign restrictive clauses by mid next year.
+
+88
+00:04:41,470 --> 00:04:44,369
+Margins on inference alone cannot sustain independent
+
+89
+00:04:44,369 --> 00:04:46,820
+roadmaps once the compute subsidies dry up.
+
+90
+00:04:47,070 --> 00:04:49,670
+Platform deals will close before the next ranking.
+
+91
+00:04:50,119 --> 00:04:52,920
+Multimodal AI shifts to enterprise workflows.
+
+92
+00:04:53,079 --> 00:04:55,559
+The paid pilots already show 3 to 5 times
+
+93
+00:04:55,559 --> 00:04:59,149
+higher retention when outputs feed directly into CRM systems.
+
+94
+00:04:59,480 --> 00:05:02,239
+Procurement teams now tie payments to measured reductions
+
+95
+00:05:02,239 --> 00:05:04,480
+in support ticket volume and cycle time.
+
+96
+00:05:04,799 --> 00:05:08,140
+The shift exposes how current multimodal pricing underestimates
+
+97
+00:05:08,140 --> 00:05:11,119
+the data flywheel created by each workflow integration.
+
+98
+00:05:11,529 --> 00:05:14,730
+This forces OpenAI and its peers to either raise rates on
+
+99
+00:05:14,730 --> 00:05:18,480
+high volume customers or accept thinner margins to defend the beachhead.
+
+100
+00:05:18,809 --> 00:05:22,769
+Second order effects on data ownership remain absent from public filings.
+
+101
+00:05:23,049 --> 00:05:25,160
+Edge AI becomes product necessity.
+
+102
+00:05:25,450 --> 00:05:30,130
+Local inference requirements now appear in every RFP that touches customer data,
+
+103
+00:05:30,369 --> 00:05:32,970
+even when latency claims look identical on paper.
+
+104
+00:05:33,459 --> 00:05:36,570
+The margin lift comes from avoiding cloud egress fees and
+
+105
+00:05:36,570 --> 00:05:40,440
+enabling on-device upsells that pure cloud players cannot match.
+
+106
+00:05:40,700 --> 00:05:44,570
+This forces cloud providers to either subsidize Edge hardware partnerships
+
+107
+00:05:44,570 --> 00:05:48,049
+or lose the regulated verticals entirely within 18 months.
+
+108
+00:05:48,339 --> 00:05:51,660
+Resilience claims alone will not justify the added silicon
+
+109
+00:05:51,660 --> 00:05:54,619
+cost unless the privacy premium sticks in procurement.
+
+110
+00:05:55,899 --> 00:05:58,929
+Synopsis launches agentic AI for chip design.
+
+111
+00:05:59,190 --> 00:06:02,029
+Early adopters report verification loops shrinking by
+
+112
+00:06:02,029 --> 00:06:04,429
+20% before the first tape out review.
+
+113
+00:06:04,790 --> 00:06:07,670
+Chip design cycles that once took quarters now compress
+
+114
+00:06:07,670 --> 00:06:11,290
+when natural language prompts replace manual RTL handoffs.
+
+115
+00:06:11,510 --> 00:06:12,790
+The orchestrated agents.
+
+116
+00:06:13,035 --> 00:06:16,744
+bottlenecks and verification that single model tools never reached.
+
+117
+00:06:16,994 --> 00:06:20,545
+This forces Cadence to either replicate the multi-agent orchestration
+
+118
+00:06:20,684 --> 00:06:24,184
+or watch its enterprise accounts migrate for the automation gains alone.
+
+119
+00:06:24,765 --> 00:06:27,045
+Tape out margins improve only if generated
+
+120
+00:06:27,045 --> 00:06:29,885
+RTL error rates stay below manual baselines.
