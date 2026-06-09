@@ -1,0 +1,455 @@
+1
+00:00:04,400 --> 00:00:08,579
+Apple unveils Gemini powered Siri at WWDC.
+
+2
+00:00:08,840 --> 00:00:12,390
+Every interaction now feeds a model whose weights Google controls,
+
+3
+00:00:12,479 --> 00:00:15,590
+locking Apple into update cycles it cannot dictate.
+
+4
+00:00:15,899 --> 00:00:19,600
+Rebuilding an equivalent context system from scratch would take at least 18.
+
+5
+00:00:19,780 --> 00:00:21,940
+Months once the contract terms surface,
+
+6
+00:00:22,219 --> 00:00:26,120
+this forces OpenAI to ship comparable memory features on device
+
+7
+00:00:26,379 --> 00:00:30,860
+before the next major iOS cycle or lose default placement for its own chatbot.
+
+8
+00:00:31,180 --> 00:00:34,900
+Smaller assistant makers face the same choice with even less leverage.
+
+9
+00:00:35,659 --> 00:00:39,520
+Apple confirms $1 billion annual Gemini licensing deal.
+
+10
+00:00:39,740 --> 00:00:41,569
+Even though private cloud compute keeps
+
+11
+00:00:41,569 --> 00:00:43,919
+raw prompts inside Apple's infrastructure,
+
+12
+00:00:44,099 --> 00:00:47,099
+the backend agreement still requires Google to log detailed
+
+13
+00:00:47,099 --> 00:00:51,009
+query patterns for accurate billing reconciliation across regions.
+
+14
+00:00:51,380 --> 00:00:54,700
+Those logs create a second order visibility advantage that no
+
+15
+00:00:54,700 --> 00:00:58,450
+other model provider can match when negotiating similar device deals.
+
+16
+00:00:58,819 --> 00:01:02,229
+Samsung's AI team now has 9 months to secure equivalent
+
+17
+00:01:02,229 --> 00:01:05,830
+terms or ship a noticeably weaker on-device memory experience.
+
+18
+00:01:06,269 --> 00:01:09,019
+Cloud becomes selectable iPhone AI model.
+
+19
+00:01:09,309 --> 00:01:12,349
+Model switching inside a single app turns every prompt
+
+20
+00:01:12,349 --> 00:01:16,080
+into an instant price and capability comparison across providers.
+
+21
+00:01:16,349 --> 00:01:20,970
+Anthropic must now match the data retention policies already offered by OpenAI
+
+22
+00:01:21,110 --> 00:01:25,069
+or lose the long context workflows that enterprise customers run on iPhone.
+
+23
+00:01:25,540 --> 00:01:28,410
+Latency numbers will surface first in mixed sessions,
+
+24
+00:01:28,419 --> 00:01:33,319
+where handoffs between Claude and Gemini expose the weakest SLA within 6 months.
+
+25
+00:01:33,699 --> 00:01:37,160
+Microsoft Foundry reaches 11,000 model catalog.
+
+26
+00:01:37,339 --> 00:01:40,449
+The catalog count masks the real shift inside Excel,
+
+27
+00:01:40,660 --> 00:01:42,779
+where agent calls now bypass dedicated
+
+28
+00:01:42,779 --> 00:01:45,529
+analytics services for everyday forecasts.
+
+29
+00:01:45,730 --> 00:01:49,835
+Tableau teams must either Embed similar model routing inside their connectors,
+
+30
+00:01:49,846 --> 00:01:54,286
+or watch refresh rates slip once finance departments standardize on the new mode.
+
+31
+00:01:54,606 --> 00:01:58,746
+Smaller BI vendors lose pricing power by the end of the next fiscal year.
+
+32
+00:01:59,166 --> 00:02:02,825
+Pentagon tests OpenAI and Google models over anthropic.
+
+33
+00:02:03,045 --> 00:02:06,096
+Defense buyers aren't waiting for perfect alignment scores.
+
+34
+00:02:06,325 --> 00:02:08,565
+The move opens classified environments to mod.
+
+35
+00:02:08,822 --> 00:02:11,882
+that anthropic previously blocked on policy grounds.
+
+36
+00:02:12,151 --> 00:02:15,332
+That leaves the company with two paths inside 6 months.
+
+37
+00:02:15,552 --> 00:02:18,602
+Update its contract terms to match the new access levels,
+
+38
+00:02:18,751 --> 00:02:22,951
+or watch service revenue from DOD adjacent contractors migrate over
+
+39
+00:02:22,951 --> 00:02:26,451
+time to the competitors already cleared for those specific workloads
+
+40
+00:02:26,632 --> 00:02:30,332
+and lose ground in the broader enterprise security segment entirely.
+
+41
+00:02:30,632 --> 00:02:32,992
+Budget documents will show the shift by spring.
+
+42
+00:02:35,199 --> 00:02:37,100
+Nvidia and SK Hein sign AI memory partnership.
+
+43
+00:02:37,399 --> 00:02:41,320
+Nvidia's move secures custom HBM specs that merchant suppliers
+
+44
+00:02:41,320 --> 00:02:44,500
+cannot match on short notice without similar partnerships.
+
+45
+00:02:44,839 --> 00:02:47,940
+SK Heinix receives a multi-year volume guarantee
+
+46
+00:02:48,080 --> 00:02:51,690
+that funds its own capacity expansion two nodes ahead of schedule.
+
+47
+00:02:51,925 --> 00:02:54,205
+The arrangement pushes Samsung and Micron
+
+48
+00:02:54,205 --> 00:02:56,764
+to either match the co-development model quickly
+
+49
+00:02:56,764 --> 00:03:01,274
+or accept shrinking share in the AI accelerator attach rate through 2026.
+
+50
+00:03:01,565 --> 00:03:03,675
+Server OEMs are already adjusting their
+
+51
+00:03:03,675 --> 00:03:06,675
+qualification timelines around the new memory roadmap
+
+52
+00:03:06,845 --> 00:03:10,365
+and delaying alternative supplier evaluations until the next cycle.
+
+53
+00:03:11,729 --> 00:03:14,440
+EUAI Act enforcement deadline nears.
+
+54
+00:03:14,729 --> 00:03:17,970
+Compliance teams are discovering that the required risk logs add
+
+55
+00:03:17,970 --> 00:03:21,559
+more daily latency to inference pipelines than the fines themselves.
+
+56
+00:03:21,850 --> 00:03:24,929
+Providers outside the block now face a stark choice between
+
+57
+00:03:24,929 --> 00:03:28,490
+building separate EU instances or dropping high risk use cases.
+
+58
+00:03:28,785 --> 00:03:30,705
+for European customers altogether.
+
+59
+00:03:30,985 --> 00:03:34,985
+The first wave of feature withdrawals hits productivity tools by September
+
+60
+00:03:34,985 --> 00:03:38,934
+once the grace period ends and forces quick prioritization decisions.
+
+61
+00:03:39,304 --> 00:03:42,664
+Mid-sized vendors without dedicated compliance staff will feel the
+
+62
+00:03:42,664 --> 00:03:45,505
+pinch first and begin market exits by year end.
+
+63
+00:03:46,580 --> 00:03:49,639
+Microsoft Majorana 2 quantum chip hits a milestone.
+
+64
+00:03:50,059 --> 00:03:53,339
+The lifetime number changes the error correction math that everyone
+
+65
+00:03:53,339 --> 00:03:56,119
+else is still solving with expensive brute force today.
+
+66
+00:03:56,509 --> 00:04:00,570
+Microsoft now holds a coherence edge that compresses the roadmap for scalable
+
+67
+00:04:00,570 --> 00:04:04,740
+logical qubits by at least 18 months compared with surface code approaches.
+
+68
+00:04:05,070 --> 00:04:07,429
+This forces Ion Q and Riggetti to
+
+69
+00:04:07,429 --> 00:04:10,089
+either publish competing coherence numbers this year
+
+70
+00:04:10,229 --> 00:04:14,490
+or see their Series B terms worsen as limited partners chase the new benchmark.
+
+71
+00:04:15,029 --> 00:04:19,190
+Government quantum programs will reallocate follow-on funding accordingly
+
+72
+00:04:19,190 --> 00:04:21,390
+before the next fiscal year starts in earnest.
+
+73
+00:04:22,290 --> 00:04:25,250
+McDonald's tests Google-powered AI drive-through.
+
+74
+00:04:25,510 --> 00:04:30,230
+Every order now trains the model on regional slang and substitutions in real time.
+
+75
+00:04:30,489 --> 00:04:32,720
+That data advantage compounds fast.
+
+76
+00:04:33,010 --> 00:04:37,239
+This forces competitors like Wendy's to either license similar voice tech or
+
+77
+00:04:37,239 --> 00:04:41,309
+watch their peak hour throughput drop as lines slow without automation.
+
+78
+00:04:41,709 --> 00:04:45,839
+Suppliers face the next squeeze once inventory APIs must sync live.
+
+79
+00:04:46,079 --> 00:04:48,890
+5 locations already logged enough edge cases to
+
+80
+00:04:48,890 --> 00:04:51,700
+tighten accuracy ahead of labor cuts at scale.
+
+81
+00:04:52,339 --> 00:04:55,250
+Common Sense Media releases Kids AI report.
+
+82
+00:04:55,470 --> 00:04:57,170
+Parents assume broad adoption,
+
+83
+00:04:57,390 --> 00:05:01,540
+yet the real signal sits in how few tools log data for parental review.
+
+84
+00:05:01,950 --> 00:05:04,510
+Safety concerns will push districts to require audit
+
+85
+00:05:04,510 --> 00:05:07,140
+trails on every prompt within 18 months.
+
+86
+00:05:07,429 --> 00:05:08,549
+That requirement hands in.
+
+87
+00:05:08,704 --> 00:05:11,364
+Incumbents like Google Classroom and Integration Edge,
+
+88
+00:05:11,535 --> 00:05:14,144
+while smaller AI tutors scramble to retrofit
+
+89
+00:05:14,144 --> 00:05:16,855
+compliance or lose school contracts entirely.
+
+90
+00:05:17,225 --> 00:05:20,125
+Usage patterns reveal homework as the dominant case,
+
+91
+00:05:20,304 --> 00:05:22,984
+yet unchecked hallucinations risk locking factual
+
+92
+00:05:22,984 --> 00:05:25,184
+errors into student outputs over time.
+
+93
+00:05:25,690 --> 00:05:28,339
+Anthropic launches cloud Partner hub program.
+
+94
+00:05:28,619 --> 00:05:32,769
+Certification requirements quietly raise the bar for who can resell access.
+
+95
+00:05:33,059 --> 00:05:36,260
+Smaller integrators must now invest in training programs or
+
+96
+00:05:36,260 --> 00:05:39,809
+watch enterprise deals route exclusively through approved partners.
+
+97
+00:05:40,140 --> 00:05:41,459
+Production support clauses.
+
+98
+00:05:41,519 --> 00:05:44,640
+Also standardize SLAs that favor Anthropic's own
+
+99
+00:05:44,640 --> 00:05:47,709
+uptime guarantees over custom fine tunes.
+
+100
+00:05:47,959 --> 00:05:52,059
+The move accelerates channel lock-in ahead of expected model releases next year,
+
+101
+00:05:52,390 --> 00:05:55,119
+while protecting API margins by routing complex
+
+102
+00:05:55,119 --> 00:05:57,220
+compliance work to trained partners only.
+
+103
+00:05:58,140 --> 00:06:02,079
+Cloud web traffic share surges 306% in quarter.
+
+104
+00:06:02,339 --> 00:06:05,529
+Power users driving the visit spike run multi-hour research
+
+105
+00:06:05,529 --> 00:06:09,320
+sessions that bloat context windows far beyond typical prompts.
+
+106
+00:06:09,579 --> 00:06:13,119
+That usage pattern will force pricing adjustments by early next year,
+
+107
+00:06:13,230 --> 00:06:14,299
+once sustained loads.
+
+108
+00:06:14,380 --> 00:06:15,970
+Expose current rate limits.
+
+109
+00:06:16,260 --> 00:06:18,059
+Competitors lose ground if they cannot
+
+110
+00:06:18,059 --> 00:06:20,420
+match the thread persistence without forcing session
+
+111
+00:06:20,420 --> 00:06:22,980
+resets that break workflow continuity for
+
+112
+00:06:22,980 --> 00:06:25,399
+analysts already locked into the interface.
+
+113
+00:06:25,619 --> 00:06:28,459
+Enterprises will demand reliability guarantees that
+
+114
+00:06:28,459 --> 00:06:30,739
+raise infrastructure costs for any follower.
