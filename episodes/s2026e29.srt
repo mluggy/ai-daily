@@ -1,0 +1,495 @@
+1
+00:00:04,400 --> 00:00:07,219
+OpenAI confidentially files for IPO.
+
+2
+00:00:07,519 --> 00:00:10,079
+Three AI names chasing public status shifts
+
+3
+00:00:10,079 --> 00:00:11,989
+the game for remaining private players.
+
+4
+00:00:12,300 --> 00:00:14,140
+Anthropic now faces a choice,
+
+5
+00:00:14,359 --> 00:00:17,219
+file within 9 months or risk losing engineering talent
+
+6
+00:00:17,219 --> 00:00:20,100
+chasing liquid options at a newly public peer.
+
+7
+00:00:20,440 --> 00:00:24,659
+Early public comps will also force SpaceX to defend its valuation narrative
+
+8
+00:00:24,799 --> 00:00:26,959
+when investors start applying the same margin
+
+9
+00:00:26,959 --> 00:00:29,799
+pressure across the sector by mid-2026.
+
+10
+00:00:30,120 --> 00:00:33,919
+Revenue concentration details will reset expectations for the entire
+
+11
+00:00:33,919 --> 00:00:36,400
+group within the first earnings cycle after listing.
+
+12
+00:00:37,020 --> 00:00:40,900
+China Prep's $295 billion AI data center plan.
+
+13
+00:00:41,270 --> 00:00:45,490
+State spending at this scale usually signals overcapacity within two years.
+
+14
+00:00:45,709 --> 00:00:47,590
+The interconnected hubs will likely flood
+
+15
+00:00:47,590 --> 00:00:50,009
+the market with subsidized inference capacity,
+
+16
+00:00:50,229 --> 00:00:53,049
+undercutting commercial providers outside China on price,
+
+17
+00:00:53,349 --> 00:00:54,669
+while locking domestic developers.
+
+18
+00:00:54,919 --> 00:00:56,599
+Into national infrastructure.
+
+19
+00:00:56,959 --> 00:01:00,040
+Foreign chip suppliers face the real constraint as procurement
+
+20
+00:01:00,040 --> 00:01:03,259
+gets funneled through approved state channels by 2027.
+
+21
+00:01:03,520 --> 00:01:06,120
+Nvidia and AMD will see their China revenue
+
+22
+00:01:06,120 --> 00:01:08,949
+forecasts clipped faster than export bans achieved.
+
+23
+00:01:09,230 --> 00:01:13,040
+This accelerates the global versus China-only AI stack split.
+
+24
+00:01:13,480 --> 00:01:17,139
+SpaceXI's orbital AI tests by late 2027.
+
+25
+00:01:17,400 --> 00:01:19,839
+Lower launch costs solve only half the problem.
+
+26
+00:01:20,059 --> 00:01:23,089
+The first orbital tests will expose whether current GPU
+
+27
+00:01:23,089 --> 00:01:27,199
+architectures can survive radiation without constant ground recalibration,
+
+28
+00:01:27,459 --> 00:01:31,379
+a constraint that could push full commercial viability past 2029.
+
+29
+00:01:31,739 --> 00:01:33,550
+Google and other future lessees must
+
+30
+00:01:33,550 --> 00:01:35,889
+now decide if they reserve terrestrial capacity
+
+31
+00:01:35,889 --> 00:01:37,580
+as backup or accept the risk of
+
+32
+00:01:37,580 --> 00:01:40,379
+intermittent inference blackouts during solar events.
+
+33
+00:01:40,730 --> 00:01:43,739
+This timeline also pressures competitors like Blue Origin
+
+34
+00:01:43,739 --> 00:01:46,099
+to announce rival platforms sooner than planned.
+
+35
+00:01:46,680 --> 00:01:50,269
+Google signs 30B dollars SpaceX GPU lease deal.
+
+36
+00:01:50,519 --> 00:01:54,069
+Monthly payments at that cadence lock Google into the orbital roadmap,
+
+37
+00:01:54,279 --> 00:01:55,989
+whether the demos succeed or not.
+
+38
+00:01:56,199 --> 00:01:58,589
+The bigger shift comes from Microsoft and Amazon,
+
+39
+00:01:58,800 --> 00:02:02,279
+both now forced to explain why their data center footprints can match space.
+
+40
+00:02:02,495 --> 00:02:05,934
+Based latency for real-time agents without equivalent capex.
+
+41
+00:02:06,535 --> 00:02:10,294
+Expect the first enterprise contracts that stipulate orbital failover
+
+42
+00:02:10,294 --> 00:02:12,595
+options to appear within the next 4 quarters.
+
+43
+00:02:12,854 --> 00:02:18,175
+Azure sales teams will need new talking points on uptime guarantees by Q2 2027.
+
+44
+00:02:18,630 --> 00:02:21,550
+Anthropic releases safe Mythos AI version.
+
+45
+00:02:21,789 --> 00:02:24,630
+Twice the price immediately narrows the addressable market
+
+46
+00:02:24,630 --> 00:02:27,259
+to those already locked into compliance workflows.
+
+47
+00:02:27,539 --> 00:02:29,149
+Smaller teams will stick with cheaper
+
+48
+00:02:29,149 --> 00:02:31,860
+alternatives that still ship raw capabilities.
+
+49
+00:02:32,149 --> 00:02:35,589
+This move also pressures OpenAI to decide whether its own safety
+
+50
+00:02:35,589 --> 00:02:39,429
+layers justify a matching increase or stay positioned as the faster,
+
+51
+00:02:39,509 --> 00:02:40,509
+riskier option.
+
+52
+00:02:40,949 --> 00:02:42,080
+Over the next 6 months,
+
+53
+00:02:42,389 --> 00:02:45,440
+expect a split where regulated industries standardize on the higher
+
+54
+00:02:45,440 --> 00:02:49,389
+tier while consumer experimentation stays on the unfiltered models.
+
+55
+00:02:49,759 --> 00:02:52,910
+MetaAI bug hacks 34,000 Instagram accounts.
+
+56
+00:02:53,160 --> 00:02:55,720
+One overlooked API endpoint turned a support
+
+57
+00:02:55,720 --> 00:02:57,990
+tool into a mass account takeover vector.
+
+58
+00:02:58,240 --> 00:02:59,720
+The real damage appears in how
+
+59
+00:02:59,720 --> 00:03:02,419
+quickly attackers mapped the chatbot's decision tree
+
+60
+00:03:02,559 --> 00:03:05,539
+to bypass two-factor flows without triggering alerts.
+
+61
+00:03:05,759 --> 00:03:06,119
+Instagram.
+
+62
+00:03:06,229 --> 00:03:10,470
+Advertisers now face sudden campaign resets and lost audiences while
+
+63
+00:03:10,470 --> 00:03:13,550
+Mehta scrambles to add human review gates at every step.
+
+64
+00:03:13,779 --> 00:03:17,869
+Expect other platforms to treat any generative customer service model as high
+
+65
+00:03:17,869 --> 00:03:20,300
+risk infrastructure that requires separate security
+
+66
+00:03:20,300 --> 00:03:22,589
+budgets and dedicated monitoring teams.
+
+67
+00:03:22,929 --> 00:03:25,619
+FLOTUS hosts Presidential AI Challenge Awards.
+
+68
+00:03:25,869 --> 00:03:28,860
+White House recognition still carries more resume weight than
+
+69
+00:03:28,860 --> 00:03:31,449
+any private accelerator for students entering the field.
+
+70
+00:03:31,960 --> 00:03:34,960
+The real signal lies in which projects receive follow-on
+
+71
+00:03:34,960 --> 00:03:37,839
+funding from defense contractors present at the event.
+
+72
+00:03:38,119 --> 00:03:41,320
+Agencies that skipped the showcase now have to match offers or
+
+73
+00:03:41,320 --> 00:03:44,630
+watch early talent leave for companies that attended the ceremony.
+
+74
+00:03:44,919 --> 00:03:47,559
+This pattern repeats every cycle and keeps policy
+
+75
+00:03:47,559 --> 00:03:50,470
+expertise concentrated inside a handful of firms.
+
+76
+00:03:50,839 --> 00:03:53,199
+Seattle bans new AI data centers for years.
+
+77
+00:03:53,830 --> 00:03:56,429
+Power grid planners in surrounding counties just
+
+78
+00:03:56,429 --> 00:03:59,089
+received an unexpected surge in permit requests.
+
+79
+00:03:59,250 --> 00:04:03,850
+Existing facilities inside Seattle now operate under tighter expansion limits
+
+80
+00:04:03,990 --> 00:04:07,100
+that will push per megawatt prices higher for every tenant.
+
+81
+00:04:07,350 --> 00:04:11,229
+Cloud customers relying on regional capacity should expect slight latency
+
+82
+00:04:11,229 --> 00:04:14,589
+trade-offs once traffic routes through Tacoma or Bellevue instead.
+
+83
+00:04:14,919 --> 00:04:18,798
+The one year pause also gives local regulators time to draft usage
+
+84
+00:04:18,798 --> 00:04:22,350
+taxes that other cities will copy if the energy numbers hold.
+
+85
+00:04:22,720 --> 00:04:25,619
+Trump admin discusses open AI equity stake.
+
+86
+00:04:25,799 --> 00:04:29,279
+Equity talks with the White House changed the incentive structure overnight.
+
+87
+00:04:29,559 --> 00:04:34,250
+OpenAI's next funding round now carries an implicit federal veto on valuation
+
+88
+00:04:34,519 --> 00:04:37,045
+because Any number sets the baseline for that stake.
+
+89
+00:04:37,345 --> 00:04:40,725
+This forces Anthropic to either propose its own equity vehicle
+
+90
+00:04:40,864 --> 00:04:43,654
+or concede ground on federal and state contracts.
+
+91
+00:04:43,864 --> 00:04:46,984
+The data licensing terms buried in those agreements will dictate
+
+92
+00:04:46,984 --> 00:04:50,225
+who controls training rights on government data flows for years.
+
+93
+00:04:50,625 --> 00:04:54,625
+State treasurers are already modeling the revenue share as a new budget line item.
+
+94
+00:04:55,140 --> 00:04:58,730
+OpenAIC council urges pause on school AI use.
+
+95
+00:04:58,980 --> 00:05:01,179
+Parents in the five boroughs now face a 6
+
+96
+00:05:01,179 --> 00:05:04,440
+month window where no new AI tools enter classrooms,
+
+97
+00:05:04,660 --> 00:05:06,250
+regardless of vendor promises.
+
+98
+00:05:06,540 --> 00:05:09,299
+That timeline gives legacy education vendors time to
+
+99
+00:05:09,299 --> 00:05:12,299
+retrofit their platforms with the required audit trails.
+
+100
+00:05:12,649 --> 00:05:16,220
+Startups that skipped local data residency requirements will either retro.
+
+101
+00:05:16,429 --> 00:05:20,609
+fe it their entire stack or lose the largest district contract in the country.
+
+102
+00:05:20,869 --> 00:05:23,179
+Union contracts already reference the pause,
+
+103
+00:05:23,440 --> 00:05:27,750
+so any tool approved later must also clear labor review before deployment.
+
+104
+00:05:28,149 --> 00:05:30,700
+Lawyers sanctioned for AI fake citations.
+
+105
+00:05:30,950 --> 00:05:34,709
+Four sanctioned lawyers in Mississippi just became the cautionary example
+
+106
+00:05:34,709 --> 00:05:37,660
+every firm now uses in its AI policy memo.
+
+107
+00:05:37,950 --> 00:05:40,630
+The fines themselves are small compared with the new
+
+108
+00:05:40,630 --> 00:05:44,350
+requirement that every citation carry documented human verification.
+
+109
+00:05:44,850 --> 00:05:48,230
+Mid-size practices will either add that step to every filing
+
+110
+00:05:48,369 --> 00:05:50,570
+or watch their margins compress when judges
+
+111
+00:05:50,570 --> 00:05:52,589
+start demanding source logs as routine.
+
+112
+00:05:53,089 --> 00:05:57,410
+Larger competitors already run internal models tuned for case law accuracy,
+
+113
+00:05:57,649 --> 00:05:59,910
+widening the gap on routine motion work.
+
+114
+00:06:00,380 --> 00:06:03,489
+AI threatens back office jobs disproportionately.
+
+115
+00:06:03,820 --> 00:06:06,179
+Payroll teams sit at the front of the line because their
+
+116
+00:06:06,179 --> 00:06:09,529
+data is already clean and structured enough for today's models.
+
+117
+00:06:09,779 --> 00:06:12,489
+ADP and Workday therefore have 12 months to
+
+118
+00:06:12,489 --> 00:06:15,359
+ship features that let existing staff oversee larger.
+
+119
+00:06:15,519 --> 00:06:17,399
+Volumes instead of cutting headcount.
+
+120
+00:06:17,690 --> 00:06:18,209
+Otherwise,
+
+121
+00:06:18,290 --> 00:06:21,410
+mid-market companies will simply route the entire function to
+
+122
+00:06:21,410 --> 00:06:24,510
+specialists who build AI native stacks from scratch.
+
+123
+00:06:24,730 --> 00:06:27,450
+The gender skew means promotion data next year will
+
+124
+00:06:27,450 --> 00:06:30,529
+show fewer women moving from operations into management.
