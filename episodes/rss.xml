@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 09:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:54:04 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -529,6 +529,40 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e29.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Claude Fable 5, Agent Payments Launch &amp; Neura $1.4B Round</title>
+      <description>Anthropic releases its first public Mythos-class model Claude Fable 5 with built-in safeguards; Mastercard and Visa advance infrastructure for AI agent payments and commerce; Neura Robotics secures a record $1.4 billion Series C for cognitive robots and physical AI.</description>
+      <link>{{SITE_URL}}/30</link>
+      <guid isPermaLink="false">s2026e30</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e30.mp3" length="9707591" type="audio/mpeg" />
+      <itunes:summary>Anthropic releases its first public Mythos-class model Claude Fable 5 with built-in safeguards; Mastercard and Visa advance infrastructure for AI agent payments and commerce; Neura Robotics secures a record $1.4 billion Series C for cognitive robots and physical AI.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:44</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e30.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e30.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>OpenAI Commerce Protocol, Anthropic IPO Filing &amp; Senate AI Hearings</title>
+      <description>OpenAI launches Agentic Commerce Protocol with Instant Checkout and Oracle Cloud access plus Ona acquisition; Anthropic files S-1 near $965B valuation; Senate Banking Committee AI hearing; China AI home robots; Supabase, Suno, Generalist AI and Flourish funding rounds; Super Micro $7B AI raise.</description>
+      <link>{{SITE_URL}}/31</link>
+      <guid isPermaLink="false">s2026e31</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e31.mp3" length="9874523" type="audio/mpeg" />
+      <itunes:summary>OpenAI launches Agentic Commerce Protocol with Instant Checkout and Oracle Cloud access plus Ona acquisition; Anthropic files S-1 near $965B valuation; Senate Banking Committee AI hearing; China AI home robots; Supabase, Suno, Generalist AI and Flourish funding rounds; Super Micro $7B AI raise.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e31.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e31.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

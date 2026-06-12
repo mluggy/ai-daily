@@ -1,0 +1,495 @@
+1
+00:00:04,570 --> 00:00:07,389
+Anthropic launches first public Mythos AI model.
+
+2
+00:00:07,809 --> 00:00:10,989
+Developers chasing full autonomy will hit the guardrails first.
+
+3
+00:00:11,250 --> 00:00:15,600
+Claude Fable 5 locks out cybersecurity and biology workflows entirely.
+
+4
+00:00:15,890 --> 00:00:19,549
+That split pushes research teams toward models without the same blocks,
+
+5
+00:00:19,649 --> 00:00:21,250
+likely shifting grant funded work.
+
+6
+00:00:21,309 --> 00:00:23,829
+Away from anthropic within the next year as labs
+
+7
+00:00:23,829 --> 00:00:27,459
+seek fewer refusals on critical experiments and model comparisons.
+
+8
+00:00:27,790 --> 00:00:29,450
+The safety choice protects the brand,
+
+9
+00:00:29,590 --> 00:00:31,549
+but narrows the addressable market faster
+
+10
+00:00:31,549 --> 00:00:33,770
+than competitors who offer tiered access,
+
+11
+00:00:34,029 --> 00:00:37,889
+forcing a choice between compliance and capability for mid-size labs.
+
+12
+00:00:38,659 --> 00:00:41,279
+MasterCard unveils AI agent payment system.
+
+13
+00:00:41,580 --> 00:00:44,779
+High velocity agent transactions expose gaps in traditional
+
+14
+00:00:44,779 --> 00:00:47,459
+settlement rails that banks have ignored until now.
+
+15
+00:00:47,740 --> 00:00:51,119
+Agent pay opens always on micropayments across the network,
+
+16
+00:00:51,299 --> 00:00:53,459
+but the real pressure lands on fee structures
+
+17
+00:00:53,459 --> 00:00:56,939
+once autonomous agents start routing around high-cost corridors.
+
+18
+00:00:57,259 --> 00:00:59,862
+Visa must now decide whether to Match the speed or
+
+19
+00:00:59,862 --> 00:01:03,373
+accept lower share on machine initiated volume from agent fleets.
+
+20
+00:01:03,693 --> 00:01:06,462
+The trajectory points to compressed margins for card
+
+21
+00:01:06,462 --> 00:01:09,413
+networks within 18 months as agent volume scales.
+
+22
+00:01:09,822 --> 00:01:12,733
+Visa partners with OpenAI for agentic payments.
+
+23
+00:01:13,023 --> 00:01:16,303
+Direct access to OpenAI agents changes the settlement
+
+24
+00:01:16,303 --> 00:01:18,142
+game for everyone else on the network.
+
+25
+00:01:18,542 --> 00:01:21,575
+Visa's tool Tools now sit inside chat GPT workflows,
+
+26
+00:01:21,816 --> 00:01:25,846
+which means MasterCard has to accelerate its own agent APIs or lose
+
+27
+00:01:25,846 --> 00:01:29,536
+the first wave of autonomous checkout volume within the next 6 quarters.
+
+28
+00:01:29,905 --> 00:01:32,625
+Transaction data flowing back to OpenAI also
+
+29
+00:01:32,625 --> 00:01:34,625
+creates a new competitive mode that pure
+
+30
+00:01:34,625 --> 00:01:37,146
+payment players cannot match without similar model
+
+31
+00:01:37,146 --> 00:01:39,246
+partnerships on top of the volume shift.
+
+32
+00:01:39,830 --> 00:01:43,809
+Neurorobotics lands record $1.4 billion Series C.
+
+33
+00:01:44,150 --> 00:01:46,589
+Tether's involvement points to crypto cash hunting
+
+34
+00:01:46,589 --> 00:01:49,180
+physical AI exposure beyond data centers.
+
+35
+00:01:49,510 --> 00:01:52,169
+The capital lets Neura scale humanoids fast,
+
+36
+00:01:52,349 --> 00:01:56,110
+yet the deeper consequence sits with Amazon and Nvidia locking in supply
+
+37
+00:01:56,110 --> 00:02:00,809
+commitments that smaller robotics firms cannot match on sensor or actuator tech.
+
+38
+00:02:01,089 --> 00:02:04,989
+Expect warehouse automation deals to favor newer platforms by late next
+
+39
+00:02:04,989 --> 00:02:09,089
+year as backers exercise their influence on integration priorities at scale.
+
+40
+00:02:09,425 --> 00:02:12,005
+Talent will follow the capital within quarters.
+
+41
+00:02:12,264 --> 00:02:15,345
+Amode calls for stronger AI government regulation.
+
+42
+00:02:15,565 --> 00:02:19,445
+Amode is handing regulators the precise levers they lacked last year.
+
+43
+00:02:19,664 --> 00:02:24,934
+Expect the EU AI Office to test those powers on a US model within 6 months.
+
+44
+00:02:25,225 --> 00:02:28,255
+That single precedent would require every frontier lab to
+
+45
+00:02:28,255 --> 00:02:31,574
+maintain a parallel compliance track for European deployments.
+
+46
+00:02:31,865 --> 00:02:35,505
+Smaller teams without dedicated policy staff will either partner with
+
+47
+00:02:35,505 --> 00:02:38,705
+legal firms or exit the highest risk categories entirely.
+
+48
+00:02:38,949 --> 00:02:43,169
+The cost of that split infrastructure has not yet appeared in any public roadmap.
+
+49
+00:02:43,589 --> 00:02:47,889
+OpenAI exposes PRC influence operations on AI policy.
+
+50
+00:02:48,110 --> 00:02:51,190
+OpenAI's disclosure quietly reveals the volume of
+
+51
+00:02:51,190 --> 00:02:54,169
+policy queries those accounts generated before detection.
+
+52
+00:02:54,699 --> 00:02:59,580
+US agencies will now treat model providers as mandatory sensors for influence ops.
+
+53
+00:02:59,779 --> 00:03:04,160
+That shifts the compliance burden onto every company releasing weights or APIs.
+
+54
+00:03:04,399 --> 00:03:06,500
+Expect Anthropic and Google to publish
+
+55
+00:03:06,500 --> 00:03:08,639
+their own takedown numbers within the quarter
+
+56
+00:03:08,779 --> 00:03:10,539
+to avoid appearing less vigilant.
+
+57
+00:03:10,860 --> 00:03:13,059
+The real operational change is the new
+
+58
+00:03:13,059 --> 00:03:15,339
+review layer on politically sensitive prompts.
+
+59
+00:03:15,899 --> 00:03:18,360
+China updates rules for AI model training data.
+
+60
+00:03:18,979 --> 00:03:22,229
+China's new blueprint sets volume and provenance requirements that
+
+61
+00:03:22,229 --> 00:03:25,289
+foreign training runs cannot meet without local partners.
+
+62
+00:03:25,580 --> 00:03:28,779
+Labs outside China must now decide whether to license data through.
+
+63
+00:03:28,914 --> 00:03:32,024
+State channels or build separate domestic scale data sets.
+
+64
+00:03:32,354 --> 00:03:35,744
+The first visible effect appears in the next round of model benchmarks.
+
+65
+00:03:36,115 --> 00:03:39,725
+Chinese labs will report training on fully compliant domestic corpora,
+
+66
+00:03:39,865 --> 00:03:41,184
+while others face gaps.
+
+67
+00:03:41,464 --> 00:03:43,955
+This accelerates the split between two incompatible
+
+68
+00:03:43,955 --> 00:03:46,835
+AI data ecosystems by late 2025.
+
+69
+00:03:47,160 --> 00:03:50,550
+Super Micro seeks 7 billion to fulfill AI orders.
+
+70
+00:03:50,919 --> 00:03:53,360
+Super Micro's order backlog already exceeds its
+
+71
+00:03:53,360 --> 00:03:55,800
+current manufacturing capacity by more than double.
+
+72
+00:03:56,080 --> 00:03:59,899
+The equity raise simply buys time before component lead times stretch further.
+
+73
+00:04:00,399 --> 00:04:02,399
+Nvidia and AMD will face allocations.
+
+74
+00:04:02,570 --> 00:04:06,610
+Press as Super Micro's purchases crowd the queue for the same GPUs.
+
+75
+00:04:06,830 --> 00:04:09,690
+Enterprise customers should expect longer delivery windows
+
+76
+00:04:09,690 --> 00:04:12,080
+and higher spot prices starting next quarter.
+
+77
+00:04:12,410 --> 00:04:15,529
+Smaller system integrators without similar scale financing will
+
+78
+00:04:15,529 --> 00:04:17,730
+lose bids they previously won on speed.
+
+79
+00:04:18,420 --> 00:04:22,179
+Apollo closes 35 billion anthropic infrastructure deal.
+
+80
+00:04:22,519 --> 00:04:25,140
+Blackstone's participation changes the risk profile
+
+81
+00:04:25,140 --> 00:04:26,809
+for every other frontier lab.
+
+82
+00:04:27,140 --> 00:04:29,820
+Traditional infrastructure funds now treat AI compute
+
+83
+00:04:29,820 --> 00:04:32,570
+like regulated utilities with predictable returns.
+
+84
+00:04:32,859 --> 00:04:34,559
+With dedicated capital this large,
+
+85
+00:04:34,929 --> 00:04:37,579
+Anthropic can lock in multi-year chip contracts
+
+86
+00:04:37,579 --> 00:04:39,720
+that smaller players simply cannot match.
+
+87
+00:04:40,019 --> 00:04:43,399
+The result shows up in training runs by early 2026.
+
+88
+00:04:43,600 --> 00:04:46,640
+Expect OpenAI to either raise another comparable round
+
+89
+00:04:46,980 --> 00:04:48,059
+or watch its relative.
+
+90
+00:04:48,226 --> 00:04:50,865
+Model performance slip against a better funded rival.
+
+91
+00:04:51,265 --> 00:04:54,506
+Margins on API calls will compress as a direct result.
+
+92
+00:04:54,906 --> 00:04:56,436
+Study forecasts 300,
+
+93
+00:04:56,515 --> 00:04:59,816
+then billion genic e-commerce by 2036.
+
+94
+00:05:00,385 --> 00:05:03,156
+European platforms face a quiet disintermediation.
+
+95
+00:05:03,425 --> 00:05:05,726
+Once agents handle the full purchase path,
+
+96
+00:05:05,865 --> 00:05:08,126
+comparison engines lose their traffic advantage,
+
+97
+00:05:08,385 --> 00:05:09,385
+and marketplaces must.
+
+98
+00:05:09,481 --> 00:05:13,071
+Either integrate agent APIs or accept lower take rates.
+
+99
+00:05:13,361 --> 00:05:16,701
+The €310 billion figure assumes seamless checkout,
+
+100
+00:05:17,041 --> 00:05:19,321
+yet banks and card networks will see interchange
+
+101
+00:05:19,321 --> 00:05:22,552
+revenue squeezed as agents optimize for lowest fees.
+
+102
+00:05:22,842 --> 00:05:26,481
+Shopify and Amazon's EU teams are already modeling the scenario
+
+103
+00:05:26,481 --> 00:05:30,622
+where agent mediated sales bypass their standard seller dashboards entirely.
+
+104
+00:05:30,980 --> 00:05:35,149
+FSB outlines 12 practices for responsible AI and finance.
+
+105
+00:05:35,429 --> 00:05:38,790
+Model risk teams inside global banks now face a mapping
+
+106
+00:05:38,790 --> 00:05:42,609
+exercise that goes well beyond current SR 11-7 requirements.
+
+107
+00:05:42,869 --> 00:05:46,109
+The practices emphasize data lineage and outcome monitoring,
+
+108
+00:05:46,269 --> 00:05:48,190
+which means vendors selling AI governance.
+
+109
+00:05:48,265 --> 00:05:50,734
+Tools see immediate RFP spikes.
+
+110
+00:05:50,904 --> 00:05:54,625
+Mid-sized institutions without dedicated AI compliance staff
+
+111
+00:05:54,625 --> 00:05:56,765
+will likely outsource the entire framework,
+
+112
+00:05:57,024 --> 00:05:59,545
+handing consultants a multi-year revenue stream.
+
+113
+00:05:59,924 --> 00:06:02,424
+Larger players must decide whether to disclose their
+
+114
+00:06:02,424 --> 00:06:05,545
+internal audit findings publicly to demonstrate alignment.
+
+115
+00:06:06,170 --> 00:06:09,850
+XAI faces legal risks over data center turbines.
+
+116
+00:06:10,220 --> 00:06:12,420
+Local opposition in Mississippi highlights a
+
+117
+00:06:12,420 --> 00:06:14,630
+broader constraint the industry has ignored.
+
+118
+00:06:14,929 --> 00:06:19,079
+Permitting timelines for on-site generation now exceed chip lead times.
+
+119
+00:06:19,320 --> 00:06:23,640
+XAI must either redesign around grid power with uncertain availability
+
+120
+00:06:23,779 --> 00:06:27,200
+or accept higher costs from diesel backups during construction.
+
+121
+00:06:27,459 --> 00:06:31,500
+Other AI developers scouting southern sites are quietly adding environmental
+
+122
+00:06:31,500 --> 00:06:33,859
+counsel to their real estate teams as a result.
+
+123
+00:06:34,130 --> 00:06:36,489
+The knock-on effect appears in 2026
+
+124
+00:06:36,489 --> 00:06:39,510
+capacity forecasts that suddenly look optimistic.

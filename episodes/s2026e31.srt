@@ -1,0 +1,511 @@
+1
+00:00:04,619 --> 00:00:08,220
+OpenAI launches agentic commerce protocol and chat GPT.
+
+2
+00:00:08,659 --> 00:00:11,920
+Every purchase decision now happens inside the model window itself.
+
+3
+00:00:12,449 --> 00:00:14,859
+Merchants like Etsy gain instant reach to hundreds
+
+4
+00:00:14,859 --> 00:00:17,000
+of millions without building their own agents.
+
+5
+00:00:17,219 --> 00:00:20,260
+The open protocol looks generous until you notice settlement
+
+6
+00:00:20,260 --> 00:00:22,360
+still clears through a single set of keys.
+
+7
+00:00:22,620 --> 00:00:25,979
+This forces Stripe to either lower its per transaction fees or
+
+8
+00:00:25,979 --> 00:00:29,000
+watch volume migrate to any fork that undercuts the rate.
+
+9
+00:00:29,299 --> 00:00:33,180
+Watch mid-market sellers test the first alternative endpoint by next summer.
+
+10
+00:00:33,790 --> 00:00:36,860
+OpenAI models and codecs now on Oracle Cloud.
+
+11
+00:00:37,110 --> 00:00:39,790
+Universal Credit's already sitting in Oracle accounts
+
+12
+00:00:39,790 --> 00:00:42,610
+now cover Frontier Inference without fresh paperwork.
+
+13
+00:00:42,909 --> 00:00:45,849
+Enterprises skip the usual cloud procurement dance.
+
+14
+00:00:46,029 --> 00:00:48,110
+The move quietly shifts inference spend
+
+15
+00:00:48,110 --> 00:00:50,250
+toward Oracle's existing compliance stack.
+
+16
+00:00:50,549 --> 00:00:50,869
+Azure.
+
+17
+00:00:50,955 --> 00:00:54,994
+Must match the credit flexibility or concede ground in regulated sectors.
+
+18
+00:00:55,174 --> 00:00:58,595
+Smaller providers without similar credit programs now face higher
+
+19
+00:00:58,595 --> 00:01:01,544
+effective costs when bidding against bundled OCI deals.
+
+20
+00:01:01,834 --> 00:01:04,555
+Watch what happens to per token margins when those
+
+21
+00:01:04,555 --> 00:01:08,214
+contracts add strict latency SLAs that force dedicated capacity.
+
+22
+00:01:08,809 --> 00:01:11,860
+OpenAI acquires AI agent startup OnA.
+
+23
+00:01:12,239 --> 00:01:15,599
+Long-running agent sessions now inherit orchestration tools built
+
+24
+00:01:15,599 --> 00:01:18,440
+for days-long execution instead of single turns.
+
+25
+00:01:18,730 --> 00:01:21,580
+The acquisition bakes persistence into the core platform.
+
+26
+00:01:22,040 --> 00:01:24,599
+Watch retention metrics on current agent platforms
+
+27
+00:01:24,599 --> 00:01:27,120
+once customers test the Integrated alternative.
+
+28
+00:01:27,440 --> 00:01:30,739
+Rivals must either license similar capabilities or lose ground
+
+29
+00:01:30,739 --> 00:01:34,510
+on enterprise pilots that require unininterrupted agent workflows.
+
+30
+00:01:34,760 --> 00:01:38,500
+Anthropic faces pressure to accelerate its own orchestration roadmap
+
+31
+00:01:38,650 --> 00:01:42,860
+or risk seating the multi-day use cases entirely within 18 months.
+
+32
+00:01:43,379 --> 00:01:47,449
+Anthropic files S-1 for near $1 trillion IPO.
+
+33
+00:01:47,779 --> 00:01:50,900
+Confidential filing at this scale locks the valuation before
+
+34
+00:01:50,900 --> 00:01:53,620
+the next training cycle reveals true cost curves.
+
+35
+00:01:53,940 --> 00:01:57,500
+Public markets get a clear look at the burn rate tied to cluster expansion.
+
+36
+00:01:57,849 --> 00:02:00,169
+The real pressure lands on governance terms that
+
+37
+00:02:00,169 --> 00:02:03,040
+let early backers retain influence after the listing.
+
+38
+00:02:03,319 --> 00:02:04,970
+Talent shifts follow quickly.
+
+39
+00:02:05,209 --> 00:02:09,529
+OpenAI must now decide whether to accelerate its own IPO timeline or
+
+40
+00:02:09,529 --> 00:02:12,960
+watch key talent chase liquid equity at the new public entity.
+
+41
+00:02:13,320 --> 00:02:16,250
+Senate Banking Committee holds AI innovation hearing.
+
+42
+00:02:16,449 --> 00:02:19,210
+Export rules on advanced chips are already moving faster.
+
+43
+00:02:19,445 --> 00:02:21,365
+than any bill the committee could pass.
+
+44
+00:02:21,645 --> 00:02:24,125
+The hearing instead surfaces how quickly domestic
+
+45
+00:02:24,125 --> 00:02:26,985
+foundries must scale to replace restricted shipments.
+
+46
+00:02:27,205 --> 00:02:31,785
+Nvidia now faces a hard choice between licensing older architectures to allies
+
+47
+00:02:31,904 --> 00:02:34,985
+or absorbing the full cost of Arizona production ramps.
+
+48
+00:02:35,205 --> 00:02:38,205
+Either path compresses gross margins on inference hardware
+
+49
+00:02:38,205 --> 00:02:40,725
+by at least 8 points inside 18 months.
+
+50
+00:02:41,389 --> 00:02:43,820
+China tests AI robot cleaners in homes.
+
+51
+00:02:44,190 --> 00:02:48,509
+Beijing and Shenzhen homes are feeding petabyte scale video of daily routines
+
+52
+00:02:48,509 --> 00:02:50,470
+into training loops that Western labs
+
+53
+00:02:50,470 --> 00:02:52,869
+cannot replicate under current privacy rules.
+
+54
+00:02:53,229 --> 00:02:56,149
+The resulting models will handle edge cases like laundry
+
+55
+00:02:56,149 --> 00:03:00,029
+folding long before any US competitor clears regulatory review.
+
+56
+00:03:00,440 --> 00:03:02,520
+That data advantage forces figure and
+
+57
+00:03:02,520 --> 00:03:05,380
+agility to either acquire Chinese vision startups
+
+58
+00:03:05,520 --> 00:03:08,380
+or accept a permanent lag in consumer deployments.
+
+59
+00:03:08,589 --> 00:03:11,399
+Expect US firms to strike data partnerships or
+
+60
+00:03:11,399 --> 00:03:14,589
+fall behind on household tasks by mid-2026.
+
+61
+00:03:15,039 --> 00:03:18,750
+Supabase raises $500 million for AI developer tools.
+
+62
+00:03:19,029 --> 00:03:22,440
+Valuation headlines missed the clause that lets GIC influence
+
+63
+00:03:22,440 --> 00:03:25,350
+which post-gress extensions reach the open core first.
+
+64
+00:03:25,669 --> 00:03:26,660
+With the fresh capital,
+
+65
+00:03:26,800 --> 00:03:28,199
+Supabase can now ship production.
+
+66
+00:03:28,401 --> 00:03:32,231
+Ready PG vector improvements 6 months ahead of any community fork.
+
+67
+00:03:32,561 --> 00:03:35,682
+That timing locks developers building RAG apps into their
+
+68
+00:03:35,682 --> 00:03:39,391
+hosted indexes before competitors finish their own managed offerings.
+
+69
+00:03:39,722 --> 00:03:41,921
+The gap will show up first in query latency
+
+70
+00:03:41,921 --> 00:03:44,951
+benchmarks that teams actually cite in production reviews.
+
+71
+00:03:45,281 --> 00:03:47,682
+Firebase will have to match the extension velocity
+
+72
+00:03:47,682 --> 00:03:50,701
+or watch mid-market migrations accelerate through next year.
+
+73
+00:03:51,151 --> 00:03:54,792
+Suno secures $400 million Series D for AI Music.
+
+74
+00:03:55,121 --> 00:03:56,121
+Copyright exposure.
+
+75
+00:03:56,203 --> 00:03:59,164
+Still blocks the biggest sync deals with brands and studios.
+
+76
+00:03:59,324 --> 00:04:01,214
+The new round buys time to settle with
+
+77
+00:04:01,214 --> 00:04:04,074
+major labels before those contracts move to competitors.
+
+78
+00:04:04,333 --> 00:04:07,083
+The settlement terms will determine whether Suno can embed
+
+79
+00:04:07,083 --> 00:04:10,233
+full catalog tracks or stays limited to synthetic stems.
+
+80
+00:04:10,524 --> 00:04:12,623
+Universal and Sony now face a clock.
+
+81
+00:04:12,884 --> 00:04:15,643
+Either license their catalogs to Suno or watch
+
+82
+00:04:15,643 --> 00:04:19,204
+independent artists route around traditional royalty flows entirely.
+
+83
+00:04:19,444 --> 00:04:23,824
+Expect one major label to announce a licensing partnership inside 12 months.
+
+84
+00:04:24,246 --> 00:04:28,075
+Generalist AI raises $400 million for robotics agents.
+
+85
+00:04:28,305 --> 00:04:30,686
+Robots that learn from video rather than code
+
+86
+00:04:30,686 --> 00:04:33,276
+will flip the economics of last mile logistics.
+
+87
+00:04:33,605 --> 00:04:36,165
+One model handling both navigation and delicate
+
+88
+00:04:36,165 --> 00:04:38,765
+manipulation cuts integration costs by 50%.
+
+89
+00:04:39,126 --> 00:04:43,585
+This forces Fi to either match the data scale or retreat to research contracts.
+
+90
+00:04:43,786 --> 00:04:47,765
+Expect pilot programs in two major retailers by Q2 next year,
+
+91
+00:04:47,925 --> 00:04:51,925
+with full rollout decisions riding on whether error rates drop below 2%.
+
+92
+00:04:52,290 --> 00:04:55,329
+The valuation premium assumes that flywheel spins
+
+93
+00:04:55,329 --> 00:04:57,989
+without regulatory friction on job displacement.
+
+94
+00:04:58,309 --> 00:05:01,869
+Flourish lands 500 a million for brain inspired AI.
+
+95
+00:05:02,170 --> 00:05:05,170
+Models built on cortical columns promise lower energy
+
+96
+00:05:05,170 --> 00:05:07,640
+per token than attention layers ever delivered.
+
+97
+00:05:07,929 --> 00:05:10,410
+The catch surfaces when mapping those columns onto
+
+98
+00:05:10,410 --> 00:05:13,209
+GPUs that were never designed for sparse spiking.
+
+99
+00:05:13,640 --> 00:05:17,109
+This pushes OpenAI to either license the architecture or double
+
+100
+00:05:17,109 --> 00:05:20,100
+down on custom silicon within the next product cycle.
+
+101
+00:05:20,429 --> 00:05:24,190
+Early benchmarks suggest a 3x reduction in training flops,
+
+102
+00:05:24,309 --> 00:05:27,890
+but only if the biological priors survive contact with noise.
+
+103
+00:05:28,109 --> 00:05:32,109
+Retail investors chasing the Bezos name are missing the hardware dependency.
+
+104
+00:05:32,779 --> 00:05:35,739
+What OU4's retail investors chasing the Bezos
+
+105
+00:05:35,739 --> 00:05:37,839
+name are missing the hardware dependency.
+
+106
+00:05:38,279 --> 00:05:42,040
+Super Micro announces $7 billion equity raise for AI.
+
+107
+00:05:42,339 --> 00:05:44,589
+AI server margins have already peaked,
+
+108
+00:05:44,769 --> 00:05:47,059
+and this volume only hastens the slide.
+
+109
+00:05:47,329 --> 00:05:48,500
+Supply gluts from the cap.
+
+110
+00:05:48,845 --> 00:05:52,625
+will compress margins for every GPU reseller starting Q3.
+
+111
+00:05:52,845 --> 00:05:54,994
+Enterprise buyers gain leverage on custom
+
+112
+00:05:54,994 --> 00:05:57,915
+configurations because inventory finally exists.
+
+113
+00:05:58,204 --> 00:06:01,394
+This forces Dell to accelerate its own financing options
+
+114
+00:06:01,394 --> 00:06:04,565
+or watch mid-market deals migrate to direct Asian sourcing.
+
+115
+00:06:04,869 --> 00:06:07,489
+The 20% drop prices in the dilution risk,
+
+116
+00:06:07,549 --> 00:06:10,339
+but ignores how faster server availability changes
+
+117
+00:06:10,339 --> 00:06:13,260
+deployment timelines for the largest cloud operators.
+
+118
+00:06:13,589 --> 00:06:17,429
+NSPM11 directs AI acceleration for national security.
+
+119
+00:06:17,790 --> 00:06:20,339
+Security clearances create the actual moat here,
+
+120
+00:06:20,549 --> 00:06:21,850
+not the technology itself.
+
+121
+00:06:22,309 --> 00:06:25,549
+Clearance bottlenecks will determine winners long before any model.
+
+122
+00:06:25,695 --> 00:06:26,494
+Performance does.
+
+123
+00:06:26,815 --> 00:06:29,494
+This forces Google to spin up a classified division
+
+124
+00:06:29,494 --> 00:06:32,924
+or lose DOD workloads to Palantir within 18 months.
+
+125
+00:06:33,214 --> 00:06:35,855
+Smaller research groups without facility approvals get
+
+126
+00:06:35,855 --> 00:06:38,154
+locked out of the largest budgets entirely.
+
+127
+00:06:38,415 --> 00:06:42,535
+The memo's real effect surfaces in how quickly existing vendors must add air
+
+128
+00:06:42,535 --> 00:06:46,445
+gapped inference options to stay eligible for the next round of task orders.
