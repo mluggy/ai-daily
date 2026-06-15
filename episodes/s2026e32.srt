@@ -1,0 +1,487 @@
+1
+00:00:04,480 --> 00:00:08,220
+SpaceX SPCX debuts as largest IPO ever.
+
+2
+00:00:08,670 --> 00:00:13,039
+The 25% debut jump masks how XAI just secured preferential
+
+3
+00:00:13,039 --> 00:00:16,260
+access to orbital bandwidth that no other lab can match.
+
+4
+00:00:16,520 --> 00:00:18,479
+That edge compounds every time a model
+
+5
+00:00:18,479 --> 00:00:20,750
+needs real-time satellite feeds for training.
+
+6
+00:00:21,069 --> 00:00:23,159
+Traditional cloud providers lose their last
+
+7
+00:00:23,159 --> 00:00:25,719
+remaining latency argument in regulated industries.
+
+8
+00:00:26,040 --> 00:00:29,120
+Watch for Microsoft to counter with its own spectrum acquisition
+
+9
+00:00:29,120 --> 00:00:31,959
+by early next year or accept a permanent inference.
+
+10
+00:00:32,101 --> 00:00:34,372
+Cost disadvantage on government workloads.
+
+11
+00:00:34,582 --> 00:00:38,841
+The bundling changes how every enterprise evaluates total cost of ownership.
+
+12
+00:00:39,262 --> 00:00:43,161
+Bezos Prometheus raises $12 billion at $41 billion value.
+
+13
+00:00:43,341 --> 00:00:45,541
+The headline valuation distracts from the data
+
+14
+00:00:45,541 --> 00:00:47,402
+rights that travel with every contract.
+
+15
+00:00:47,701 --> 00:00:50,062
+Prometheus gains a moat by training directly on
+
+16
+00:00:50,062 --> 00:00:53,582
+proprietary industrial designs that competitors cannot access.
+
+17
+00:00:53,942 --> 00:00:58,041
+Autodesk and ASIS now face a choice between licensing their own user data
+
+18
+00:00:58,181 --> 00:00:59,902
+or watching design workflows migrate.
+
+19
+00:01:00,113 --> 00:01:02,214
+To a system that gets smarter with scale.
+
+20
+00:01:02,403 --> 00:01:06,164
+The smaller simulation vendors lose their differentiation overnight once
+
+21
+00:01:06,164 --> 00:01:10,003
+the models internalize domain-specific physics from real deployments.
+
+22
+00:01:10,204 --> 00:01:12,944
+Expect announcements from both within 9 months.
+
+23
+00:01:13,403 --> 00:01:17,363
+KKR Nvidia launched 10 billion plus Helix AI infra.
+
+24
+00:01:17,804 --> 00:01:21,433
+Power contracts attached to the fund matter more than the headline dollars.
+
+25
+00:01:21,763 --> 00:01:25,744
+Helix secures long-term capacity at rates that smaller operators cannot touch,
+
+26
+00:01:26,484 --> 00:01:27,723
+which raises the floor on.
+
+27
+00:01:27,825 --> 00:01:29,825
+Inference pricing across the industry.
+
+28
+00:01:30,136 --> 00:01:32,865
+Hyperscalers without similar deals will either pay
+
+29
+00:01:32,865 --> 00:01:35,155
+premiums or delay new region builds.
+
+30
+00:01:35,305 --> 00:01:37,526
+Watch Amazon and Google accelerate their own
+
+31
+00:01:37,526 --> 00:01:40,295
+utility partnerships before the next earnings cycle.
+
+32
+00:01:40,585 --> 00:01:43,466
+Regional utilities now have a template for negotiating
+
+33
+00:01:43,466 --> 00:01:46,655
+directly with AI consortia instead of traditional buyers.
+
+34
+00:01:47,066 --> 00:01:49,945
+Google sues Chinese Group over Gemini scams.
+
+35
+00:01:50,225 --> 00:01:52,375
+Suing one operator changes little when the
+
+36
+00:01:52,375 --> 00:01:54,986
+weights themselves can still be repurposed anywhere.
+
+37
+00:01:55,265 --> 00:01:57,727
+The real Pressure lands on openweight releases
+
+38
+00:01:57,727 --> 00:01:59,678
+that Google and others have championed.
+
+39
+00:01:59,968 --> 00:02:03,277
+Regulators now have a clear example to demand watermarking or
+
+40
+00:02:03,277 --> 00:02:07,108
+usage controls on any model above a certain capability threshold.
+
+41
+00:02:07,307 --> 00:02:09,848
+Expect Mehta and Mistral to face renewed calls
+
+42
+00:02:09,848 --> 00:02:12,667
+for restrictions on their next checkpoints by Q3.
+
+43
+00:02:12,858 --> 00:02:15,287
+This precedent reaches beyond the single case.
+
+44
+00:02:15,647 --> 00:02:19,328
+Mistral and €3 billion raise talks at €20 billion VAL,
+
+45
+00:02:19,608 --> 00:02:23,447
+paying double for models US labs already ship puts European regulators.
+
+46
+00:02:23,550 --> 00:02:25,740
+In a bind over export rules,
+
+47
+00:02:25,830 --> 00:02:27,789
+they must decide whether training runs stay
+
+48
+00:02:27,789 --> 00:02:29,940
+domestic or weights can leave the continent.
+
+49
+00:02:30,229 --> 00:02:33,410
+That decision determines if the round closes at the quoted price.
+
+50
+00:02:33,710 --> 00:02:37,550
+Smaller labs across Europe will either face acquisition offers or lose
+
+51
+00:02:37,550 --> 00:02:41,110
+researchers to the new compensation benchmarks set by this valuation.
+
+52
+00:02:41,429 --> 00:02:45,130
+Talent flow accelerates the moment the term sheet details surface.
+
+53
+00:02:45,429 --> 00:02:47,970
+Engine AI files for Hong Kong IPO.
+
+54
+00:02:48,389 --> 00:02:51,070
+US export controls on robot hardware just became.
+
+55
+00:02:51,412 --> 00:02:53,091
+Relevant for the next capital raise,
+
+56
+00:02:53,371 --> 00:02:57,412
+the Hong Kong listing forces Boston Dynamics and Fior to accelerate their own
+
+57
+00:02:57,412 --> 00:03:01,382
+Asian supply chains or lose the next procurement cycle with Chinese factories.
+
+58
+00:03:01,692 --> 00:03:06,651
+Series B investors priced at 1.5B dollars will demand an IPO pop
+
+59
+00:03:06,651 --> 00:03:09,052
+the current valuation multiple cannot support
+
+60
+00:03:09,052 --> 00:03:11,682
+once public scrutiny hits actuator margins.
+
+61
+00:03:12,011 --> 00:03:15,962
+Suppliers are already renegotiating contracts ahead of filing details.
+
+62
+00:03:16,492 --> 00:03:19,171
+US forces anthropic to disable top models.
+
+63
+00:03:19,473 --> 00:03:24,654
+Revenue from API access outside the US just dropped to 0 for the two frontier models.
+
+64
+00:03:24,914 --> 00:03:27,673
+Enterprise customers in Europe and Asia now have 30
+
+65
+00:03:27,673 --> 00:03:30,544
+days to migrate workloads to whatever remains available,
+
+66
+00:03:30,783 --> 00:03:34,134
+which pushes them straight toward Google or OpenAI contracts.
+
+67
+00:03:34,313 --> 00:03:37,473
+The suspension also removes Anthropic's strongest leverage in
+
+68
+00:03:37,473 --> 00:03:40,744
+any upcoming safety certification talks with other governments.
+
+69
+00:03:41,063 --> 00:03:44,074
+Smaller resellers face churn they cannot offset with lower
+
+70
+00:03:44,074 --> 00:03:47,033
+tier access once the suspension details reach procurement teams.
+
+71
+00:03:47,776 --> 00:03:50,895
+Florida subpoenas OpenAI on chat GPT safety.
+
+72
+00:03:51,216 --> 00:03:54,095
+Discovery requests that cover every moderation decision
+
+73
+00:03:54,095 --> 00:03:56,856
+since launch just landed on OpenAI's desk.
+
+74
+00:03:57,136 --> 00:04:00,455
+Legal spend will rise faster than safety headcount as the company
+
+75
+00:04:00,455 --> 00:04:04,395
+prepares responses that satisfy criminal standards rather than civil ones.
+
+76
+00:04:04,615 --> 00:04:07,016
+Other attorneys general will copy the playbook within
+
+77
+00:04:07,016 --> 00:04:10,016
+6 months once Florida's filing becomes public record.
+
+78
+00:04:10,335 --> 00:04:12,716
+Smaller startups lose their multi-state runway
+
+79
+00:04:12,716 --> 00:04:14,856
+the moment enforcement standards tighten.
+
+80
+00:04:15,317 --> 00:04:17,437
+Watching publications of XAI Klawni
+
+81
+00:04:17,437 --> 00:04:20,596
+dissertations and Quadramillion publications intended.
+
+82
+00:04:20,877 --> 00:04:23,257
+OpenAI launches free Codex tier.
+
+83
+00:04:23,477 --> 00:04:27,388
+Usage limits still route heavy developers back to subscriptions within weeks.
+
+84
+00:04:27,627 --> 00:04:29,358
+The bigger move is the flood of new
+
+85
+00:04:29,358 --> 00:04:32,618
+training examples OpenAI collects from every free prompt.
+
+86
+00:04:32,847 --> 00:04:35,437
+Open source projects lose their edge once codex
+
+87
+00:04:35,437 --> 00:04:38,988
+outputs start replacing handwritten contributions in public repos.
+
+88
+00:04:39,317 --> 00:04:42,757
+Smaller model teams now train on lower quality synthetic data.
+
+89
+00:04:42,989 --> 00:04:46,309
+The data advantage compounds faster than any pricing change.
+
+90
+00:04:46,670 --> 00:04:50,109
+GitHub will have to expand co-pilot's free tier or accept slower
+
+91
+00:04:50,109 --> 00:04:52,450
+growth in active users through the rest of the year.
+
+92
+00:04:53,510 --> 00:04:56,850
+Zipro rolls out GLM 5.2 coding model,
+
+93
+00:04:56,980 --> 00:04:59,869
+releasing weights under MIT license undercuts the
+
+94
+00:04:59,869 --> 00:05:02,500
+closed API pricing of every Western lab.
+
+95
+00:05:02,869 --> 00:05:06,609
+Teams can now fine tune locally and avoid usage fees entirely.
+
+96
+00:05:06,809 --> 00:05:10,829
+Expect OpenAI to accelerate its own open model timeline or lose.
+
+97
+00:05:10,929 --> 00:05:13,609
+Research community contributing public benchmarks.
+
+98
+00:05:14,089 --> 00:05:17,850
+Chinese labs gain a distribution edge that closed models cannot match.
+
+99
+00:05:18,200 --> 00:05:20,329
+Smaller startups outside China get their
+
+100
+00:05:20,329 --> 00:05:23,170
+first real alternative to rate-limited APIs.
+
+101
+00:05:23,529 --> 00:05:28,489
+The 1M context turns into table stakes once local hardware runs the model next year.
+
+102
+00:05:29,309 --> 00:05:32,059
+G7 preps for AI sovereignty clash.
+
+103
+00:05:32,820 --> 00:05:35,630
+European VCs will delay term sheets for AI startups
+
+104
+00:05:35,630 --> 00:05:37,899
+until the policy dust settles after the summit.
+
+105
+00:05:38,190 --> 00:05:41,820
+Compliance costs alone could add 6 months to any go to market plan.
+
+106
+00:05:42,070 --> 00:05:45,070
+Watch margins on inference contracts tighten once
+
+107
+00:05:45,070 --> 00:05:47,769
+reporting requirements apply to every API call.
+
+108
+00:05:48,190 --> 00:05:51,390
+US labs gain extra quarters to sign enterprise deals
+
+109
+00:05:51,390 --> 00:05:54,470
+before any regulated local models reach production at scale.
+
+110
+00:05:54,739 --> 00:05:57,420
+The delay favors labs already inside the room.
+
+111
+00:05:57,739 --> 00:06:00,980
+Startups without dedicated policy teams lose ground first
+
+112
+00:06:00,980 --> 00:06:03,140
+and may never recover the lost momentum.
+
+113
+00:06:04,149 --> 00:06:06,910
+Terradyne showcases deployable physical AI.
+
+114
+00:06:07,269 --> 00:06:10,910
+Traditional integrators lose their installation margins once end users
+
+115
+00:06:10,910 --> 00:06:13,829
+buy the robots direct and handle their own orchestration.
+
+116
+00:06:14,190 --> 00:06:18,250
+Boston Dynamics must now ship its own pallet solution within the same window
+
+117
+00:06:18,429 --> 00:06:20,709
+or watch logistics fleets standardize on.
+
+118
+00:06:20,899 --> 00:06:21,859
+Paradigm stack
+
+119
+00:06:22,000 --> 00:06:26,589
+pilot programs that once ran for years now compress into single quarter rollouts.
+
+120
+00:06:26,839 --> 00:06:30,040
+The first factories to adopt will report automation ROI
+
+121
+00:06:30,040 --> 00:06:33,220
+numbers that reset budget expectations across the sector.
+
+122
+00:06:33,480 --> 00:06:37,679
+Expect contract wins to shift away from service-heavy vendors by Q4.

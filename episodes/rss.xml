@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 09:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:39:16 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -563,6 +563,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e31.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>SpaceX Record IPO, Bezos $12B AI Bet &amp; Model Crackdowns</title>
+      <description>SpaceX debuts as largest IPO ever with xAI bundled in; Prometheus raises $12B at $41B for physical systems AI; KKR-NVIDIA launch $10B infrastructure platform; Google sues over Gemini-powered scams; Mistral funding talks; EngineAI HK IPO filing; Anthropic disables top models on US order; Florida probes OpenAI; OpenAI free Codex tier; Zhipu GLM 5.2 rollout; G7 AI sovereignty talks; Teradyne physical AI deployments.</description>
+      <link>{{SITE_URL}}/32</link>
+      <guid isPermaLink="false">s2026e32</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e32.mp3" length="9663661" type="audio/mpeg" />
+      <itunes:summary>SpaceX debuts as largest IPO ever with xAI bundled in; Prometheus raises $12B at $41B for physical systems AI; KKR-NVIDIA launch $10B infrastructure platform; Google sues over Gemini-powered scams; Mistral funding talks; EngineAI HK IPO filing; Anthropic disables top models on US order; Florida probes OpenAI; OpenAI free Codex tier; Zhipu GLM 5.2 rollout; G7 AI sovereignty talks; Teradyne physical AI deployments.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:42</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e32.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e32.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
