@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 10:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:13:44 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -580,6 +580,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e32.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>US AI Export Ban Hits Anthropic &amp; Agent M&amp;A Surge</title>
+      <description>US orders Anthropic to block foreign access to top models over security concerns; Salesforce acquires Fin AI agent platform for $3.6B; NewCore raises $66M for AI agent identity management; Anthropic policy proposals and Fable 5 prompt leak also covered.</description>
+      <link>{{SITE_URL}}/33</link>
+      <guid isPermaLink="false">s2026e33</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e33.mp3" length="9619104" type="audio/mpeg" />
+      <itunes:summary>US orders Anthropic to block foreign access to top models over security concerns; Salesforce acquires Fin AI agent platform for $3.6B; NewCore raises $66M for AI agent identity management; Anthropic policy proposals and Fable 5 prompt leak also covered.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:40</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e33.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e33.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

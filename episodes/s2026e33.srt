@@ -1,0 +1,479 @@
+1
+00:00:04,909 --> 00:00:08,539
+US orders Anthropic to block foreign access to top models.
+
+2
+00:00:08,869 --> 00:00:11,609
+Compliance teams at every frontier lab are already
+
+3
+00:00:11,609 --> 00:00:14,250
+modeling the knock-on effects of restricted access.
+
+4
+00:00:14,550 --> 00:00:18,829
+OpenAI must decide whether to mirror the blocks or absorb the lost international
+
+5
+00:00:18,829 --> 00:00:22,629
+traffic that currently accounts for nearly a third of its API volume.
+
+6
+00:00:23,340 --> 00:00:26,600
+European research groups will start spinning up US based proxies,
+
+7
+00:00:26,819 --> 00:00:29,559
+pushing average query costs up 15%
+
+8
+00:00:29,700 --> 00:00:32,168
+while introducing new data residency headaches.
+
+9
+00:00:32,459 --> 00:00:36,580
+The split in model access hardens faster than any export rule intended.
+
+10
+00:00:37,279 --> 00:00:41,919
+Salesforce acquires FinAI agent platform for $3.6 billion.
+
+11
+00:00:42,240 --> 00:00:45,279
+ServiceNow faces an immediate choice on whether to release its
+
+12
+00:00:45,279 --> 00:00:49,349
+own resolution benchmarks or concede ground in upcoming RFPs.
+
+13
+00:00:49,639 --> 00:00:53,959
+The 76% figure sets a new baseline that forces every help desk vendor.
+
+14
+00:00:54,014 --> 00:00:57,884
+To reprice human escalation paths within existing contracts,
+
+15
+00:00:58,115 --> 00:01:02,474
+mid-market buyers will demand similar autonomy clauses in the next two quarters,
+
+16
+00:01:02,645 --> 00:01:05,535
+compressing implementation cycles across the category.
+
+17
+00:01:05,894 --> 00:01:08,535
+Legacy vendors without native agents start shopping
+
+18
+00:01:08,535 --> 00:01:10,915
+for acquisitions before their next earnings call.
+
+19
+00:01:11,739 --> 00:01:16,290
+New Corp raises $66 million for AI agent employee identities.
+
+20
+00:01:16,610 --> 00:01:21,050
+Enterprise security reviews now treat AI agents as new hire equivalents,
+
+21
+00:01:21,339 --> 00:01:24,330
+complete with access revocation timelines and audit trails.
+
+22
+00:01:24,610 --> 00:01:26,220
+This raises the bar for any team
+
+23
+00:01:26,220 --> 00:01:29,959
+shipping autonomous workflows without pre-approved identity controls.
+
+24
+00:01:30,260 --> 00:01:33,680
+Vendors lacking similar tooling will see deployment cycles extend
+
+25
+00:01:33,680 --> 00:01:37,809
+by months as procurement adds dedicated agent governance checkpoints.
+
+26
+00:01:38,099 --> 00:01:41,809
+The $300 million valuation already prices in mandatory
+
+27
+00:01:41,809 --> 00:01:45,139
+adoption across regulated industries within 18 months,
+
+28
+00:01:45,300 --> 00:01:48,540
+shifting budgets from model training to compliance infrastructure.
+
+29
+00:01:48,940 --> 00:01:52,330
+Anthropic proposes advanced AI governance frameworks.
+
+30
+00:01:52,500 --> 00:01:56,900
+OpenAI will have to match the transparency and evaluation standards or
+
+31
+00:01:56,900 --> 00:02:00,459
+explain to policymakers why its own models skip comparable scrutiny.
+
+32
+00:02:00,819 --> 00:02:03,139
+Worker support provisions in the framework create
+
+33
+00:02:03,139 --> 00:02:05,169
+new cost baselines that smaller labs.
+
+34
+00:02:05,305 --> 00:02:07,735
+Cannot absorb without raising API rates.
+
+35
+00:02:08,024 --> 00:02:11,925
+The documents also quietly favor labs with existing safety teams,
+
+36
+00:02:12,024 --> 00:02:13,904
+giving Anthropic an edge in any
+
+37
+00:02:13,904 --> 00:02:16,524
+government procurement that adopts these criteria.
+
+38
+00:02:16,744 --> 00:02:19,785
+Expect similar releases from competitors inside 90
+
+39
+00:02:19,785 --> 00:02:21,554
+days to stay in the conversation.
+
+40
+00:02:22,065 --> 00:02:25,505
+Fable 5 120K system prompt leaked on GitHub.
+
+41
+00:02:25,899 --> 00:02:29,000
+Those safety classifiers were designed to evolve in secret.
+
+42
+00:02:29,220 --> 00:02:31,539
+Yet the complete specification now sits in a
+
+43
+00:02:31,539 --> 00:02:34,100
+public repo for anyone to benchmark against.
+
+44
+00:02:34,460 --> 00:02:36,770
+Fine tuning teams will score their models on the
+
+45
+00:02:36,770 --> 00:02:39,970
+exact refusal triggers instead of guessing at categories.
+
+46
+00:02:40,279 --> 00:02:42,960
+Smaller labs copy the structure directly now.
+
+47
+00:02:43,179 --> 00:02:45,899
+Expect open source projects to match Fable 5
+
+48
+00:02:45,899 --> 00:02:48,619
+consistency on edge cases within 9 months,
+
+49
+00:02:48,860 --> 00:02:51,020
+undercutting any edge from keeping the rules
+
+50
+00:02:51,020 --> 00:02:54,139
+internal and accelerating their next rewrite cycle.
+
+51
+00:02:54,750 --> 00:02:58,190
+Multi-agent pack hunt jailbreak bypasses Fable 5.
+
+52
+00:02:58,550 --> 00:03:01,830
+Coordinated agent swarms expose the limits of single prompt
+
+53
+00:03:01,830 --> 00:03:05,020
+classifiers faster than any solo attack ever could.
+
+54
+00:03:05,350 --> 00:03:07,509
+Defenses built for single sessions break
+
+55
+00:03:07,509 --> 00:03:09,970
+when multiple models trade partial answers.
+
+56
+00:03:10,190 --> 00:03:12,110
+The practical response is heavier per
+
+57
+00:03:12,110 --> 00:03:15,050
+session logging and cross-agent correlation checks
+
+58
+00:03:15,149 --> 00:03:18,830
+that anthropic must now run at scale on every automated workflow.
+
+59
+00:03:19,220 --> 00:03:21,720
+Those checks raise inference cost per query,
+
+60
+00:03:21,940 --> 00:03:24,580
+so expect the programmatic credit price to climb within
+
+61
+00:03:24,580 --> 00:03:27,460
+two quarters just to cover the added safety overhead.
+
+62
+00:03:28,100 --> 00:03:31,320
+Cloud billing shifts to programmatic credits June 15th.
+
+63
+00:03:31,610 --> 00:03:34,449
+Separate credit pools let anthropic charge agent runs
+
+64
+00:03:34,449 --> 00:03:38,059
+at full API rates without touching consumer subscriptions.
+
+65
+00:03:38,289 --> 00:03:40,919
+The move isolates high volume automated traffic,
+
+66
+00:03:41,089 --> 00:03:44,559
+so it cannot keep pulling down per token margins on the chat side.
+
+67
+00:03:44,850 --> 00:03:48,880
+Smaller teams running continuous agents now see costs rise separately.
+
+68
+00:03:49,169 --> 00:03:49,899
+Competitors face
+
+69
+00:03:50,026 --> 00:03:51,716
+The same choice inside a year.
+
+70
+00:03:51,945 --> 00:03:53,826
+Keep unified billing and watch agent
+
+71
+00:03:53,826 --> 00:03:56,126
+workloads erode their highest margin product,
+
+72
+00:03:56,425 --> 00:03:59,526
+or copy the split and explain two ledgers to users.
+
+73
+00:04:00,026 --> 00:04:03,406
+Cyber experts urge reversal of anthropic restrictions.
+
+74
+00:04:03,626 --> 00:04:05,945
+Reversing the curbs would let foreign researchers
+
+75
+00:04:05,945 --> 00:04:08,526
+contribute to US aligned safety benchmarks again.
+
+76
+00:04:08,985 --> 00:04:11,955
+The administration's decision now determines whether Allied
+
+77
+00:04:12,042 --> 00:04:14,901
+Labs stay inside the current evaluation ecosystem.
+
+78
+00:04:15,242 --> 00:04:17,221
+Keeping them in place past next spring,
+
+79
+00:04:17,562 --> 00:04:20,182
+instead hands competing labs in Europe and Asia
+
+80
+00:04:20,321 --> 00:04:23,002
+an uncontested period to build and validate
+
+81
+00:04:23,002 --> 00:04:25,782
+sovereign alternatives without any US input.
+
+82
+00:04:26,041 --> 00:04:28,782
+Those alternatives then set their own access rules,
+
+83
+00:04:28,872 --> 00:04:31,201
+reducing US influence over the models that
+
+84
+00:04:31,201 --> 00:04:34,191
+end up deployed in critical infrastructure worldwide.
+
+85
+00:04:34,601 --> 00:04:37,742
+Anthropic meets White House on model security concerns.
+
+86
+00:04:37,962 --> 00:04:40,641
+Export controls are no longer the main constraint.
+
+87
+00:04:40,920 --> 00:04:43,399
+The talks center on whether Anthropic must now
+
+88
+00:04:43,399 --> 00:04:46,739
+host separate model instances for each sanctioned region,
+
+89
+00:04:46,940 --> 00:04:50,559
+a step that would double its infrastructure costs within 18 months.
+
+90
+00:04:50,859 --> 00:04:53,559
+Smaller developers migrate first because they lack the
+
+91
+00:04:53,559 --> 00:04:56,140
+legal teams to navigate per country rules.
+
+92
+00:04:56,399 --> 00:05:00,160
+That shift hands share to providers accepting fragmented deployments.
+
+93
+00:05:00,480 --> 00:05:04,279
+Anthropic's single stack model cannot survive the new compliance layer.
+
+94
+00:05:04,820 --> 00:05:08,940
+MetaCTO calls AI reorg atrocious amid unrest.
+
+95
+00:05:09,179 --> 00:05:12,519
+Andrew Bosworth's frank assessment masks a deeper problem.
+
+96
+00:05:12,700 --> 00:05:16,339
+The 6500 person unit has already lost its two
+
+97
+00:05:16,339 --> 00:05:19,839
+lead architects to startups building competing agent frameworks.
+
+98
+00:05:20,019 --> 00:05:22,380
+Retention offers failed because the reorg
+
+99
+00:05:22,380 --> 00:05:24,959
+removed direct ownership over model decisions.
+
+100
+00:05:25,179 --> 00:05:28,079
+Expect Google and OpenAI to accelerate their own
+
+101
+00:05:28,079 --> 00:05:31,179
+internal agent teams while Mehta rebuilds basic trust.
+
+102
+00:05:31,410 --> 00:05:35,230
+The coding focus now looks like a distraction from the real capability gap.
+
+103
+00:05:36,040 --> 00:05:39,829
+KPMG pulls agentic AI report over hallucinations.
+
+104
+00:05:40,119 --> 00:05:42,959
+Client pushback on fabricated case studies has already
+
+105
+00:05:42,959 --> 00:05:46,019
+triggered internal audits at every major consultancy.
+
+106
+00:05:46,359 --> 00:05:50,760
+KPMG's move signals that future agentic AI publications will require
+
+107
+00:05:50,760 --> 00:05:54,470
+third party verification of every usage statistic before release.
+
+108
+00:05:54,799 --> 00:05:58,790
+That requirement alone will delay industry benchmarks by at least 2 quarters
+
+109
+00:05:58,959 --> 00:06:02,160
+and give smaller research outfits an opening to publish first.
+
+110
+00:06:02,459 --> 00:06:05,230
+The credibility hit extends beyond one document.
+
+111
+00:06:05,549 --> 00:06:08,559
+AI agents surpass humans in web traffic share.
+
+112
+00:06:08,899 --> 00:06:11,549
+Cloudflare's traffic split means recommendation
+
+113
+00:06:11,549 --> 00:06:13,230
+engines must now price impressions
+
+114
+00:06:13,230 --> 00:06:16,459
+based on agent negotiation patterns instead of dwell time.
+
+115
+00:06:16,750 --> 00:06:20,510
+Retailers lose the ability to AB test human responses when
+
+116
+00:06:20,510 --> 00:06:24,059
+over half their visitors arrive without cookies or intent signals.
+
+117
+00:06:24,429 --> 00:06:27,109
+Watch Amazon's margin on sponsored products once
+
+118
+00:06:27,109 --> 00:06:30,040
+agents start routing around paid placements entirely.
+
+119
+00:06:30,369 --> 00:06:32,989
+The shift already forces ad networks to expose
+
+120
+00:06:32,989 --> 00:06:35,809
+bidding APIs that agents can call directly.
