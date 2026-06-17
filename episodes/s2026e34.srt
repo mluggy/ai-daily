@@ -1,0 +1,327 @@
+1
+00:00:04,500 --> 00:00:08,630
+SpaceX acquires Cursor for $60 in stock deal.
+
+2
+00:00:08,949 --> 00:00:12,039
+Cursor's team inherits a culture where software ships
+
+3
+00:00:12,039 --> 00:00:14,380
+only when the hardware is ready to fly.
+
+4
+00:00:14,670 --> 00:00:18,030
+That forces a level of integration between model training and
+
+5
+00:00:18,030 --> 00:00:22,010
+physical systems that no standalone coding tool has attempted.
+
+6
+00:00:22,190 --> 00:00:24,510
+Other AI coding platforms will have to
+
+7
+00:00:24,510 --> 00:00:27,149
+decide whether to chase similar vertical lock-ins
+
+8
+00:00:27,270 --> 00:00:30,270
+or compete on features alone while SpaceX pulls
+
+9
+00:00:30,270 --> 00:00:33,430
+ahead on reliability metrics that enterprises actually.
+
+10
+00:00:33,494 --> 00:00:34,055
+Audit.
+
+11
+00:00:34,294 --> 00:00:38,215
+Anthropic's compliance move leaves thousands of fine-tuned deployments
+
+12
+00:00:38,215 --> 00:00:41,014
+in limbo with no migration path announced.
+
+13
+00:00:41,494 --> 00:00:44,645
+US-based teams can still access older checkpoints,
+
+14
+00:00:44,694 --> 00:00:48,555
+but the capability gap to the disabled models creates immediate pressure
+
+15
+00:00:48,555 --> 00:00:53,194
+on OpenAI and Google to accelerate their own export-friendly releases.
+
+16
+00:00:53,455 --> 00:00:57,694
+Everyone else outside approved jurisdictions just received an unplanned
+
+17
+00:00:57,694 --> 00:01:00,884
+research holiday that could last until policy clarifies.
+
+18
+00:01:01,215 --> 00:01:02,575
+Data bricks longer need to.
+
+19
+00:01:02,869 --> 00:01:06,010
+Together their own guardrails on top of raw clusters.
+
+20
+00:01:06,239 --> 00:01:10,620
+That removes the main excuse smaller systems integrators use to win deals.
+
+21
+00:01:10,839 --> 00:01:14,800
+Expect Dell and Lenovo to announce matching governance layers inside
+
+22
+00:01:14,800 --> 00:01:18,440
+their AI server bundles before the next earnings cycle closes.
+
+23
+00:01:18,599 --> 00:01:21,940
+Adian launches Adian Agenic APIs for commerce.
+
+24
+00:01:22,160 --> 00:01:26,199
+Agents plug directly into existing merchant systems via distinct feed,
+
+25
+00:01:26,400 --> 00:01:26,629
+cart,
+
+26
+00:01:26,639 --> 00:01:27,830
+and payment modules.
+
+27
+00:01:28,160 --> 00:01:31,839
+This modular split allows agents to switch payment providers dynamically.
+
+28
+00:01:32,175 --> 00:01:34,974
+During a single session based on cost or speed,
+
+29
+00:01:35,334 --> 00:01:38,584
+Legacy processors lose visibility and will see margin
+
+30
+00:01:38,584 --> 00:01:41,495
+erosion as routing moves outside their control.
+
+31
+00:01:41,745 --> 00:01:44,985
+The impact registers once enterprise merchants activate the
+
+32
+00:01:44,985 --> 00:01:48,105
+stas and need to ship matching agent tools
+
+33
+00:01:48,105 --> 00:01:50,675
+inside the next two quarters or watch active
+
+34
+00:01:50,675 --> 00:01:54,654
+fixed income traders migrate toward faster execution environments.
+
+35
+00:01:54,985 --> 00:01:57,904
+Google pushes open rails for agentic commerce.
+
+36
+00:01:58,144 --> 00:02:01,065
+Whoever ships the dominant reference client steers agents.
+
+37
+00:02:01,330 --> 00:02:03,720
+Traffic toward merchants using its endpoints.
+
+38
+00:02:04,010 --> 00:02:07,110
+Other platforms therefore need to match the protocol fast
+
+39
+00:02:07,250 --> 00:02:11,229
+or build their own before developers settle on one integration target.
+
+40
+00:02:11,449 --> 00:02:15,990
+Amazon must choose adoption or a competing spec inside the current planning cycle
+
+41
+00:02:16,100 --> 00:02:19,779
+or prepare for reduced visibility in agent-driven sessions.
+
+42
+00:02:20,210 --> 00:02:21,130
+Visa steady,
+
+43
+00:02:21,289 --> 00:02:22,449
+AI shopping up,
+
+44
+00:02:22,649 --> 00:02:23,869
+check out trust low.
+
+45
+00:02:24,130 --> 00:02:27,149
+Research queries handled by agents continue climbing,
+
+46
+00:02:27,279 --> 00:02:30,289
+while autonomous purchase trust sits at 38%.
+
+47
+00:02:30,684 --> 00:02:33,475
+Issuers respond with dedicated verification
+
+48
+00:02:33,475 --> 00:02:35,854
+requirements for agent initiated payments.
+
+49
+00:02:36,074 --> 00:02:38,214
+The extra checks limit time savings
+
+50
+00:02:38,354 --> 00:02:42,274
+and therefore slow mainstream adoption until networks settle liability
+
+51
+00:02:42,274 --> 00:02:45,104
+terms with the agent platforms handling the orders.
+
+52
+00:02:45,434 --> 00:02:49,414
+Ping Identity extends AI agent identity across clouds.
+
+53
+00:02:49,634 --> 00:02:53,074
+Agents that hop between AWS and Google Cloud now
+
+54
+00:02:53,074 --> 00:02:56,115
+carry live permission tokens instead of static keys.
+
+55
+00:02:56,395 --> 00:02:59,514
+The move quietly raises the bar for every identity vendor.
+
+56
+00:02:59,699 --> 00:03:01,690
+Still shipping session-based controls.
+
+57
+00:03:01,979 --> 00:03:05,080
+Octa will have to decide whether to match the continuous model
+
+58
+00:03:05,380 --> 00:03:09,929
+or watch enterprise RFPs start specifying runtime checks by default.
+
+59
+00:03:10,210 --> 00:03:14,199
+Smaller platforms without equivalent reach face an even sharper choice
+
+60
+00:03:14,419 --> 00:03:17,839
+build fast or get written out of agent workflows entirely.
+
+61
+00:03:18,119 --> 00:03:21,399
+Ignite adds AI agents to iOS mobile app.
+
+62
+00:03:21,699 --> 00:03:24,020
+Field teams can now pull summaries from locked
+
+63
+00:03:24,020 --> 00:03:26,880
+repositories while standing in a client's office.
+
+64
+00:03:27,100 --> 00:03:28,660
+That convenience creates fresh.
+
+65
+00:03:29,024 --> 00:03:31,494
+Headaches for compliance teams who must now
+
+66
+00:03:31,494 --> 00:03:34,595
+track agent queries originating from personal devices.
+
+67
+00:03:34,845 --> 00:03:37,044
+The update forces mobile device management
+
+68
+00:03:37,044 --> 00:03:40,125
+vendors to add agent-specific logging hooks within
+
+69
+00:03:40,125 --> 00:03:44,764
+the next two quarters or lose visibility into a fast growing query surface.
+
+70
+00:03:44,925 --> 00:03:48,044
+White House urges real estate agents to adopt AI.
+
+71
+00:03:48,304 --> 00:03:51,164
+Brokerages clinging to manual comps now face
+
+72
+00:03:51,164 --> 00:03:53,595
+direct pressure from the administration's stance.
+
+73
+00:03:53,875 --> 00:03:57,964
+Smaller firms without AI tooling will either partner with platforms that offer.
+
+74
+00:03:58,070 --> 00:04:03,190
+Instant valuations or watch top producers defect to tech forward competitors.
+
+75
+00:04:03,410 --> 00:04:07,949
+Expect Zillow and Redfin to accelerate white label agent tools in response,
+
+76
+00:04:08,119 --> 00:04:11,110
+locking in the mid-market before traditional associations
+
+77
+00:04:11,110 --> 00:04:12,979
+can organize a account when global.
+
+78
+00:04:13,309 --> 00:04:14,029
+Without them,
+
+79
+00:04:14,270 --> 00:04:18,070
+companies deploying customer facing agents risk inconsistent state
+
+80
+00:04:18,070 --> 00:04:21,608
+rules that fragment product rollouts across the US
+
+81
+00:04:21,829 --> 00:04:24,149
+Early movers in the standards world will set
+
+82
+00:04:24,149 --> 00:04:27,149
+de facto requirements before legislation catches up.
