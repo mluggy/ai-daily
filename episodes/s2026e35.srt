@@ -1,0 +1,503 @@
+1
+00:00:04,829 --> 00:00:08,420
+G7 pushes Trusted Partners AI Access scheme.
+
+2
+00:00:08,670 --> 00:00:12,949
+Macron's network idea hands European regulators a lever to demand
+
+3
+00:00:12,949 --> 00:00:17,389
+local data residency from any model provider seeking trusted status.
+
+4
+00:00:17,709 --> 00:00:22,389
+That requirement lands hardest on US Frontier Labs already navigating export.
+
+5
+00:00:22,485 --> 00:00:23,264
+Controls.
+
+6
+00:00:23,504 --> 00:00:25,725
+Expect Anthropic to face a choice
+
+7
+00:00:25,725 --> 00:00:28,864
+between building segregated inference clusters for allies
+
+8
+00:00:29,024 --> 00:00:33,275
+or watching its European revenue share erode by mid-2025.
+
+9
+00:00:33,525 --> 00:00:36,064
+The real pressure falls on smaller developers
+
+10
+00:00:36,165 --> 00:00:40,165
+who lack the capital to duplicate infrastructure across jurisdictions.
+
+11
+00:00:40,950 --> 00:00:43,909
+US Commerce warns anthropic on foreign access.
+
+12
+00:00:44,259 --> 00:00:47,909
+Penalties language signals that even approved foreign researchers
+
+13
+00:00:47,909 --> 00:00:50,770
+will now route requests through monitored proxies.
+
+14
+00:00:50,990 --> 00:00:54,229
+Anthropic must embed nationality checks into its
+
+15
+00:00:54,229 --> 00:00:56,709
+access protocols or face enforcement actions.
+
+16
+00:00:56,865 --> 00:00:59,375
+Could halt model updates for entire teams.
+
+17
+00:00:59,654 --> 00:01:03,935
+Smaller labs relying on those shared instances will scramble to secure
+
+18
+00:01:03,935 --> 00:01:08,044
+domestic alternatives within the next quarter or risk stalled research.
+
+19
+00:01:08,305 --> 00:01:12,925
+This raises the floor for who qualifies as a trusted user across the industry.
+
+20
+00:01:13,305 --> 00:01:17,425
+DOJ backs XAI in NAACP data center suit.
+
+21
+00:01:17,790 --> 00:01:21,190
+The national security framing overrides local environmental
+
+22
+00:01:21,190 --> 00:01:24,050
+challenges that have stalled similar projects elsewhere.
+
+23
+00:01:24,260 --> 00:01:27,629
+XAI gains runway to expand its turbine fleet
+
+24
+00:01:27,629 --> 00:01:30,230
+without further delays from clean air litigation.
+
+25
+00:01:30,589 --> 00:01:34,870
+That acceleration puts direct pressure on OpenAI and Google to lock
+
+26
+00:01:34,870 --> 00:01:38,809
+in comparable power sources before their own data center timelines slip.
+
+27
+00:01:39,190 --> 00:01:41,870
+Watch power purchase agreement prices climb as
+
+28
+00:01:41,870 --> 00:01:44,860
+demand concentrates in fewer viable locations.
+
+29
+00:01:45,309 --> 00:01:48,220
+Visa OpenAI Agentic commerce partnership.
+
+30
+00:01:48,510 --> 00:01:52,290
+User set guardrails turn every agent transaction into a revo.
+
+31
+00:01:52,709 --> 00:01:55,440
+authorization rather than a blanket approval.
+
+32
+00:01:55,800 --> 00:01:59,550
+Visa's tokenization layer now sits between the model and the merchant,
+
+33
+00:01:59,839 --> 00:02:04,500
+capturing fees on volume that previously bypassed payment networks entirely.
+
+34
+00:02:04,790 --> 00:02:07,239
+This setup forces competing card issuers
+
+35
+00:02:07,239 --> 00:02:09,559
+to embed equivalent controls inside their
+
+36
+00:02:09,559 --> 00:02:14,240
+own agent SDKs within 18 months or lose share of automated spend.
+
+37
+00:02:14,589 --> 00:02:18,550
+The margin impact appears first in high frequency micropurchases.
+
+38
+00:02:18,899 --> 00:02:23,539
+AI agents eyed for 15 tendon built BB commerce by 2028.
+
+39
+00:02:23,869 --> 00:02:25,990
+0 click procurement sounds efficient
+
+40
+00:02:26,270 --> 00:02:30,460
+until agents start demanding volume discounts that human buyers never secured.
+
+41
+00:02:30,710 --> 00:02:32,229
+By early 2027,
+
+42
+00:02:32,389 --> 00:02:36,070
+mid-market ERP vendors lose direct access as agents.
+
+43
+00:02:36,139 --> 00:02:39,210
+Default to the lowest bidder across open marketplaces.
+
+44
+00:02:39,539 --> 00:02:41,389
+Contract terms shift fast.
+
+45
+00:02:41,580 --> 00:02:44,490
+Payment windows compress from 60 days to 15,
+
+46
+00:02:44,740 --> 00:02:47,419
+while agents optimize cash flow automatically.
+
+47
+00:02:47,740 --> 00:02:50,970
+Procurement teams lose leverage they didn't realize existed.
+
+48
+00:02:51,259 --> 00:02:54,460
+This forces legacy platforms like SAP to embed
+
+49
+00:02:54,460 --> 00:02:57,679
+agent hooks or watch transaction volumes evaporate.
+
+50
+00:02:58,149 --> 00:03:02,910
+OpenAI 2025 losses hit $38.5 billion.
+
+51
+00:03:03,190 --> 00:03:06,070
+Those losses accelerate the moment inference demand
+
+52
+00:03:06,070 --> 00:03:08,449
+outpaces any single data center build.
+
+53
+00:03:08,669 --> 00:03:13,169
+Expect enterprise contracts to include compute surcharges by Q2 next year,
+
+54
+00:03:13,509 --> 00:03:16,669
+once the burn forces pass through pricing on every token.
+
+55
+00:03:17,059 --> 00:03:18,889
+Smaller labs gain breathing room
+
+56
+00:03:19,070 --> 00:03:22,850
+because they avoid the same scale commitments that drive this kind of Deficit.
+
+57
+00:03:23,210 --> 00:03:26,630
+Rivals pick up the volume OpenAI can no longer subsidize.
+
+58
+00:03:27,089 --> 00:03:31,229
+The trajectory points to OpenAI seeding low margin API business
+
+59
+00:03:31,229 --> 00:03:34,559
+to focus on high touch deals where margins still hold.
+
+60
+00:03:34,889 --> 00:03:38,869
+Microsoft routes GitHub to AWS amid AI surge.
+
+61
+00:03:39,050 --> 00:03:41,600
+AI coding loads expose the limits of single
+
+62
+00:03:41,600 --> 00:03:44,800
+cloud bets faster than any outage forecast predicted.
+
+63
+00:03:45,130 --> 00:03:47,509
+Microsoft now juggles Latency across
+
+64
+00:03:47,509 --> 00:03:49,869
+providers while migrating core infrastructure,
+
+65
+00:03:50,110 --> 00:03:54,919
+which raises the cost floor for every co-pilot query by at least 15%.
+
+66
+00:03:55,259 --> 00:03:57,169
+GitHub customers face a choice,
+
+67
+00:03:57,500 --> 00:04:02,139
+accept variable performance or rebuild pipelines on AWS native stacks.
+
+68
+00:04:02,350 --> 00:04:05,389
+Watch the margin pressure hit first on the high volume code
+
+69
+00:04:05,389 --> 00:04:08,070
+completion endpoints that power daily developer
+
+70
+00:04:08,070 --> 00:04:10,509
+workflows across large engineering teams.
+
+71
+00:04:11,089 --> 00:04:14,929
+Chat GPT share falls below 50% as rivals rise.
+
+72
+00:04:15,289 --> 00:04:19,119
+Market share below half fragments prompt traffic across providers,
+
+73
+00:04:19,329 --> 00:04:22,750
+raising inference costs for any developer who routes queries
+
+74
+00:04:22,750 --> 00:04:25,959
+for best results on production apps and internal tools.
+
+75
+00:04:26,170 --> 00:04:30,160
+OpenAI must now decide between broad price cuts or locking high
+
+76
+00:04:30,160 --> 00:04:34,739
+value users into custom fine tunes that competitors can't easily copy.
+
+77
+00:04:35,070 --> 00:04:38,190
+The data advantage erodes with every split workload.
+
+78
+00:04:38,429 --> 00:04:42,070
+Fragmentation changes the unit economics for everyone involved.
+
+79
+00:04:42,350 --> 00:04:46,190
+Smaller teams absorb the complexity while larger ones negotiate
+
+80
+00:04:46,190 --> 00:04:49,579
+multi-model credits to offset the added spend each month.
+
+81
+00:04:49,910 --> 00:04:53,209
+Google launches OKF agent context standard.
+
+82
+00:04:53,390 --> 00:04:55,309
+Enterprise procurement teams will bake.
+
+83
+00:04:55,403 --> 00:04:59,282
+OKF requirements into RFPs by Q2 next year.
+
+84
+00:04:59,643 --> 00:05:03,513
+Vendors ignoring the standard now face exclusion from large deals.
+
+85
+00:05:03,842 --> 00:05:07,162
+That deadline leaves independent agent builders scrambling to
+
+86
+00:05:07,162 --> 00:05:11,192
+rewrite their memory layers or forfeit multi-platform contracts.
+
+87
+00:05:11,442 --> 00:05:14,183
+Once context travels in a single open format,
+
+88
+00:05:14,483 --> 00:05:15,763
+the margin on proprietary
+
+89
+00:05:15,966 --> 00:05:20,346
+Orchestration tools collapses because buyers can mix vendors without friction.
+
+90
+00:05:20,716 --> 00:05:23,696
+Smaller players lose their lock-in advantage overnight,
+
+91
+00:05:23,976 --> 00:05:27,295
+pushing them toward niche verticals where Google has less reach.
+
+92
+00:05:27,656 --> 00:05:30,936
+Anthropic execs in DC for Fable 5 talks.
+
+93
+00:05:31,216 --> 00:05:33,496
+Division inside the room means the final
+
+94
+00:05:33,496 --> 00:05:36,135
+rule lands softer than export hawks wanted.
+
+95
+00:05:36,420 --> 00:05:39,730
+Anthropic keeps most of its current deployment flexibility,
+
+96
+00:05:39,980 --> 00:05:43,399
+yet accepts stricter downstream monitoring on Fable 5.
+
+97
+00:05:43,649 --> 00:05:46,339
+That concession shifts engineering resources toward
+
+98
+00:05:46,339 --> 00:05:48,970
+audit tooling instead of capability jumps.
+
+99
+00:05:49,220 --> 00:05:53,019
+Competitors without similar exposure can keep shipping faster while
+
+100
+00:05:53,019 --> 00:05:56,239
+regulators watch how well the new safeguards actually hold.
+
+101
+00:05:56,779 --> 00:06:00,679
+Teams at OpenAI now face pressure to match the monitoring commitments
+
+102
+00:06:00,820 --> 00:06:02,779
+or risk looking lax next time.
+
+103
+00:06:04,380 --> 00:06:08,640
+Japan's GoAI taxi app surges 21% on IPO.
+
+104
+00:06:08,980 --> 00:06:11,260
+Go's real edge sits in the routing model,
+
+105
+00:06:11,459 --> 00:06:12,200
+not the app.
+
+106
+00:06:12,500 --> 00:06:17,049
+That model now pulls live data from every car to retrain during peak hours,
+
+107
+00:06:17,339 --> 00:06:19,769
+something legacy operators cannot match without
+
+108
+00:06:19,769 --> 00:06:21,640
+rebuilding their entire back end.
+
+109
+00:06:21,940 --> 00:06:24,899
+Investors price the IPO on current ridership,
+
+110
+00:06:25,059 --> 00:06:27,940
+but the margin expansion comes when fewer drivers cover.
+
+111
+00:06:28,029 --> 00:06:28,980
+The same trips.
+
+112
+00:06:29,250 --> 00:06:32,149
+Fleet partners will demand revenue share adjustments within
+
+113
+00:06:32,149 --> 00:06:34,859
+12 months or threaten to switch platforms.
+
+114
+00:06:35,149 --> 00:06:37,109
+City officials will update licensing
+
+115
+00:06:37,109 --> 00:06:40,100
+rules around algorithm-driven utilization rates.
+
+116
+00:06:40,470 --> 00:06:43,970
+New US executive order targets AI cybersecurity.
+
+117
+00:06:44,230 --> 00:06:47,109
+Security teams at every federal contractor now have
+
+118
+00:06:47,109 --> 00:06:50,029
+12 months to implement model provenance checks.
+
+119
+00:06:50,230 --> 00:06:54,470
+That timeline pushes smaller AI developers toward third party auditors
+
+120
+00:06:54,480 --> 00:06:57,859
+because building internal compliance stacks eats too much runway.
+
+121
+00:06:58,190 --> 00:07:00,549
+Larger labs gain an advantage here since
+
+122
+00:07:00,549 --> 00:07:03,040
+they already run detailed experiment tracking.
+
+123
+00:07:03,279 --> 00:07:06,700
+The second order effect appears in API pricing once those
+
+124
+00:07:06,700 --> 00:07:10,779
+audit logs hit enterprise SLAs and drive up compute overhead.
+
+125
+00:07:10,989 --> 00:07:13,640
+Expect price hikes on regulated workloads
+
+126
+00:07:13,640 --> 00:07:15,480
+before the compliance deadline arrives.

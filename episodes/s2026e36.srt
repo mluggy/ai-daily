@@ -1,0 +1,459 @@
+1
+00:00:04,500 --> 00:00:09,600
+Snap launches $2,195 SEs consumer AR glasses.
+
+2
+00:00:09,859 --> 00:00:13,579
+Developers gain local cloud execution without cloud round trips.
+
+3
+00:00:13,859 --> 00:00:16,600
+That moves the margin discussion from Snap's hardware
+
+4
+00:00:16,659 --> 00:00:19,780
+to Anthropic's API terms baked into every session.
+
+5
+00:00:20,139 --> 00:00:24,579
+Meta now has to decide whether Orion ships with comparable coding agents
+
+6
+00:00:24,579 --> 00:00:28,530
+or watches its AR roadmap leak pilots to Spec's early adopters.
+
+7
+00:00:28,780 --> 00:00:32,060
+The $2000 tag tests whether enterprises will pay
+
+8
+00:00:32,060 --> 00:00:34,799
+for spatial agents before consumer apps catch up.
+
+9
+00:00:35,000 --> 00:00:38,880
+Expect fast replies from Meta and Apple on their own agent layers.
+
+10
+00:00:39,259 --> 00:00:42,490
+Agent jacking attack hijacks AI coding agents.
+
+11
+00:00:42,619 --> 00:00:44,979
+Error logs just became the weakest link in.
+
+12
+00:00:45,284 --> 00:00:45,884
+Workflows.
+
+13
+00:00:46,185 --> 00:00:48,564
+One fake sentry alert now routes malicious
+
+14
+00:00:48,564 --> 00:00:51,165
+payloads straight into production code changes.
+
+15
+00:00:51,365 --> 00:00:54,805
+That raises the cost of every autonomous coding session because
+
+16
+00:00:54,805 --> 00:00:58,084
+teams must add manual review layers they thought were obsolete.
+
+17
+00:00:58,325 --> 00:01:02,685
+Clawed code and cursor users will demand signed error sources from Sentry and
+
+18
+00:01:02,685 --> 00:01:07,105
+Data Dog within the next release cycle or face audit failures at scale.
+
+19
+00:01:07,285 --> 00:01:10,084
+Expect spread to other tools before patches land.
+
+20
+00:01:10,540 --> 00:01:13,650
+GEMA3 becomes first AI model running in orbit.
+
+21
+00:01:13,910 --> 00:01:18,180
+Downlink bandwidth just lost its monopoly on Earth observation insights.
+
+22
+00:01:18,370 --> 00:01:21,900
+On board GEMA 3 lets operators query imagery in orbit,
+
+23
+00:01:22,099 --> 00:01:26,089
+cutting response times from hours to seconds for events like wildfires.
+
+24
+00:01:26,300 --> 00:01:28,680
+That pressures traditional satellite operators to
+
+25
+00:01:28,680 --> 00:01:31,440
+retrofit compute modules within 18 months
+
+26
+00:01:31,540 --> 00:01:31,800
+or.
+
+27
+00:01:31,949 --> 00:01:35,309
+Defense contracts to firms already flying updated models.
+
+28
+00:01:35,669 --> 00:01:39,069
+Loft's success tests whether export controls can keep
+
+29
+00:01:39,069 --> 00:01:41,540
+advanced vision models grounded on future missions.
+
+30
+00:01:41,830 --> 00:01:45,849
+Watch for the first classified payloads to adopt similar stacks by next year.
+
+31
+00:01:46,069 --> 00:01:49,239
+XAI releases Grok add-in for Microsoft Word.
+
+32
+00:01:49,470 --> 00:01:53,430
+Office documents now pull Livex context without leaving the ribbon.
+
+33
+00:01:53,669 --> 00:01:57,550
+That gives XAI a direct line into enterprise writing habits that
+
+34
+00:01:57,550 --> 00:02:01,610
+rivals only see through paid co-pilot logs at much higher cost.
+
+35
+00:02:01,900 --> 00:02:06,589
+This forces Microsoft to embed X signals or lose default status inside Word.
+
+36
+00:02:06,860 --> 00:02:09,020
+Free access lowers the trial barrier,
+
+37
+00:02:09,190 --> 00:02:10,190
+yet the data advantage.
+
+38
+00:02:10,369 --> 00:02:13,029
+Compounds with every rewrite across teams.
+
+39
+00:02:13,169 --> 00:02:17,789
+Co-pilot teams now face a clear integration deadline before user habits lock in.
+
+40
+00:02:18,089 --> 00:02:21,850
+OpenAI publishes groundbreaking drug discovery AI research.
+
+41
+00:02:22,130 --> 00:02:26,770
+Regulators still demand wet lab confirmation for every AI suggested compound.
+
+42
+00:02:27,169 --> 00:02:29,830
+That gap hands established pharma an unexpected
+
+43
+00:02:29,830 --> 00:02:32,699
+edge because they already maintain those facilities.
+
+44
+00:02:32,990 --> 00:02:35,929
+Smaller startups now scramble to license both the model
+
+45
+00:02:36,070 --> 00:02:38,500
+and a CRO partner within the same quarter.
+
+46
+00:02:38,750 --> 00:02:42,190
+Otherwise their candidate molecules sit idle while competitors
+
+47
+00:02:42,190 --> 00:02:44,889
+with integrated teams move straight to phase one.
+
+48
+00:02:45,110 --> 00:02:49,330
+The publication raises the bar on capital requirements rather than lowering them.
+
+49
+00:02:49,669 --> 00:02:53,789
+Series B decks now list regulatory validation spend from day one.
+
+50
+00:02:54,240 --> 00:02:57,470
+Google makes Gemini 2.5 Flash default model.
+
+51
+00:02:57,710 --> 00:02:59,949
+Flash now sits under every Gemini call,
+
+52
+00:03:00,149 --> 00:03:01,479
+which means latency drops,
+
+53
+00:03:01,559 --> 00:03:05,080
+but context window pricing stays unchanged for heavy users.
+
+54
+00:03:05,399 --> 00:03:09,800
+Teams will burn through larger contexts faster now that responses arrive quicker.
+
+55
+00:03:10,000 --> 00:03:11,460
+Enterprise teams that moved.
+
+56
+00:03:11,710 --> 00:03:16,500
+Loads to save on tokens will see bills climb once usage scales past the free tier.
+
+57
+00:03:16,820 --> 00:03:18,380
+Google gains default status,
+
+58
+00:03:18,460 --> 00:03:21,619
+yet risks margin compression if Anthropic matches the
+
+59
+00:03:21,619 --> 00:03:23,929
+speed tier without raising its own rates.
+
+60
+00:03:24,179 --> 00:03:26,860
+Procurement leads at large accounts are already running
+
+61
+00:03:26,860 --> 00:03:29,000
+side by side cost audits this quarter.
+
+62
+00:03:29,589 --> 00:03:32,929
+AI cheating apps spark school detection arms race.
+
+63
+00:03:33,220 --> 00:03:35,750
+Schools equipped with keystroke logging now watch
+
+64
+00:03:35,750 --> 00:03:37,779
+detection rates fall week over week.
+
+65
+00:03:38,039 --> 00:03:40,669
+Students simply route prompts through external apps
+
+66
+00:03:40,669 --> 00:03:42,820
+that insert deliberate pauses and edits.
+
+67
+00:03:43,059 --> 00:03:45,509
+The arms race therefore pushes districts toward
+
+68
+00:03:45,509 --> 00:03:48,380
+device level restrictions rather than better software.
+
+69
+00:03:48,630 --> 00:03:51,509
+Several large public systems are already testing full
+
+70
+00:03:51,509 --> 00:03:54,259
+offline policies for essays starting next fall.
+
+71
+00:03:54,520 --> 00:03:57,869
+Turniton loses its primary data source if the pattern spreads.
+
+72
+00:03:58,070 --> 00:03:58,350
+Parents.
+
+73
+00:03:58,475 --> 00:04:01,554
+are requesting paper-only assignments in district meetings.
+
+74
+00:04:01,845 --> 00:04:04,835
+Adobe expands creative AI agent capabilities.
+
+75
+00:04:05,085 --> 00:04:07,794
+Design teams inside agencies can now hand off
+
+76
+00:04:07,794 --> 00:04:11,005
+first pass iterations to agents without touching Photoshop.
+
+77
+00:04:11,285 --> 00:04:14,684
+Retainer contracts priced on revision rounds suddenly look
+
+78
+00:04:14,684 --> 00:04:17,065
+expensive once clients see the new throughput.
+
+79
+00:04:17,325 --> 00:04:20,785
+Mid-size shops will either cut their quoted hours by 30%
+
+80
+00:04:20,945 --> 00:04:24,515
+or lose pitches to competitors who already adjusted pricing models.
+
+81
+00:04:24,755 --> 00:04:27,125
+Adobe's move compresses project timelines.
+
+82
+00:04:27,339 --> 00:04:31,040
+Yet squeezes the billable work that paid for human oversight last year.
+
+83
+00:04:31,239 --> 00:04:36,019
+Expect RFPs to specify agent generated drafts as baseline next quarter.
+
+84
+00:04:36,299 --> 00:04:39,250
+AI staffing platform raises $6 million.
+
+85
+00:04:39,540 --> 00:04:42,730
+Traditional recruiters just lost their moat on technical hires.
+
+86
+00:04:42,959 --> 00:04:47,170
+The new matching tools scan code repositories and model benchmarks directly,
+
+87
+00:04:47,420 --> 00:04:49,250
+bypassing resumes entirely.
+
+88
+00:04:49,459 --> 00:04:51,519
+This forces platforms like LinkedIn
+
+89
+00:04:51,619 --> 00:04:55,779
+to either embed similar signals or watch their enterprise contracts migrate.
+
+90
+00:04:56,035 --> 00:04:59,674
+Expect agency fees to drop sharply once hiring managers
+
+91
+00:04:59,674 --> 00:05:02,894
+run their own queries against live model performance data.
+
+92
+00:05:03,274 --> 00:05:06,954
+Labs using these tools will close roles in weeks instead of months,
+
+93
+00:05:07,154 --> 00:05:11,084
+leaving traditional agencies with only non-technical placements to chase.
+
+94
+00:05:11,355 --> 00:05:15,345
+Chat GPT app adds pronunciation tools and UX upgrades.
+
+95
+00:05:15,595 --> 00:05:18,195
+Language learners just got a free tutor that corrects
+
+96
+00:05:18,195 --> 00:05:21,114
+pronunciation in real time across dozens of tongues.
+
+97
+00:05:21,355 --> 00:05:24,734
+The chat organization upgrades mean power users will keep long.
+
+98
+00:05:24,850 --> 00:05:28,230
+Running projects alive instead of starting fresh every week.
+
+99
+00:05:28,529 --> 00:05:32,429
+Duolingo loses its audio edge once students can practice
+
+100
+00:05:32,429 --> 00:05:35,200
+conversations directly inside the model they already pay for.
+
+101
+00:05:35,570 --> 00:05:38,769
+Sharing features turn every corrected session into shareable
+
+102
+00:05:38,769 --> 00:05:41,350
+study material that spreads outside the app.
+
+103
+00:05:41,570 --> 00:05:44,329
+Expect dedicated language platforms to pivot towards
+
+104
+00:05:44,329 --> 00:05:47,720
+certification exams and human conversation matches.
+
+105
+00:05:48,089 --> 00:05:51,079
+Data Bricks unveils genie agents at AI Summit.
+
+106
+00:05:51,369 --> 00:05:53,529
+Data teams inside large enterprises.
+
+107
+00:05:53,785 --> 00:05:57,825
+Have native agents that query governed tables without writing SQL.
+
+108
+00:05:58,114 --> 00:06:01,864
+The Unity AI gateway adds policy enforcement at inference time,
+
+109
+00:06:02,075 --> 00:06:06,135
+which raises the cost for any rival lake house trying to match feature parity.
+
+110
+00:06:06,424 --> 00:06:09,744
+Snowflake must either license similar controls or accept that
+
+111
+00:06:09,744 --> 00:06:12,464
+new workloads stay inside data bricks by default.
+
+112
+00:06:12,825 --> 00:06:14,894
+Security teams gain audit trails they
+
+113
+00:06:14,894 --> 00:06:17,464
+can show regulators without custom engineering.
+
+114
+00:06:17,665 --> 00:06:20,424
+That shifts budget conversations to single platform
+
+115
+00:06:20,424 --> 00:06:22,345
+commitments in the next planning cycle.

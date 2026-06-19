@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 10:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:02:28 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -614,6 +614,40 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e34.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>G7 AI Revolt, xAI Shield &amp; Visa Agent Deals</title>
+      <description>G7 leaders challenge US AI export controls with trusted partners plan; US warns Anthropic on foreign model access; Visa-OpenAI agent payments launch amid $15T B2B projections. Also covers xAI lawsuit intervention, OpenAI losses, GitHub AI overload, market shifts and more.</description>
+      <link>{{SITE_URL}}/35</link>
+      <guid isPermaLink="false">s2026e35</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e35.mp3" length="10572376" type="audio/mpeg" />
+      <itunes:summary>G7 leaders challenge US AI export controls with trusted partners plan; US warns Anthropic on foreign model access; Visa-OpenAI agent payments launch amid $15T B2B projections. Also covers xAI lawsuit intervention, OpenAI losses, GitHub AI overload, market shifts and more.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e35.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e35.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Snap AR Specs, Orbital Gemma &amp; Agentjacking Crisis</title>
+      <description>Covers Snap&apos;s $2,195 SPECS AR glasses launch with AI coding integrations, the Agentjacking attack on agents like Claude Code and Cursor, Google&apos;s Gemma 3 as first AI model in orbit, xAI&apos;s Grok for Word add-in, OpenAI&apos;s drug discovery research, and Databricks Genie Agents announcements.</description>
+      <link>{{SITE_URL}}/36</link>
+      <guid isPermaLink="false">s2026e36</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e36.mp3" length="9295908" type="audio/mpeg" />
+      <itunes:summary>Covers Snap&apos;s $2,195 SPECS AR glasses launch with AI coding integrations, the Agentjacking attack on agents like Claude Code and Cursor, Google&apos;s Gemma 3 as first AI model in orbit, xAI&apos;s Grok for Word add-in, OpenAI&apos;s drug discovery research, and Databricks Genie Agents announcements.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:26</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e36.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e36.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
