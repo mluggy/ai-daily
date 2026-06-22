@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 10:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:27:49 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -648,6 +648,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e36.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>FERC Grid Orders, ChatGPT Share Drop &amp; Altman Movie Shock</title>
+      <description>Covers FERC&apos;s orders accelerating AI data center grid connections, ChatGPT falling below 50% market share, Amazon dropping its Sam Altman biopic after OpenAI deal, GPT-5.6 leaks and launch signals, AWS Bedrock AgentCore harness GA, Gemini 3.5 Pro nearing release, Shopify UCP self-serve update, Coinbase for Agents trading capabilities, and related agent infrastructure and model advances from June 19-21.</description>
+      <link>{{SITE_URL}}/37</link>
+      <guid isPermaLink="false">s2026e37</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e37.mp3" length="9287122" type="audio/mpeg" />
+      <itunes:summary>Covers FERC&apos;s orders accelerating AI data center grid connections, ChatGPT falling below 50% market share, Amazon dropping its Sam Altman biopic after OpenAI deal, GPT-5.6 leaks and launch signals, AWS Bedrock AgentCore harness GA, Gemini 3.5 Pro nearing release, Shopify UCP self-serve update, Coinbase for Agents trading capabilities, and related agent infrastructure and model advances from June 19-21.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>06:26</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e37.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e37.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>
