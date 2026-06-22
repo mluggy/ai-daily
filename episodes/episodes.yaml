@@ -3,11 +3,11 @@ episodes:
     size: 9084418
     season: 2026
     title: 'OpenAI Ads, Apple Choices, Meta Agents: May AI'
-    description: This episode examines OpenAI's self-serve ChatGPT advertising platform
-      targeting billions in revenue, Apple's Extensions allowing third-party AI model
-      selection in iOS 27, and Meta's agentic assistant with Instagram shopping integration,
-      alongside Anthropic's Wall Street deployment venture and SpaceX compute deal
-      plus stablecoin agent payments.
+    description: This episode examines OpenAI's self-serve ChatGPT advertising 
+      platform targeting billions in revenue, Apple's Extensions allowing 
+      third-party AI model selection in iOS 27, and Meta's agentic assistant 
+      with Instagram shopping integration, alongside Anthropic's Wall Street 
+      deployment venture and SpaceX compute deal plus stablecoin agent payments.
     cost: 1.5652
     duration: 06:18
     date: '2026-04-30'
@@ -15,11 +15,11 @@ episodes:
     size: 9378747
     season: 2026
     title: Pentagon AI Deals, Agent Hijacks & GPT Surprises
-    description: This episode covers the Pentagon's classified AI agreements with
-      Nvidia, Microsoft and AWS; Google's warnings on hidden web commands hijacking
-      AI agents; Meta's humanoid robotics acquisition; Oxford research on overly friendly
-      AI errors; and OpenAI's GPT-5.4 surpassing humans in autonomous tasks, plus
-      related lawsuit updates.
+    description: This episode covers the Pentagon's classified AI agreements 
+      with Nvidia, Microsoft and AWS; Google's warnings on hidden web commands 
+      hijacking AI agents; Meta's humanoid robotics acquisition; Oxford research
+      on overly friendly AI errors; and OpenAI's GPT-5.4 surpassing humans in 
+      autonomous tasks, plus related lawsuit updates.
     cost: 1.7576
     duration: 06:30
     date: '2026-05-01'
@@ -27,9 +27,9 @@ episodes:
     size: 9248840
     season: 2026
     title: US AI Tests, Agent Payments & Wall Street Agents
-    description: This episode covers US pre-release AI model testing agreements, Anthropic's
-      financial agents launch, and AWS-enabled autonomous agent payments, plus new
-      models and funding rounds.
+    description: This episode covers US pre-release AI model testing agreements,
+      Anthropic's financial agents launch, and AWS-enabled autonomous agent 
+      payments, plus new models and funding rounds.
     cost: 1.1766
     duration: 06:24
     date: '2026-05-04'
@@ -37,10 +37,11 @@ episodes:
     size: 9283984
     season: 2026
     title: Anthropic $200B Deal, AI Layoffs & UAE Agentic Push
-    description: This episode covers Anthropic's record $200 billion Google Cloud
-      commitment that briefly overtook Nvidia in market value, Coinbase and PayPal's
-      AI-driven layoffs of thousands, and the UAE's plan to automate half its government
-      with agentic AI, alongside Chinese model advances and new agent tools.
+    description: This episode covers Anthropic's record $200 billion Google 
+      Cloud commitment that briefly overtook Nvidia in market value, Coinbase 
+      and PayPal's AI-driven layoffs of thousands, and the UAE's plan to 
+      automate half its government with agentic AI, alongside Chinese model 
+      advances and new agent tools.
     cost: 1.3848
     duration: 06:26
     date: '2026-05-05'
@@ -48,10 +49,10 @@ episodes:
     size: 10750605
     season: 2026
     title: AI Funding Surge, Chatbot Lawsuit & Agent Tools
-    description: Covers Sierra's $950M raise for enterprise AI customer agents, Pennsylvania's
-      lawsuit against Character.AI for doctor impersonation, PayPal's $1.5B AI-driven
-      restructuring, plus advances in video generation, agent governance and coding
-      pricing.
+    description: Covers Sierra's $950M raise for enterprise AI customer agents, 
+      Pennsylvania's lawsuit against Character.AI for doctor impersonation, 
+      PayPal's $1.5B AI-driven restructuring, plus advances in video generation,
+      agent governance and coding pricing.
     cost: 1.7851
     duration: 07:27
     date: '2026-05-06'
@@ -59,11 +60,11 @@ episodes:
     size: 11053719
     season: 2026
     title: EU Dilutes AI Rules, Agent Launches & Revenue Hits
-    description: This episode covers the EU's agreement to dilute and delay AI Act
-      rules, OpenAI's Trusted Contact rollout and Voice API launch, Google's testing
-      of the Remy agent, Meta's agentic assistant development, Coder's enterprise
-      agent launch, ElevenLabs reaching $500M ARR, SAP's $1.18B AI lab plans, and
-      OpenAI-Oracle supercluster deal.
+    description: This episode covers the EU's agreement to dilute and delay AI 
+      Act rules, OpenAI's Trusted Contact rollout and Voice API launch, Google's
+      testing of the Remy agent, Meta's agentic assistant development, Coder's 
+      enterprise agent launch, ElevenLabs reaching $500M ARR, SAP's $1.18B AI 
+      lab plans, and OpenAI-Oracle supercluster deal.
     cost: 1.1846
     duration: 07:40
     date: '2026-05-07'
@@ -71,11 +72,11 @@ episodes:
     size: 10867333
     season: 2026
     title: Agent Payments, iOS AI Picks & DeepSeek Billions
-    description: OpenAI rolls out ChatGPT self-serve ads, Amazon enables AI agent
-      stablecoin payments with Coinbase and Stripe, Apple introduces third-party model
-      choice on iOS 27, Anthropic lands SpaceX compute and Wall Street deployment
-      deals, Microsoft Agent 365 reaches general availability, and DeepSeek targets
-      $50 billion valuation.
+    description: OpenAI rolls out ChatGPT self-serve ads, Amazon enables AI 
+      agent stablecoin payments with Coinbase and Stripe, Apple introduces 
+      third-party model choice on iOS 27, Anthropic lands SpaceX compute and 
+      Wall Street deployment deals, Microsoft Agent 365 reaches general 
+      availability, and DeepSeek targets $50 billion valuation.
     date: '2026-05-11'
     cost: 1.4732
     duration: 07:32
@@ -83,10 +84,10 @@ episodes:
     size: 10417367
     season: 2026
     title: Cerebras $4.8B IPO, Anthropic Boom & AI Zero-Day
-    description: Covers Cerebras upsizing its IPO to $4.8 billion, Anthropic revealing
-      80x Q1 revenue growth with $44 billion ARR, OpenAI launching a $4 billion-backed
-      deployment company, Pentagon signing AI deals excluding Anthropic, and Google
-      detecting the first AI-developed zero-day exploit.
+    description: Covers Cerebras upsizing its IPO to $4.8 billion, Anthropic 
+      revealing 80x Q1 revenue growth with $44 billion ARR, OpenAI launching a 
+      $4 billion-backed deployment company, Pentagon signing AI deals excluding 
+      Anthropic, and Google detecting the first AI-developed zero-day exploit.
     date: '2026-05-12'
     cost: 1.871
     duration: 07:13
@@ -94,9 +95,10 @@ episodes:
     size: 10170107
     season: 2026
     title: Korea AI Dividend, CME Futures & SAP Agents
-    description: South Korea considers AI profit dividends for citizens, CME announces
-      compute futures for AI hedging, SAP introduces autonomous AI agents for business
-      operations, with OpenAI cybersecurity tools, youth job polls and more.
+    description: South Korea considers AI profit dividends for citizens, CME 
+      announces compute futures for AI hedging, SAP introduces autonomous AI 
+      agents for business operations, with OpenAI cybersecurity tools, youth job
+      polls and more.
     date: '2026-05-13'
     cost: 1.719
     duration: 07:03
@@ -104,10 +106,10 @@ episodes:
     size: 9270805
     season: 2026
     title: Meta Incognito AI, AI Banks & Orbital Compute
-    description: Meta launched private Incognito Chat for Meta AI on WhatsApp, Augustus
-      received approval for the first AI-native clearing bank, and new research revealed
-      AI agents causing harm in 41% of tasks while Google and SpaceX explored orbital
-      data centers.
+    description: Meta launched private Incognito Chat for Meta AI on WhatsApp, 
+      Augustus received approval for the first AI-native clearing bank, and new 
+      research revealed AI agents causing harm in 41% of tasks while Google and 
+      SpaceX explored orbital data centers.
     date: '2026-05-14'
     cost: 1.5578
     duration: 06:25
@@ -115,10 +117,10 @@ episodes:
     size: 9255744
     season: 2026
     title: Anthropic Gates Pact, xAI Agent & AI Infra Surge
-    description: Anthropic and the Gates Foundation committed $200 million to AI applications
-      in health, education and economic mobility. xAI released Grok Build early beta
-      coding agent. Exaforce closed $125 million Series B for AI cybersecurity while
-      Emburse and Xactly launched new autonomous agents.
+    description: Anthropic and the Gates Foundation committed $200 million to AI
+      applications in health, education and economic mobility. xAI released Grok
+      Build early beta coding agent. Exaforce closed $125 million Series B for 
+      AI cybersecurity while Emburse and Xactly launched new autonomous agents.
     date: '2026-05-15'
     cost: 1.3562
     duration: 06:25
@@ -126,10 +128,10 @@ episodes:
     size: 10225960
     season: 2026
     title: OpenAI Enterprise Bet, Agent Limits & Malta AI First
-    description: Covers OpenAI's $4 billion enterprise deployment launch, Microsoft's
-      AI agent unreliability warnings, Ken Griffin's AI automation of elite finance
-      jobs, Malta's historic ChatGPT Plus rollout to citizens, and Recursive's $4.65B
-      self-improving AI raise.
+    description: Covers OpenAI's $4 billion enterprise deployment launch, 
+      Microsoft's AI agent unreliability warnings, Ken Griffin's AI automation 
+      of elite finance jobs, Malta's historic ChatGPT Plus rollout to citizens, 
+      and Recursive's $4.65B self-improving AI raise.
     date: '2026-05-18'
     cost: 2.0418
     duration: 07:05
@@ -137,9 +139,9 @@ episodes:
     size: 10243532
     season: 2026
     title: Musk OpenAI Loss, Vatican AI Push & Agent Boom
-    description: The episode covers Elon Musk's dismissed OpenAI lawsuit, Pope Leo
-      XIV's new AI commission, and key agentic AI developments including a major foundation
-      expansion and a surprising security exploit.
+    description: The episode covers Elon Musk's dismissed OpenAI lawsuit, Pope 
+      Leo XIV's new AI commission, and key agentic AI developments including a 
+      major foundation expansion and a surprising security exploit.
     date: '2026-05-19'
     cost: 1.9516
     duration: 07:06
@@ -147,10 +149,10 @@ episodes:
     size: 9658013
     season: 2026
     title: Gemini Spark Agents, OpenAI Banking & AI Shifts
-    description: This episode covers Google's launch of Gemini Spark 24/7 personal
-      AI agent and agentic Search features from I/O, OpenAI enabling ChatGPT bank
-      account access for finance, and AI-driven job reassignments and cuts at Meta
-      and Standard Chartered.
+    description: This episode covers Google's launch of Gemini Spark 24/7 
+      personal AI agent and agentic Search features from I/O, OpenAI enabling 
+      ChatGPT bank account access for finance, and AI-driven job reassignments 
+      and cuts at Meta and Standard Chartered.
     date: '2026-05-20'
     cost: 1.1518
     duration: 06:41
@@ -158,10 +160,10 @@ episodes:
     size: 9791058
     season: 2026
     title: Nvidia AI Records, Meta Shakeups & Agentic Shopping Wins
-    description: This episode covers Nvidia's record Q1 earnings surge driven by AI
-      demand, Meta's reassignment of 7,000 staff to AI roles amid layoffs, Google's
-      Universal Cart for agentic commerce and Omni multimodal model, plus OpenAI's
-      math breakthrough and NextEra's $67B power merger.
+    description: This episode covers Nvidia's record Q1 earnings surge driven by
+      AI demand, Meta's reassignment of 7,000 staff to AI roles amid layoffs, 
+      Google's Universal Cart for agentic commerce and Omni multimodal model, 
+      plus OpenAI's math breakthrough and NextEra's $67B power merger.
     date: '2026-05-21'
     cost: 1.6479
     duration: 06:47
@@ -169,11 +171,11 @@ episodes:
     size: 9974934
     season: 2026
     title: SpaceX AI IPO, Google Omni & Meta AI Pivot
-    description: This episode covers SpaceX's S-1 filing with orbital AI data centers
-      and Terafab chips, Google's Gemini Omni video model and Search agent overhaul,
-      Meta's 8,000 layoffs plus 7,000 AI reassignments, Karpathy joining Anthropic,
-      Trump postponing an AI executive order, and Microsoft open-sourcing agent safety
-      tools.
+    description: This episode covers SpaceX's S-1 filing with orbital AI data 
+      centers and Terafab chips, Google's Gemini Omni video model and Search 
+      agent overhaul, Meta's 8,000 layoffs plus 7,000 AI reassignments, Karpathy
+      joining Anthropic, Trump postponing an AI executive order, and Microsoft 
+      open-sourcing agent safety tools.
     date: '2026-05-22'
     cost: 1.7142
     duration: 06:55
@@ -181,10 +183,10 @@ episodes:
     size: 9783526
     season: 2026
     title: AI Math Breakthrough, $45B Deal & Agentic Push
-    description: Covers OpenAI autonomously disproving an 80-year math conjecture,
-      Anthropic's $45B SpaceX compute commitment, Meta's employee data training for
-      AI before mass layoffs, Trump's scrapped AI safety order, and Google's I/O agentic
-      advancements.
+    description: Covers OpenAI autonomously disproving an 80-year math 
+      conjecture, Anthropic's $45B SpaceX compute commitment, Meta's employee 
+      data training for AI before mass layoffs, Trump's scrapped AI safety 
+      order, and Google's I/O agentic advancements.
     date: '2026-05-25'
     cost: 1.4926
     duration: 06:47
@@ -192,10 +194,11 @@ episodes:
     size: 10194582
     season: 2026
     title: Anthropic $900B Surge, Pope AI Encyclical & IPO Race
-    description: Anthropic closes $30B round at over $900B valuation; Pope Leo XIV
-      releases first AI encyclical Magnifica Humanitas alongside Anthropic co-founder;
-      OpenAI prepares confidential S-1 IPO filing. Covers major funding, policy shifts,
-      agent capabilities, talent moves, infrastructure deals, and global AI competition.
+    description: Anthropic closes $30B round at over $900B valuation; Pope Leo 
+      XIV releases first AI encyclical Magnifica Humanitas alongside Anthropic 
+      co-founder; OpenAI prepares confidential S-1 IPO filing. Covers major 
+      funding, policy shifts, agent capabilities, talent moves, infrastructure 
+      deals, and global AI competition.
     date: '2026-05-26'
     cost: 1.5674
     duration: 07:04
@@ -203,10 +206,11 @@ episodes:
     size: 8845944
     season: 2026
     title: China AI Talent Curbs, Agentic Commerce & Price Wars
-    description: China restricts overseas travel for top AI talent at Alibaba and
-      DeepSeek. Mastercard details its vision for trusted agentic commerce with scaled
-      payments and security. DeepSeek makes V4 Pro price cuts permanent amid escalating
-      AI wars, alongside US business AI adoption growth and new healthcare regulations.
+    description: China restricts overseas travel for top AI talent at Alibaba 
+      and DeepSeek. Mastercard details its vision for trusted agentic commerce 
+      with scaled payments and security. DeepSeek makes V4 Pro price cuts 
+      permanent amid escalating AI wars, alongside US business AI adoption 
+      growth and new healthcare regulations.
     date: '2026-05-27'
     cost: 1.9167
     duration: 06:08
@@ -214,11 +218,11 @@ episodes:
     size: 8987146
     season: 2026
     title: Trillion AI Chips, Desktop Agents & Creativity Benchmarks
-    description: Covers SK Hynix and Micron hitting $1 trillion market caps on AI
-      memory demand, Microsoft shipping computer-using agents to general availability
-      in Copilot Studio, and a 100,000-person study finding generative AI outperforming
-      average humans on creativity tests, plus updates in cybersecurity, robotaxis,
-      and courts.
+    description: Covers SK Hynix and Micron hitting $1 trillion market caps on 
+      AI memory demand, Microsoft shipping computer-using agents to general 
+      availability in Copilot Studio, and a 100,000-person study finding 
+      generative AI outperforming average humans on creativity tests, plus 
+      updates in cybersecurity, robotaxis, and courts.
     date: '2026-05-28'
     cost: 1.852
     duration: 06:14
@@ -226,10 +230,10 @@ episodes:
     size: 9534383
     season: 2026
     title: Agentic Trading Debuts, Claude Big Four Wave & Valuation Surges
-    description: Robinhood enables AI agents for stock trades and purchases, KPMG
-      deploys Claude across 276,000 staff in global alliance, and Cognition raises
-      over $1B at $26B valuation alongside new models, inference funding talks, and
-      infrastructure deals.
+    description: Robinhood enables AI agents for stock trades and purchases, 
+      KPMG deploys Claude across 276,000 staff in global alliance, and Cognition
+      raises over $1B at $26B valuation alongside new models, inference funding 
+      talks, and infrastructure deals.
     date: '2026-05-29'
     cost: 2.0681
     duration: 06:36
@@ -237,11 +241,12 @@ episodes:
     size: 9346741
     season: 2026
     title: Opus 4.8, Groq Pivot & ByteDance $70B Bet
-    description: Covers Anthropic's Claude Opus 4.8 upgrade featuring dynamic workflows,
-      Groq's $650M funding for inference shift, ByteDance's planned $70B AI capex,
-      xAI Grok Build beta, Figure AI robotics milestone, Sam Altman jobs reversal,
-      AI film at Tribeca, Microsoft-Mistral agent tools, Celonis enterprise context
-      launch, Samsung AI bonuses dispute, and South Korea senior robot companions.
+    description: Covers Anthropic's Claude Opus 4.8 upgrade featuring dynamic 
+      workflows, Groq's $650M funding for inference shift, ByteDance's planned 
+      $70B AI capex, xAI Grok Build beta, Figure AI robotics milestone, Sam 
+      Altman jobs reversal, AI film at Tribeca, Microsoft-Mistral agent tools, 
+      Celonis enterprise context launch, Samsung AI bonuses dispute, and South 
+      Korea senior robot companions.
     date: '2026-06-01'
     cost: 2.2037
     duration: 06:28
@@ -249,11 +254,12 @@ episodes:
     size: 10537233
     season: 2026
     title: SoftBank's €75B France Bet & NVIDIA Desktop AI
-    description: Covers SoftBank's record French AI data center investment, NVIDIA's
-      Windows-based trillion-parameter systems and RTX Spark, Sysdig's first autonomous
-      LLM agent cyberattack, Canada's leaked national AI strategy, Mistral Vibe agent
-      launch, Verizon's scaled agentic fleet system, humanoid robots in Ukraine, GitHub
-      Copilot billing shift, and AI deepfake enforcement challenges.
+    description: Covers SoftBank's record French AI data center investment, 
+      NVIDIA's Windows-based trillion-parameter systems and RTX Spark, Sysdig's 
+      first autonomous LLM agent cyberattack, Canada's leaked national AI 
+      strategy, Mistral Vibe agent launch, Verizon's scaled agentic fleet 
+      system, humanoid robots in Ukraine, GitHub Copilot billing shift, and AI 
+      deepfake enforcement challenges.
     date: '2026-06-02'
     cost: 2.0296
     duration: 07:18
@@ -261,9 +267,10 @@ episodes:
     size: 9902137
     season: 2026
     title: Trump AI Order, Microsoft Scout & Nvidia RTX Spark
-    description: Covers Trump's voluntary 30-day frontier AI model review executive
-      order, Microsoft's Scout always-on agent and seven new MAI models at Build 2026,
-      Nvidia's RTX Spark AI PC chips and physical AI advances at Computex.
+    description: Covers Trump's voluntary 30-day frontier AI model review 
+      executive order, Microsoft's Scout always-on agent and seven new MAI 
+      models at Build 2026, Nvidia's RTX Spark AI PC chips and physical AI 
+      advances at Computex.
     date: '2026-06-03'
     cost: 2.5367
     duration: 06:52
@@ -271,11 +278,12 @@ episodes:
     size: 9598394
     season: 2026
     title: MAI Models, Stargate Build & Agent Pricing Push
-    description: Microsoft's MAI-Thinking-1 in-house reasoning model and Build announcements;
-      OpenAI's Stargate Michigan data center groundbreaking; GitHub Copilot billing
-      upheaval; Anthropic's IPO filing, Mythos expansions and Glasswing growth; Meta's
-      planned high-priced Hatch agent; ChatGPT user milestone; Google Gemini Spark
-      rollout; and major AI infrastructure funding.
+    description: Microsoft's MAI-Thinking-1 in-house reasoning model and Build 
+      announcements; OpenAI's Stargate Michigan data center groundbreaking; 
+      GitHub Copilot billing upheaval; Anthropic's IPO filing, Mythos expansions
+      and Glasswing growth; Meta's planned high-priced Hatch agent; ChatGPT user
+      milestone; Google Gemini Spark rollout; and major AI infrastructure 
+      funding.
     date: '2026-06-04'
     cost: 1.98
     duration: 06:39
@@ -283,10 +291,10 @@ episodes:
     size: 8655791
     season: 2026
     title: Canada AI Strategy, SpaceX xAI IPO & Meta Agents
-    description: Canada unveils 'AI for All' national plan with 250k jobs and student
-      agents; SpaceX opens $1.75T IPO roadshow including xAI; Meta launches global
-      Business Agent for enterprises alongside IBM-Google Cloud AI partnership and
-      Norton Family Assistant debut.
+    description: Canada unveils 'AI for All' national plan with 250k jobs and 
+      student agents; SpaceX opens $1.75T IPO roadshow including xAI; Meta 
+      launches global Business Agent for enterprises alongside IBM-Google Cloud 
+      AI partnership and Norton Family Assistant debut.
     date: '2026-06-05'
     cost: 1.6233
     duration: 06:00
@@ -294,11 +302,11 @@ episodes:
     size: 9477274
     season: 2026
     title: AI Agents Surge, DeepSeek $7.4B Round & Trump Profit Talks
-    description: Covers Trump's planned White House meetings on government AI profit
-      shares, Anthropic's call for frontier AI development pauses over self-improvement
-      risks, DeepSeek nearing its first $7.4B external round at up to $59B valuation,
-      Generalist AI's $400M physical AGI funding, OpenAI's Opal investment, and AI
-      agents driving transformation and spending.
+    description: Covers Trump's planned White House meetings on government AI 
+      profit shares, Anthropic's call for frontier AI development pauses over 
+      self-improvement risks, DeepSeek nearing its first $7.4B external round at
+      up to $59B valuation, Generalist AI's $400M physical AGI funding, OpenAI's
+      Opal investment, and AI agents driving transformation and spending.
     date: '2026-06-08'
     cost: 1.4061
     duration: 06:34
@@ -306,10 +314,11 @@ episodes:
     size: 9496729
     season: 2026
     title: Gemini Siri Debut, Pentagon AI Pivot & Nvidia Memory Deal
-    description: Apple's WWDC reveals Gemini-powered Siri overhaul, multi-model Apple
-      Intelligence, and Tim Cook's final keynote; Pentagon evaluates OpenAI and Google
-      models to replace Anthropic in classified systems; Nvidia-SK Hynix multi-year
-      AI memory partnership and Microsoft Foundry catalog expansion.
+    description: Apple's WWDC reveals Gemini-powered Siri overhaul, multi-model 
+      Apple Intelligence, and Tim Cook's final keynote; Pentagon evaluates 
+      OpenAI and Google models to replace Anthropic in classified systems; 
+      Nvidia-SK Hynix multi-year AI memory partnership and Microsoft Foundry 
+      catalog expansion.
     date: '2026-06-09'
     cost: 2.4323
     duration: 06:35
@@ -317,10 +326,10 @@ episodes:
     size: 9493592
     season: 2026
     title: OpenAI IPO Filing, China AI Billions & Orbital Compute Surge
-    description: OpenAI confidentially files for IPO amid AI public market rush; China
-      readies $295B five-year data center buildout; SpaceX targets late-2027 orbital
-      AI tests. Plus Google-SpaceX compute deal, Anthropic Mythos launch, Meta AI
-      hack, and regulatory ripples.
+    description: OpenAI confidentially files for IPO amid AI public market rush;
+      China readies $295B five-year data center buildout; SpaceX targets 
+      late-2027 orbital AI tests. Plus Google-SpaceX compute deal, Anthropic 
+      Mythos launch, Meta AI hack, and regulatory ripples.
     date: '2026-06-10'
     cost: 2.1778
     duration: 06:35
@@ -328,10 +337,10 @@ episodes:
     size: 9707591
     season: 2026
     title: Claude Fable 5, Agent Payments Launch & Neura $1.4B Round
-    description: Anthropic releases its first public Mythos-class model Claude Fable
-      5 with built-in safeguards; Mastercard and Visa advance infrastructure for AI
-      agent payments and commerce; Neura Robotics secures a record $1.4 billion Series
-      C for cognitive robots and physical AI.
+    description: Anthropic releases its first public Mythos-class model Claude 
+      Fable 5 with built-in safeguards; Mastercard and Visa advance 
+      infrastructure for AI agent payments and commerce; Neura Robotics secures 
+      a record $1.4 billion Series C for cognitive robots and physical AI.
     date: '2026-06-11'
     cost: 1.5536
     duration: 06:44
@@ -339,10 +348,11 @@ episodes:
     size: 9874523
     season: 2026
     title: OpenAI Commerce Protocol, Anthropic IPO Filing & Senate AI Hearings
-    description: OpenAI launches Agentic Commerce Protocol with Instant Checkout and
-      Oracle Cloud access plus Ona acquisition; Anthropic files S-1 near $965B valuation;
-      Senate Banking Committee AI hearing; China AI home robots; Supabase, Suno, Generalist
-      AI and Flourish funding rounds; Super Micro $7B AI raise.
+    description: OpenAI launches Agentic Commerce Protocol with Instant Checkout
+      and Oracle Cloud access plus Ona acquisition; Anthropic files S-1 near 
+      $965B valuation; Senate Banking Committee AI hearing; China AI home 
+      robots; Supabase, Suno, Generalist AI and Flourish funding rounds; Super 
+      Micro $7B AI raise.
     date: '2026-06-12'
     cost: 1.8745
     duration: 06:50
@@ -350,12 +360,13 @@ episodes:
     size: 9663661
     season: 2026
     title: SpaceX Record IPO, Bezos $12B AI Bet & Model Crackdowns
-    description: SpaceX debuts as largest IPO ever with xAI bundled in; Prometheus
-      raises $12B at $41B for physical systems AI; KKR-NVIDIA launch $10B infrastructure
-      platform; Google sues over Gemini-powered scams; Mistral funding talks; EngineAI
-      HK IPO filing; Anthropic disables top models on US order; Florida probes OpenAI;
-      OpenAI free Codex tier; Zhipu GLM 5.2 rollout; G7 AI sovereignty talks; Teradyne
-      physical AI deployments.
+    description: SpaceX debuts as largest IPO ever with xAI bundled in; 
+      Prometheus raises $12B at $41B for physical systems AI; KKR-NVIDIA launch 
+      $10B infrastructure platform; Google sues over Gemini-powered scams; 
+      Mistral funding talks; EngineAI HK IPO filing; Anthropic disables top 
+      models on US order; Florida probes OpenAI; OpenAI free Codex tier; Zhipu 
+      GLM 5.2 rollout; G7 AI sovereignty talks; Teradyne physical AI 
+      deployments.
     date: '2026-06-15'
     cost: 2.3913
     duration: 06:42
@@ -363,10 +374,10 @@ episodes:
     size: 9619104
     season: 2026
     title: US AI Export Ban Hits Anthropic & Agent M&A Surge
-    description: US orders Anthropic to block foreign access to top models over security
-      concerns; Salesforce acquires Fin AI agent platform for $3.6B; NewCore raises
-      $66M for AI agent identity management; Anthropic policy proposals and Fable
-      5 prompt leak also covered.
+    description: US orders Anthropic to block foreign access to top models over 
+      security concerns; Salesforce acquires Fin AI agent platform for $3.6B; 
+      NewCore raises $66M for AI agent identity management; Anthropic policy 
+      proposals and Fable 5 prompt leak also covered.
     date: '2026-06-16'
     cost: 1.8685
     duration: 06:40
@@ -374,10 +385,11 @@ episodes:
     size: 6528971
     season: 2026
     title: SpaceX $60B Cursor Buy, Anthropic Model Halt & Agentic Commerce Push
-    description: Covers SpaceX's massive Cursor acquisition, Anthropic's compliance
-      with a US security directive disabling advanced models, Databricks' Genie One
-      agent launch, HPE-NVIDIA enterprise agentic AI advances, Adyen and LTX agentic
-      commerce tools, open commerce protocols, and Visa's consumer trust findings.
+    description: Covers SpaceX's massive Cursor acquisition, Anthropic's 
+      compliance with a US security directive disabling advanced models, 
+      Databricks' Genie One agent launch, HPE-NVIDIA enterprise agentic AI 
+      advances, Adyen and LTX agentic commerce tools, open commerce protocols, 
+      and Visa's consumer trust findings.
     date: '2026-06-17'
     cost: 2.1017
     duration: 04:31
@@ -385,10 +397,10 @@ episodes:
     size: 10572376
     season: 2026
     title: G7 AI Revolt, xAI Shield & Visa Agent Deals
-    description: G7 leaders challenge US AI export controls with trusted partners
-      plan; US warns Anthropic on foreign model access; Visa-OpenAI agent payments
-      launch amid $15T B2B projections. Also covers xAI lawsuit intervention, OpenAI
-      losses, GitHub AI overload, market shifts and more.
+    description: G7 leaders challenge US AI export controls with trusted 
+      partners plan; US warns Anthropic on foreign model access; Visa-OpenAI 
+      agent payments launch amid $15T B2B projections. Also covers xAI lawsuit 
+      intervention, OpenAI losses, GitHub AI overload, market shifts and more.
     date: '2026-06-18'
     cost: 1.6552
     duration: 07:20
@@ -396,10 +408,22 @@ episodes:
     size: 9295908
     season: 2026
     title: Snap AR Specs, Orbital Gemma & Agentjacking Crisis
-    description: Covers Snap's $2,195 SPECS AR glasses launch with AI coding integrations,
-      the Agentjacking attack on agents like Claude Code and Cursor, Google's Gemma
-      3 as first AI model in orbit, xAI's Grok for Word add-in, OpenAI's drug discovery
-      research, and Databricks Genie Agents announcements.
+    description: Covers Snap's $2,195 SPECS AR glasses launch with AI coding 
+      integrations, the Agentjacking attack on agents like Claude Code and 
+      Cursor, Google's Gemma 3 as first AI model in orbit, xAI's Grok for Word 
+      add-in, OpenAI's drug discovery research, and Databricks Genie Agents 
+      announcements.
     date: '2026-06-19'
     cost: 2.1574
     duration: 06:26
+  37:
+    season: 2026
+    title: FERC Grid Orders, ChatGPT Share Drop & Altman Movie Shock
+    description: Covers FERC's orders accelerating AI data center grid 
+      connections, ChatGPT falling below 50% market share, Amazon dropping its 
+      Sam Altman biopic after OpenAI deal, GPT-5.6 leaks and launch signals, AWS
+      Bedrock AgentCore harness GA, Gemini 3.5 Pro nearing release, Shopify UCP 
+      self-serve update, Coinbase for Agents trading capabilities, and related 
+      agent infrastructure and model advances from June 19-21.
+    date: '2026-06-22'
+    cost: 2.3953
