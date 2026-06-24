@@ -1,0 +1,351 @@
+1
+00:00:04,460 --> 00:00:08,159
+Oracle cuts 210 jobs citing AI adoption.
+
+2
+00:00:08,630 --> 00:00:11,399
+Oracle's legacy maintenance revenue now faces
+
+3
+00:00:11,399 --> 00:00:13,810
+an internal competitor that never sleeps.
+
+4
+00:00:14,060 --> 00:00:18,889
+The workforce trim targets roles AI already outperforms on routine queries.
+
+5
+00:00:19,219 --> 00:00:22,059
+Watch what happens to Oracle's services margin once
+
+6
+00:00:22,059 --> 00:00:25,799
+those displaced engineers stop subsidizing the support desk.
+
+7
+00:00:26,020 --> 00:00:30,219
+Enterprise buyers will demand similar automation credits in their next renewal.
+
+8
+00:00:30,290 --> 00:00:34,069
+Or the contract moves to a cloud rival that already baked it in.
+
+9
+00:00:34,330 --> 00:00:37,009
+That pressure lands hardest on mid-market deals
+
+10
+00:00:37,009 --> 00:00:38,990
+where Oracle still holds the wedge.
+
+11
+00:00:39,349 --> 00:00:42,889
+SpaceX launches 20 Diller mobile bond sale for AI.
+
+12
+00:00:43,169 --> 00:00:47,599
+The bond sale signals SpaceX treating AI compute as core infrastructure,
+
+13
+00:00:47,849 --> 00:00:48,880
+not a side bet.
+
+14
+00:00:49,090 --> 00:00:52,090
+Pricing at investment grade changes the cost of capital
+
+15
+00:00:52,090 --> 00:00:55,400
+for every data center startup chasing the same GPUs.
+
+16
+00:00:55,689 --> 00:00:56,130
+Smaller.
+
+17
+00:00:56,549 --> 00:01:00,659
+now face a choice to secure comparable debt facilities within 6 months
+
+18
+00:01:00,799 --> 00:01:05,459
+or dilute further at valuations that no longer reflect the new rate reality.
+
+19
+00:01:05,800 --> 00:01:10,190
+Larger hyperscalers gain breathing room to slow their own Capex announcements.
+
+20
+00:01:10,519 --> 00:01:13,540
+Test comes when those startups hit their next funding round,
+
+21
+00:01:13,709 --> 00:01:16,860
+and investors compare term sheets against this benchmark.
+
+22
+00:01:17,230 --> 00:01:20,180
+Canverse unveils agentic AI finance platform.
+
+23
+00:01:20,599 --> 00:01:22,160
+Finance teams have run the same.
+
+24
+00:01:22,269 --> 00:01:23,940
+Closed process for decades.
+
+25
+00:01:24,220 --> 00:01:26,769
+Canvers's agents promised to cut it to days,
+
+26
+00:01:26,910 --> 00:01:30,209
+but only if the audit trail holds up under SOC scrutiny.
+
+27
+00:01:30,510 --> 00:01:35,169
+Rivals like Workday must now decide whether to build comparable agents internally
+
+28
+00:01:35,169 --> 00:01:40,019
+or risk losing mid-market finance automation contracts to teams that ship first.
+
+29
+00:01:40,279 --> 00:01:44,709
+The second order effect hits ERP margins once enterprises renegotiate
+
+30
+00:01:44,709 --> 00:01:48,190
+service levels around agent uptime instead of human headcount.
+
+31
+00:01:48,569 --> 00:01:51,529
+Micron signs major AI deal with Anthropic.
+
+32
+00:01:51,809 --> 00:01:54,480
+Memory supply agreements usually stay quiet.
+
+33
+00:01:54,730 --> 00:01:59,269
+This one ties HBM allocation directly to Claude's enterprise rollout
+
+34
+00:01:59,449 --> 00:02:02,760
+and gives Micron a seat in the model architecture reviews.
+
+35
+00:02:03,089 --> 00:02:05,839
+Samsung and SK Heinix now have to
+
+36
+00:02:05,839 --> 00:02:08,440
+decide whether to offer equivalent volume commitments
+
+37
+00:02:08,589 --> 00:02:11,089
+or watch their share of next generation AI members.
+
+38
+00:02:11,229 --> 00:02:14,050
+slots shrink inside the next product cycle.
+
+39
+00:02:14,320 --> 00:02:17,039
+Enterprise clawed customers feel the difference first
+
+40
+00:02:17,039 --> 00:02:20,559
+when memory optimized instances hit general availability.
+
+41
+00:02:20,839 --> 00:02:23,860
+UI Charts releases AI agents for advisors.
+
+42
+00:02:24,000 --> 00:02:26,190
+Advisors who integrate these agents into
+
+43
+00:02:26,190 --> 00:02:28,800
+daily workflows will quickly notice that every
+
+44
+00:02:28,800 --> 00:02:31,520
+client interaction creates a structured data point
+
+45
+00:02:31,520 --> 00:02:33,740
+available for compliance review on demand.
+
+46
+00:02:34,250 --> 00:02:38,600
+Mid-size practices without large operations teams now weigh the cost of
+
+47
+00:02:38,600 --> 00:02:42,440
+added human oversight against the risk of missing audit requirements.
+
+48
+00:02:42,729 --> 00:02:46,449
+This quietly raises the floor on viable firm size and advice
+
+49
+00:02:46,449 --> 00:02:50,750
+as smaller outfits absorb fixed verification costs they cannot spread.
+
+50
+00:02:51,009 --> 00:02:54,759
+Nvidia rolls out 24/7 AI agents for telecom.
+
+51
+00:02:55,009 --> 00:02:59,649
+Carriers testing these agents report 40% faster incident response times,
+
+52
+00:02:59,850 --> 00:03:01,630
+but only while inference State reven.
+
+53
+00:03:01,750 --> 00:03:05,500
+Avenue has fed into Relichta's mustaches today permitting
+
+54
+00:03:05,500 --> 00:03:08,990
+orders any departure tragedy service or terriart,
+
+55
+00:03:09,190 --> 00:03:12,270
+watching what happens to Oracle's work for Ram the Dutch Cheerist,
+
+56
+00:03:12,490 --> 00:03:14,000
+liberalization for Eothus,
+
+57
+00:03:14,630 --> 00:03:15,229
+in particular,
+
+58
+00:03:15,350 --> 00:03:17,309
+the protection consumers will route connect
+
+59
+00:03:17,309 --> 00:03:19,779
+Ramata to the fur number liberalization
+
+60
+00:03:19,779 --> 00:03:23,589
+for your road when Che can scrapsivity 6 to 10 inch,
+
+61
+00:03:23,949 --> 00:03:26,580
+while W's Libritta Tetteral clues for 18 months as
+
+62
+00:03:26,580 --> 00:03:29,270
+routing decisions move upstream from the checkout page.
+
+63
+00:03:29,880 --> 00:03:32,559
+Agentic commerce reshapes payments industry.
+
+64
+00:03:32,889 --> 00:03:36,470
+Payment processors built their margins around checkout optimization,
+
+65
+00:03:36,690 --> 00:03:40,000
+agents routing transformation across Rent Shakespeare Key 3.
+
+66
+00:03:40,009 --> 00:03:40,410
+Next.
+
+67
+00:03:40,610 --> 00:03:44,830
+This setup automates that loop and feeds every interaction back into the model.
+
+68
+00:03:44,970 --> 00:03:47,660
+The data moat grows with each query answered.
+
+69
+00:03:47,850 --> 00:03:52,250
+Expect Schwab and Fidelity to accelerate their own agent rollouts within 6
+
+70
+00:03:52,250 --> 00:03:55,869
+months or risk losing advisors who want the edge built in.
+
+71
+00:03:56,119 --> 00:03:56,929
+Smaller practices.
+
+72
+00:03:57,139 --> 00:04:01,520
+Without analysts now match larger competitors on opportunity detection,
+
+73
+00:04:01,750 --> 00:04:04,949
+shifting the competitive field faster than anyone expected.
+
+74
+00:04:05,259 --> 00:04:07,690
+Doad forces CrowdStrike and Palo Alto
+
+75
+00:04:07,830 --> 00:04:10,270
+to ship dedicated agent sandboxing within
+
+76
+00:04:10,270 --> 00:04:13,119
+18 months or see their enterprise renewals
+
+77
+00:04:13,119 --> 00:04:17,858
+moved to pure play AI defense vendors who already model those lateral moves.
+
+78
+00:04:18,108 --> 00:04:21,459
+Response budgets get consumed by novel false negatives.
+
+79
+00:04:21,839 --> 00:04:24,420
+PiYM NTS examines AI.
+
+80
+00:04:24,609 --> 00:04:25,739
+Payments foundations.
+
+81
+00:04:26,049 --> 00:04:30,390
+Payments differentiation used to come from checkout buttons and rewards points,
+
+82
+00:04:30,450 --> 00:04:33,450
+but the real compression happens when agents select the
+
+83
+00:04:33,450 --> 00:04:36,750
+processor dynamically based on cost and settlement speed.
+
+84
+00:04:37,000 --> 00:04:39,589
+Foundational rails become the only moat left.
+
+85
+00:04:39,839 --> 00:04:42,109
+Stripe and Addien now have to expose
+
+86
+00:04:42,109 --> 00:04:45,209
+agent negotiation endpoints in the next 12 months
+
+87
+00:04:45,209 --> 00:04:49,829
+or lose flow to institutions that treat every API call as a bidding event.
+
+88
+00:04:50,049 --> 00:04:52,109
+Volumes flatten without those hooks.

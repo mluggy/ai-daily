@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 10:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:43:58 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -665,6 +665,40 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e37.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>Oracle AI Layoffs, SpaceX Bonds &amp; Agentic Finance Surge</title>
+      <description>Covers Oracle disclosing 21,000 AI-cited job cuts, SpaceX launching its first major bond sale for AI ambitions, Kanverse&apos;s new agentic finance platform, Micron&apos;s strategic deal with Anthropic on infrastructure and investment, plus YCharts and Zocks agent launches and payments-government AI shifts.</description>
+      <link>{{SITE_URL}}/38</link>
+      <guid isPermaLink="false">s2026e38</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e38.mp3" length="7127040" type="audio/mpeg" />
+      <itunes:summary>Covers Oracle disclosing 21,000 AI-cited job cuts, SpaceX launching its first major bond sale for AI ambitions, Kanverse&apos;s new agentic finance platform, Micron&apos;s strategic deal with Anthropic on infrastructure and investment, plus YCharts and Zocks agent launches and payments-government AI shifts.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>04:56</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e38.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e38.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>AI Funding Frenzy, Meta Glasses &amp; Cyber Warnings</title>
+      <description>Covers Menlo Ventures&apos; record $3B AI raise and Baseten&apos;s $1.5B round at $13B valuation, Five Eyes agencies warning of AI cyberattacks in months, Meta&apos;s new $299 AI smart glasses, tech stock selloff amid AI spending fears, and Anthropic&apos;s Claude Fable 5 shifting to usage credits.</description>
+      <link>{{SITE_URL}}/39</link>
+      <guid isPermaLink="false">s2026e39</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e39.mp3" length="7578260" type="audio/mpeg" />
+      <itunes:summary>Covers Menlo Ventures&apos; record $3B AI raise and Baseten&apos;s $1.5B round at $13B valuation, Five Eyes agencies warning of AI cyberattacks in months, Meta&apos;s new $299 AI smart glasses, tech stock selloff amid AI spending fears, and Anthropic&apos;s Claude Fable 5 shifting to usage credits.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>05:15</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e39.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e39.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

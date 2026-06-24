@@ -1,0 +1,387 @@
+1
+00:00:04,489 --> 00:00:08,689
+Menlo Ventures raises record $3 billion AI funds.
+
+2
+00:00:08,890 --> 00:00:13,319
+Menlo's fresh capital arrives with strings attached to its anthropic windfall.
+
+3
+00:00:13,550 --> 00:00:17,209
+That single position now shapes term sheets across the portfolio,
+
+4
+00:00:17,409 --> 00:00:20,510
+giving the firm leverage on data rights competitors lack.
+
+5
+00:00:20,770 --> 00:00:24,760
+Watch what happens when portfolio companies hit their first enterprise renewal.
+
+6
+00:00:25,049 --> 00:00:28,149
+Menlo can bundle access at margins others can't touch.
+
+7
+00:00:28,639 --> 00:00:29,659
+Rivals must either
+
+8
+00:00:30,024 --> 00:00:33,205
+the anchor bet or accept thinner ownership in the next cycle.
+
+9
+00:00:33,505 --> 00:00:37,134
+LPs will now ask for the same exposure on future closes.
+
+10
+00:00:37,424 --> 00:00:42,444
+Base 10 hits $13 billion valuation in $1.5 billion raise.
+
+11
+00:00:42,705 --> 00:00:46,125
+Open source inference costs just dropped another 40%,
+
+12
+00:00:46,345 --> 00:00:49,615
+but Base Ten's round prices in the assumption they keep falling.
+
+13
+00:00:49,865 --> 00:00:52,775
+The dual tier setup lets early LPs cash out
+
+14
+00:00:52,775 --> 00:00:54,985
+while new money bets on volume over margin.
+
+15
+00:00:55,520 --> 00:00:59,520
+Watch what happens to the API margin when this hits enterprise SLAs.
+
+16
+00:00:59,840 --> 00:01:03,580
+Cheaper models erode the take rate faster than utilization rises.
+
+17
+00:01:03,759 --> 00:01:08,000
+Existing players now have to decide whether to subsidize their own stacks
+
+18
+00:01:08,000 --> 00:01:11,510
+or lose the mid-market to pure open source plays within a year.
+
+19
+00:01:11,830 --> 00:01:14,739
+Five Eyes warn AI cyberattacks months away.
+
+20
+00:01:15,160 --> 00:01:18,279
+Security budgets at Fortune 500 companies just gained
+
+21
+00:01:18,279 --> 00:01:20,360
+another line item that wasn't in last quarter.
+
+22
+00:01:20,675 --> 00:01:21,324
+Forecast.
+
+23
+00:01:21,574 --> 00:01:23,694
+The joint statement understates how quickly
+
+24
+00:01:23,694 --> 00:01:26,175
+defensive tooling lags offensive scripts.
+
+25
+00:01:26,404 --> 00:01:31,735
+Expect CSOs to demand SLA carveouts for AI augmented attacks by Q3,
+
+26
+00:01:31,894 --> 00:01:34,805
+shifting spend from prevention to rapid containment.
+
+27
+00:01:35,055 --> 00:01:36,915
+Smaller governments lack the option.
+
+28
+00:01:37,095 --> 00:01:39,775
+They either outsource detection or accept response
+
+29
+00:01:39,775 --> 00:01:41,735
+times that current staffing cannot meet,
+
+30
+00:01:41,934 --> 00:01:45,735
+and insurance carriers will reprice policies accordingly by year end.
+
+31
+00:01:46,230 --> 00:01:50,269
+Meta launches $299 AI smart glasses line.
+
+32
+00:01:50,470 --> 00:01:55,449
+Esselor Luxottica now sells two competing AI glasses lines under the same roof.
+
+33
+00:01:55,669 --> 00:01:59,750
+The $299 entry price targets volume over margin,
+
+34
+00:01:59,949 --> 00:02:03,790
+yet it bypasses the optician channel that drives most eyewear revenue.
+
+35
+00:02:04,069 --> 00:02:07,589
+Watch independent retailers pull meta shelf space once they
+
+36
+00:02:07,589 --> 00:02:11,008
+realize the new model skips prescription integration entirely.
+
+37
+00:02:11,222 --> 00:02:15,261
+The original Ray-Ban Meta Partnership faces margin pressure within 6
+
+38
+00:02:15,261 --> 00:02:18,712
+months as consumers migrate to the cheaper direct option.
+
+39
+00:02:19,022 --> 00:02:23,501
+Meta bets the AI features alone will pull users past the missing customization.
+
+40
+00:02:23,901 --> 00:02:26,292
+Tech stocks slide on AI spending fears.
+
+41
+00:02:26,451 --> 00:02:29,361
+Cerebrous flagged losses that won't reverse soon.
+
+42
+00:02:29,542 --> 00:02:32,761
+That warning ripples straight to the startups renting their cluster.
+
+43
+00:02:32,942 --> 00:02:35,242
+The data trademark is what is are considered.
+
+44
+00:02:35,302 --> 00:02:36,222
+Good luck to try to.
+
+45
+00:02:36,524 --> 00:02:38,804
+Relocate these NASA clues into your teener.
+
+46
+00:02:39,054 --> 00:02:43,253
+How much slack history do you want your model to remember after the employee leaves?
+
+47
+00:02:43,494 --> 00:02:45,973
+That retention question now sits inside every
+
+48
+00:02:45,973 --> 00:02:48,354
+enterprise rollout of the new tag feature.
+
+49
+00:02:48,694 --> 00:02:53,404
+Legal teams will demand shorter data windows and on-prem options within 6 months.
+
+50
+00:02:53,694 --> 00:02:56,453
+Rivals without equivalent context will lose deals
+
+51
+00:02:56,453 --> 00:02:58,923
+where workflow accuracy decides the contract.
+
+52
+00:02:59,173 --> 00:03:00,854
+The real moat is not the model,
+
+53
+00:03:01,054 --> 00:03:04,016
+but the Freshness of the internal graph it builds daily.
+
+54
+00:03:04,326 --> 00:03:07,156
+Mo Engage bets on millions of AI agents.
+
+55
+00:03:07,386 --> 00:03:09,725
+Millions of agents sound impressive until the
+
+56
+00:03:09,725 --> 00:03:12,485
+first compliance audit hits a regulated vertical.
+
+57
+00:03:12,856 --> 00:03:16,085
+Mo Engage's bet forces every marketing platform to ship
+
+58
+00:03:16,085 --> 00:03:19,916
+agent swarms or lose the mid-market entirely by Q3.
+
+59
+00:03:20,246 --> 00:03:23,805
+Salesforce in particular must either cut automation prices or
+
+60
+00:03:23,805 --> 00:03:26,565
+watch campaigns migrate to the lower cost option.
+
+61
+00:03:26,820 --> 00:03:28,880
+The second order effect is simpler.
+
+62
+00:03:29,100 --> 00:03:32,380
+Agencies lose billable hours on routine segmentation
+
+63
+00:03:32,380 --> 00:03:35,240
+work and pivot to strategy retainers instead.
+
+64
+00:03:35,460 --> 00:03:39,279
+Expect migrations inside retail and fintech clients this fall.
+
+65
+00:03:39,539 --> 00:03:42,139
+Zuckerberg pushes Meta Prediction Markets app.
+
+66
+00:03:42,320 --> 00:03:45,210
+Prediction markets inside meta could quietly replace
+
+67
+00:03:45,210 --> 00:03:48,000
+surveys as the signal advertisers trust most.
+
+68
+00:03:48,419 --> 00:03:52,740
+Arena lets users stake on outcomes ranging from product launches to policy.
+
+69
+00:03:52,934 --> 00:03:55,884
+Shifts with every trade logged as training data.
+
+70
+00:03:56,175 --> 00:03:58,565
+Those bets feed directly into recommendation
+
+71
+00:03:58,565 --> 00:04:00,804
+models without extra labeling steps.
+
+72
+00:04:00,955 --> 00:04:02,774
+By Q3 2026,
+
+73
+00:04:02,975 --> 00:04:06,645
+the loop gives Meta a 20 point engagement edge over platforms,
+
+74
+00:04:06,815 --> 00:04:09,145
+still guessing preferences from clicks alone.
+
+75
+00:04:09,455 --> 00:04:12,095
+Traditional media metrics start looking stale
+
+76
+00:04:12,095 --> 00:04:14,205
+once real money backs the forecasts.
+
+77
+00:04:14,375 --> 00:04:16,173
+Or pawning on this Centrafid tonight,
+
+78
+00:04:16,295 --> 00:04:18,774
+clincherder Myther Fenon with up to 80.
+
+79
+00:04:18,890 --> 00:04:19,608
+Memory monkey,
+
+80
+00:04:19,690 --> 00:04:21,440
+who's her firm compe initials,
+
+81
+00:04:21,450 --> 00:04:22,079
+Watrennius.
+
+82
+00:04:22,839 --> 00:04:25,809
+Mo Formosaar Twiless sub truck that will see utility rates
+
+83
+00:04:25,809 --> 00:04:29,329
+climb as Google and others bid for every spare megawatt.
+
+84
+00:04:29,450 --> 00:04:32,420
+Local manufacturers lose expansion room when the grid
+
+85
+00:04:32,420 --> 00:04:35,589
+prioritizes AI racks over new plants come online.
+
+86
+00:04:36,089 --> 00:04:39,200
+Siemens CEO highlights industrial AI gains.
+
+87
+00:04:39,519 --> 00:04:42,359
+Factory AI is already moving past chatbots
+
+88
+00:04:42,359 --> 00:04:44,809
+into closed loop control systems that adjust.
+
+89
+00:04:44,924 --> 00:04:46,515
+Production lines in real time.
+
+90
+00:04:46,765 --> 00:04:51,904
+Siemens plants report 18% fewer unplanned stops after six months of deployment.
+
+91
+00:04:52,125 --> 00:04:54,765
+This forces competitors like GE Vernova
+
+92
+00:04:54,885 --> 00:04:57,125
+to either match on edge deployment speed
+
+93
+00:04:57,125 --> 00:04:59,785
+or concede bids in automotive and aerospace.
+
+94
+00:05:00,035 --> 00:05:02,394
+That separation gives European regulators
+
+95
+00:05:02,394 --> 00:05:04,625
+fresh ammunition for hardware subsidies,
+
+96
+00:05:04,765 --> 00:05:07,125
+while US plants lag on integration.
+
+97
+00:05:07,325 --> 00:05:10,845
+The gap shows first in downtime CFO's watch each quarter.
