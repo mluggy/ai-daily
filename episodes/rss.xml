@@ -10,7 +10,7 @@
       <link>{{SITE_URL}}</link>
     </image>
     <generator>coil — https://github.com/mluggy/coil</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 09:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:42:59 GMT</lastBuildDate>
     <atom:link href="{{SITE_URL}}/rss.xml" rel="self" type="application/rss+xml" />
     <copyright>CC BY 4.0</copyright>
     <language>en</language>
@@ -699,6 +699,23 @@
       <itunes:episodeType>full</itunes:episodeType>
       <dc:creator>Michael Lugassy</dc:creator>
       <podcast:transcript url="{{SITE_URL}}/s2026e39.srt" type="application/x-subrip" rel="captions" language="en" />
+    </item>
+    <item>
+      <title>AI Chip Billions, Getty OpenAI Shock &amp; Nadella Warning</title>
+      <description>Covers SK Hynix&apos;s $29B Nasdaq push for AI chips, Samsung&apos;s 125k-employee ChatGPT rollout, Getty Images&apos; massive OpenAI image deal, Nadella&apos;s critique of frontier labs, OpenAI&apos;s Jalapeño chip with Broadcom, and Bear Robotics&apos; Kinisi acquisition.</description>
+      <link>{{SITE_URL}}/40</link>
+      <guid isPermaLink="false">s2026e40</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+      <enclosure url="{{SITE_URL}}/s2026e40.mp3" length="8621903" type="audio/mpeg" />
+      <itunes:summary>Covers SK Hynix&apos;s $29B Nasdaq push for AI chips, Samsung&apos;s 125k-employee ChatGPT rollout, Getty Images&apos; massive OpenAI image deal, Nadella&apos;s critique of frontier labs, OpenAI&apos;s Jalapeño chip with Broadcom, and Bear Robotics&apos; Kinisi acquisition.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>05:58</itunes:duration>
+      <itunes:image href="{{SITE_URL}}/s2026e40.jpg" />
+      <itunes:season>2026</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <dc:creator>Michael Lugassy</dc:creator>
+      <podcast:transcript url="{{SITE_URL}}/s2026e40.srt" type="application/x-subrip" rel="captions" language="en" />
     </item>
   </channel>
 </rss>

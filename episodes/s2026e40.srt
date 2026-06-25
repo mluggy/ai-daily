@@ -1,0 +1,423 @@
+1
+00:00:04,429 --> 00:00:09,289
+SK Heinix seeks 29 billion DanyA listing for AI chips.
+
+2
+00:00:09,710 --> 00:00:13,750
+US investors now price SK Heinix's HBM output
+
+3
+00:00:13,750 --> 00:00:16,450
+directly against Nvidia's next tape out schedule.
+
+4
+00:00:16,899 --> 00:00:20,020
+The listing currency lets the company snap up advanced
+
+5
+00:00:20,020 --> 00:00:23,930
+packaging capacity in Arizona before any competitor bids.
+
+6
+00:00:24,260 --> 00:00:26,649
+That capacity addition lands exactly when
+
+7
+00:00:26,649 --> 00:00:30,620
+hyperscalers start renegotiating multi-year memory contracts.
+
+8
+00:00:30,819 --> 00:00:36,060
+Expect contract ASPs to drop 18% once the first line reaches volume.
+
+9
+00:00:36,380 --> 00:00:40,279
+Micron has no choice but to accelerate its own US expansion
+
+10
+00:00:40,409 --> 00:00:41,580
+or watch share erode.
+
+11
+00:00:41,669 --> 00:00:44,610
+In the enterprise segment by early 2027.
+
+12
+00:00:44,909 --> 00:00:49,169
+Getty Images open AI deal sends stocks surging 200%.
+
+13
+00:00:49,430 --> 00:00:52,630
+Buried in the contract is a data licensing clause that
+
+14
+00:00:52,630 --> 00:00:56,659
+gives OpenAI perpetual training rights on Getty's full archive.
+
+15
+00:00:56,909 --> 00:00:59,540
+The stock pop masks how quickly that changes
+
+16
+00:00:59,540 --> 00:01:02,930
+the economics for every other visual asset marketplace.
+
+17
+00:01:03,110 --> 00:01:05,540
+The display rights were always table stakes.
+
+18
+00:01:05,750 --> 00:01:06,349
+The training rights.
+
+19
+00:01:06,739 --> 00:01:09,709
+Decide who survives the next round of model scaling.
+
+20
+00:01:09,949 --> 00:01:13,440
+Shutterstock must accept identical terms or watch its library
+
+21
+00:01:13,440 --> 00:01:15,790
+get routed around in the next model release.
+
+22
+00:01:16,120 --> 00:01:20,699
+Most enterprise buyers will simply default to whatever OpenAI surfaces first.
+
+23
+00:01:21,120 --> 00:01:25,720
+Samsung deploys Chat GPT Enterprise to 125 Keta Hedget.
+
+24
+00:01:25,949 --> 00:01:30,660
+Inside Samsung now trains a model that already sits inside Microsoft Office.
+
+25
+00:01:30,819 --> 00:01:31,080
+That data.
+
+26
+00:01:31,209 --> 00:01:34,569
+Flow gives OpenAI line of sight into component
+
+27
+00:01:34,569 --> 00:01:37,000
+decisions long before they reach the supply chain.
+
+28
+00:01:37,330 --> 00:01:41,610
+Google loses its default position inside the largest Android OEM at
+
+29
+00:01:41,610 --> 00:01:45,169
+the exact moment it needs usage signals to improve Gemini.
+
+30
+00:01:45,529 --> 00:01:48,730
+Watch the Gemini adoption numbers inside Samsung's global
+
+31
+00:01:48,730 --> 00:01:51,160
+sales teams over the next two quarters.
+
+32
+00:01:51,370 --> 00:01:55,849
+The next negotiation round on Android licensing just got materially harder.
+
+33
+00:01:56,339 --> 00:01:59,699
+Nadella publicly challenges OpenAI and Anthropic.
+
+34
+00:02:00,059 --> 00:02:02,900
+Nadella's audience sits in Brussels and Washington,
+
+35
+00:02:03,099 --> 00:02:04,290
+not San Francisco.
+
+36
+00:02:04,540 --> 00:02:07,510
+The warning signals that Microsoft intends to own more of
+
+37
+00:02:07,510 --> 00:02:11,020
+the model layer itself once current contracts roll off.
+
+38
+00:02:11,220 --> 00:02:15,440
+Expect the company to surface its own frontier model family inside Azure
+
+39
+00:02:15,699 --> 00:02:16,619
+before the end of 200.
+
+40
+00:02:16,725 --> 00:02:17,434
+26,
+
+41
+00:02:17,695 --> 00:02:19,774
+starting with select enterprise customers.
+
+42
+00:02:20,054 --> 00:02:24,804
+That move caps OpenAI's upside and gives Microsoft leverage in every renewal.
+
+43
+00:02:25,095 --> 00:02:28,175
+OpenAI must now match the infrastructure spend or
+
+44
+00:02:28,175 --> 00:02:29,845
+accept a smaller seat at the table.
+
+45
+00:02:30,095 --> 00:02:32,535
+Meet Kakli Ultimate Contract Original,
+
+46
+00:02:32,914 --> 00:02:36,395
+Complergioy disquaelvinapira Freb and Gruck of Condraspisfullipinnaumbulunt.
+
+47
+00:02:37,529 --> 00:02:40,570
+UCO's role also hints at supply chain leverage that
+
+48
+00:02:40,570 --> 00:02:44,229
+could sideline smaller cloud providers from similar optimizations.
+
+49
+00:02:44,490 --> 00:02:47,130
+Enterprise teams running mixed workloads will feel the
+
+50
+00:02:47,130 --> 00:02:49,710
+margin pressure first when renewal talks begin.
+
+51
+00:02:50,210 --> 00:02:54,610
+Pilot programs at large logistics firms will test whether the combined system.
+
+52
+00:02:54,705 --> 00:02:58,664
+Reduces human intervention rates below current thresholds by more than 50%.
+
+53
+00:02:58,865 --> 00:03:03,384
+Pilot programs at large logistics firms will test whether the combined system
+
+54
+00:03:03,384 --> 00:03:07,434
+reduces human intervention rates below current thresholds by more than 50%.
+
+55
+00:03:07,824 --> 00:03:11,705
+Deployment programs need deferred to until De Lindsey Middle website and GIMI.
+
+56
+00:03:12,270 --> 00:03:15,000
+But the firms might start meeting 6 to 2 views.
+
+57
+00:03:15,279 --> 00:03:16,429
+Nor time is Merson,
+
+58
+00:03:16,600 --> 00:03:17,559
+Dattrialpas.
+
+59
+00:03:17,800 --> 00:03:21,080
+Curriculum providers gain leverage to embed non-generative
+
+60
+00:03:21,080 --> 00:03:23,869
+analytics instead of full generation features.
+
+61
+00:03:24,119 --> 00:03:26,199
+The knock-on effect appears when national
+
+62
+00:03:26,199 --> 00:03:28,440
+assessments show stagnant writing scores,
+
+63
+00:03:28,679 --> 00:03:31,679
+despite increased device budgets in secondary grades.
+
+64
+00:03:31,869 --> 00:03:33,990
+Gemini 3.5 Pro still
+
+65
+00:03:34,115 --> 00:03:36,154
+Missing as June deadline passes.
+
+66
+00:03:36,475 --> 00:03:39,195
+Internal deadlines slipping into the second half hands
+
+67
+00:03:39,195 --> 00:03:43,505
+OpenAI another full quarter of uncontested enterprise conversations.
+
+68
+00:03:43,755 --> 00:03:45,634
+Procurement teams hate uncertainty,
+
+69
+00:03:45,914 --> 00:03:49,134
+so they are shifting budgets toward models already in production.
+
+70
+00:03:49,354 --> 00:03:53,585
+Expect Google Cloud's attach rate on Gemini to drop as soon as Q3,
+
+71
+00:03:53,755 --> 00:03:55,794
+once alternative contracts get signed.
+
+72
+00:03:56,020 --> 00:03:58,970
+The real cost shows up in lost data flywheels,
+
+73
+00:03:59,059 --> 00:04:00,649
+not just missed launch dates.
+
+74
+00:04:00,860 --> 00:04:03,020
+This forces OpenAI to double down on
+
+75
+00:04:03,020 --> 00:04:05,850
+its enterprise sales team before Google recovers.
+
+76
+00:04:06,179 --> 00:04:09,179
+Micron Outlook revives AI memory chip trade.
+
+77
+00:04:09,449 --> 00:04:12,089
+Strong sales guidance tells us less about demand
+
+78
+00:04:12,089 --> 00:04:15,169
+than about who controls the remaining HBM supply.
+
+79
+00:04:15,539 --> 00:04:17,988
+Samsung and SK Heinx now face allocations.
+
+80
+00:04:18,414 --> 00:04:21,033
+pressure from every major cloud provider at once.
+
+81
+00:04:21,493 --> 00:04:26,614
+Expect the second order effect to appear in longer lead times for non-AID ARMist,
+
+82
+00:04:26,873 --> 00:04:31,084
+squeezing margins at PC and smartphone makers through the end of next year.
+
+83
+00:04:31,373 --> 00:04:34,713
+Micron just made the capacity crunch impossible to ignore.
+
+84
+00:04:34,973 --> 00:04:40,093
+This forces memory buyers to sign longer contracts or risk spot shortages by Q2.
+
+85
+00:04:40,549 --> 00:04:43,589
+FT Anthropic's risk focus may have triggered ban.
+
+86
+00:04:44,070 --> 00:04:46,529
+The frequency count itself is the sideshow.
+
+87
+00:04:46,790 --> 00:04:49,149
+The buried story is how that language supplied
+
+88
+00:04:49,149 --> 00:04:52,170
+regulators with pre-written talking points for the ban.
+
+89
+00:04:52,470 --> 00:04:56,029
+Banks now face extra scrutiny on every anthropic pilot,
+
+90
+00:04:56,230 --> 00:04:58,299
+lengthening sales cycles by months.
+
+91
+00:04:58,549 --> 00:05:01,230
+Anthropic must either soften its public stance on
+
+92
+00:05:01,230 --> 00:05:04,459
+risk or move regulated workloads to competitors.
+
+93
+00:05:04,670 --> 00:05:07,269
+The shift shows up in win rates by Q4.
+
+94
+00:05:07,559 --> 00:05:08,190
+Legal teams.
+
+95
+00:05:08,250 --> 00:05:10,649
+That every financial services customer are
+
+96
+00:05:10,649 --> 00:05:13,269
+already revisiting their model selection criteria
+
+97
+00:05:13,489 --> 00:05:15,299
+ahead of next year's budget cycle.
+
+98
+00:05:15,690 --> 00:05:19,690
+A 16Z sees SpaceX path to AI computing in space.
+
+99
+00:05:19,970 --> 00:05:23,230
+Placing inference clusters in orbit changes the power cost
+
+100
+00:05:23,230 --> 00:05:26,630
+curve by an order of magnitude inside 18 months.
+
+101
+00:05:26,880 --> 00:05:31,390
+AWS and Azure must now decide whether to secure launch capacity
+
+102
+00:05:31,529 --> 00:05:36,089
+or watch Enterprise GPU margins erode against a lower cost alternative.
+
+103
+00:05:36,390 --> 00:05:40,299
+The 2nd order effect hits latency sensitive applications first,
+
+104
+00:05:40,549 --> 00:05:45,140
+pushing more workloads toward edge models that avoid space backhaul entirely.
+
+105
+00:05:45,390 --> 00:05:49,450
+Terrestrial providers now carry a new variable in capacity planning.
+
+106
+00:05:49,750 --> 00:05:54,350
+This forces large AI customers to factor orbital latency into roadmaps.
